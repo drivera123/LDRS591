@@ -21,4 +21,13 @@
 * [Unit 9 Overview](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
+* Assignments
+  * [Assignment A](Assignments/Assignment-a.md)
+  * [Assignment B](Assignments/Assignment-b.md)
+  * [Assignment C](Assignments/Assignment-c.md)
+  * [Assignment D](Assignments/Assignment-d.md)
+  * [Assignment E](Assignments/Assignment-e.md)
+  * [Assignment F](Assignments/Assignment-f.md)
+
+
 
