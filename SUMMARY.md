@@ -25,7 +25,7 @@
 * [Unit 8 Overview](Unit-8/Overview.md)
 * [Unit 8 Learning Activities](Unit-8/Learning-Activities.md)
 * [Unit 9 Overview](Unit-9/Overview.md)
-* [Unit 9 Overview](Unit-9/Learning-activities.md)
+* [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
 * Archives
@@ -41,6 +41,4 @@
   * [Day 9](Archives/Day-9.md)
   * [Course Learning Plan](Archives/Course-Learning-Plan.md)
   * [Syllabus SP2017](Archives/Syllabus-SP2017.md)
-
-
 
