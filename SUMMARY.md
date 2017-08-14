@@ -1,6 +1,10 @@
 # Summary
 
 * [README](README.md)
+* [Course Overview](Syllabus/Course-Overview.md)
+  * [Outcomes](Syllabus/Outcomes.md)
+  * [Academic Integrity](Syllabus/Academic-Integrity.md)
+  * [Assessment](Syllabus/Assessment.md)
 * Assignments
   * [Assignment A](Assignments/Assignment-a.md)
   * [Assignment B](Assignments/Assignment-b.md)
@@ -28,17 +32,7 @@
 * [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
-* [Archives \(Do not edit these files\)](archives.md)
-  * [Day 1a](Archives/Day-1a.md)
-  * [Day 1b](Archives/Day-1b.md)
-  * [Day 2](Archives/Day-2.md)
-  * [Day 3](Archives/Day-3.md)
-  * [Day 4](Archives/Day-4.md)
-  * [Day 5](Archives/Day-5.md)
-  * [Day 6](Archives/Day-6.md)
-  * [Day 7](Archives/Day-7.md)
-  * [Day 8](Archives/Day-8.md)
-  * [Day 9](Archives/Day-9.md)
-  * [Course Learning Plan](Archives/Course-Learning-Plan.md)
-  * [Syllabus SP2017](Archives/Syllabus-SP2017.md)
+* [Outcomes](Syllabus/Outcomes.md)
+
+
 
