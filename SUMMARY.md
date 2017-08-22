@@ -5,7 +5,7 @@
   * [Outcomes](Syllabus/Outcomes.md)
   * [Academic Integrity](Syllabus/Academic-Integrity.md)
   * [Assessment](Syllabus/Assessment.md)
-* Assignments
+* [Assignments](assignments.md)
   * [Assignment A](Assignments/Assignment-a.md)
   * [Assignment B](Assignments/Assignment-b.md)
   * [Assignment C](Assignments/Assignment-c.md)
@@ -33,6 +33,4 @@
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
 * [Outcomes](Syllabus/Outcomes.md)
-
-
 
