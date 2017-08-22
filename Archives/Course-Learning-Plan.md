@@ -1,16 +1,5 @@
-COURSE LEARNING PLAN  
-LDRS 591: Scholarly Inquiry  
-Course Start Date:  January 23, 2017  
-Course End Date: February 3, 2017  
-Final Date for Course Assignments: February 10  
-Updated: 29 November, 2016
-
-Instructor Contact Information  
-Instructor: David Williaume, Ph. D  
-E-mail Address: David.Williaume@twu.ca  
-Office: Douglas Center Upper  
-Telephone Contact: Mobile  778-908-1130   Home: 604.595.2979  
-Skype ID: dwilliaume  
+COURSE LEARNING PLAN LDRS 591: Scholarly Inquiry  
+ dwilliaume  
 Course Description  
 LDRS 591 provides an overview of the process, critical analysis, and associated skills required for scholarship and research.  This course is designed for learners who may have little experience in the area of research, and will provide introduction to scholarly inquiry and various research approaches being used in the field of leadership to the end that learners may become discriminating consumers of research.  Course themes include focus on APA formatting, location and evaluation of scholarly literature, and processes leading to the creation of a graduate level synthetic review of precedent literature.  The course combines theoretical/conceptual understandings with applied practice, and is challenging for most learners.
 
@@ -30,7 +19,7 @@ On completing this course, students should be able to:
 American Psychological Association \(2010\). Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: Author.  
 Houghton, P. & Houghton, T. \(2009\). APA: The easy way! \(2nd ed.\). Flint, MI: Baker College
 
-Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson.   
+Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson.  
   
 Course Schedule  
 Day 0 — Pre-Course Study Tasks
@@ -72,7 +61,7 @@ Due Date
 Assignment \#1: Preliminary Assessment Reflection and Response  
 See details below.  
 Day 2, beginning of class.  
- Pre-read the assigned readings and instructor notes that are opened for Day 2.   
+ Pre-read the assigned readings and instructor notes that are opened for Day 2.  
  Day 2, beginning of class
 
 Day 2 — Accessing Scholarly Literature
@@ -90,10 +79,10 @@ Self-directed
 Assigned Work  
 Assignment Name & Notes  
 Due Date  
-Set Assignment \#3: Literature Review Search   
+Set Assignment \#3: Literature Review Search  
 Details are provided on MyCourses.  
 Midnight, Day 5  
- Pre-read the assigned readings and instructor notes that are opened for Day 3.   
+ Pre-read the assigned readings and instructor notes that are opened for Day 3.  
  Day 3, beginning of class
 
 Day 3 — APA 6 Style
@@ -113,7 +102,7 @@ Assignment Name & Notes
 Due Date  
 Assignment \#2: APA  
 Day 4, beginning of class  
- Pre-read the assigned readings and instructor notes that are opened for Day 4.   
+ Pre-read the assigned readings and instructor notes that are opened for Day 4.  
  Day 4, beginning of class  
 Day 4 — Introductions of Research Reports
 
@@ -134,7 +123,7 @@ Pre-read the assigned readings and instructor notes that are opened for Day 5.
 Day 5, beginning of class  
 Reflection Brief \#1: Introductions of Research Reports. See MyCourses for details.  
 Day 4, one hour after the end of class  
-Group \#1 Presentation: Lead class in de-briefing Reflection Brief \#1   
+Group \#1 Presentation: Lead class in de-briefing Reflection Brief \#1  
 Day 5, beginning of class  
 Day 5 — Methods and Results of Quantitative Research Reports
 
@@ -157,7 +146,7 @@ Pre-read the assigned readings and instructor notes that are opened for Day 6.
 Day 6, beginning of class  
 Reflective Brief \#2: Methods and Results of Quantitative Research Reports. See MyCourses for details.  
 Day 5, one hour after the end of class  
-Group \#2 Presentation: Lead class in de-briefing Reflection Brief \#2   
+Group \#2 Presentation: Lead class in de-briefing Reflection Brief \#2  
 Day 6, beginning of class
 
 Day 6 — Methods and Results of Qualitative Research Reports  
@@ -170,7 +159,7 @@ Text or Article
 Chapters/Pages  
 Plano-Clark & Creswell \(2015\). Understanding Research  
 Chapters 9, 10, 11  
-Savage-Austin & Honeycutt \(2011\). Servant leadership: A phenomenological study of practices, experiences, organizational effectiveness and barriers.   
+Savage-Austin & Honeycutt \(2011\). Servant leadership: A phenomenological study of practices, experiences, organizational effectiveness and barriers.  
 Read
 
 Assigned Work  
@@ -184,7 +173,7 @@ Day 7, beginning of class
 Reflective Brief \#3: Methods and Results of Qualitative Research Reports.  See MyCourses for details.
 
 Day 6, one hour after the end of class  
-Group \#3 Presentation: Lead class in de-briefing Reflection Brief \#3   
+Group \#3 Presentation: Lead class in de-briefing Reflection Brief \#3  
 Day 7, beginning of class  
 Day 7 — Conclusions of Research Reports; Mixed Methods
 
@@ -194,29 +183,29 @@ Readings
 Text or Article  
 Chapters/Pages  
 Plano-Clark & Creswell \(2015\). Understanding Research  
-Chapters 12, 14   
-Symonds, J. & Gorard, S. \(2010\). Death of mixed methods? Or the rebirth of research as a craft.   
+Chapters 12, 14  
+Symonds, J. & Gorard, S. \(2010\). Death of mixed methods? Or the rebirth of research as a craft.  
 Read
 
-Tsui, Zhang, Wang, Xin, & Wu \(2006\). Unpacking the relationship between CEO leadership behavior and organizational culture.   
+Tsui, Zhang, Wang, Xin, & Wu \(2006\). Unpacking the relationship between CEO leadership behavior and organizational culture.  
 Skim  
-Black, G. \(2010\). Correlational analysis of servant leadership and school climate.   
+Black, G. \(2010\). Correlational analysis of servant leadership and school climate.  
 Skim  
-Sendjaya, Sarros & Santora \(2008\). Defining and measuring servant leadership behavior in organizations.   
+Sendjaya, Sarros & Santora \(2008\). Defining and measuring servant leadership behavior in organizations.  
 Skim  
-Barrow & Mirabella \(2009\). An empirical study of other-oriented and rational self-interest leadership approaches.   
+Barrow & Mirabella \(2009\). An empirical study of other-oriented and rational self-interest leadership approaches.  
 Read  
-Savage-Austin & Honeycutt \(2011\). Servant leadership: A phenomenological study of practices, experiences, organizational effectiveness and barriers.   
+Savage-Austin & Honeycutt \(2011\). Servant leadership: A phenomenological study of practices, experiences, organizational effectiveness and barriers.  
 Read
 
 Assigned Work  
 Assignment Name & Notes  
 Due Date  
 Pre-read the assigned readings and instructor notes that are opened for Day 8  
- Day 8, beginning of class   
+ Day 8, beginning of class  
 Reflective Brief \#4: Conclusions to Research Reports. See MyCourses for details.  
 Day 7, one hour after the end of class  
-Group \#4 Presentation: Lead class in de-briefing Reflection Brief \#4   
+Group \#4 Presentation: Lead class in de-briefing Reflection Brief \#4  
 Day 8, beginning of class
 
 Day 8 — Action Research  
@@ -227,15 +216,15 @@ Text or Article
 Chapters/Pages  
 Plano-Clark & Creswell \(2015\). Understanding Research  
 Chapter 13  
-Smith, M. \(2007\). Action research.   
+Smith, M. \(2007\). Action research.  
 Skim  
-Walker & Carr-Stewart \(2004\). Learning leadership through appreciative inquiry.   
+Walker & Carr-Stewart \(2004\). Learning leadership through appreciative inquiry.  
 Skim
 
 Assigned Work  
 Assignment Name & Notes  
 Due Date  
-Group \#5 Presentation: Lead class in de-briefing Reflection Brief \#5   
+Group \#5 Presentation: Lead class in de-briefing Reflection Brief \#5  
 Day 9, beginning of class  
 Reminder: Assignment \#3 is due midnight of the last day of class.
 
@@ -306,26 +295,26 @@ Evaluation Rubric: A specific rubric for this assignment is provided on MyCourse
 
 Assignment \#2: APA  
 Due Date: Day 4, beginning of class.  
-Instructions:   
+Instructions:  
 The objective of this assignment is to reinforce important APA conventions that we have discussed in class. You will be asked to demonstrate important APA conventions regarding page setup, quotations, citations, and References entries. Details of this assignment will be provided in class.  
 Assignment \#3: Literature Review Search  
 Due Date: Day 5, midnight.  
-Instructions:   
+Instructions:  
 The objective of this assignment is to help you to locate and organize the literature sources necessary to write a graduate-level literature review demonstrating critical thinking and analytical skills. This is assignment is closely related to the Formal Literature Review assignment.  In this assignment you will demonstrate your scholarly inquiry learning by locating and organizing the literature base that you will use in writing a graduate-level literature review. See MyCourses for details.  
 Evaluation Rubric: A specific rubric for this assignment is provided on MyCourses.  
 Assignment \#4: Formal Literature Review  
 Due Date: Day 10, midnight  
-Instructions:   
+Instructions:  
 In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review.  This literature review will be represent your analysis and synthesis of the literature located and organized in the Literature Review Search assignment.   This assignment is a precursor to three of the assignments that you will address in LDRS/MAEL 697/698. See MyCourses for details.  
 Evaluation Rubric: A specific rubric for this assignment is provided on MyCourses.  
 Reflection Brief \#1: Introductions to Research Reports  
 Due Date: Day 4, one hour after the end of class.  
-Instructions:   
+Instructions:  
 This assignment requires you to reflect on what are the indicators of quality in the introduction of a scholarly report. See MyCourses for details.  
 Evaluation Rubric: A specific rubric for this assignment is provided on MyCourses.  
 Reflection Brief \#2: Methods and Results of Quantitative Research Reports  
 Due Date: Day 5, one hour after the end of class.  
-Instructions:   
+Instructions:  
 This assignment requires you to reflect on what are the indicators of quality in the methods and results sections of a quantitative research report. See MyCourses for details.  
 Evaluation Rubric: A specific rubric for this assignment is provided on MyCourses.  
 Reflection Brief \#3: Methods and Results of Qualitative Research Reports  
@@ -336,12 +325,12 @@ Evaluation Rubric: A specific rubric for this assignment is provided on MyCourse
 Reflection Brief \#4: Conclusions to Research Reports  
 Due Date: Day 7, one hour after the end of class.  
 Instructions:  
- This assignment requires you to reflect on what are the indicators of quality in the conclusions section of a research report. See MyCourses for details.   
+ This assignment requires you to reflect on what are the indicators of quality in the conclusions section of a research report. See MyCourses for details.  
 Evaluation Rubric: A specific rubric for this assignment is provided on MyCourses.  
 Reflection Brief \#5: Bringing It All Together  
 Due Date: Day 9, one hour after the end of class.  
 Instructions:  
- This assignment requires you to reflect on issues that impact how you use research in your leadership practice. See MyCourses for details.   
+ This assignment requires you to reflect on issues that impact how you use research in your leadership practice. See MyCourses for details.  
 Evaluation Rubric: A specific rubric for this assignment is provided on MyCourses.  
 In-Class Presentations and Individual Daily Engagement  
 Due Date: Daily  
@@ -361,7 +350,7 @@ Letter Grade
 Grade  
 Point  
 Value  
-Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade.   
+Meaning in Graduate Work Note: For assignments that meet criteria in several categories, instructors will assign an average grade.  
 A+  
 95-100  
 4.3  
