@@ -1,5 +1,6 @@
 COURSE LEARNING PLAN LDRS 591: Scholarly Inquiry  
- dwilliaume  
+
+
 Course Description  
 LDRS 591 provides an overview of the process, critical analysis, and associated skills required for scholarship and research.  This course is designed for learners who may have little experience in the area of research, and will provide introduction to scholarly inquiry and various research approaches being used in the field of leadership to the end that learners may become discriminating consumers of research.  Course themes include focus on APA formatting, location and evaluation of scholarly literature, and processes leading to the creation of a graduate level synthetic review of precedent literature.  The course combines theoretical/conceptual understandings with applied practice, and is challenging for most learners.
 
