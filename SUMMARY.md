@@ -12,6 +12,7 @@
   * [Assignment D](Assignments/Assignment-d.md)
   * [Assignment E](Assignments/Assignment-e.md)
   * [Assignment F](Assignments/Assignment-f.md)
+  * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
 * [Unit 1 Overview](Unit-1/Overview.md)
 * [Unit 1 Learning Activities](Unit-1/learning-activities.md)
 * [Unit 2 Overview](Unit-2/Overview.md)
