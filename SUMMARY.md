@@ -13,7 +13,10 @@
   * [Assignment E](Assignments/Assignment-e.md)
   * [Assignment F](Assignments/Assignment-f.md)
   * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
-* [Unit 1 Overview](Unit-1/Overview.md)
+* [Unit 1A Overview of LDRS 697/698](unit-1a-overview-of-ldrs-697698.md)
+  * Goals of LDRS 697/698
+  * Boyer's Model of Scholarship
+* [Unit 1B Research Foundations](Unit-1/Overview.md)
 * [Unit 1 Learning Activities](Unit-1/learning-activities.md)
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
@@ -33,5 +36,5 @@
 * [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
-* [Outcomes](Syllabus/Outcomes.md)
+* Unit 1A Overview of LDRS 697/698
 
