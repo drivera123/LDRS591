@@ -14,10 +14,7 @@ The table below lists all of the assignments for this course.  All of the assign
 
 ##### 
 
-##### Program grade submission policy
+##### Program Grade Submission Policy
 
-  
 ALL course work must be submitted for final grading within 7- 10 days following the course end date. The instructor has to submit grades to the Registrar within 14 days of the course end date. In extenuating circumstances, a provision is made for an INC to be entered pending final assignment of a course mark. Details are provided at [https://www.twu.ca/graduate/new-incomplete-grade-contract.pdf](https://www.twu.ca/graduate/new-incomplete-grade-contract.pdf).
-
-
 
