@@ -22,6 +22,8 @@ Badke, W. \(2017\).  Research strategies: Finding your way through the informati
 
 Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson.
 
+Electronic resources: Additional e-articles will be assigned weekly and will be available via links in each unit.
+
 ### Course Evaluation
 
 The table below lists all of the assignments for this course.  All of the assignments listed are mandatory.
@@ -35,8 +37,6 @@ The table below lists all of the assignments for this course.  All of the assign
 | Literature search \(assignment \#4\) | 15% |
 | Literature review paper \(assignment \#5\) | 30% |
 | Total | 100% |
-
-
 
 
 
