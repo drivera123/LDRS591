@@ -6,3 +6,18 @@ This on-going assignment accounts for 30% of the final grade of this course. The
 
 All blog posts should be between 150 - 250 words.
 
+##### **Blog Posts and Responses requested in the course** {#blog-posts-and-responses-requested-in-the-course}
+
+* Unit 1: Learning Activities X. Respond to colleagues posts.
+* Unit 2: Learning Activity X
+* Unit 3: Learning Activity X. Respond to colleagues posts.
+* Unit 4: Learning Activity X and X
+* Unit 5: Learning Activity X and X. Respond to colleagues posts.
+* Unit 6 Learning Activity X, X and X
+* Unit 7 Learning Activity X and X. Respond to colleagues posts.
+* Unit 8 Learning Activity X and X
+* Unit 9 Learning Activity X. Respond to colleagues post.
+* Unit 10 Learning Activity X
+
+
+
