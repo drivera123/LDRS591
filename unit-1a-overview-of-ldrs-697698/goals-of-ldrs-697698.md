@@ -11,8 +11,7 @@ The process of designing and completing LDRS 697/698 itself is part of the highe
 
 LDRS 697/698 consists of three credit hours of work, and represents the final demonstration of a student’s ability to integrate practical program curriculum content and demonstration of MA Lead’s defined leadership competencies: Visioning and Strategic Thinking; Adaptability and Change; Results; Team Leadership; People Development; Innovation; Values and Ethics; Service & Quality Orientation; Relationships & Collaboration; Planning & Organizing; Higher Ordered Analysis.
 
-You will document your implementation of the goals of LDRS 697/698 through your completion of a series of elements largely negotiated between yourself and your advisor which demonstrate your personal leadership development and value added to employers.  LDRS 697/698 requires competent use of evidence-based scholarly knowledge, ability to analyze an issue, discipline in the problem-solving process, and scholarly documentation and presentation of information.  
-
+You will document your implementation of the goals of LDRS 697/698 through your completion of a series of elements largely negotiated between yourself and your advisor which demonstrate your personal leadership development and value added to employers.  LDRS 697/698 requires competent use of evidence-based scholarly knowledge, ability to analyze an issue, discipline in the problem-solving process, and scholarly documentation and presentation of information.
 
 ##### LDRS/MAEL 697/698 Processes- Praxis
 
@@ -29,9 +28,9 @@ The upper rail is labeled “theory” and refers to cognitive inputs that are p
 As Ward conceived this model, the upright posts in the fence denoted the places where the learner is able to make a solid connection between theory and practice.  To Ward, the seminar is where the learner has opportunity for the learner to reflect, evaluate and hypothesize as theory and practice are connected.  A good seminar is characterized by making provision for and stimulation to reflect upon and evaluate learnings from both the cognitive inputs of theory and personal experience \(Ward, n.d.\).  
 The Master of Arts in Leadership program is structured in such a way that Ward’s conception of seminars is accomplished throughout the core and stream courses taken and finally in LDRS 697/698 \(Leadership Integration Project\).  The Leadership Integration Project is intended to be the tangible result of the praxis you engage in where the theory you encounter in the program courses intersects with your experience.  Ideally, your Leadership Integration Project is a report of the action research you have conducted to further your personal professional practice.  Your LDRS 697/698 advisor who will be assigned to you following your completion of LDRS 591 will serve as a fellow-traveler along this path of learning.
 
-##### LDRS/MAEL  697/698  Processes- Selection of Focus Leadership Competencies
+##### LDRS/MAEL  697/698  Platform and Processes
 
 In LDRS 697/698 you will, through praxis, propose and implement a Leadership Integration Project that integrates knowledge and experiences gained in the MA Lead program.  In this, you will assemble together diverse aspects of leadership into a focused whole using Boyer’s model of scholarship.
 
-
+You will be assigned an advisor and a section of LDRS 697/698.  This will function similarly to other courses wherein you will be able to interact with your advisor as well as upload elements of LDRS 697/698 which document your development of your personal leadership competencies through the Leadership Integration Project.  Your LDRS 697/698 Advisor will be assigned to you shortly after completion of LDRS 591.
 
