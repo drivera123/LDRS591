@@ -14,7 +14,5 @@ Whichever epistemological preference you have, we are all faced with a similar p
 
 As we get into looking at different research methodologies, we will see that great pains are taken to attend to these four processes.
 
-It is beyond our purpose do go much more deeply into this other than to make the point that our worldview influences our approach to all of life, including how we approach research.
-
-
+It is beyond the purpose of this course to go deeper into this other than to make the point that our worldview influences our approach to all of life, including how we approach research.
 
