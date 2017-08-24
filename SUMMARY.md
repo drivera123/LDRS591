@@ -16,15 +16,15 @@
 * [Unit 1A Overview of LDRS 697/698](unit-1a-overview-of-ldrs-697698.md)
   * [Goals of LDRS 697/698](unit-1a-overview-of-ldrs-697698/goals-of-ldrs-697698.md)
   * [Boyer's Model of Scholarship](unit-1a-overview-of-ldrs-697698/boyers-model-of-scholarship.md)
-  * [Unit 1A Learning Activities](Unit-1/learning-activities.md)
+* [Unit 1A Learning Activities](Unit-1/learning-activities.md)
 * [Unit 1B Overview of Research Foundations](Unit-1/Overview.md)
   * [Philosophical Foundations](Unit-1/Overview/philosophical-foundations.md)
-  * Unit 1B Learning Activities
+  * Leadership and Scholarly Inquiry
   * [Relevant Terminology](Unit-1/Overview/relevant-terminology.md)
   * Asking Good Research Questions
+* Unit 1B Learning Activities
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
-* [Unit 3 Overview](Unit-3/Overview.md)
 * [Unit 3 Learning Activities](Unit-3/Learning-Activities.md)
 * [Unit 4 Overview](Unit-4/Overview.md)
 * [Unit 4 Learning Actvities](Unit-4/learning-activities.md)
@@ -40,5 +40,4 @@
 * [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
-* Unit 1A Overview of LDRS 697/698
 
