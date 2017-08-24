@@ -1,4 +1,4 @@
-LDRS/MAEL 697/698 is the capstone individual product of the MA in Leadership program.  In LDRS/MAEL 697/698 through completing the activities you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills. LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.  Because this is intended to be a scholarly work, as a “necessary evil” you will need to become proficient in writing in conformance to APA 6 format. The assignment in Day 2 is designed to help you along that road.
+Boyer's Model of Scholarship
 
 MA in Leadership’s guidelines for LDRS 697/698 draws in part from Boyer’s four-part Model of Scholarship.  Boyer’s typology identifies four domains of scholarship: discovery, integration, application, and teaching.  The model is discussed by Marta Nibert \(n.d.\)in her paper titled Boyer’s Model of Scholarship. In the section titled Application she notes that the
 
@@ -12,25 +12,25 @@ Type of Scholarship
 Purpose  
 Measures of Performance  
 Discovery  
-Build new knowledge through traditional research.   
-•    Publishing in peer-reviewed forums   
-•    Producing and/or performing creative work within established field   
-•    Creating infrastructure for future studies   
+Build new knowledge through traditional research.  
+•    Publishing in peer-reviewed forums  
+•    Producing and/or performing creative work within established field  
+•    Creating infrastructure for future studies  
 Integration  
-Interpret the use of knowledge across disciplines.   
-•    Preparing a comprehensive literature review   
-•    Writing a textbook for use in multiple disciplines   
-•    Collaborating with colleagues to design and deliver a core course   
+Interpret the use of knowledge across disciplines.  
+•    Preparing a comprehensive literature review  
+•    Writing a textbook for use in multiple disciplines  
+•    Collaborating with colleagues to design and deliver a core course  
 Application  
-Aid society and professions in addressing problems.   
-•    Serving industry or government as an external consultant   
-•    Assuming leadership roles in professional organizations   
-•    Advising student leaders, thereby fostering their professional growth   
-Teaching   
-Study teaching models and practices to achieve optimal   learning.   
-•    Advancing learning theory through classroom research   
-•    Developing and testing instructional materials   
-•    Mentoring graduate students   
+Aid society and professions in addressing problems.  
+•    Serving industry or government as an external consultant  
+•    Assuming leadership roles in professional organizations  
+•    Advising student leaders, thereby fostering their professional growth  
+Teaching  
+Study teaching models and practices to achieve optimal   learning.  
+•    Advancing learning theory through classroom research  
+•    Developing and testing instructional materials  
+•    Mentoring graduate students  
 •    Designing and implementing a program-level assessment system
 
 Boyer’s Scholarship of Discovery is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon abut which we are interested or concerned” \(Leedy & Ormrod2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.

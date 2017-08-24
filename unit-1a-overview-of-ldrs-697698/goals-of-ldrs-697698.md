@@ -34,3 +34,7 @@ In LDRS 697/698 you will, through praxis, propose and implement a Leadership Int
 
 You will be assigned an advisor and a section of LDRS 697/698.  This will function similarly to other courses wherein you will be able to interact with your advisor as well as upload elements of LDRS 697/698 which document your development of your personal leadership competencies through the Leadership Integration Project.  Your LDRS 697/698 Advisor will be assigned to you shortly after completion of LDRS 591.
 
+LDRS/MAEL 697/698 is the capstone individual product of the MA in Leadership program.  In LDRS/MAEL 697/698 through completing the activities you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills. LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.
+
+
+
