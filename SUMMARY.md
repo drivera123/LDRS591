@@ -20,7 +20,7 @@
 * [Unit 1B Overview of Research Foundations](Unit-1/Overview.md)
   * [Philosophical Foundations](Unit-1/Overview/philosophical-foundations.md)
   * Unit 1B Learning Activities
-  * Relevant Terminology
+  * [Relevant Terminology](Unit-1/Overview/relevant-terminology.md)
   * Asking Good Research Questions
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
