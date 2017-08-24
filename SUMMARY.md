@@ -18,8 +18,10 @@
   * [Boyer's Model of Scholarship](unit-1a-overview-of-ldrs-697698/boyers-model-of-scholarship.md)
   * [Unit 1A Learning Activities](Unit-1/learning-activities.md)
 * [Unit 1B Overview of Research Foundations](Unit-1/Overview.md)
-  * Notes
+  * [Philosophical Foundations](Unit-1/Overview/philosophical-foundations.md)
   * Unit 1B Learning Activities
+  * Relevant Terminology
+  * Asking Good Research Questions
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
 * [Unit 3 Overview](Unit-3/Overview.md)
