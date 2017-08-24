@@ -19,9 +19,9 @@
 * [Unit 1A Learning Activities](Unit-1/learning-activities.md)
 * [Unit 1B Overview of Research Foundations](Unit-1/Overview.md)
   * [Philosophical Foundations](Unit-1/Overview/philosophical-foundations.md)
-  * Leadership and Scholarly Inquiry
+  * [Leadership and Scholarly Inquiry](Unit-1/Overview/leadership-and-scholarly-inquiry.md)
   * [Relevant Terminology](Unit-1/Overview/relevant-terminology.md)
-  * Asking Good Research Questions
+  * [Asking Good Research Questions](Unit-1/Overview/asking-good-research-questions.md)
 * Unit 1B Learning Activities
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
