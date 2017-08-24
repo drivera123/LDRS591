@@ -21,7 +21,7 @@ Praxis is a transliteration of a Greek word that is focused on both doing and pl
 
 There is consensus among adult educators that adults learn best by doing.  Jane Vella defines praxis as “learning by doing” with “built in reflection”, and includes it as one of her twelve keystones to effective adult learning \(1995, p. 33\).   To Vella, praxis is a kind of dance between inductive and deductive forms of learning, and involves cycles of doing, reflecting, deciding, changing, and new doing.  To the African educator Gichia, praxis is a rhythm between action and reflection, and then further action informed by the reflection \(1989, pp. 98-99\). By way of illustrating how praxis works, Ted Ward \(n.d.\) has suggested a rail fence analogy to describe the education of professionals such as you.   The elements of his analogy may be diagrammed as follows.
 
-\(insert image of Ted Ward's fence analogy here\)
+![](/assets/Fence.JPG)
 
 The upper rail is labeled “theory” and refers to cognitive inputs that are part of every educational program.  Ward asserts that cognitive input is basic to competence and excellence.  In the MA in Leadership program, there are a great many cognitive inputs that come to you through a wide range of instructional modes.  The lower rail is labeled “experience.”  Here, experience refers primarily to your personal and professional experiences in life.  Your experiences have no doubt contributed greatly to your learning, including the development of knowledge, the basis for evaluation, and your motivation to continue to learn.
 
@@ -35,6 +35,4 @@ In LDRS 697/698 you will, through praxis, propose and implement a Leadership Int
 You will be assigned an advisor and a section of LDRS 697/698.  This will function similarly to other courses wherein you will be able to interact with your advisor as well as upload elements of LDRS 697/698 which document your development of your personal leadership competencies through the Leadership Integration Project.  Your LDRS 697/698 Advisor will be assigned to you shortly after completion of LDRS 591.
 
 LDRS/MAEL 697/698 is the capstone individual product of the MA in Leadership program.  In LDRS/MAEL 697/698 through completing the activities you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills. LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.
-
-
 
