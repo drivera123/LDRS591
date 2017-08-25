@@ -1,4 +1,4 @@
-### Welcome to LDRS 591:  Scholarly Inquiry.  
+### Welcome to LDRS 591:  Scholarly Inquiry
 
 The course introduces you to a fundamental component of graduate work – disciplined scholarship.  Graduate education is rooted in a strong tradition of research and scholarly endeavor that includes exploration, creative conceptualization, and systematic inquiry.
 
@@ -9,6 +9,4 @@ This course provides an overview of the process, critical analysis, and associat
 ### Authors
 
 This course is co-authored by Heather Strong and David Williaume, instructors in the MA Leadership Program.
-
-
 
