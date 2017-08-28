@@ -13,11 +13,11 @@
   * [Assignment E](Assignments/Assignment-e.md)
   * [Assignment F](Assignments/Assignment-f.md)
   * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
-* [Unit 1B Overview of Research Foundations](Unit-1/Overview.md)
+* [Unit 1 Overview](Unit-1/Overview.md)
   * [Notes A](Unit-1/Overview/philosophical-foundations.md)
   * [Glossary](Unit-1/Overview/relevant-terminology.md)
   * [Asking Good Research Questions](Unit-1/Overview/asking-good-research-questions.md)
-* Unit 1B Learning Activities
+* Unit 1 Learning Activities
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
 * [Unit 3 Learning Activities](Unit-3/Learning-Activities.md)
