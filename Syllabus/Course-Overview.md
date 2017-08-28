@@ -1,6 +1,8 @@
 ### Course Description
 
-This course provides an overview of the process, critical analysis, and associated skills required for scholarship and research.  This course is designed for learners who may have little experience in the area of research, and will provide an introduction to scholarly inquiry and various research approaches being used in the field of leadership. The aim of this course is to provide  learners with the skills necessary to become critical consumers, and discriminating users, of research.
+This course provides an overview of the process, critical analysis, and associated skills required for scholarship and research.  This course is designed for learners who may have little experience in the area of research, and will provide an introduction to scholarly inquiry and various research approaches being used in the field of leadership. The aim of this course is to provide  learners with the skills necessary to become critical consumers, and discriminating users, of research. 
+
+This course is not intended as a research methods course that will develop advanced or even intermediate skills in empirical investigation in quantitative and qualitative methods.  Rather, the course provides an introductory “toolkit” that will support your work on your applied MA in Leadership activities in LDRS 697/698 and in your further professional work. 
 
 ### Course Themes
 
