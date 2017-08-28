@@ -13,10 +13,6 @@
   * [Assignment E](Assignments/Assignment-e.md)
   * [Assignment F](Assignments/Assignment-f.md)
   * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
-* [Unit 1A Overview of LDRS 697/698](unit-1a-overview-of-ldrs-697698.md)
-  * [Goals of LDRS 697/698](unit-1a-overview-of-ldrs-697698/goals-of-ldrs-697698.md)
-  * [Boyer's Model of Scholarship](unit-1a-overview-of-ldrs-697698/boyers-model-of-scholarship.md)
-* [Unit 1A Learning Activities](Unit-1/learning-activities.md)
 * [Unit 1B Overview of Research Foundations](Unit-1/Overview.md)
   * [Notes A](Unit-1/Overview/philosophical-foundations.md)
   * [Glossary](Unit-1/Overview/relevant-terminology.md)
@@ -39,4 +35,7 @@
 * [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
+* [Overview of LDRS 697/698](unit-1a-overview-of-ldrs-697698.md)
+  * [Goals of LDRS 697/698](unit-1a-overview-of-ldrs-697698/goals-of-ldrs-697698.md)
+  * [Boyer's Model of Scholarship](unit-1a-overview-of-ldrs-697698/boyers-model-of-scholarship.md)
 
