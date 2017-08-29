@@ -1,8 +1,8 @@
 ### Course Description
 
-This course provides an overview of the process, critical analysis, and associated skills required for scholarship and research.  This course is designed for learners who may have little experience in the area of research, and will provide an introduction to scholarly inquiry and various research approaches being used in the field of leadership. The aim of this course is to provide  learners with the skills necessary to become critical consumers, and discriminating users, of research. 
+This course provides an overview of the process, critical analysis, and associated skills required for scholarship and research.  This course is designed for learners who may have little experience in the area of research, and will provide an introduction to scholarly inquiry and various research approaches being used in the field of leadership. The aim of this course is to provide  learners with the skills necessary to become critical consumers, and discriminating users, of research.
 
-This course is not intended as a research methods course that will develop advanced or even intermediate skills in empirical investigation in quantitative and qualitative methods.  Rather, the course provides an introductory “toolkit” that will support your work on your applied MA in Leadership activities in LDRS 697/698 and in your further professional work. 
+This course is not intended as a research methods course that will develop advanced or even intermediate skills in empirical investigation in quantitative and qualitative methods.  Rather, the course provides an introductory “toolkit” that will support your work on your applied MA in Leadership activities in LDRS 697/698 and in your further professional work.
 
 ### Course Themes
 
@@ -35,8 +35,8 @@ The table below lists all of the assignments for this course.  All of the assign
 | Blog posts and responses | 25% |
 | Preliminary reflection and response \(assignment \#1\) | 10% |
 | Conceptual map \(assignment \#2\) | 10% |
-| APA assignment \(assignment \#3\) | 10% |
-| Literature search \(assignment \#4\) | 15% |
+| Literature search \(assignment \#3\) | 10% |
+| APA assignment \(assignment \#4\) | 15% |
 | Literature review paper \(assignment \#5\) | 30% |
 | Total | 100% |
 
