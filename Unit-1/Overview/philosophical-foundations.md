@@ -6,7 +6,7 @@ Inquiry is “the process of developing skills to arrive at understandings of a 
 
 A professor of mine often observed that a fundamental attribute of being human is to ask questions.  Humanity is especially interested in three fundamental questions: What is real?  What is true?  What is good?   The philosophical category of metaphysics is concerned with what is real, and what is the nature of reality.  The philosophical category of epistemology is concerned with what is true, and what is the nature and process of knowing, and axiology is concerned with what is good, and how we can determine the nature of goodness.  Much of history is a chronicle of the different ways people have answered these three fundamental questions.  How we answer these questions reveals our perspective or our worldview.
 
-A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" \(Geisler & Watkins, 1989\).  It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live.  It is important to be aware of what your personal worldview is before you jump into the research journey because it will inform the types of questions that you ask, and also the processes that you use to find the answers to your questions.
+A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" \(Geisler & Watkins, 2003\).  It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live.  It is important to be aware of what your personal worldview is before you jump into the research journey because it will inform the types of questions that you ask, and also the processes that you use to find the answers to your questions.
 
 So, how do we know what is true?  While this list is not exhaustive, there are three common approaches to knowing:
 
@@ -40,11 +40,13 @@ Systematic inquiry \(as represented by research\) is hardly new – in first cen
 
 1Many have undertaken to draw up an account of the things that have been fulfilled\[a\] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3  With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught. \(Luke 1:1-4, NIV\)
 
+How does the research process differ from managerial activities such as decision-making and problem solving?  Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process.  What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community.
+
 The past two decades have seen remarkable growth within natural and applied sciences and humanities of the articulation of the foundations of research with a corresponding expansion of research methodologies.
 
 ### Boyer's Model of Scholarship
 
-Boyer’s Scholarship of** Discovery** is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon abut which we are interested or concerned” \(Leedy & Ormrod2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.
+Boyer’s Scholarship of** Discovery** is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon abut which we are interested or concerned” \(Leedy & Ormrod, 2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.
 
 The Scholarship of Discovery \(traditional research\) falls into two distinct genres:  quantitative research and qualitative research.  Each of these genres manifest in numerous variations, including hybrid models involving both quantitative and qualitative elements, designed for and suited to differing research questions.
 
@@ -57,4 +59,21 @@ Finally, Boyer's Scholarship of **Teaching** is “the scholarship of sharing kn
 Boyer’s typology originally identified as the Scholarship of Teaching has been expanded somewhat and is widely known today in the literature as the Scholarship of Teaching and Learning \(Bosher, 2009\).  You have undoubtedly already notice an ambiguity:  If the entire model is called the Scholarship of Teaching, how is it that the last element depicted in the chart above is also called the Scholarship of Teaching?  This ambiguity is evidence, Bosher contends that Boyer’s four domains were conceived holistically as elements that overlap and interact, not as discrete elements, appearing in any predictable order, and are better viewed as an operating system than a list of elements  \(2009, pp. 4-5\).
 
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research \(scholarship of discovery\).  Put another way, you will be learning about various research methods \(e.g., quantitative research, qualitative research, and mixed methods\) so that you can gain proficiency in becoming a critical consumer of research.
+
+##### References:
+
+Boyer, E. \(1997\). Scholarship reconsidered: Priorities for the professoriate. San Francisco, CA: Jossey-Bass.
+
+Bosher, R.  \(2009\). Why is the scholarship of teaching and learning such a hard sell?  Higher Education Research and Development, 28\(1\), 1-15.  
+Geisler, N., & Watkins, W. D. \(2003\). Worlds apart: A handbook on world views. Wipf and Stock Publishers.
+
+Gill, J., & Johnson, P. \(2002\).  Research methods for managers \(3rd ed\).  Thousand Oaks, CA:  Sage.  
+Jacobsen, D. & Jacobsen, R. \(2004\). Scholarship and Christian faith: Enlarging the conversation.  Oxford, United Kingdom: Oxford University Press.  
+Leedy, P. & Ormrod, J.  \(2010\). Practical research: Planning and design \(9th ed.\). Boston, MA:  Pearson.   
+Patton, M. \(2001\).  Qualitative research and evaluation methods.  Thousand Oaks, CA: Sage.  
+Penner, D. \(2017\). Inquiry in the social sciences. Unpublished manuscript. McMaster University. Retrieved from: https://socialsciences.mcmaster.ca/.../Inquiry%20C08%20Course%20Outline%202017 
+
+Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
+
+
 
