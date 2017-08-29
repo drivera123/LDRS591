@@ -10,5 +10,13 @@ At the end of the unit, the student will be able to
 2. Appraise the contributions of scholarly inquiry as foundational for evidence-based leadership.
 3. Distinguish between various domains of scholarship \(i.e., discovery, integration, application, and teaching\).
 
+### Resources
+
+Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
+
+
+
+
+
 
 
