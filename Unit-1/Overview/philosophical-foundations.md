@@ -26,5 +26,40 @@ Whichever epistemological preference you have, we are all faced with a similar p
 
 As we get into looking at different research methodologies, we will see that great pains are taken to attend to these four processes.
 
-It is beyond the purpose of this course to go deeper into this other than to make the point that our worldview influences how we approach all of life, including how we approach research.
+It is beyond the purpose of this course to go deeper into this other than to make the point that our way of knowing and understanding the world around us \(e.g., our worldview\) influences how we approach all of life, including how we approach research.
+
+### Leadership and Scholarly Inquiry
+
+On what basis are sound decisions made?  What evidence do leaders rely upon for best outcomes?  The need to evaluate the bases or evidence for best practices in leadership decision-making is widely acknowledged.  Patton \(2001\) observes that “the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society” \(p. 329\).
+
+We often refer to the vision of Best Practices in Leadership within the MA in Leadership program \(see Kirkham 2004\). What do we mean by this?  Put simply, “best practices” refers to those practices and initiatives that result in the best possible outcomes.  How do we know what best practice is?  The process of identifying best practices begins with an understanding of common sources of evidence available to leaders.
+
+Take a moment to think about a recent decision you made as a leader.  On what did you base this decision?  Previous experience?  Values?  Company policy?  Empirical evidence \(e.g., data derived from research\)?  Expert opinion?
+
+Following  is a sampling of articles that speak to the importance of evidence-based leadership with exemplars from the fields of education, health, and policy-making. Review them selectively  now with the following questions in mind:  
+o    How is evidence-based leadership conceptualized in the article?  
+o    Why is evidence-based decision-making important?  
+o    What is considered as evidence?  How is evidence ranked?
+
+Systematic inquiry \(as represented by research\) is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry.  Consider the following passage from Luke, a physician trained in empirical methods of his day:
+
+1Many have undertaken to draw up an account of the things that have been fulfilled\[a\] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3  With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught. \(Luke 1:1-4, NIV\)
+
+The past two decades have seen remarkable growth within natural and applied sciences and humanities of the articulation of the foundations of research with a corresponding expansion of research methodologies.
+
+### Boyer's Model of Scholarship 
+
+Boyer’s Scholarship of** Discovery** is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon abut which we are interested or concerned” \(Leedy & Ormrod2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.
+
+The Scholarship of Discovery \(traditional research\) falls into two distinct genres:  quantitative research and qualitative research.  Each of these genres manifest in numerous variations, including hybrid models involving both quantitative and qualitative elements, designed for and suited to differing research questions.
+
+Boyer’s Scholarship of** Integration** is “the attempt to arrange relevant bits of knowledge and insight from different disciplines into broader patterns that reflect the actual interconnectedness of the world” \(Boyer as cited in Jacobsen & Jacobsen 2004, p. 51\).  Scholarship of Integration often demands interdisciplinary collaboration and requires that the critical analysis and review of knowledge be followed by the creative synthesis of views and insights in such a way that what is known speaks to specific topics or issues.
+
+Boyer's Scholarship of **Application** is “the scholarship of engagement; seeking to close the gap between values in the academy and the needs of the larger world” \(Boyer cited in Jacobsen & Jacobsen 2004, p. 51\).  In the Scholarship of Application, knowledge is applied to the solution of societal needs and practice.  In most cases, knowledge stemming from the Scholarship of Discovery and the Scholarship of Integration informs the solutions to particular problems.  The Scholarships of Discovery and Integration are often associated with the context of formal education \(Bosher 2009, p. 6\).
+
+Finally, Boyer's Scholarship of **Teaching** is “the scholarship of sharing knowledge” \(Boyer cited in Jacobsen & Jacobsen 2004, p. 51\).  The Scholarship of Teaching involves the reflective analysis of the knowledge about teaching and learning.  This knowledge base itself is the product of the Scholarships of Discovery, Integration and Application combining as “active ingredients of a dynamic and iterative teaching process” \(Bosher, 2009, p. 5\).
+
+Boyer’s typology originally identified as the Scholarship of Teaching has been expanded somewhat and is widely known today in the literature as the Scholarship of Teaching and Learning \(Bosher, 2009\).  You have undoubtedly already notice an ambiguity:  If the entire model is called the Scholarship of Teaching, how is it that the last element depicted in the chart above is also called the Scholarship of Teaching?  This ambiguity is evidence, Bosher contends that Boyer’s four domains were conceived holistically as elements that overlap and interact, not as discrete elements, appearing in any predictable order, and are better viewed as an operating system than a list of elements  \(2009, pp. 4-5\).
+
+This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research \(scholarship of discovery\).  Put another way, you will be learning about various research methods \(e.g., quantitative research, qualitative research, and mixed methods\) so that you can gain proficiency in becoming a critical consumer of research.
 
