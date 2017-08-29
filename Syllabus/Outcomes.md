@@ -10,9 +10,7 @@
 
 5. Conduct a thorough review of scholarly literature using library and internet search skills.
 
-6. Develop scholarly written communication skills.  
-
-
+6. Develop scholarly written communication skills that demonstrate higher ordered thinking and analysis.
 
 
 
