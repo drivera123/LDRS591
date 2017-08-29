@@ -2,6 +2,8 @@
 
 Inquiry is “the process of developing skills to arrive at understandings of a problem, an issue, or a phenomenon, through the process of asking good questions, searching out good evidence, and arriving at well-reasoned conclusions" \(Penner, 2017\).
 
+By now you are well aware of the applied nature of the MA in Leadership program. This feature may be an important part of what attracted you to the program! Why then study research methods? Why worry about scholarly inquiry? This course in scholarly inquiry helps you to develop systematic thinking skills applicable in all realms of leadership and everyday life. As Plano-Clark & Creswell note, research adds to your professional knowledge, informs your position in policy debates, and contributes to the improvement in your practice \(2015, pp. 4-5\). Moreover, our leadership practice is ideally evidence-based; that is, based on evidence derived from systematic scholarly inquiry.
+
 ### Three Foundational Questions
 
 A professor of mine often observed that a fundamental attribute of being human is to ask questions.  Humanity is especially interested in three fundamental questions: What is real?  What is true?  What is good?   The philosophical category of metaphysics is concerned with what is real, and what is the nature of reality.  The philosophical category of epistemology is concerned with what is true, and what is the nature and process of knowing, and axiology is concerned with what is good, and how we can determine the nature of goodness.  Much of history is a chronicle of the different ways people have answered these three fundamental questions.  How we answer these questions reveals our perspective or our worldview.
@@ -69,11 +71,9 @@ Geisler, N., & Watkins, W. D. \(2003\). Worlds apart: A handbook on world views.
 
 Gill, J., & Johnson, P. \(2002\).  Research methods for managers \(3rd ed\).  Thousand Oaks, CA:  Sage.  
 Jacobsen, D. & Jacobsen, R. \(2004\). Scholarship and Christian faith: Enlarging the conversation.  Oxford, United Kingdom: Oxford University Press.  
-Leedy, P. & Ormrod, J.  \(2010\). Practical research: Planning and design \(9th ed.\). Boston, MA:  Pearson.   
+Leedy, P. & Ormrod, J.  \(2010\). Practical research: Planning and design \(9th ed.\). Boston, MA:  Pearson.  
 Patton, M. \(2001\).  Qualitative research and evaluation methods.  Thousand Oaks, CA: Sage.  
-Penner, D. \(2017\). Inquiry in the social sciences. Unpublished manuscript. McMaster University. Retrieved from: https://socialsciences.mcmaster.ca/.../Inquiry%20C08%20Course%20Outline%202017 
+Penner, D. \(2017\). Inquiry in the social sciences. Unpublished manuscript. McMaster University. Retrieved from: [https://socialsciences.mcmaster.ca/.../Inquiry C08 Course Outline 2017](https://socialsciences.mcmaster.ca/.../Inquiry C08 Course Outline 2017)
 
 Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
-
-
 
