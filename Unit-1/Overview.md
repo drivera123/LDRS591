@@ -18,3 +18,5 @@ Trybus, M. \(2007\). Understanding Scientifically Based Research: A Mandate or D
 
 Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336
 
+Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. The Millbank Quarterly, 79 \(3\), 429-457.
+
