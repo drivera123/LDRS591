@@ -16,7 +16,7 @@
 * [Unit 1 Overview](Unit-1/Overview.md)
   * [Notes A](Unit-1/Overview/philosophical-foundations.md)
   * [Glossary](Unit-1/Overview/relevant-terminology.md)
-* Unit 1 Learning Activities
+* [Unit 1 Learning Activities](unit-1-learning-activities.md)
 * [Unit 2 Overview](Unit-2/Overview.md)
 * [Unit 2 Learning Activities](Unit-2/learning-activities.md)
 * [Unit 3 Learning Activities](Unit-3/Learning-Activities.md)
