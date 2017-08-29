@@ -48,7 +48,7 @@ The past two decades have seen remarkable growth within natural and applied scie
 
 ### Boyer's Model of Scholarship
 
-Boyer’s Scholarship of** Discovery** is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon abut which we are interested or concerned” \(Leedy & Ormrod, 2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.
+Boyer’s Scholarship of** Discovery** is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon about which we are interested or concerned” \(Leedy & Ormrod, 2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.
 
 The Scholarship of Discovery \(traditional research\) falls into two distinct genres:  quantitative research and qualitative research.  Each of these genres manifest in numerous variations, including hybrid models involving both quantitative and qualitative elements, designed for and suited to differing research questions.
 
