@@ -1,6 +1,6 @@
 ### Learning Activity 1:
 
-Read Chapter 1 and 2 of Plano-Clark and Creswell \(2015\) text.
+Read Chapter 1 and 2 of the Plano-Clark and Creswell \(2015\) text.
 
 ### Learning Activity 2: Blog Post 1
 
@@ -12,7 +12,7 @@ Read the course "notes".
 
 ### Learning Activity 4: Blog Post 2
 
-Create a new post where you answer the following questions: Do you agree or disagree with the proposition made by the authors that one’s worldview influences the types of questions that you ask, and also the processes that you use to find the answers to your questions?  As you reflect, what factors do you think shape your decision-making? Close with one question that invites further comment and discussion. Add your post to the 'Learning Activities' and 'Unit 1' categories.
+Create a new post where you answer the following questions: What factors do you think shape your decision-making process? Do you agree or disagree with the proposition made in the course notes \(by the authors\) that one’s worldview influences the types of questions that you ask, and also the processes that you use to find the answers to your questions?   Close with one question that invites further comment and discussion. Add your post to the 'Learning Activities' and 'Unit 1' categories.
 
 ### Learning Activity 5:
 
@@ -24,5 +24,5 @@ Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high 
 
 ### Learning Activity 6: Blog Post 3
 
-Create a new post and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership?  In their view, why is evidence-based decision-making important?  What is considered as "evidence"? Close with one question that invites further comment and discussion. Add your post to the 'Learning Activities' and 'Unit 1' categories.
+Create a new post and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership?  What is considered as "evidence"? In your own words, why is evidence-based decision-making important?   Close with one question that invites further comment and discussion. Add your post to the 'Learning Activities' and 'Unit 1' categories.
 
