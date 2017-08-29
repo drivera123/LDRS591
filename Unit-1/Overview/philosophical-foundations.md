@@ -26,7 +26,7 @@ Whichever epistemological preference you have, we are all faced with a similar p
 
 As we get into looking at different research methodologies, we will see that great pains are taken to attend to these four processes.
 
-It is beyond the purpose of this course to go deeper into this other than to make the point that our way of knowing and understanding the world around us \(e.g., our worldview\) influences how we approach all of life, including how we approach research.
+It is beyond the purpose of this course to go deeper into this other than to make the point that our way of knowing and understanding the world around us \(e.g., our worldview\) influences how we approach all of life, including how we approach research, and how we use research to inform our decision-making process.
 
 ### Leadership and Scholarly Inquiry
 
@@ -36,18 +36,13 @@ We often refer to the vision of Best Practices in Leadership within the MA in Le
 
 Take a moment to think about a recent decision you made as a leader.  On what did you base this decision?  Previous experience?  Values?  Company policy?  Empirical evidence \(e.g., data derived from research\)?  Expert opinion?
 
-Following  is a sampling of articles that speak to the importance of evidence-based leadership with exemplars from the fields of education, health, and policy-making. Review them selectively  now with the following questions in mind:  
-o    How is evidence-based leadership conceptualized in the article?  
-o    Why is evidence-based decision-making important?  
-o    What is considered as evidence?  How is evidence ranked?
-
 Systematic inquiry \(as represented by research\) is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry.  Consider the following passage from Luke, a physician trained in empirical methods of his day:
 
 1Many have undertaken to draw up an account of the things that have been fulfilled\[a\] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3  With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught. \(Luke 1:1-4, NIV\)
 
 The past two decades have seen remarkable growth within natural and applied sciences and humanities of the articulation of the foundations of research with a corresponding expansion of research methodologies.
 
-### Boyer's Model of Scholarship 
+### Boyer's Model of Scholarship
 
 Boyer’s Scholarship of** Discovery** is the type of scholarship associated with traditional scholarly research.  “Research is a systematic process of collecting, analyzing and interpreting information \(data\) in order to increase our understanding of a phenomenon abut which we are interested or concerned” \(Leedy & Ormrod2010, p. 2\).  Boyer’s Scholarship of Discovery is often referred to as primary research.  Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand one isolated part of reality in detail in the hopes that this understanding can by generalized to some degree to a broader part of reality.
 
