@@ -4,13 +4,15 @@
 
 2. Demonstrate critical thinking and analytic skills characteristic of a rigorous approach to scholarship.
 
-3. Distinguish between Boyer’s Scholarship of Discovery, Integration, Application, and Teaching.
+3. Evaluate potential research questions based upon problems in the leadership domain and distinguish among appropriate methods whereby to address these questions.
 
-4. Evaluate potential research questions based upon problems in the leadership domain and distinguish among appropriate methods whereby to address these questions.
+4. Critique research studies using skills of critical-analytic thinking.
 
 5. Conduct a thorough review of scholarly literature using library and internet search skills.
 
-6. Critique research studies using skills of critical-analytic thinking.
+6. Develop scholarly written communication skills.  
+
+
 
 
 
