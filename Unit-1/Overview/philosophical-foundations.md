@@ -34,7 +34,7 @@ It is beyond the purpose of this course to go deeper into this other than to mak
 
 On what basis are sound decisions made?  What evidence do leaders rely upon for best outcomes?  The need to evaluate the bases or evidence for best practices in leadership decision-making is widely acknowledged.  Patton \(2001\) observes that “the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society” \(p. 329\).
 
-We often refer to the vision of Best Practices in Leadership within the MA in Leadership program \(see Kirkham 2004\). What do we mean by this?  Put simply, “best practices” refers to those practices and initiatives that result in the best possible outcomes.  How do we know what best practice is?  The process of identifying best practices begins with an understanding of common sources of evidence available to leaders.
+We often refer to the vision of best practices in leadership within the MA in Leadership program \(see Kirkham 2004\). What do we mean by this?  Put simply, “best practices” refers to those practices and initiatives that result in the best possible outcomes.  How do we know what best practice is?  The process of identifying best practices begins with an understanding of common sources of evidence available to leaders.
 
 Take a moment to think about a recent decision you made as a leader.  On what did you base this decision?  Previous experience?  Values?  Company policy?  Empirical evidence \(e.g., data derived from research\)?  Expert opinion?
 
