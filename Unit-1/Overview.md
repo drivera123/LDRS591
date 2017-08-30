@@ -14,7 +14,7 @@ At the end of the unit, the student will be able to
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
 
-Trybus, M. \(2007\). Understanding Scientifically Based Research: A Mandate or Decision Making Tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8.
+Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8.
 
 Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336
 
