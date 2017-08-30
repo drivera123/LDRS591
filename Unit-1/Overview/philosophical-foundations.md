@@ -38,7 +38,7 @@ We often refer to the vision of best practices in leadership within the MA in Le
 
 Take a moment to think about a recent decision you made as a leader.  On what did you base this decision?  Previous experience?  Values?  Company policy?  Empirical evidence \(e.g., data derived from research\)?  Expert opinion?
 
-Systematic inquiry \(as represented by research\) is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry.  Consider the following passage from Luke, a physician trained in empirical methods of his day:
+Systematic inquiry \(as represented by research\) is one tool that leaders can use to inform best practices and their decision making process.  Systematic inquiry is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry.  Consider the following passage from Luke, a physician trained in empirical methods of his day:
 
 1Many have undertaken to draw up an account of the things that have been fulfilled\[a\] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3  With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught. \(Luke 1:1-4, NIV\)
 
