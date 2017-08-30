@@ -20,6 +20,10 @@ Plano-Clark and Creswell \(2015\) define research as "a process of steps used to
 
 ### Accessing Scholarly Literature
 
+The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search \(library books, readings and books you have received for your MA in Leadership course work, online periodicals, internet search\), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields of social science or other science that will potentially inform your research interests. As we will see very shortly, various fields have particular literature bases associated with each.
+
+Part of your planning and organizing is to recognize various genres of scholarly literature and to be aware of the limitations inherent to each. A very helpful discussion is provided by Plano-Clark and Creswell \(2010\) on page 119. Let’s look at this chart for a moment.
+
 ### 
 
 
