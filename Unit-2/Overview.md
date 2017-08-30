@@ -14,11 +14,5 @@ In Unit 2,  we will begin by developing a road map for understanding the researc
 
 Badke, W. \(2017\) Finding your way through the information fog \(6th ed.\) iUniverse.com
 
-http://libguides.twu.ca/c.php?g=284762&p=3191885
-
-http://libguides.twu.ca/library\_research/articles
-
-http://libguides.twu.ca/library\_research/books
-
-
+http://libguides.twu.ca/library\_research/home 
 
