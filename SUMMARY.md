@@ -38,4 +38,5 @@
 * [Overview of LDRS 697/698](unit-1a-overview-of-ldrs-697698.md)
   * [Goals of LDRS 697/698](unit-1a-overview-of-ldrs-697698/goals-of-ldrs-697698.md)
   * [Boyer's Model of Scholarship](unit-1a-overview-of-ldrs-697698/boyers-model-of-scholarship.md)
+  * Assessment Reflection and Response
 
