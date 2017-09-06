@@ -63,7 +63,7 @@ The research process is not always linear. You may have a great research questio
 
 If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature.  Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic.  This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic.
 
-### Evaluating Sources
+### Evaluating Scholarly Sources
 
 When you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources.  Unfortunately, not all information that you will come across is created equal.  Just because you find articles and books at the library does not mean that the information will be accurate or high quality.
 
@@ -75,7 +75,7 @@ As a MA Leadership student, and as a professional, it is imperative that you are
 
 * **Purpose:** What is the author’s intention? Is the information the authors opinion or is the author communicating evidence-based results? Who is the authors intended audience? Is it the academic community or consumers? Is the author's point of view objective and impartial? Is the language in the article or book free of emotion or bias?
 
-* **Content: **What kind of information is provided in the article or book? Is it a research article, popular book, opinion piece on a blog?  Is the information provided backed up with references or sources?  What is the length of the reference list?  
+* **Content: **What kind of information is provided in the article or book? Is it a research article, popular book, opinion piece on a blog?  Is the information provided backed up with references or sources?  What is the length of the reference list?
 
 * **Publication type/process:** Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?
 
@@ -85,7 +85,7 @@ As a MA Leadership student, and as a professional, it is imperative that you are
 
 A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this is to effectively critique and summarize scholarly literature.
 
-An effective summary of an article or book will: 
+An effective summary of an article or book will:
 
 * Mention the problem being addressed. 
 * State the central purpose or focus of the study. 
@@ -96,9 +96,9 @@ Once you have highlighted those key points, then you need to critically evaluate
 
 * Evaluate each section of the article/book – Introduction, Methods, Results, Discussion – highlighting the strengths and weaknesses of each section.
 
-When you are critically evaluating research studies, you are not just listing and summarizing them, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed.  More information on how to specifically evaluate each section of a journal article is coming up in unit 
+When you are critically evaluating research studies, you are not just listing and summarizing them, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed.  More information on how to specifically evaluate each section of a journal article is coming up in units 4, 5, 6, 7, 8 and 9.
 
-### How Much Information Is Enough? 
+### How Much Information Is Enough?
 
 When doing a review of literature, it may be difficult to determine how much literature to review. To provide some guidance in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed, and articulates how your research interest intersects with this literature \(e.g., why we need to know more, or why the literature needs to be applied in a particular context\). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors essentially re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
 
@@ -108,7 +108,7 @@ Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s g
 
 Creswell, J. \(2003\).  Research design: Qualitative, quantitative, and mixed methods approaches \(2nd ed.\).  Thousand Oaks, CA:  Sage.
 
-Driscoll, D.L. & Brizee, A. \(2017\). Evaluating print versus internet sources.  Retrieved from: https://owl.english.purdue.edu/owl/resource/553/04/ 
+Driscoll, D.L. & Brizee, A. \(2017\). Evaluating print versus internet sources.  Retrieved from: [https://owl.english.purdue.edu/owl/resource/553/04/](https://owl.english.purdue.edu/owl/resource/553/04/)
 
 Pannucci, C.J. & Wilkins, E.G., \(2010\). Identifying and avoiding bias in research.  _Plast Reconstr Surg. 126_\(2\), 619-625.
 
