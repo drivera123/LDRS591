@@ -1,10 +1,10 @@
 ### Learning Activity 1:
 
-a\) Read chapters 3, 4, 5, 6 in Badke \(2017\) text.  
+a\) Read chapters 3, 4, 5, 6 in Badke \(2017\) text.
 
 b\) Read the unit 2 course notes.
 
-c\) Watch the following video tutorials prepared by Dr. William Badke.  The tutorials can be found at this link  [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) Begin with clicking on the tab "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper".  The videos are labelled: Understanding the research process and Pre-research strategies 
+c\) Watch the following video tutorials prepared by Dr. William Badke.  The tutorials can be found at this link  [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) Begin with clicking on the tab "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper".  The videos are labelled: Understanding the research process and Pre-research strategies
 
 ### Learning Activity 2:
 
@@ -16,16 +16,16 @@ a\) Watch the tutorial "Preparing a research question for a database search" fou
 
 b\) Next, return to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to search for articles". Begin by selecting one of video tutorials in the section multi-disciplinary databases such as "Academic Search Premier".  Watch this video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
 
-c\) Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of **journal article.  **To do this you will need to: 
+c\) Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of **journal article.  **To do this you will need to:
 
-1. Go to the library home page https://www.twu.ca/library
-2.  In the first search window click on the databases tab and then click on articles and databases box which brings you to a different screen.
+1. Go to the library home page [https://www.twu.ca/library](https://www.twu.ca/library)
+2. In the first search window click on the databases tab and then click on articles and databases box which brings you to a different screen.
 3. In the Database Guide screen you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
-4.  The first database that appears on the next screen is "Academic Search Premier".  Select this database.  
+4. The first database that appears on the next screen is "Academic Search Premier".  Select this database.  
 5. You will be asked to sign in as a student with your pass ID and password to access the online database.
 6. Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier".
 
-1. ### Learning Activity 4: Blog post 1
+### Learning Activity 4: Blog post 1
 
 Create a new blog post, and post the author, date and title \(including the hyperlink\) of the journal article on your blog.  Next, briefly assess the source in the following categories. Add your post to the 'Learning Activities' and 'Unit 2' categories.
 
@@ -66,8 +66,6 @@ Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides
 ### Learning Activity 8: Blog post 3
 
 Create a new blog post, and describe what sources of information will you use the most to conduct research on your topic?  How will you evaluate these sources to make sure they are credible and reliable sources of information? Add your post to the 'Learning Activities' and 'Unit 2' categories.
-
-
 
 ### 
 
