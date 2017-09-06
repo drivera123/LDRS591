@@ -1,6 +1,6 @@
 ### Clarifying Your Research Interest
 
-The Master of Arts in Leadership program values the application of best practices to your personal professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we need to give time for you to reflect on and articulate some issues that are salient in your personal professional life and practice.  
+The Master of Arts in Leadership program values the application of best practices to your personal professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we need to give time for you to reflect on and articulate some issues that are salient in your personal professional life and practice.
 
 The purpose of this assignment is to provide you with an opportunity to develop a concept map depicting your interests \(personal and/or professional\) and use the concept map to generate research questions amenable to scholarly inquiry. A concept map is a general method used by individuals or groups to describe ideas in the form of a picture \(Trochim, 2001\). The basic idea behind concept mapping is to generate a picture of potential ideas that can be used to articulate or refine research areas that are relevant to scientists and stakeholders.
 
@@ -10,8 +10,7 @@ To complete this assignment successfully, you will be asked to examine Trochimâ€
 
 1. What are your personal and/or professional interests? 
 2. Please diagram these interests by placing yourself as the central point of the map and surrounding yourself with concepts of interest that can range in differentiation \(see notes below figure\). 
-3. What research questions can be generated from combining different areas of personal and/or professional interest you have identified in the concept map? Please state three potential research questions
-    that could be studied using scientific method\(s\). 
+3. What research questions can be generated from combining different areas of personal and/or professional interest you have identified in the concept map? Please state three potential research questions that could be studied. 
 4. Identify which research question you feel is the strongest one to pursue for a future research paper and outline reasons for your selection.
 5. What broad fields do you anticipate you may search for literature that might inform your research question? \(E.g., education, business, psychology, healthcare, leadership, religion\)
 
