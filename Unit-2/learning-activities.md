@@ -27,7 +27,7 @@ c\) Keeping in mind the topic and specific question\(s\) you identified in Assig
 
 ### Learning Activity 4: Blog post 1
 
-Create a new blog post, and post the author, date and title \(including the hyperlink\) of the journal article on your blog.  Next, briefly assess the source in the following categories. Add your post to the 'Learning Activities' and 'Unit 2' categories.
+Create a new blog post, and write the author, date and title \(including the hyperlink\) of a journal article you found in your search in the Academic Search Premier.  Post this information on your blog.  Next, briefly assess the source in the following categories. Add your post to the 'Learning Activities' and 'Unit 2' categories.
 
 •Authority – who is the author, what are the author’s credentials?
 
@@ -65,7 +65,7 @@ Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides
 
 ### Learning Activity 8: Blog post 3
 
-Create a new blog post, and describe what sources of information will you use the most to conduct research on your topic?  How will you evaluate these sources to make sure they are credible and reliable sources of information? Add your post to the 'Learning Activities' and 'Unit 2' categories.
+Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic.  How will you evaluate these sources to make sure they are credible and reliable sources of information? Add your post to the 'Learning Activities' and 'Unit 2' categories.
 
 ### 
 
