@@ -1,11 +1,33 @@
 ### Clarifying Your Research Interest
 
-The Master of Arts in Leadership program values the application of best practices to your personal professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we need to give time for you to reflect on and articulate some issues that are salient in your personal professional life and practice.  The following questions will begin to guide the process.
+The Master of Arts in Leadership program values the application of best practices to your personal professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we need to give time for you to reflect on and articulate some issues that are salient in your personal professional life and practice.  
 
-¬    Significant Question:  What are the “significant questions that can be answered empirically” \(Gall, Gall & Borg 2007, p. 35\) relevant to you in your professional life?  State a research problem in complete, grammatical sentences.  In stating your research problem, consider the following:  
-•    Is my statement sufficiently broad? Is it clear how the general area of study will be limited or focused?  
-•    Does the problem have the potential for providing important and useful answers and information?  
-¬    Research Approach: Based on your reading of Plano-Clark & Creswell, do you think your problem statement lends itself more to qualitative or quantitative research \(for data-based approaches\) or to more conceptual research reports?  Defend your position.  
-¬    Literature Review: What broad fields of social science do you anticipate might inform your problem statement?  What key words would you begin to with as you conduct a literature search?  
-¬    Purpose for Research:  Working with Plano-Clark & Creswell’s definition of research purpose, suggest some focused questions that will serve to guide your upcoming review of precedent literature.
+The purpose of this assignment is to provide you with an opportunity to develop a concept map depicting your interests \(personal and/or professional\) and use the concept map to generate research questions amenable to scholarly inquiry. A concept map is a general method used by individuals or groups to describe ideas in the form of a picture \(Trochim, 2001\). The basic idea behind concept mapping is to generate a picture of potential ideas that can be used to articulate or refine research areas that are relevant to scientists and stakeholders.
+
+**Requirements:**
+
+To complete this assignment successfully, you will be asked to examine Trochim’s \(2001\) guidelines for concept mapping \([http://www.socialresearchmethods.net/kb/conmap.htm](http://www.socialresearchmethods.net/kb/conmap.htm)\) and then respond to the following questions in clear, concise, paragraph form:
+
+1. What are your personal and/or professional interests? 
+2. Please diagram these interests by placing yourself as the central point of the map and surrounding yourself with concepts of interest that can range in differentiation \(see notes below figure\). 
+3. What research questions can be generated from combining different areas of personal and/or professional interest you have identified in the concept map? Please state three potential research questions
+    that could be studied using scientific method\(s\). 
+4. Identify which research question you feel is the strongest one to pursue for a future research paper and outline reasons for your selection.
+5. What broad fields do you anticipate you may search for literature that might inform your research question? \(E.g., education, business, psychology, healthcare, leadership, religion\)
+
+![](/assets/ConceptMap.JPG)
+
+There are two important things to note here.
+
+A. First, the letters A through E represent areas of interest to the researcher \(labelled “You” in the figure above\) and would normally be labelled accordingly in a concept map. For example, A might be health, B might be sport, and so on with as many different yellow circles as the researcher \(‘You’\) has an interest in exploring.
+
+B.Second, the concept map presented in the figure above stopped after one level of abstraction from the researcher \(in other words only one other set of circles was added outside the blue circle identifying the researcher\). It is possible to add other circles to the concept map with more differentiation. For example, assuming that circle A was labelled health two circles could have extended beyond health to include physical and mental health with further extensions identifying what comprises physical \(e.g., fitness, strength, etc\) and mental \(e.g., quality of life, self-worth, etc\) components of health. This is often referred to as differentiation in concept mapping and is used at the researcher’s discretion. On the basis of the areas of interest identified in the concept map, most researchers would proceed to ‘link’ areas together in the form of research questions. For example, if circle A was sport and circle B was health then possible research questions might include \(1\) Does sport participation improve or diminish health? \(2\) Does health limit sport participation? The number \(and nature\) of research questions is not limited and remains at the discretion of the researcher.
+
+**Format of Assignment:**
+
+This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted directly to the course instructor with the student’s name and identification number located in the top right hand side of the header. The concept map must be drawn using electronic software \(Microsoft Word, Powerpoint, Paint, etc\). Any submission that is not fully produced using electronic software cannot be considered for full credit within the context of this assignment. The assignment should not exceed 2 type-written pages so please be clear and concise with your answers.
+
+##### Assignment Rubric
+
+
 
