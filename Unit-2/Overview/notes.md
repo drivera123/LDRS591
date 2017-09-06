@@ -16,11 +16,11 @@ Plano-Clark and Creswell \(2015\) define research as "a process of steps used to
 
 7. **Drawing conclusions** means interpreting the results and explaining how the conclusions relate to the research questions/hypotheses, and/or similar studies.  There is also a discussion of limitations of the study and often suggestions of implications for the study for intended audiences, for practice, and for future research.
 
-8. **Disseminating and evaluating the research. **Usually the term “disseminated” means “published.” The most common way that research is disseminated is in journals dedicated to publishing primary research. 
+8. **Disseminating and evaluating the research. **Usually the term “disseminated” means “published.” The most common way that research is disseminated is in journals dedicated to publishing primary research.
 
 ### Accessing Scholarly Literature
 
-Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search \(library books, online periodicals, internet search\), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests. 
+Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search \(library books, online periodicals, internet search\), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests.
 
 Part of your planning and organizing is to recognize various genres of scholarly literature and to be aware of the limitations inherent to each. A very helpful discussion is provided by Plano-Clark and Creswell \(2015\) on pages 10-12.  The figure below identifies different classifications of scholarly literature, that is, where you can find research reports.![](/assets/Literaturemap.jpg)There are three different categories of documents where you can find research reports.  They are: summaries and books, journal articles and early stage materials. Many times you will see this sequence followed: A research project is completed, the research is first published in a Mater's thesis or PhD dissertation, or as a paper in a symposium or conference, the research report then goes to a professional journal for publication and then research eventually is incorporated into a book. Keep in mind the timeline  at the left side of the figure above. By the time a dissertation is successfully defended, the actual research may have been conducted two to three years prior. It could easily take another three years for a journal article to make it through the peer-reviewed process and actually come to print. This would mean that the actual research referenced in the journal article could well be at least five years old. Then, it could easily take another five years for high quality publishers to work through their review processes and bring something to print in a book.  Obviously, what you lose in this process is cutting edge thought.
 
@@ -61,24 +61,25 @@ As you collect relevant literature you can either enter it into a summary chart 
 
 The research process is not always linear. You may have a great research question or research topic in mind, but as you begin your initial database and library searches you may find yourself changing or refining your topic. Sometimes you will not find any information on the topic you have chosen because the topic is so new and no one has done any research on the topic yet.  Sometimes you will not find any information on the topic you have chosen because you are not using the right search terms or keywords.
 
-If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature.  Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic.  This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic. 
+If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature.  Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic.  This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic.
 
 ### Evaluating Sources
 
-When you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources.  Unfortunately, not all information that you will come across is created equal.  Just because you find articles and books at the library does not mean that the information will be accurate or high quality. 
+When you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources.  Unfortunately, not all information that you will come across is created equal.  Just because you find articles and books at the library does not mean that the information will be accurate or high quality.
 
 As a MA Leadership student, and as a professional, it is imperative that you are able to critically evaluate information in order to conduct quality research yourself, inform your policies and improve your professional practice. To evaluate a source for quality and credibility you need to consider the following:
 
-* **Authority**: Who is the author? What are the author's credentials \(educational background, past writing experience\) in this area? Have you seen the author's name cited in other sources or reference lists? 
+* **Authority**: Who is the author? What are the author's credentials \(educational background, past writing experience\) in this area? Have you seen the author's name cited in other sources or reference lists?
 
 * **Currency: **When was the source published? Is the source current or out of date for your topic? Remember a general rule of thumb is to use sources that have been published in the past 10 years.
 
 * **Purpose:** What is the author’s intention? Is the information the authors opinion or is it factual? Who is the authors audience? Is it the academic community or consumers? Is the author's point of view objective and impartial? Is the language free of emotion-rousing words or bias?
+
 * **Publication type/process:** Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?
 
 * **Bias and special interests: **While bias certainly exists in traditional publications, printing is more expensive and difficult to accomplish. Most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups.
 
-### Synthesize and Critique Scholarly Literature. 
+### Synthesize and Critique Scholarly Literature.
 
 A precedent literature review is a summary of the “state of knowledge” in a given area. It involves abstracting key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to given problem situations. In other words, a good review of precedent literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this is to effectively summarize scholarly literature.
 
@@ -91,12 +92,6 @@ An effective summary and critique of an article or book will: o Mention the prob
 Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
 
 Creswell, J. \(2003\).  Research design: Qualitative, quantitative, and mixed methods approaches \(2nd ed.\).  Thousand Oaks, CA:  Sage.
-
-Driscoll, D.L. & Brizee, A. \(n.d.\). Evaluating sources. Retrieved from: https://owl.english.purdue.edu/owl/resource/553/4/
-
-Leedy, P., & Ormrod, J. \(2010\). Practical research: Planning and design \(9th ed.\). Upper Saddle River, NJ: Prentice-Hall.
-
-University of California Santa Cruz \(n.d.\).  Evaluate the quality and credibility of your sources. Retrieved from: http://library.ucsc.edu/help/research/evaluate-the-quality-and-credibility-of-your-sources
 
 
 
