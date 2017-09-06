@@ -41,9 +41,9 @@ Plano-Clark and Creswell \(2015\) provide a very useful tip regarding what sourc
 
 ### Utilizing Scholarly Literature
 
-After you have determined what sources you will be accessing, you need to keep track of your literature search strategy and results.  The simplest way to do this is to set up a chart that documents the search engine, search words, collapsing of search categories, and results.  This way you will not be repeating your searches, wondering whether you tried a certain combination of search words, or a certain search engine.  One way you can keep track of your sources is to use a chart like the one below:
+After you have determined what sources you will be accessing, you need to conduct a search and keep track of your literature search strategy and results.  The simplest way to do this is to set up a chart that documents the search engine, search words, collapsing of search categories, and results.  This way you will not be repeating your searches, wondering whether you tried a certain combination of search words, or a certain search engine.  One way you can keep track of your sources is to use a chart like the one below:
 
-| Search Engine/         Databases | Search words used | \# of hits | Results |
+| Search Engine/Databases | Search words used | Number of hits | Results |
 | :--- | :--- | :--- | :--- |
 | EbscoHost | mental health and aging | 5,346 | Birren, J.E. et al., \(2013\). Handbook of mental health and aging. Academic Press. |
 
@@ -67,25 +67,40 @@ If you are having difficulty finding research articles and books on your topic t
 
 When you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources.  Unfortunately, not all information that you will come across is created equal.  Just because you find articles and books at the library does not mean that the information will be accurate or high quality.
 
-As a MA Leadership student, and as a professional, it is imperative that you are able to critically evaluate information in order to conduct quality research yourself, inform your policies and improve your professional practice. To evaluate a source for quality and credibility you need to consider the following:
+As a MA Leadership student, and as a professional, it is imperative that you are able to critically evaluate information in order to conduct quality research yourself, inform policies and improve your professional practice. To evaluate a source for quality and credibility you need to consider the following:
 
-* **Authority**: Who is the author? What are the author's credentials \(educational background, past writing experience\) in this area? Have you seen the author's name cited in other sources or reference lists?
+* **Authority**: Who is the author? What are the author's credentials \(educational background, past writing experience, expertise on the topic\)? Is the author's name cited in other sources or reference lists?  A simple google search will help you evaluate these questions.
 
 * **Currency: **When was the source published? Is the source current or out of date for your topic? Remember a general rule of thumb is to use sources that have been published in the past 10 years.
 
-* **Purpose:** What is the author’s intention? Is the information the authors opinion or is it factual? Who is the authors audience? Is it the academic community or consumers? Is the author's point of view objective and impartial? Is the language free of emotion-rousing words or bias?
+* **Purpose:** What is the author’s intention? Is the information the authors opinion or is the author communicating evidence-based results? Who is the authors intended audience? Is it the academic community or consumers? Is the author's point of view objective and impartial? Is the language in the article or book free of emotion or bias?
+
+* **Content: **What kind of information is provided in the article or book? Is it a research article, popular book, opinion piece on a blog?  Is the information provided backed up with references or sources?  What is the length of the reference list?  
 
 * **Publication type/process:** Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?
 
-* **Bias and special interests: **While bias certainly exists in traditional publications, printing is more expensive and difficult to accomplish. Most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups.
+* **Bias and special interests: **According to Panucci and Williams \(2010\) bias can occur during all phases of research from  design, implementation, analysis, and publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias.  Driscoll and Brizee \(2017\) suggest that when it comes to publishing research reports ** "**most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".
 
 ### Synthesize and Critique Scholarly Literature.
 
-A precedent literature review is a summary of the “state of knowledge” in a given area. It involves abstracting key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to given problem situations. In other words, a good review of precedent literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this is to effectively summarize scholarly literature.
+A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this is to effectively critique and summarize scholarly literature.
 
-An effective summary and critique of an article or book will: o Mention the problem being addressed. o State the central purpose or focus of the study. o Briefly state information about the sample, population, or participants. o Review key results that relate to your problem or topic. o Point out any flaws or shortcomings in study methodology or reasoning, logic, or force of argument.
+An effective summary of an article or book will: 
 
-• How Much Is Enough? When doing a review of precedent literature, it may be difficult to determine how much literature to review. To provide some guidance in this decision, consider the main variables of interest, or main subtopics, and include literature on these topics. o Review the scholarly literature pertaining to each identified topic. o Provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed, and articulates how your research interest intersects with this literature \(e.g., why we need to know more, or why the literature needs to be applied in a particular context\). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. o Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors essentially re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
+* Mention the problem being addressed. 
+* State the central purpose or focus of the study. 
+* Briefly state information about the sample, population, or participants. 
+* Review key results/conclusions that relate to your problem or topic. 
+
+Once you have highlighted those key points, then you need to critically evaluate the article or book. An effective critique of an article or a book will:
+
+* Evaluate each section of the article/book – Introduction, Methods, Results, Discussion – highlighting the strengths and weaknesses of each section.
+
+When you are critically evaluating research studies, you are not just listing and summarizing them, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed.  More information on how to specifically evaluate each section of a journal article is coming up in unit 
+
+### How Much Information Is Enough? 
+
+When doing a review of literature, it may be difficult to determine how much literature to review. To provide some guidance in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed, and articulates how your research interest intersects with this literature \(e.g., why we need to know more, or why the literature needs to be applied in a particular context\). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors essentially re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
 
 ##### References:
 
@@ -93,5 +108,7 @@ Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s g
 
 Creswell, J. \(2003\).  Research design: Qualitative, quantitative, and mixed methods approaches \(2nd ed.\).  Thousand Oaks, CA:  Sage.
 
+Driscoll, D.L. & Brizee, A. \(2017\). Evaluating print versus internet sources.  Retrieved from: https://owl.english.purdue.edu/owl/resource/553/04/ 
 
+Pannucci, C.J. & Wilkins, E.G., \(2010\). Identifying and avoiding bias in research.  _Plast Reconstr Surg. 126_\(2\), 619-625.
 
