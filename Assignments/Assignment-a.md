@@ -11,7 +11,7 @@ To complete this assignment successfully, you will be asked to examine Trochimâ€
 1. What are your personal and/or professional interests? 
 2. Please diagram these interests by placing yourself as the central point of the map and surrounding yourself with concepts of interest that can range in differentiation \(see notes below figure\). 
 3. What research questions can be generated from combining different areas of personal and/or professional interest you have identified in the concept map? Please state three potential research questions that could be studied. 
-4. Identify which research question you feel is the strongest one to pursue for a future research paper and outline reasons for your selection.
+4. Identify which research question you feel is **the strongest one** to pursue for a future research paper and outline reasons for your selection.
 5. What broad fields do you anticipate you may search for literature that might inform your research question? \(E.g., education, business, psychology, healthcare, leadership, religion\)
 
 ![](/assets/ConceptMap.JPG)
