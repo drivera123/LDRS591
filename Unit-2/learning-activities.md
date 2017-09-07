@@ -12,7 +12,7 @@ b\) Complete Assignment \#1 and submit the assignment in the assignment 1 drop b
 
 ### Learning Activity 3:
 
-a\) Read chapter 4 & 6 in Badke \(2017\) text. 
+a\) Read chapter 4 & 6 in Badke \(2017\) text.
 
 b\) Watch the tutorial "Preparing a research question for a database search" found here: [https://vimeo.com/161998287/7661f12293](https://vimeo.com/161998287/7661f12293)
 
@@ -65,7 +65,9 @@ Create a new blog post, and post the author, date and title \(including the hype
 
 a\) Read chapter 7 in Badke \(2017\) text.
 
-b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to develop research skills".  Begin by watching all of the video tutorials under the section "upgrading your research skills".  There are three short videos in this section on Boolean searches, search history, and other search techniques.  Next, watch the two videos in the section "using the web".  There are two short videos on using google scholar and assessing online resources in this section.
+b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to develop research skills".  Begin by watching all of the video tutorials under the section "upgrading your research skills".  There are three short videos in this section on Boolean searches, search history, and other search techniques.  
+
+c\) Next, watch the two videos in the section "using the web".  There are two short videos on using google scholar and assessing online resources in this section.
 
 ### Learning Activity 8: Blog post 3
 
