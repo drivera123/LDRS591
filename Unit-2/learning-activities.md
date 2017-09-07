@@ -65,7 +65,7 @@ Create a new blog post, and post the author, date and title \(including the hype
 
 a\) Read chapter 7 in Badke \(2017\) text.
 
-b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to develop research skills".  Begin by watching all of the video tutorials under the section "upgrading your research skills".  There are three short videos in this section on Boolean searches, search history, and other search techniques.  
+b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to develop research skills".  Begin by watching all of the video tutorials under the section "upgrading your research skills".  There are three short videos in this section on Boolean searches, search history, and other search techniques.
 
 c\) Next, watch the two videos in the section "using the web".  There are two short videos on using google scholar and assessing online resources in this section.
 
