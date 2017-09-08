@@ -8,7 +8,7 @@ b\) Watch the following video tutorials prepared by Dr. William Badke.  The tuto
 
 a\) Read chapter 3 in Badke \(2017\) text.
 
-b\) Complete Assignment \#1 and submit the assignment in the assignment 1 drop box on Moodle.
+b\) Complete Assignment \#1 and submit it via the assignment 1 drop box in the Learning Management System (LMS).
 
 ### Learning Activity 3:
 
