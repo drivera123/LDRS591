@@ -14,7 +14,7 @@ An example of the three types of content \(claims, evidence and transitions\) in
 
 From the example above, a claim is written in the first sentence.  A claim with supporting evidence is provided in the second sentence \(with references\) and the transition begins in the third sentence with the word "despite". The third sentence also includes a claim and supporting evidence. This paragraph structure is typical of what you would find in scholarly writing.
 
-Heady \(2013\) suggests 5 general rules you should always follow when you are organizing your paper \(p. 80\): 
+Heady \(2013\) suggests 5 general rules you should always follow when you are organizing your paper \(p. 80\):
 
 1. You must provide enough background information to set up your question, but not so much that your reader loses interest.
 2. Get to your main point \(or the purpose of your paper\) as quickly as possible.
@@ -24,13 +24,13 @@ Heady \(2013\) suggests 5 general rules you should always follow when you are or
 
 ##### Critical thinking
 
-One of the distinguishing features of scholarly writing at the graduate-level is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\). 
+One of the distinguishing features of scholarly writing at the graduate-level is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\).
 
-Critical thinking is important in graduate-level writing because.......
+Critical thinking is important in graduate-level writing because....... \(Bloom's taxonomy level 4,5,6 analyze, synthesize, and evaluate\)
 
-Here is what it looks like...... 
+Here is what it looks like......
 
-### What is APA formatting?
+### APA formatting
 
 ### The American Psychological Association has developed a writing
 
@@ -40,9 +40,7 @@ Here is what it looks like......
 
 References
 
-Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411
+Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: [http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411](http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411)
 
-Heady, E. \(2013\).  Introduction to graduate writing \(2nd. ed.\). Lynchburg, VA: Liberty University Graduate Writing Center. 
-
-
+Heady, E. \(2013\).  Introduction to graduate writing \(2nd. ed.\). Lynchburg, VA: Liberty University Graduate Writing Center.
 
