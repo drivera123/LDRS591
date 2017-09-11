@@ -1,8 +1,8 @@
 ### **Assignment \# 3 – Literature Review Search**
 
-The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignment \#4 will be closely linked. This assignment will include the “paper trail” providing the actual details of your search for relevant literature, and Assignment \#4 will be the final document that summarizes the findings of your review of precedent literature in scholarly prose.  Please notice that this assignment follows the search strategy suggested by Badke \(2017\). 
+The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignment \#4 will be closely linked. This assignment will include the “paper trail” providing the actual details of your search for relevant literature, and Assignment \#4 will be the final document that summarizes the findings of your review of precedent literature in scholarly prose.  Please notice that this assignment follows the search strategy suggested by Badke \(2017\).
 
-##### Literature Review Search 
+##### Literature Review Search
 
 1. **Identify your research topic**: In the first paragraph, state the problem you are addressing in at most a few concise sentences Next, provide your research question\(s\).
 2. **Record your library catalogue search:** In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement.  You may use a table \(in APA format\) similar to the one below to organize this information.
@@ -17,7 +17,7 @@ Table 1. _Library catalogue search_
 |  |  |  |  |
 |  |  |  |  |
 
-**3. Identify key sources:** In the third section list 10 scholarly sources that you have found that are potentially relevant to your research question. 
+**3. Identify key sources:** In the third section list 10 scholarly sources that you have found that are potentially relevant to your research question.
 
 a\) Include at least two books or e-books and 5-8 journal articles. Present the results in a table like the one below.
 
@@ -57,13 +57,32 @@ Table 3. _Internet search results_
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-**4. Preliminary investigation summary: **In a fourth section, in several appropriately cited paragraphs each, do the following: 
+**4. Preliminary investigation summary: **In a fourth section, in several appropriately cited paragraphs each, do the following:
 
-\(a\) Present a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature. 
+\(a\) Present a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature.
 
 \(b\) Present a brief statement outlining your personal professional interest in this topic. In essence, you are providing a summary of the topic based on your own experiences and from the reference sources. You will want to superficially describe the relevant issues subsumed in your problem statement, including the urgency, the controversies, and anything else that will convince your reader that your problem statement is worthwhile pursuing.
 
- 5. 
+**5. Reference list: **List all references in APA 6 format.** **
 
- 
+**6.** **APA formatting is required for this assignment.**  This means that you need to:
+
+1. Use Times New Roman, 12-point font.
+2. Double-space between all text lines.
+3. Leave 1 inch margins at the top, bottom, right and left side of the page.
+4. Indent the first line of every paragraph.
+5. Use the flush-left alignment style.
+6. Create a title page including: a title, running head, author byline, institutional affiliation, and page number.
+7. Organize your paper with appropriate headings \(see 3.02 in APA manual\)
+8. Adhere to the writing style identified in the APA manual in chapter 3.
+9. Adhere to the mechanics of style identified in chapter 4 of the APA manual.
+10. Adhere to the crediting of sources identified in chapter 6 of the APA manual. 
+
+**7. Submit your assignment to the course instructor.**
+
+##### Assignment Rubric
+
+
+
+
 
