@@ -1,14 +1,14 @@
 ### Assignment \#2: Article Review
 
-Below you will find a guideline for writing a critique of a journal article. This assignment should be written in APA style format.  Pleas use your APA manual for details regarding structure and content, writing clearly and concisely, the mechanics of style and crediting sources. 
+Below you will find a guideline for writing a critique of a journal article. This assignment should be written in APA style format.  Pleas use your APA manual for details regarding structure and content, writing clearly and concisely, the mechanics of style and crediting sources.
 
-This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, which requires you to synthesize a lot of information in a concise way. This can often be rather challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended. If you need further help, please consult with the instructor. 
+This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, which requires you to synthesize a lot of information in a concise way. This can often be rather challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended. If you need further help, please consult with the instructor.
 
-**STEP 1:** Select a published, peer-reviewed journal article of your choice and provide the reference for this article in APA format at the top of the page.  
+**STEP 1:** Select a published, peer-reviewed journal article of your choice and provide the reference for this article in APA format at the top of the page.
 
 **STEP 2:** Summarize the article you selected by answering each of the following questions:
 
-1. What are the key research questions being asked by this study?
+1. What are the key research questions being addressed?
 2. Are these questions based on, or related to, previous theory or research?
 3. What are \(if any\) the specific study hypotheses?
 4. Provide a brief overview of the participant sample, including age, sex, any distinguishing features of the sample, and how they were recruited.
@@ -47,7 +47,9 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 9. Adhere to the mechanics of style identified in chapter 4 of the APA manual.
 10. Adhere to the crediting of sources identified in chapter 6 of the APA manual. 
 
-STEP 6: Submit your assignment to 
+**STEP 6**: Submit your assignment to the course instructor.
+
+##### Assignment Rubric
 
 
 
