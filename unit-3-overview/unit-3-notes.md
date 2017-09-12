@@ -1,6 +1,6 @@
 ### Developing your professional voice
 
-When you are asked to write scholarly papers, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communications \(Basics of Scholarly Voice, 2017\).   Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).  
+When you are asked to write scholarly papers, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communications \(Basics of Scholarly Voice, 2017\).   Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).
 
 Developing your professional voice is important because some students will turn their papers into professional manuscripts that will be submitted to a journal or a book.  Some students may be asked to present their work at a professional conference. McDonald suggests that "for most students, writing papers in graduate school is an exercise in presenting important information in an easy to understand and concise way" \(p.125\).
 
@@ -52,29 +52,27 @@ Here is what it looks like......
 
 The final assignment in this course is to write a formal literature review based on the research topic that you have chosen for assignment \#1.  This section will elaborate on what is expected in a formal scholarly paper \(such as a literature review\) and in unit 4 there will be more specific information about what a literature review is.
 
-To begin writing a scholarly paper you need to have a research topic in mind, you need to do a review of scholarly literature to obtain a good working knowledge of your topic, you need to critically evaluate the literature you have reviewed and then you need to have an organizational system for presenting what you know about the research topic.  
+To begin writing a scholarly paper you need to have a research topic in mind, you need to do a review of scholarly literature to obtain a good working knowledge of your topic, you need to critically evaluate the literature you have reviewed and then you need to have an organizational system for presenting what you know about the research topic.
 
 The APA \(2010\) manual provides a clear organizational structure for presenting scholarly information.   The structure of your paper should include the following: a title page, an abstract, an introduction, a methods and results, a discussion, a reference list and supplementary materials.  Let's take a closer look at what should be included in each of these sections of a scholarly paper.
 
-**Title Page:** This is the first page of your paper and it should include a title that summarizes the main topic you will be discussing.  It should also include your name \(the author\), and the institution you are affiliated with \(Trinity Western University\).  It is also helpful if you include the date that you are submitting the assignment. 
+**Title Page:** This is the first page of your paper and it should include a title that summarizes the main topic you will be discussing.  It should also include your name \(the author\), and the institution you are affiliated with \(Trinity Western University\).  It is also helpful if you include the date that you are submitting the assignment.
 
-**Abstract:** This the second page of your paper.  The purpose of the abstract is for the author to to convey the sentiment of the study in a concise yet informative manner.  The abstract is used to determine if the reader is interested in the article and wants to retrieve the article for further information.  In 250 words, the abstract explicitly states the overall problem and research question, a brief description of the method, a summary of the findings, and important conclusions. 
+**Abstract:** This the second page of your paper.  The purpose of the abstract is for the author to to convey the sentiment of the study in a concise yet informative manner.  The abstract is used to determine if the reader is interested in the article and wants to retrieve the article for further information.  In 250 words, the abstract explicitly states the overall problem and research question, a brief description of the method, a summary of the findings, and important conclusions.
 
-**Introduction:** The purpose of an introduction is to inform the reader with the rationale behind your research topic. It should provide a brief overview of the "problem" that you are addressing by providing a broad context, any relevant statistics and describing the importance of your topic.  The introduction is also the place where you can define any important terms that may be unfamiliar to the reader and ends with establishing what is the key purpose for the paper.  This can be stated as your research question.  
+**Introduction:** The purpose of an introduction is to inform the reader with the rationale behind your research topic. It should provide a brief overview of the "problem" that you are addressing by providing a broad context, any relevant statistics and describing the importance of your topic.  The introduction is also the place where you can define any important terms that may be unfamiliar to the reader and ends with establishing what is the key purpose for the paper.  This can be stated as your research question.
 
-**Methods:**  The methods section outlines specifically what procedures the author chose to do.  In a research report this section will include the sampling methods, sample size, measures, research design, and interventions used. The methods section of a research report looks very different than a methods section of a literature review. In a literature review the methods section will emphasize how you chose the articles you reviewed.  This will include describing any inclusion or exclusion criteria, the databases that were searched, what key search terms were used, how many records were obtained and how many articles were included in the review.  You can refer to Plano-Clark and Creswell \(2015\) on page 20 or to the APA \(2010\) manual on page 29  for a more detailed explanation of the methods section.  
+**Methods:**  The methods section outlines specifically what procedures the author chose to do.  In a research report this section will include the sampling methods, sample size, measures, research design, and interventions used. The methods section of a research report looks very different than a methods section of a literature review. In a literature review the methods section will emphasize how you chose the articles you reviewed.  This will include describing any inclusion or exclusion criteria, the databases that were searched, what key search terms were used, how many records were obtained and how many articles were included in the review.  You can refer to Plano-Clark and Creswell \(2015\) on page 20 or to the APA \(2010\) manual on page 29  for a more detailed explanation of the methods section.
 
-Results
+**Results:**
 
 Discussion
 
 Reference List
 
-
-
 References
 
-American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association. 
+American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association.
 
 Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: [http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411](http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411)
 
