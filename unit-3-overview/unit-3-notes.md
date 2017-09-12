@@ -64,7 +64,7 @@ The APA \(2010\) manual provides a clear organizational structure for presenting
 
 **Methods:**  The methods section outlines specifically what procedures the author chose to do.  In a research report this section will include the sampling methods, sample size, measures, research design, and interventions used. The methods section of a research report looks very different than a methods section of a literature review. In a literature review the methods section will emphasize how you chose the articles you reviewed.  This will include describing any inclusion or exclusion criteria, the databases that were searched, what key search terms were used, how many records were obtained and how many articles were included in the review.  You can refer to Plano-Clark and Creswell \(2015\) on page 20 or to the APA \(2010\) manual on page 29  for a more detailed explanation of the methods section.
 
-**Results:**
+**Results: **The results section reports the findings of the data analysis of a research report or the critical analysis of a literature review.  
 
 Discussion
 
