@@ -87,7 +87,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study; I =
 
 **Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(2010\) has many rules to follow for correct formatting of references \(see chapter 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources." \(p.193\)
 
-References
+**References**
 
 American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association.
 
