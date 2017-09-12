@@ -64,9 +64,19 @@ The APA \(2010\) manual provides a clear organizational structure for presenting
 
 **Methods:**  The methods section outlines specifically what procedures the author chose to do.  In a research report this section will include the sampling methods, sample size, measures, research design, and interventions used. The methods section of a research report looks very different than a methods section of a literature review. In a literature review the methods section will emphasize how you chose the articles you reviewed.  This will include describing any inclusion or exclusion criteria, the databases that were searched, what key search terms were used, how many records were obtained and how many articles were included in the review.  You can refer to Plano-Clark and Creswell \(2015\) on page 20 or to the APA \(2010\) manual on page 29  for a more detailed explanation of the methods section.
 
-**Results: **The results section reports the findings of the data analysis of a research report or the critical analysis of a literature review.  
+**Results: **The results section reports the findings of the data analysis of a research report or the critical analysis of a literature review. Please refer to Plano-Clark and Creswell \(2015\) for extensive detail about the results of different research reports.  
 
-Discussion
+The literature review "results" should include: the author and year of publication, the purpose of the study, type of study, method of data collection, major findings, and key conclusions. Then it is important to critically evaluate the articles you have reviewed. When you are critically evaluating research studies, you are not just listing and summarizing items, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study that you have reviewed.
+
+As an example, below is an excerpt from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy \(2013\).  In this excerpt, Parris and Peachy \(2013\) discuss the results from their review of servant leadership in one area: implementation of servant  leadership.  This is what they found:
+
+"Three studies examined servant leadership in various organizational processes \(Hamilton and Bean 2005—leadership development; Savage-Austin and Honeycutt 2011 - organizational change; Dingman and Stone 2007— succession planning\). Nevertheless, these studies were not supported by other empirical studies nor were their methodological quality sufficient to provide any conclusions." \(p. 388\).
+
+Parris and Peachy \(2013\) provided information about the three studies they reported on for the theme implementation of servant leadership in the table below.  This table describes the reference, type of study conducted, conclusions, the quality of methodology and the strength of evidence in support of the conclusion.  This is an effective and efficient way of presenting the information.  
+
+ ![](/assets/9ac81912-55b0-4663-b104-b1d0df8e5a33 %282%29.jpe)
+
+**Discussion: **In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed.  In this section the author may discuss the strengths and limitations of the literature, draw conclusions and make recommendations for future research on the topic.  
 
 Reference List
 
