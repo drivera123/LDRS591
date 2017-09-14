@@ -2,13 +2,13 @@
 
 a\) Read the unit 3 notes
 
-b\) Read chapter 2 "Manuscript Structure and Content" and pgs. 228-230 section 8.03 "Author Responsibilities" of the APA \(2010\) manual.
+b\) Read chapter 2 and pgs. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
-### Learning Activity 2:
+### Learning Activity 2: Blog post
 
-Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to the structure of the article and writing your summary clearly and concisely. Here is what you need to include in your article summary:
+Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to the structure of the article and writing your summary clearly and concisely. Here is what you need to include in your summary:
 
-**1\)** **Reference in APA format.**
+**1\)** **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
 **2\)** **Introduction** - Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address.  Were there any hypotheses? if so, what were they?
 
@@ -20,19 +20,74 @@ Find a scholarly article from the article search that you did in unit 2.  Write 
 
 **6\) Personal comments** – Give your reaction to the study. For example,  What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
 
+**7\) Reference - ** in APA format \(see chapter 6 in the APA manual\).
+
 Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
-### Learning Activity 3:
+### Learning Activity 3: Blog post
 
-a\) Read chapter 3 of the APA \(2010\) manual.
+a\) Read chapter 3 \(pgs. 61-76\) of the APA manual.
 
-b\) Using the article summary that you completed for learning activity 2,  create a new blog post and re-format your summary so that you are using APA formatting rules from chapter 2, 3, and 8.03 in the APA manual. Here is what you should include:
+b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3, and 8.03 in the APA manual. I have identified the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
 
-1\) Times new roman 12 point font.
+1\) Times new roman 12 point font \(8.03\)
 
-2\) Double- space between all text lines of the paper.
+2\) Double- space between all text lines of the paper \(8.03\)
 
-3\) Leave 1 inch margins at the top, bottom, left, and right of every page.
+3\) Leave 1 inch margins at the top, bottom, left, and right of every page \(8.03\)
+
+4\) Indent the first line of every paragraph \(8.03\)
+
+5\) Use the flush-left alignment style \(8.03\)
+
+6\) Organize the summary with appropriate headings \(3.03\)  
+
+7\)  Evaluate your summary and edit it to improve your writing style paying close attention to:
+
+* Continuity in presentation of ideas \(3.05\)
+* Smoothness of expression \(3.06\)
+* Tone \(3.07\)
+* Economy of expression \(3.08\)
+* Precision and clarity \(3.09\)
+* Linguistic devices \(3.10\)
+* Reducing bias \(3.11\)
+
+Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
+
+### Learning Activity 4: Blog post
+
+a\) Read pages 77-86 of chapter 3 and 87-114 in chapter 4 of the APA manual.
+
+b\) ???????
+
+### Learning Activity 5: Blog post
+
+a\) Read chapters 6 \(pgs. 180-192\) and chapter 7 of the APA manual.
+
+b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should use include the following:
+
+* A journal article \(7.01\)
+* A book or book chapter \(7.02\)
+* A government report \(7.03\)
+* A blog post \(7.11 \#76\)
+* A doctoral dissertation or master's thesis \(7.05\)
+* An online newspaper article \(7.01 \#11\)
+
+Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
+
+### Learning Activity 6: Blog post
+
+a\) Read chapter 6 \(pgs. 169-179\) of the APA manual.
+
+b\) Using the article that you found for learning activity 2, provide examples of the following:
+
+* A direct quote less than 40 words with proper in-text citation \(6.03\)
+* A direct quote more than 40 words with proper in-text citation \(6.03\).
+* Write a sentence that refers to an idea from the article \(paraphrased\) and provide a proper in-text citation \(6.11-6.12\)
+
+### Learning Activity 7: 
+
+Complete Assignment \#2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).
 
 
 
