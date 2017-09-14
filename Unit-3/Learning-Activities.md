@@ -1,8 +1,8 @@
 ### Learning Activity 1:
 
-a\) Read chapter 2 Manuscript Structure and Content and pgs. 228-230 \(8.03 - Author Responsibilities\) of the APA \(2010\) manual.
+a\) Read the unit 3 notes
 
-b\) Read the unit 3 notes
+b\) Read chapter 2 "Manuscript Structure and Content" and pgs. 228-230 section 8.03 "Author Responsibilities" of the APA \(2010\) manual.
 
 ### Learning Activity 2:
 
@@ -22,11 +22,11 @@ Find a scholarly article from the article search that you did in unit 2.  Write 
 
 Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
-### Learning Activity 3: 
+### Learning Activity 3:
 
-a\) Read chapter 3 of the APA \(2010\) manual. 
+a\) Read chapter 3 of the APA \(2010\) manual.
 
-b\) Using the article summary that you completed for learning activity 2,  create a new blog post and  so that you are using APA formatting. Here  
+b\) Using the article summary that you completed for learning activity 2,  create a new blog post and  re-format your summary so that you are using APA formatting. Here is what you should include:
 
-
+1\) 
 
