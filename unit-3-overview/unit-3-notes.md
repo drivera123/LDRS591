@@ -68,11 +68,11 @@ The APA \(2010\) manual provides a clear organizational structure for presenting
 
 The literature review "results" should include: the author and year of publication, the purpose of the study, type of study, method of data collection, major findings, and key conclusions. Then it is important to critically evaluate the articles you have reviewed. When you are critically evaluating research studies, you are not just listing and summarizing items, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study that you have reviewed.
 
-As an example, below is an excerpt from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy \(2013\).  In this excerpt, Parris and Peachy \(2013\) discuss the results from their review of servant leadership in one area: implementation of servant  leadership.  This is what they found:
+As an example, below is an excerpt from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy \(2013\).  In this excerpt, Parris and Peachy \(2013\) discuss the results from their review of servant leadership in one area, implementation of servant  leadership.  This is what they found:
 
-"Three studies examined servant leadership in various organizational processes \(Hamilton and Bean 2005—leadership development; Savage-Austin and Honeycutt 2011 - organizational change; Dingman and Stone 2007— succession planning\). Nevertheless, these studies were not supported by other empirical studies nor were their methodological quality sufficient to provide any conclusions." \(p. 388\).
+"Three studies examined servant leadership in various organizational processes \(Hamilton and Bean 2005—leadership development; Savage-Austin and Honeycutt 2011 - organizational change; Dingman and Stone 2007— succession planning\). Nevertheless, these studies were not supported by other empirical studies nor were their methodological quality sufficient to provide any conclusions" \(p. 388\).
 
-Parris and Peachy \(2013\) provided information about the three studies they found under the theme implementation of servant leadership in the table below.  This table describes the reference, type of study conducted, conclusions, the quality of methodology and the strength of evidence in support of the conclusion.  This is an effective and efficient way of presenting the information in a literature review.
+Parris and Peachy \(2013\) provided information about the three studies they found under the theme implementation of servant leadership in the table below.  This table describes the reference, type of study conducted, conclusions, the quality of methodology and the strength of evidence in support of the conclusion.  This is an effective and efficient way of presenting information in a literature review.
 
 Table 3 continued \(adapted from Parris & Peachy, 2013 pg. 385\)
 
@@ -85,7 +85,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study; I =
 
 **Discussion: **In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed.  In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
 
-**Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(2010\) has many rules to follow for correct formatting of references \(see chapter 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources." \(p.193\)
+**Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(2010\) has many rules to follow for correct formatting of references \(see chapter 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources" \(p.193\).
 
 **References**
 
