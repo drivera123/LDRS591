@@ -26,7 +26,13 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read chapter 3 of the APA \(2010\) manual.
 
-b\) Using the article summary that you completed for learning activity 2,  create a new blog post and  re-format your summary so that you are using APA formatting. Here is what you should include:
+b\) Using the article summary that you completed for learning activity 2,  create a new blog post and re-format your summary so that you are using APA formatting rules from chapter 2, 3, and 8.03 in the APA manual. Here is what you should include:
 
-1\) 
+1\) Times new roman 12 point font.
+
+2\) Double- space between all text lines of the paper.
+
+3\) Leave 1 inch margins at the top, bottom, left, and right of every page.
+
+
 
