@@ -78,7 +78,7 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read chapters 6 \(pgs. 180-192\) and chapter 7 of the APA manual.
 
-b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should use include in your reference list are:
+b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should include in your reference list are:
 
 * A journal article \(7.01\)
 * A book or book chapter \(7.02\)
@@ -101,5 +101,11 @@ b\) Using the article that you found for learning activity 2, write an example o
 
 ### Learning Activity 7:
 
-Complete Assignment \#2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).
+Create a title page in APA format including: a title, running head, author byline, institutional affiliation, and page number \(see pg. 229 in the APA manual under the heading "order of manuscript pages"\).
+
+### Learning Activity 8:
+
+a\) Read chapter 9 of Badke \(2017\) "Learning how to read for research".
+
+b\) Complete Assignment \#2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).
 
