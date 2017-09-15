@@ -32,7 +32,7 @@ b\) Using the article summary that you just completed for learning activity 2, r
 
 1\) Times New Roman 12 point font \(8.03\)
 
-2\) Double- space between all text lines of the paper \(8.03\)
+2\) Double-space between all text lines of the paper \(8.03\)
 
 3\) Leave 1 inch margins at the top, bottom, left, and right of every page \(8.03\)
 

@@ -1,6 +1,6 @@
 ### Developing your professional voice
 
-When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communications \(Basics of Scholarly Voice, 2017\).   Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).
+When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communications \(Walden University Writing Center, 2017\).   Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).
 
 Developing your professional voice is important because some students will turn their papers into professional manuscripts that will be submitted to a journal or a book.  Some students may be asked to present their work at a professional conference. McDonald suggests that "for most students, writing papers in graduate school is an exercise in presenting important information in an easy to understand and concise way" \(p.125\).
 
@@ -8,7 +8,7 @@ A well developed professional voice can also benefit you in your professional co
 
 In order to communicate well, you need to have a system to organize your thoughts so that the information you are writing is presented in a way that is organized and clear.  There are a wide variety of publication styles that are employed today in universities and in scholarly publications.  A few that you may be familiar with are: Chicago style, MLA style, Turbian style and APA style. The American Psychological Association \(APA\) has developed a writing style that is used to establish a standard of written communication.  This standard includes: the organization of content, writing style or writing mechanics, citing references, and how to prepare a manuscript for publication in certain disciplines \(APA, 2010\).  The MA Leadership program uses the APA Manual \(6th edition\) as the model for formatting written work formally submitted.
 
-Aside from simplifying the work of your instructors by having everyone use the same format for a given publication, using APA style makes it easier for readers to understand a text by providing a familiar structure they can follow.  Abiding by APA's standards as a writer will allow you to:
+Aside from simplifying the work of your instructors by having everyone use the same format for a given paper, using APA style makes it easier for readers to understand a text by providing a familiar structure they can follow.  Abiding by APA's standards as a writer will allow you to:
 
 1\) Provide readers with cues they can use to follow your ideas more efficiently.
 
@@ -24,7 +24,7 @@ According to Heady \(2013\), graduate-level \(or scholarly\) writing is "clear, 
 
 ##### Structure and Organization
 
-Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, and a discussion.  Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions.  Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" \(pp. 74-75\).  Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" \(pp. 74-75\).
+Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, a discussion and a list of references.  Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions.  Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" \(pp. 74-75\).  Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" \(pp. 74-75\).
 
 An example of the three types of content \(claims, evidence and transitions\) included in a paragraph of scholarly writing is provided below from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy \(2013, pp 377-378\):
 
@@ -34,10 +34,10 @@ From the example above, you can see that a claim is written in the first sentenc
 
 Heady \(2013\) suggests 5 general rules you should always follow when you are organizing your paper \(p. 80\):
 
-1. You must provide enough background information to give your reader a good working knowledge about the topic that you are writing about.
+1. You must provide enough background information to give your reader a good working knowledge of your  topic.
 2. Your background information must lead logically to your research question.
-3. All claims must be backed up by evidence.
-4. All evidence must be related to a claim.
+3. All claims/ideas/facts must be backed up by evidence.
+4. All evidence must be related to a claim/idea/fact.
 5. If evidence does not back up a claim, you need to explain why and/or account for it.
 
 ##### Critical thinking
@@ -90,6 +90,8 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study; I =
 **References**
 
 American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association.
+
+Walden University Writing Center \(2017\).  Basics of scholarly voice. Retrieved from: http://academicguides.waldenu.edu/writingcenter/scholarlyvoice  
 
 Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: [http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411](http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411)
 
