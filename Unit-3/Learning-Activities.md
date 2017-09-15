@@ -6,7 +6,7 @@ b\) Read chapter 2 and pgs. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
 ### Learning Activity 2: Blog post
 
-Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to the structure of the article and writing your summary clearly and concisely. Here is what you need to include in your summary:
+Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to writing your summary clearly and concisely. Here is what you need to include in your summary:
 
 **1\)** **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
@@ -101,7 +101,7 @@ b\) Using the article that you found for learning activity 2, write an example o
 
 ### Learning Activity 7:
 
-Create a title page in APA format including: a title, running head, author byline, institutional affiliation, and page number \(see pg. 229 in the APA manual under the heading "order of manuscript pages"\).
+Create a title page in APA format in a word document.  Your title page should include: a title, running head, author byline, institutional affiliation, and page number \(see pg. 229 in the APA manual under the heading "order of manuscript pages"\).  Follow the instructions below to submit this document to your instructor.
 
 ### Learning Activity 8:
 
