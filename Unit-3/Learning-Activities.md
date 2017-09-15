@@ -30,7 +30,7 @@ a\) Read chapter 3 \(pgs. 61-76\) of the APA manual.
 
 b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3, and 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
 
-1\) Times new roman 12 point font \(8.03\)
+1\) Times New Roman 12 point font \(8.03\)
 
 2\) Double- space between all text lines of the paper \(8.03\)
 
@@ -42,7 +42,7 @@ b\) Using the article summary that you just completed for learning activity 2, r
 
 6\) Organize the summary with appropriate headings \(3.03\)
 
-7\)  Evaluate your summary and edit it to improve your writing style paying close attention to:
+7\) Evaluate your summary and edit it to improve your writing style paying close attention to:
 
 * Continuity in presentation of ideas \(3.05\)
 * Smoothness of expression \(3.06\)
@@ -58,7 +58,7 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read pages 77-86 of chapter 3 and 87-114 in chapter 4 of the APA manual.
 
-b\) Using the article summary that you just completed for learning activity 3, re-format your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
+b\) Using the article summary that you just completed for learning activity 3, re-edit your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
 
 * Active rather than passive voice \(3.18\)
 * Agreement of subject and verb \(3.19\)
@@ -78,7 +78,7 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read chapters 6 \(pgs. 180-192\) and chapter 7 of the APA manual.
 
-b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should use include the following:
+b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should use include in your reference list are:
 
 * A journal article \(7.01\)
 * A book or book chapter \(7.02\)
@@ -93,7 +93,7 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read chapter 6 \(pgs. 169-179\) of the APA manual.
 
-b\) Using the article that you found for learning activity 2, provide examples of the following:
+b\) Using the article that you found for learning activity 2, write an example of each of the following:
 
 * A direct quote less than 40 words with proper in-text citation \(6.03\)
 * A direct quote more than 40 words with proper in-text citation \(6.03\).
