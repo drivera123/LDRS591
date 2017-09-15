@@ -42,9 +42,13 @@ Heady \(2013\) suggests 5 general rules you should always follow when you are or
 
 ##### Critical thinking
 
-One of the distinguishing features of scholarly writing at the graduate-level is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\).
+One of the distinguishing features of scholarly writing is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\).
 
-Critical thinking is important in graduate-level writing because....... \(Bloom's taxonomy level 4,5,6 analyze, synthesize, and evaluate\)
+Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning.  They are: knowledge \(1\), comprehension \(2\), application \(3\), analysis \(4\), synthesis \(5\) and evaluation \(6\).  When you are preparing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, it should reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to: 
+
+* "break down ideas into parts and see how those parts relate and are organized" to demonstrate analysis.  
+* "re-arrange ideas into a new whole" to demonstrate synthesis.
+* "make judgements based on internal evidence or external criteria" to demonstrated evaluation.
 
 Here is what it looks like......
 
@@ -91,7 +95,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study; I =
 
 American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association.
 
-Walden University Writing Center \(2017\).  Basics of scholarly voice. Retrieved from: http://academicguides.waldenu.edu/writingcenter/scholarlyvoice  
+Walden University Writing Center \(2017\).  Basics of scholarly voice. Retrieved from: [http://academicguides.waldenu.edu/writingcenter/scholarlyvoice](http://academicguides.waldenu.edu/writingcenter/scholarlyvoice)
 
 Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: [http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411](http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411)
 
