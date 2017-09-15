@@ -28,7 +28,7 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read chapter 3 \(pgs. 61-76\) of the APA manual.
 
-b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3, and 8.03 in the APA manual. I have identified the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
+b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3, and 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
 
 1\) Times new roman 12 point font \(8.03\)
 
@@ -40,7 +40,7 @@ b\) Using the article summary that you just completed for learning activity 2, r
 
 5\) Use the flush-left alignment style \(8.03\)
 
-6\) Organize the summary with appropriate headings \(3.03\)  
+6\) Organize the summary with appropriate headings \(3.03\)
 
 7\)  Evaluate your summary and edit it to improve your writing style paying close attention to:
 
@@ -58,7 +58,21 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read pages 77-86 of chapter 3 and 87-114 in chapter 4 of the APA manual.
 
-b\) ???????
+b\) Using the article summary that you just completed for learning activity 3, re-format your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
+
+* Active rather than passive voice \(3.18\)
+* Agreement of subject and verb \(3.19\)
+* Pronouns \(3.20\)
+* Dangling modifiers \(3.21\)
+* Parallel construction \(3.23\)
+* Punctuation \(4.01-4.11\) 
+* Spelling \(4.12\)
+* Capitalization \(4.14-4.20\)
+* Italics \(4.21\)
+* Abbreviations \(4.22\)
+* Numbers \(4.31 & 4.32\)
+
+Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
 ### Learning Activity 5: Blog post
 
@@ -85,9 +99,7 @@ b\) Using the article that you found for learning activity 2, provide examples o
 * A direct quote more than 40 words with proper in-text citation \(6.03\).
 * Write a sentence that refers to an idea from the article \(paraphrased\) and provide a proper in-text citation \(6.11-6.12\)
 
-### Learning Activity 7: 
+### Learning Activity 7:
 
 Complete Assignment \#2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).
-
-
 
