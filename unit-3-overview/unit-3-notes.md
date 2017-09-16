@@ -82,10 +82,10 @@ Table 3 continued \(adapted from Parris & Peachy, 2013 pg. 385\)
 
 | Result themes | Conclusion | Evidence | Reference |
 | :--- | :--- | :--- | :--- |
-| Implementation of SL | Knowledge and framing of SL can affect adoption | Insufficient evidence | Hamilton & Bean, 2005 \(QAL III\) Savage-Austin & Honeycutt, 2011 \(QAL III\) |
-| Implementation of SL | Positive relationship between succession planning and SL | Insufficient evidence | Dingman & Stone, 2007 \(QAL II\) |
+| Implementation of SL | Knowledge and framing of SL can affect adoption | Insufficient evidence | Hamilton & Bean, 2005 \(QAL; low quality\) Savage-Austin & Honeycutt, 2011 \(QAL: low quality\) |
+| Implementation of SL | Positive relationship between succession planning and SL | Insufficient evidence | Dingman & Stone, 2007 \(QAL: medium quality\) |
 
-_SL = servant leadership; QAT = quantitative study; QAL = qualitative study; I = high quality, II = medium quality, III = low quality._
+_SL = servant leadership; QAT = quantitative study; QAL = qualitative study_
 
 **Discussion: **In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed.  In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
 
