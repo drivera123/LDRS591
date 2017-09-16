@@ -1,6 +1,6 @@
 ### Developing your professional voice
 
-When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communications \(Walden University Writing Center, 2017\).   Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).
+When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communication \(Walden University Writing Center, 2017\).   Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).
 
 Developing your professional voice is important because some students will turn their papers into professional manuscripts that will be submitted to a journal or a book.  Some students may be asked to present their work at a professional conference. McDonald suggests that "for most students, writing papers in graduate school is an exercise in presenting important information in an easy to understand and concise way" \(p.125\).
 
@@ -44,7 +44,7 @@ Heady \(2013\) suggests 5 general rules you should always follow when you are or
 
 One of the distinguishing features of scholarly writing is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\).
 
-Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning.  They are: knowledge \(1\), comprehension \(2\), application \(3\), analysis \(4\), synthesis \(5\) and evaluation \(6\).  When you are preparing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, it should reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to: 
+Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning.  They are: knowledge \(1\), comprehension \(2\), application \(3\), analysis \(4\), synthesis \(5\) and evaluation \(6\).  When you are preparing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, it should reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to:
 
 * "break down ideas into parts and see how those parts relate and are organized" to demonstrate analysis.  
 * "re-arrange ideas into a new whole" to demonstrate synthesis.
