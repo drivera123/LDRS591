@@ -101,7 +101,18 @@ b\) Using the article that you found for learning activity 2, write an example o
 
 ### Learning Activity 7:
 
-Create a title page in APA format in a word document.  Your title page should include: a title, running head, author byline, institutional affiliation, and page number \(see pg. 229 in the APA manual under the heading "order of manuscript pages"\).  Follow the instructions below to submit this document to your instructor.
+Create a title page in APA format in a word document.  Your title page should include: a title, running head, author byline, institutional affiliation, and page number \(see pg. 229 in the APA manual under the heading "order of manuscript pages"\).
+
+Instructions for setting up the "Running head" in **Microsoft Word 2007 and Microsoft Word 2010:**
+
+1. On the _View _tab, select the _Print Layout _document view.
+2. Double click the header area of the document.
+3. On the _Header & Footer Tools Design _tab, in the _Options _group, select the check box for _Different First Page._
+4. In the _First Page Header _box at the top of page 1, type _Running head: _and then your abbreviated title.
+5. Go to page 2 of your document and delete the phrase _Running head._
+6. On page 1, _Running head _will remain in your first page header, and only your abbreviated title will appear on subsequent pages.
+
+Follow the instructions below to submit this document to your instructor.
 
 ### Learning Activity 8:
 
