@@ -48,7 +48,7 @@ Scholarly writing, should reflect higher levels of learning.  According to Bloom
 
 * "break down ideas into parts and see how those parts relate and are organized" to demonstrate analysis.  
 * "re-arrange ideas into a new whole" to demonstrate synthesis.
-* "make judgements based on internal evidence or external criteria" to demonstrated evaluation.
+* "make judgments based on internal evidence or external criteria" to demonstrate evaluation.
 
 Here is what it looks like......
 
