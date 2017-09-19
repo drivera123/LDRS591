@@ -26,11 +26,15 @@ b\) Review the **introduction** to the article by Sendjaya and Pekerti \(2010\) 
 
 ### Learning Activity 6: Blog post 3
 
-Using the evaluation criteria on pg. 184 and 185 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.186 to evaluate the purpose in the servant leadership studies by Sendjaya and Pekerti \(2010\) and Ebener and Connell \(2010\).  Make sure that you include your quality rating and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 4' categories.
+Using the evaluation criteria on pg. 184 and 185 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.186 to evaluate the purpose in the servant leadership studies by Sendjaya and Pekerti \(2010\) and Ebener and Connell \(2010\). The Sendjaya and Pekerti article is a quantitative study and the Ebener and Connell article is a qualitative study. Make sure that you include your quality rating and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 4' categories.
 
 ### Learning Activity 7: Blog post 4
 
+Prepare a brief \(250-500 word\) response to the following:
 
+As a consumer of research reports, the most important thing\(s\) for me in the introduction section of a high-quality research report is/are . . .
+
+Please post this reflective brief to the 'Learning Activities' and 'Unit 4'.
 
 
 
