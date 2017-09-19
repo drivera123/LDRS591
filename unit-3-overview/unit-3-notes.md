@@ -44,13 +44,28 @@ Heady \(2013\) suggests 5 general rules you should always follow when you are or
 
 One of the distinguishing features of scholarly writing is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\).
 
-Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning.  They are: knowledge \(1\), comprehension \(2\), application \(3\), analysis \(4\), synthesis \(5\) and evaluation \(6\).  When you are preparing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, it should reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to:
+Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning, they are: knowledge, comprehension, application, analysis, synthesis and evaluation.  When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to:
 
 * "break down ideas into parts and see how those parts relate and are organized" to demonstrate analysis.  
 * "re-arrange ideas into a new whole" to demonstrate synthesis.
 * "make judgments based on internal evidence or external criteria" to demonstrate evaluation.
 
-Here is what it looks like......
+When you are thinking critically about a scholarly article or book you need to keep a few key questions in mind.  According to the Critical Appraisal Skills Program \(2017\) the three key questions to ask are: 1\) Are the results of the study valid? 2\) What are the results? and 3\) Are the results useful?  These questions will help you break down ideas, re-arrange those ideas and help you make judgments about the information you are reading.  Here are 14 additional questions that will help you dig deeper into the analytical process.
+
+1. Does the abstract accurately summarize the article?
+2. Does the purpose statement in the abstract match the purpose statement in the introduction?
+3. Is all of the information in the introduction organized well?
+4. Does the information presented in the introduction allow you to grasp "the problem" under investigation, provide a "broad context" for the problem? 
+5. Is there a review of precedent literature on the topic and does the introduction lead coherently to the purpose of the study?
+6. Do you think the methods are appropriate for studying the problem?  Explain your reasoning.
+7. Do you think the study could be duplicated from the information provided in the methods section?
+8. Is the sequence of the methods section clear?
+9. Review the results in light of the purpose of the study.  Do the results reveal what the researcher intended?
+10. Does the discussion just repeat the results or does the author\(s\) interpret the meaning of the results?
+11. Is the author's interpretation supported \(or backed up\) by other research?
+12. Are there limitations identified?
+13. Are there suggestions for future research?
+14. What are the strengths and weaknesses of the article? 
 
 ### How to write a scholarly paper.
 
@@ -95,7 +110,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study_
 
 American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association.
 
-Walden University Writing Center \(2017\).  Basics of scholarly voice. Retrieved from: [http://academicguides.waldenu.edu/writingcenter/scholarlyvoice](http://academicguides.waldenu.edu/writingcenter/scholarlyvoice)
+Critical Appraisal Skills Program \(2017\). Appraising the evidence.  Retrieved from: http://www.casp-uk.net/appraising-the-evidence 
 
 Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: [http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411](http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411)
 
@@ -104,4 +119,8 @@ Heady, E. \(2013\).  Introduction to graduate writing \(2nd. ed.\). Lynchburg, V
 McDonald, K.E. \(2011\).  Teaching the 6th edition of APA style of writing in counselor education. Journal of Counselor Preparation and Supervision 3\(2\), 124-145.
 
 Parris, D.L. & Peachy, J.W. \(2013\).  A systematic review of servant leadership theory in organizational contexts. Journal of Business Ethics, 113 \(3\), 377-395.
+
+Walden University Writing Center \(2017\).  Basics of scholarly voice. Retrieved from: [http://academicguides.waldenu.edu/writingcenter/scholarlyvoice](http://academicguides.waldenu.edu/writingcenter/scholarlyvoice)
+
+
 
