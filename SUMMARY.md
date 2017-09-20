@@ -25,6 +25,7 @@
   * [APA resources](unit-3-overview/apa-resources.md)
 * [Unit 3 Learning Activities](Unit-3/Learning-Activities.md)
 * [Unit 4 Overview](Unit-4/Overview.md)
+  * [Unit 4 Notes](Unit-4/Overview/unit-4-notes.md)
 * [Unit 4 Learning Actvities](Unit-4/learning-activities.md)
 * [Unit 5 Overview](Unit-5/Overview.md)
 * [Unit 5 Learning Activities](Unit-5/Learning-Activities.md)
