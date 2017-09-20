@@ -6,10 +6,10 @@ The table below lists all of the assignments for this course.  All of the assign
 | :--- | ---: |
 | Blog posts and responses | 25% |
 | Conceptual map \(assignment \#1\) | 10% |
-| Article \(assignment \#2\) | 10% |
+| Article review \(assignment \#2\) | 10% |
 | Literature search \(assignment \#3\) | 15% |
-| APA assignment \(assignment \#4\) | 10% |
-| Literature review paper \(assignment \#5\) | 30% |
+| Literature review outline \(assignment \#4\) | 10% |
+| Formal literature review paper \(assignment \#5\) | 30% |
 | Total | 100% |
 
 ##### 
