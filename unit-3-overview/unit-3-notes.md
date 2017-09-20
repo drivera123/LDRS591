@@ -57,7 +57,7 @@ When you are thinking critically about a scholarly article or book, you need to 
 3. Is all of the information in the introduction organized well?
 4. Does the information presented in the introduction allow you to grasp "the problem" under investigation, provide a "broad context" for the problem? 
 5. Is there a review of precedent literature on the topic and does the introduction lead coherently to the purpose of the study?
-6. Do you think the methods are appropriate for studying the problem?  Explain your reasoning.
+6. Do you think the methods are appropriate for studying the problem?
 7. Do you think the study could be duplicated from the information provided in the methods section?
 8. Is the sequence of the methods section clear?
 9. Review the results in light of the purpose of the study.  Do the results reveal what the researcher intended?
