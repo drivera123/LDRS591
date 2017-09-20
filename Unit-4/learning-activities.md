@@ -2,7 +2,7 @@
 
 a\) Read chapter 3 in the Plano-Clark and Creswell \(2015\) text "Statements of the Problem".
 
-b\) Read one of the servant leadership articles listed under the Unit 4 resources.
+b\) Read the servant leadership articles listed under the Unit 4 resources.
 
 ### Learning Activity 2: Blog post 1
 
@@ -39,6 +39,4 @@ Close with one question that invites further comment and discussion. Please post
 ##### Reflection Brief Rubric:
 
 ![](/assets/ReflectionBriefRubric.JPG)
-
-
 
