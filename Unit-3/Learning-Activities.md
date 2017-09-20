@@ -6,7 +6,7 @@ b\) Read chapter 2 and pgs. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
 ### Learning Activity 2: Blog post
 
-Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to writing your summary clearly and concisely. Here is what you need to include in your summary:
+Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
 
 **1\)** **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
@@ -105,12 +105,12 @@ Create a title page in APA format in a word document.  Your title page should in
 
 Instructions for setting up the "Running head" in **Microsoft Word 2007 and Microsoft Word 2010:**
 
-1. On the _View _tab, select the _Print Layout _document view.
+1. On the \_View \_tab, select the \_Print Layout \_document view.
 2. Double click the header area of the document.
-3. On the _Header & Footer Tools Design _tab, in the _Options _group, select the check box for _Different First Page._
-4. In the _First Page Header _box at the top of page 1, type _Running head: _and then your abbreviated title.
+3. On the _Header & Footer Tools Design \_tab, in the \_Options \_group, select the check box for \_Different First Page._
+4. In the \_First Page Header \_box at the top of page 1, type \_Running head: \_and then your abbreviated title.
 5. Go to page 2 of your document and delete the phrase _Running head._
-6. On page 1, _Running head _will remain in your first page header, and only your abbreviated title will appear on subsequent pages.
+6. On page 1, \_Running head \_will remain in your first page header, and only your abbreviated title will appear on subsequent pages.
 
 Follow the instructions below to submit this document to your instructor.
 
