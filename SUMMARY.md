@@ -11,7 +11,6 @@
   * [Assignment C](Assignments/Assignment-c.md)
   * [Assignment D](Assignments/Assignment-d.md)
   * [Assignment E](Assignments/Assignment-e.md)
-  * [Assignment F](Assignments/Assignment-f.md)
   * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
 * [Unit 1 Overview](Unit-1/Overview.md)
   * [Notes](Unit-1/Overview/philosophical-foundations.md)

@@ -5,8 +5,8 @@ The table below lists all of the assignments for this course.  All of the assign
 | Assignment | Value |
 | :--- | ---: |
 | Blog posts and responses | 25% |
-| Preliminary reflection and response \(assignment \#1\) | 10% |
-| Conceptual map \(assignment \#2\) | 10% |
+| Conceptual map \(assignment \#1\) | 10% |
+| Article \(assignment \#2\) | 10% |
 | Literature search \(assignment \#3\) | 15% |
 | APA assignment \(assignment \#4\) | 10% |
 | Literature review paper \(assignment \#5\) | 30% |
