@@ -6,7 +6,7 @@ In this assignment you will demonstrate your scholarly inquiry learning by writi
 
 **Title page:**
 
-**Abstract:** 
+**Abstract:**
 
 An abstract is intended to provide a key synopsis of the entire study so that the reader can determine if he/she wishes to read the full article. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions or new questions.
 
@@ -24,82 +24,6 @@ To conclude this section, provide a brief statement outlining the purpose of the
 
 **Method:**
 
-&lt;!--  
- /\* Font Definitions \*/  
- @font-face  
-	{font-family:"Cambria Math";  
-	panose-1:2 4 5 3 5 4 6 3 2 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}  
-@font-face  
-	{font-family:Times;  
-	panose-1:2 2 6 3 5 4 5 2 3 4;  
-	mso-font-charset:0;  
-	mso-generic-font-family:roman;  
-	mso-font-pitch:variable;  
-	mso-font-signature:-536858881 -1073711037 9 0 511 0;}  
- /\* Style Definitions \*/  
- p.MsoNormal, li.MsoNormal, div.MsoNormal  
-	{mso-style-unhide:no;  
-	mso-style-qformat:yes;  
-	mso-style-parent:"";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	mso-pagination:widow-orphan;  
-	font-size:12.0pt;  
-	mso-bidi-font-size:10.0pt;  
-	font-family:"Times",serif;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-bidi-font-family:"Times New Roman";  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:EN-US;}  
-p.MsoBodyText, li.MsoBodyText, div.MsoBodyText  
-	{mso-style-unhide:no;  
-	mso-style-link:"Body Text Char";  
-	margin:0cm;  
-	margin-bottom:.0001pt;  
-	text-indent:27.0pt;  
-	line-height:200%;  
-	mso-pagination:widow-orphan;  
-	font-size:12.0pt;  
-	mso-bidi-font-size:10.0pt;  
-	font-family:"Times New Roman",serif;  
-	mso-fareast-font-family:"Times New Roman";  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:EN-US;}  
-span.BodyTextChar  
-	{mso-style-name:"Body Text Char";  
-	mso-style-unhide:no;  
-	mso-style-locked:yes;  
-	mso-style-link:"Body Text";  
-	mso-ansi-font-size:12.0pt;  
-	font-family:"Times New Roman",serif;  
-	mso-ascii-font-family:"Times New Roman";  
-	mso-hansi-font-family:"Times New Roman";  
-	mso-ansi-language:EN-US;  
-	mso-fareast-language:EN-US;}  
-.MsoChpDefault  
-	{mso-style-type:export-only;  
-	mso-default-props:yes;  
-	font-size:10.0pt;  
-	mso-ansi-font-size:10.0pt;  
-	mso-bidi-font-size:10.0pt;  
-	font-family:"Times",serif;  
-	mso-ascii-font-family:Times;  
-	mso-hansi-font-family:Times;}  
-@page WordSection1  
-	{size:612.0pt 792.0pt;  
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;  
-	mso-header-margin:36.0pt;  
-	mso-footer-margin:36.0pt;  
-	mso-paper-source:0;}  
-div.WordSection1  
-	{page:WordSection1;}  
---&gt;  
-
-
 Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment \#3. Here is an example template that you can use:
 
 A review of the literature was conducted to identify scholarly research of XXXX on XXXX. Published articles were identified through searches of electronic databases that were available at the author’s university library. Databases included in this review were: \[list specific databases that you searched\]. The following key subject words were used to search the databases: XXX, XXX, XXX, XXX, XXX, XXX \(include your search terms from assignment \#3 here\). Boolean “AND” was used to combine the XXX terms with the XXX terms. This search resulted in a total of XX articles.
@@ -114,17 +38,11 @@ In the critical analysis section of the paper you want to tell your reader what 
 
 For each publication, the methodology that was used to critically appraise each article was 1\) a rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\) and 2\) a rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The classification system that was used to identify high quality and low quality articles was based on the rating scales and the description for how articles were classified as high quality or low quality is presented in the table below.
 
-
-
-
-
 Results:
 
 The main body of text should be in the 2500-3000 word range \(around 10 pages\) exclusive of any title page or references.
 
 Discussion:
 
-References: 
-
-
+References:
 
