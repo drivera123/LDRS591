@@ -50,7 +50,7 @@ Scholarly writing, should reflect higher levels of learning.  According to Bloom
 * "re-arrange ideas into a new whole" to demonstrate synthesis.
 * "make judgments based on internal evidence or external criteria" to demonstrate evaluation.
 
-When you are thinking critically about a scholarly article or book you need to keep a few key questions in mind.  According to the Critical Appraisal Skills Program \(2017\) the three key questions to ask are: 1\) Are the results of the study valid? 2\) What are the results? and 3\) Are the results useful?  These questions will help you break down ideas, re-arrange those ideas and help you make judgments about the information you are reading.  Here are 14 additional questions that will help you dig deeper into the analytical process.
+When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind.  According to the Critical Appraisal Skills Program \(2017\) the three key questions to ask are: 1\) Are the results of the study valid? 2\) What are the results? and 3\) Are the results useful?  These questions will help you break down ideas, re-arrange those ideas and help you make judgments about the information you are reading.  Here are 14 additional questions that will help you dig deeper into the analytical process.
 
 1. Does the abstract accurately summarize the article?
 2. Does the purpose statement in the abstract match the purpose statement in the introduction?
@@ -110,7 +110,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study_
 
 American Psychological Association \(2010\).  Publication manual of the American Psychological Association \(6th ed.\). Washington, DC: American Psychological Association.
 
-Critical Appraisal Skills Program \(2017\). Appraising the evidence.  Retrieved from: http://www.casp-uk.net/appraising-the-evidence 
+Critical Appraisal Skills Program \(2017\). Appraising the evidence.  Retrieved from: [http://www.casp-uk.net/appraising-the-evidence](http://www.casp-uk.net/appraising-the-evidence)
 
 Foundations of Critical Thinking \(2015\). Our conception and definition of critical thinking.  Retrieved from: [http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411](http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411)
 
@@ -121,6 +121,4 @@ McDonald, K.E. \(2011\).  Teaching the 6th edition of APA style of writing in co
 Parris, D.L. & Peachy, J.W. \(2013\).  A systematic review of servant leadership theory in organizational contexts. Journal of Business Ethics, 113 \(3\), 377-395.
 
 Walden University Writing Center \(2017\).  Basics of scholarly voice. Retrieved from: [http://academicguides.waldenu.edu/writingcenter/scholarlyvoice](http://academicguides.waldenu.edu/writingcenter/scholarlyvoice)
-
-
 
