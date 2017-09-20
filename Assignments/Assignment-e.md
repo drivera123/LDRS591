@@ -8,15 +8,15 @@ In this assignment you will demonstrate your scholarly inquiry learning by writi
 
 **Abstract:**
 
-An abstract is intended to provide a key synopsis of the entire study so that the reader can determine if he/she wishes to read the full article. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions or new questions.
+An abstract is intended to provide a key synopsis of the entire study so that the reader can determine if he/she wishes to read the full article. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 
 **Introduction:**
 
-Provide one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention.This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
+The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention.This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
 
 In the next few paragraphs it is important to provide your reader with a brief overview of the problem. It is here that you want to begin to set the stage for your research story. You can build the overview by answering these questions in a few paragraphs: What is the problem? Are there any relevant statistics that address your problem? Why is this problem important to address?
 
-On the basis of your personal knowledge, as well as your investigation of the literature, provide a broad context for your topic by addressing what is known about your topic. It is important also to include the definition of any key terms that you will be using throughout your paper. Also include appropriate reference citations, and include references in the reference list.
+On the basis of your personal knowledge, as well as your investigation of the literature, provide a broad context for your topic by addressing what is known about your topic. It is important also to include the definition of any key terms that you will be using throughout your paper. Remember to include appropriate reference citations, and include any reference you cite in your paper in the reference list.
 
 On the basis of your personal knowledge as well as your investigation of the literature, provide a brief discussion of the major issues or gaps that have been identified related to the topic that is being investigated. This addresses the importance or the significance of your study.
 
@@ -44,7 +44,7 @@ The main body of text should be in the 2500-3000 word range \(around 10 pages\) 
 
 In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations. You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through synthesis. Throughout this process you must critically appraise the relevance and value of the literature. Be sure to use multiple kinds of sources, including books, lectures, research reports, or any of a multitude of sources.
 
-Discussion:
+**Discussion:**
 
 References:
 
