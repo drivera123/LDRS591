@@ -13,9 +13,11 @@ In unit 4 we are going to begin unpacking research reports.  To start,  we will 
 
 ### Resources:
 
+Ebener, D.R. & O'Connell, D.J. \(2010\).  How might servant leadership work? Non-profit Management and Leadership, 20\(3\), 315-335.
 
+Parris, D.L.& Peachey, J.W. \(2013\).  A systematic literature review of servant leadership theory. Journal of Business Ethics, 113 \(3\), 377-393.  
 
-Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
+Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
 
-
+Sendjaya, S. & Pekerti, A. \(2010\).  Servant leadership as antecedent of trust in organizations.  Leadership and Organization Development Journal. 31\(7\), 643-663.
 
