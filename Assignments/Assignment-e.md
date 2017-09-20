@@ -38,9 +38,11 @@ In the critical analysis section of the paper you want to tell your reader what 
 
 For each publication, the methodology that was used to critically appraise each article was 1\) a rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\) and 2\) a rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The classification system that was used to identify high quality and low quality articles was based on the rating scales and the description for how articles were classified as high quality or low quality is presented in the table below.
 
-Results:
+**Results:**
 
 The main body of text should be in the 2500-3000 word range \(around 10 pages\) exclusive of any title page or references.
+
+In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations. You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through synthesis. Throughout this process you must critically appraise the relevance and value of the literature. Be sure to use multiple kinds of sources, including books, lectures, research reports, or any of a multitude of sources.
 
 Discussion:
 
