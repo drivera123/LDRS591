@@ -1,12 +1,14 @@
 ### Learning Activity 1:
 
-a\) Read chapter 3 in the Plano-Clark and Creswell \(2015\) text "Statements of the Problem".
+a\) Read the unit 4 notes. 
 
-b\) Read the servant leadership articles listed under the Unit 4 resources.  Choose **one** of these articles to respond to the questions in following learning activities.
+b\) Read the servant leadership articles listed under the Unit 4 resources.  
+
+c\) Read chapter 3 in the Plano-Clark and Creswell \(2015\) text "Statements of the Problem".
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 93 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.94 to evaluate the statement of the problem in the servant leadership study you chose.  
+Using the evaluation criteria on pg. 93 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.94 to evaluate the statement of the problem in the servant leadership study you chose.
 
 On page 94 you are asked to provide a rating and rationale for the following questions:
 
@@ -24,11 +26,11 @@ Make sure that you include your article reference, quality rating \(0-3\) and al
 
 a\) Read chapter 4 in the Plano-Clark and Creswell \(2015\) text "Literature Reviews".
 
-b\) Review the **introduction** to the servant leadership article you chose to read.
+b\) Review the **introduction** to the servant leadership articles.
 
 ### Learning Activity 4: Blog post 2
 
-Using the evaluation criteria on pg. 143 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.144 to evaluate the literature review in the servant leadership study you chose to read.  
+Using the evaluation criteria on pg. 143 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.144 to evaluate the literature review in the servant leadership study you chose to read.
 
 On page 144 you are asked to provide a rating and rationale for the following questions:
 
@@ -50,7 +52,7 @@ b\) Review the **introduction** to the servant leadership article you chose to r
 
 ### Learning Activity 6: Blog post 3
 
-Using the evaluation criteria on pg. 184 \(for a quantitative study\) and 185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.186 to evaluate the purpose in the servant leadership study you chose to read. 
+Using the evaluation criteria on pg. 184 \(for a quantitative study\) and 185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.186 to evaluate the purpose in the servant leadership study you chose to read.
 
 On page 185 you are asked to provide a rating and rationale for the following questions:
 
