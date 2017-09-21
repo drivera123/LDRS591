@@ -2,7 +2,7 @@
 
 a\) Read chapter 6 "Quantitative Research Designs" in Plano-Clark and Creswell \(2015\).
 
-b\) Read the abstracts of the four servant leadership articles posted under the unit resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.  
+b\) Read the abstracts of the four servant leadership articles posted under the unit resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
 
 c\) Read the methods section of the servant leadership article you chose.
 
@@ -67,6 +67,8 @@ On page 280 you are asked to provide a rating and rationale for the following qu
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 5' categories.
 
 ### Learning Activity 7: Blog post 4
+
+As a consumer of research reports, the most important thing\(s\) for me in the methods and results section of a high-quality quantitative research report is/are . . .
 
 
 
