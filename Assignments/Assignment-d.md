@@ -45,6 +45,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Author and year of the study
 
 * Purpose of the study
+
 * Type of study conducted
 * Data collection method
 * Key findings
@@ -56,6 +57,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Is there appropriate background information provided?
 
 * Is the research purpose clearly stated?
+
 * Was the study well-planned? Was the method appropriate for addressing the research question?
 * Were the measures used validated?
 * Were the participants adequate and appropriately selected?
@@ -77,6 +79,8 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 * Why is this topic personally meaningful to you?
 * How will you use the information in this review to improve your personal or professional practices?
+
+**Submit your assignment to the course instructor.**
 
 ##### Assignment Rubric:
 
