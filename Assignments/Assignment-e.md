@@ -67,11 +67,9 @@ In the results section you are now going to organize what you have learned by su
 
 **Discussion:**
 
-For this assignment you should offer a brief conclusion that summarizes and draws together what you have discovered precedent literature has to say about best practices to inform the topics you have investigated.
+For this assignment you should offer a brief conclusion that summarizes and draws together what you have discovered precedent literature has to say about best practices to inform the topics you have investigated.  In this section you should describe your own interpretation of the results and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of the literature, draw a conclusion that clearly connects to your research question, and make recommendations \(and offer a rationale\) for future research on the topic.
 
 **References:**
 
 At the very end list your references.  Reference lists must start on a new page, and be formatted as per APA 6 guidelines according to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
-
- 
 
