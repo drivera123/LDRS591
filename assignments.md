@@ -5,7 +5,7 @@ The table below lists all of the assignments for this course.  All of the assign
 | Assignment | Value |
 | :--- | ---: |
 | Blog posts and responses | 25% |
-| Conceptual map \(assignment \#1\) | 10% |
+| Clarifying your research interest \(assignment \#1\) | 10% |
 | Article review \(assignment \#2\) | 10% |
 | Literature search \(assignment \#3\) | 15% |
 | Literature review outline \(assignment \#4\) | 10% |

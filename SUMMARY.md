@@ -10,7 +10,7 @@
   * [Literature Review Search](Assignments/Assignment-c.md)
   * [Literature Review Outline](Assignments/Assignment-d.md)
   * [Formal Literature Review](Assignments/Assignment-e.md)
-  * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
+* [Blog posts and responses](Assignments/blog-posts-and-responses.md)
 * [Unit 1 Overview](Unit-1/Overview.md)
   * [Notes](Unit-1/Overview/philosophical-foundations.md)
   * [Glossary](Unit-1/Overview/relevant-terminology.md)
