@@ -2,13 +2,13 @@
 
 a\) Read the unit 4 notes.
 
-b\) Read the servant leadership articles listed under the Unit 4 resources.
+b\) Read the introductions to the servant leadership articles listed under the Unit 4 resources. Chose one of these articles to focus on to answer the questions in the following learning activities.
 
 c\) Read chapter 3 in the Plano-Clark and Creswell \(2015\) text "Statements of the Problem".
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 93 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.94 to evaluate the statement of the problem in the servant leadership articles.
+Using the evaluation criteria on pg. 93 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on.
 
 On page 94 you are asked to provide a rating and rationale for the following questions:
 
@@ -26,11 +26,11 @@ Make sure that you include your article reference, quality rating \(0-3\) and al
 
 a\) Read chapter 4 in the Plano-Clark and Creswell \(2015\) text "Literature Reviews".
 
-b\) Review the **introduction** to the servant leadership articles.
+b\) Review the **introduction** to the servant leadership article you chose to focus on.
 
 ### Learning Activity 4: Blog post 2
 
-Using the evaluation criteria on pg. 143 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.144 to evaluate the literature review in the servant leadership articles.
+Using the evaluation criteria on pg. 143 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the literature review in the servant leadership article you chose to focus on.
 
 On page 144 you are asked to provide a rating and rationale for the following questions:
 
@@ -48,11 +48,11 @@ Make sure that you include your article reference, quality rating \(0-3\) and al
 
 a\) Read chapter 5 in the Plano-Clark and Creswell \(2015\) text "Purpose statements and research questions".
 
-b\) Review the **introduction** to the servant leadership articles.
+b\) Review the **introduction** to the servant leadership article you chose to focus on.
 
 ### Learning Activity 6: Blog post 3
 
-Using the evaluation criteria on pg. 184 \(for a quantitative study\) and 185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.186 to evaluate the purpose in the servant leadership articles.
+Using the evaluation criteria on pg. 184 \(for a quantitative study\) and 185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the purpose in the servant leadership article you chose to focus on.
 
 On page 185 you are asked to provide a rating and rationale for the following questions:
 
