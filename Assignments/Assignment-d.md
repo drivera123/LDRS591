@@ -1,96 +1,79 @@
 ### Assignment \#4 - Literature Review Outline
 
-##### Instructions:
+##### Instructions: 
 
-A\) Abstract:
+In this assignment you will write an outline for your literature review paper.  An outline can be defined as an organizational plan to help you draft a paper. Writing an outline before beginning a paper is the most effective way to organize your thoughts. An outline begins with identifying your research question and then breaks down the parts of your paper in a clear, hierarchical manner to help you achieve the goal of addressing your research question.  Your outline should include the 5 major sections listed below.  In each section I have provided you with a few questions to help you think through the kind of information you will need to include in each section of your paper.
 
-•The ability to convey the sentiment of the study in a concise yet informative manner.
+For this assignment you do not need to use APA style.  You may use the template below and write the answers to the questions in bullet points, but please use complete sentences.  Submit this assignment to your instructor in the assignment 4 drop box on the Learning Management System \(LMS\).  
 
-•Purpose of the study: overall question, objective
+**A\) Introduction:**
 
-•Brief description of your literature review criteria
+•What is the ‘problem’ you are aiming to address?
 
-•Results, includinga summary of the information you collected.
+•What information will you need to provide a broad context for your topic?
 
-•Important conclusions or questions that follow from the review.
+•Do you have any relevant statistics that you could use to support "the problem"?
 
-B\) Introduction:
+•Why is it important to address this problem?
 
-•A brief overview of the ‘problem’.
+•What key terms should you define in your introduction so that the reader understands your topic?
 
-•Provide a broad context for your topic.
+•What is the purpose of your paper? Or what research questions are being addressed?
 
-•Include relevant statistics
+**B\) Methods:**
 
-•Describe the importance \(significance\) of the review.
+* How did you chose your articles for your paper?
 
-•Define key terms
+* What inclusion/exclusion criteria did you use?
 
-•What is the key purpose of the review?
+* What databases did you search?
 
-•What research questions are being addressed?
+* What key search terms did you use?
 
-C\) Methods:
+* How many records were obtained in your search?
 
-•Outline how you chose your articles to review
+* How many articles did you use for your review?
 
-•Did you use any inclusion/exclusion criteria?
+* How will you critically evaluate your articles?
 
-•What databases did you search?
+**C\) Results:**
 
-•What key search terms did you use?
+* How will you organize the main body of your paper? \(e.g., themes or categories, chronologically, theoretical or methodological issues\)
+* Did you include 10-15 academic sources? 
+* How will you summarize the articles you have reviewed?  Have you included the following information in your summaries:
 
-•How many records were obtained in your search?
+* Author and year of the study
+* Purpose of the study
+* Type of study conducted
+* Data collection method
+* Key findings
 
-•How many articles did you use for your review?
+* How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text? 
+* Have you evaluated the following information in each of the articles you have reviewed?
 
-D\) Results:
+1. Is there appropriate background information provided?
+2. Is the research purpose clearly stated?
+3. Was the study well-planned? Was the method appropriate for addressing the research question?
+4. Were the measures used validated?
+5. Were the participants adequate and appropriately selected?
+6. Was the data analysis rigorous and appropriate?
+7. Were the findings clearly stated?
+8. Have these studies led to new questions being asked, new ways of using existing knowledge?
+9. Are the strengths and weaknesses of the body of literature addressed?
+10. Are possible explanations for any inconsistencies in the literature uncovered?D
 
-·Is the main body of the paper organized appropriately? \(e.g., themes or categories, chronologically, theoretical or methodological issues\)
+**D\) Discussion:**
 
-•Does the review highlight results from 10-15 academic sources? Highlights should include:
+* Provide a concise summary of the findings that describes current knowledge of your topic.
+* What are the key limitation\(s\) associated with this topic?
+* Can you offer a rationale for why future research should be conducted on this topic?
+* What future directions would you recommend based on the limitations?
+* Provide a conclusion that clearly connects to your original research question.
 
-–Author and year of the study
+**F\) Personal Reflection \(not usually included in a scholarly article, but required for this class only\):**
 
-–Purpose of the study
-
-–Type of study conducted
-
-–Data collection method
-
-–Key findings
-
-–Strengths/weaknesses
-
-•Does the review compare and contrast the results from 10-15 academic sources? Analysis of the articles should include:
-
-–Any weaknesses or obvious gaps in the research studies reviewed.
-
-–Compare and contrast the research studies \(e.g., methodology, strengths, weaknesses, interventions\)
-
-–Have these studies led to new questions being asked, new ways of using existing knowledge?
-
-•Are the strengths and weaknesses of the body of literature addressed?
-
-•Are possible explanations for any inconsistencies in the literature uncovered?
-
-E\) Conclusion/Discussion:
-
-•Provide a concise summary of the findings that describes current knowledge of your topic.
-
-•What are the key limitation\(s\) associated with this topic?
-
-•Offer a rationale for why future research should be conducted on this topic.
-
-•What future directions would you recommend based on the limitations?
-
-•Provide a conclusion that clearly connects to your original research question.
-
-F\) Personal Reflection \(not usually included in a scholarly article, but required for this class only\):
-
-·Why is this topic personally meaningful to you?
-
-·How will you use the information in this review to improve your personal or professional practices?
+* Why is this topic personally meaningful to you?
+* How will you use the information in this review to improve your personal or professional practices?
 
 
 
