@@ -24,7 +24,7 @@ B.Second, the concept map presented in the figure above stopped after one level 
 
 **Format of Assignment:**
 
-This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted directly to the course instructor with the student’s name and identification number located in the top right hand side of the header. The concept map must be drawn using electronic software \(Microsoft Word, Powerpoint, Paint, etc\). Any submission that is not fully produced using electronic software cannot be considered for full credit within the context of this assignment. The assignment should not exceed 2 type-written pages so please be clear and concise with your answers.
+This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted directly to the course instructor with the student’s name in the top right hand side of the header. The concept map must be drawn using electronic software \(Microsoft Word, Powerpoint, Paint, etc\). Any submission that is not fully produced using electronic software cannot be considered for full credit within the context of this assignment. The assignment should not exceed 2 type-written pages so please be clear and concise with your answers.
 
 ##### Assignment Rubric
 
