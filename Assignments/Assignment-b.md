@@ -1,4 +1,4 @@
-### Assignment \#2: Article Review
+### Assignment \#2: Scholarly Article Review
 
 Below you will find a guideline for writing a critique of a journal article. This assignment should be written in APA style format.  Pleas use your APA manual for details regarding structure and content, writing clearly and concisely, the mechanics of style and crediting sources.
 
