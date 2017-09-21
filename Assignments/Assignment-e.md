@@ -22,11 +22,11 @@ Create a title page including: a title, running head, author byline, institution
 
 **Abstract:**
 
-An abstract is intended to provide a key synopsis of the entire study so that the reader can determine if he/she wishes to read the full article. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions.
+You will need to create an abstract, which is intended to provide a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full article. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 
 **Introduction:**
 
-The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention.This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
+The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention. This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
 
 In the next few paragraphs it is important to provide your reader with a brief overview of the problem. It is here that you want to begin to set the stage for your research story. You can build the overview by answering these questions in a few paragraphs: What is the problem? Are there any relevant statistics that address your problem? Why is this problem important to address?
 
