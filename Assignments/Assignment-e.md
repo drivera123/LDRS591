@@ -4,7 +4,21 @@ In this assignment you will demonstrate your scholarly inquiry learning by writi
 
 ##### Instructions:
 
+**APA formatting is required for this assignment. ** This means that you need to:
+
+1. Use Times New Roman, 12-point font.
+2. Double-space between all text lines.
+3. Leave 1 inch margins at the top, bottom, right and left side of the page.
+4. Indent the first line of every paragraph.
+5. Use the flush-left alignment style.
+6. Organize your paper with headings \(see 3.02 in APA manual\)
+7. Adhere to the writing style identified in the APA manual in chapter 3.
+8. Adhere to the mechanics of style identified in chapter 4 of the APA manual.
+9. Adhere to the crediting of sources identified in chapter 6 of the APA manual. 
+
 **Title page:**
+
+Create a title page including: a title, running head, author byline, institutional affiliation, date submitted and page number.
 
 **Abstract:**
 
@@ -38,15 +52,18 @@ In the critical analysis section of the paper you want to tell your reader what 
 
 For each publication, the methodology that was used to critically appraise each article was 1\) a 49 item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\) and 2\) a 49 item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The description for how articles were classified as high quality or low quality is presented in the table below.
 
-| Quality Criteria | Indicators of high quality | Indicators of low quality |
+| Quality Criteria | Indicators of high quality \(+\) | Indicators of low quality \(-\) |
 | :--- | :--- | :--- |
-|  |  |  |
+| For quantitative studies \(QNT\) | Clearly focused study, sufficient background provided, well planned, method is appropriate, measures validated, adequate number of participants, data analysis rigorous with adequate statistical methods, findings and limitations are clearly stated. | Not focused, insufficient background provided, poorly planned, inappropriate method, invalidated measures, inadequate number of participants, data analysis not rigorous, inadequate statistical methods, unclear findings and limitations. |
+| For qualitative studies \(QAL\)  | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigor in data collection strategies and analysis, evidence of the four components of trustworthiness \(credibility, transferability, dependability, and confirmability\) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
+
+Note.  Table adapted from Parris & Peachey \(2013\).
 
 **Results:**
 
-The main body of text should be in the 2500-3000 word range \(around 10 pages\) exclusive of any title page or references.
+The results section should be the main body of the paper and should be in the 2500-3000 word range \(around 10 pages\) exclusive of any title page or references.
 
-In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations. You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through synthesis. Throughout this process you must critically appraise the relevance and value of the literature. Be sure to use multiple kinds of sources, including books, lectures, research reports, or any of a multitude of sources.
+In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations.  This is similar to what you had to do for assignment 2.  You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature. Be sure to use multiple sources, including books, lectures, research reports, or any of a multitude of sources.
 
 **Discussion:**
 
