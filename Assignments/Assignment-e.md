@@ -55,9 +55,9 @@ For each publication, the methodology that was used to critically appraise each 
 | Quality Criteria | Indicators of high quality \(+\) | Indicators of low quality \(-\) |
 | :--- | :--- | :--- |
 | For quantitative studies \(QNT\) | Clearly focused study, sufficient background provided, well planned, method is appropriate, measures validated, adequate number of participants, data analysis rigorous with adequate statistical methods, findings and limitations are clearly stated. | Not focused, insufficient background provided, poorly planned, inappropriate method, invalidated measures, inadequate number of participants, data analysis not rigorous, inadequate statistical methods, unclear findings and limitations. |
-| For qualitative studies \(QAL\)  | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigor in data collection strategies and analysis, evidence of the four components of trustworthiness \(credibility, transferability, dependability, and confirmability\) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
+| For qualitative studies \(QAL\) | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigor in data collection strategies and analysis, evidence of the four components of trustworthiness \(credibility, transferability, dependability, and confirmability\) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
 
-Note.  Table adapted from Parris & Peachey \(2013\).
+Note.  Table adapted from Parris & Peachey \(2013, p. 382\).
 
 **Results:**
 
@@ -67,5 +67,11 @@ In the results section you are now going to organize what you have learned by su
 
 **Discussion:**
 
-References:
+For this assignment you should offer a brief conclusion that summarizes and draws together what you have discovered precedent literature has to say about best practices to inform the topics you have investigated.
+
+**References:**
+
+At the very end list your references.  Reference lists must start on a new page, and be formatted as per APA 6 guidelines according to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
+
+ 
 
