@@ -14,9 +14,15 @@ In unit 4 we explored the introduction to research reports we saw that the resea
 
 ### Resources:
 
+Cerit, Y. \(2009\).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. Educational Management Administration and Leadership, 37\(5\), 600-623.
+
+Irving, J.A., & Berndt, J. \(2017\). Leader purposefulness within servant leadership: Examining the effects of servant leadership, leader follower-focus, leader goal-orientation, and leader purposefulness in a large U.S. healthcare organization. Administrative Sciences, 7\(10\), 1-20.
+
+Jenkins, M., & Stewart, A.C. \(2010\). The importance of a servant leader orientation. Health Care Management Review, 35\(1\), 46-54.
+
+Pekerti, A.A., & Sendjaya, S. \(2010\). Exploring servant leadership across cultures: comparative study in Australia and Indonesia.  The International Journal of Human Resource Management, 21\(5\), 754-780.
+
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
-
-
 
 ### 
 
