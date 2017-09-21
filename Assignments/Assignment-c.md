@@ -84,5 +84,3 @@ Table 3. _Internet search results_
 
 
 
-
-
