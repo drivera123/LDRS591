@@ -71,6 +71,8 @@ For this assignment you should offer a brief conclusion that summarizes and draw
 
 At the very end list your references.  Reference lists must start on a new page, and be formatted as per APA 6 guidelines according to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
+**Submit your assignment to the course instructor.**
+
 ##### Assignment Rubric:
 
 
