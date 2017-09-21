@@ -1,14 +1,14 @@
 ### Learning Activity 1:
 
-Read chapter 6 "Quantitative Research Designs" in Plano-Clark and Creswell \(2015\).
+a\) Read chapter 6 "Quantitative Research Designs" in Plano-Clark and Creswell \(2015\).
 
-Read 
+b\) Read the abstracts of the four servant leadership articles posted under the unit resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 211 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.212 to evaluate the research design in a quantitative research report in the servant leadership article assigned.
+Using the evaluation criteria on pg. 211 in Plano-Clark & Creswell \(2015\), complete the rating scale on pg.212 to evaluate the research design in a quantitative research report in one of the servant leadership articles assigned.
 
-On page 94 you are asked to provide a rating and rationale for the following questions:
+On page 212 you are asked to provide a rating and rationale for the following questions:
 
 1. Is the topic interesting?
 2. Is there a meaningful problem?
