@@ -40,7 +40,7 @@ The methods section of a quantitative research report typically presents a brief
 
 Inferential statistics are applied to data in an effort to answer comparison and relationship sorts of questions.  A useful chart showing some common inferential statistics are found in Tables 8.2 and 8.3 on pages 266 and 267 of Plano-Clark and Creswell.
 
-Tests of statistical significance are designed to work when samples are drawn randomly.  Be aware that true random sampling is rare in most quantitative research studies.  As a consumer of qualitative research reports, you will want to know that the statistics employed are appropriate, and to be cautious about accepting research findings if you detect any inconsistencies.
+As a consumer of qualitative research reports, you will want to know that the statistics employed are appropriate, and to be cautious about accepting research findings if you detect any inconsistencies.
 
 ##### References:
 
