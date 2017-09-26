@@ -4,7 +4,7 @@
 
 In this assignment you will write an outline for your literature review paper.  An outline can be defined as an organizational plan to help you draft a paper. Writing an outline before beginning a paper is the most effective way to organize your thoughts. An outline begins with identifying your research question and then breaks down the parts of your paper in a clear, hierarchical manner to help you achieve the goal of addressing your research question.  Your outline should include the 5 major sections listed below.  In each section I have provided you with a few questions to help you think through the kind of information you will need to include in each section of your paper.
 
-For this assignment you do not need to use APA style.  You may use the template below and write the answers to the questions in bullet points, but please use complete sentences.  Submit this assignment to your instructor in the assignment 4 drop box on the Learning Management System \(LMS\).
+For this assignment you do not need to use APA style.  You may use the template below and write the answers to the questions in bullet points, but please use complete sentences.   
 
 **A\) Introduction:**
 
@@ -47,6 +47,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Purpose of the study
 
 * Type of study conducted
+
 * Data collection method
 * Key findings
 
@@ -59,13 +60,14 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Is the research purpose clearly stated?
 
 * Was the study well-planned? Was the method appropriate for addressing the research question?
+
 * Were the measures used validated?
 * Were the participants adequate and appropriately selected?
 * Was the data analysis rigorous and appropriate?
 * Were the findings clearly stated?
 * Have these studies led to new questions being asked, new ways of using existing knowledge?
 * Are the strengths and weaknesses of the body of literature addressed?
-* Are possible explanations for any inconsistencies in the literature uncovered?D
+* Are possible explanations for any inconsistencies in the literature uncovered?
 
 **D\) Discussion:**
 
@@ -80,7 +82,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Why is this topic personally meaningful to you?
 * How will you use the information in this review to improve your personal or professional practices?
 
-**Submit your assignment to the course instructor.**
+**Submit your assignment to the course instructor in the assignment 4 drop box on the Learning Management System \(LMS\).**
 
 ##### Assignment Rubric:
 
