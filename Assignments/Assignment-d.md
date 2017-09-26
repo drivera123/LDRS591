@@ -4,7 +4,7 @@
 
 In this assignment you will write an outline for your literature review paper.  An outline can be defined as an organizational plan to help you draft a paper. Writing an outline before beginning a paper is the most effective way to organize your thoughts. An outline begins with identifying your research question and then breaks down the parts of your paper in a clear, hierarchical manner to help you achieve the goal of addressing your research question.  Your outline should include the 5 major sections listed below.  In each section I have provided you with a few questions to help you think through the kind of information you will need to include in each section of your paper.
 
-For this assignment you do not need to use APA style.  You may use the template below and write the answers to the questions in bullet points, but please use complete sentences.   
+For this assignment you do not need to use APA style.  You may use the template below and write the answers to the questions in bullet points, but please use complete sentences.
 
 **A\) Introduction:**
 
@@ -49,6 +49,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Type of study conducted
 
 * Data collection method
+
 * Key findings
 
 * How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text?
@@ -62,6 +63,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Was the study well-planned? Was the method appropriate for addressing the research question?
 
 * Were the measures used validated?
+
 * Were the participants adequate and appropriately selected?
 * Was the data analysis rigorous and appropriate?
 * Were the findings clearly stated?
@@ -71,11 +73,14 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 **D\) Discussion:**
 
-* Provide a concise summary of the findings that describes current knowledge of your topic.
-* What are the key limitation\(s\) associated with this topic?
+* What is the problem you are addressing?
+* What are the major results you found?
+* How would you interpret your results? \(e.g., what are the gaps, inconsistencies, strengths and weaknesses based on your critical evaluation\).
+* Do your results connect with previous research?
+* What are the key limitation\(s\) of your results?
 * Can you offer a rationale for why future research should be conducted on this topic?
-* What future directions would you recommend based on the limitations?
-* Provide a conclusion that clearly connects to your original research question.
+* Why are your findings important?
+* What are the practical implications of your findings?
 
 **F\) Personal Reflection \(not usually included in a scholarly article, but required for this class only\):**
 
