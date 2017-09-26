@@ -34,9 +34,8 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 4:** Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or more specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without sufficient justification for your claims. Thus, concrete ideas about the rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 
-**STEP 5:** APA formatting is required for this assignment.  This means that you need to:
+**STEP 5:** APA formatting is required for this assignment.
 
-1. 
 **STEP 6**: Submit your assignment to the course instructor.
 
 ##### Assignment Rubric
