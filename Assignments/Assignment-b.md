@@ -2,7 +2,7 @@
 
 Below you will find a guideline for writing a critique of a journal article. This assignment should be written in APA style format.  Please use your APA manual for details regarding structure and content, writing clearly and concisely, the mechanics of style and crediting sources.
 
-This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, which requires you to synthesize a lot of information in a concise way. This can often be rather challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended. If you need further help, please consult with the instructor.
+This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, which requires you to synthesize a lot of information in a concise way. This can often be rather challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
 
 **STEP 1:** Select a published, peer-reviewed journal article of your choice and provide the reference for this article in APA format at the top of the page.
 
