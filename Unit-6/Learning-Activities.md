@@ -4,6 +4,8 @@ a\) Read chapter 9 "Qualitative Research Designs" in Plano-Clark and Creswell \(
 
 b\) Read the four servant leadership articles posted under the unit 6 resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
 
+c\) Read the unit 6 "notes".
+
 ### Learning Activity 2: Blog post 1
 
 Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a qualitative research report in one of the servant leadership articles.
@@ -78,8 +80,6 @@ Close with one question that invites further comment and discussion. Please post
 | :--- | :--- | :--- | :--- | :--- |
 | **Depth of reflection** | Writing demonstrates lack of reflection on the selected topic, with no details. | Writing demonstrates a minimal reflection on the selected topic, including a few supporting details and examples. | Writing demonstrates a general reflection on the selected topic, including some supporting details and examples. | Writing demonstrates an in-depth reflection on the selected topic, including supporting details and examples. |
 | **Content** | The writer simply restates facts rather than reflecting on his or her own experience.  The writer's point of view is not evident. | Contains some interesting ideas, but the writer does not explore them thoroughly.  Lacks detailed explanation or supporting examples. | Shows thoughtful reflection.  Writer's point of view is apparent. | Demonstrates fresh, original thought and ideas.  Point of view is thoroughly explored and clearly expressed. |
-
-
 
 
 
