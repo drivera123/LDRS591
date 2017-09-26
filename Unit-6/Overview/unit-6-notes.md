@@ -6,11 +6,9 @@ Qualitative research designs typically are less structured than in quantitative 
 
 ### Data Collection
 
-Qualitative research data collection is typically based on one or more of the following methods:  observation \(including participant observation\), open-ended interviewing, first person accounts, and the review of various documents.  Data collected is descriptive, and may consist of personal documents, fieldnotes, various records of people’s own words \(including video and voice recordings and written transcripts\), photographs, official document and other artifacts.  Data is collected from small, nonrepresentative samples selected through various sampling strategies including theoretical, purposeful, and snow ball sampling \(Bogdan & Biklen, 2007, p. 45\).  
+Qualitative research data collection is typically based on one or more of the following methods:  observation \(including participant observation\), open-ended interviewing, first person accounts, and the review of various documents.  Data collected is descriptive, and may consist of personal documents, fieldnotes, various records of people’s own words \(including video and voice recordings and written transcripts\), photographs, official document and other artifacts.  Data is collected from small, nonrepresentative samples selected through various sampling strategies including theoretical, purposeful, and snow ball sampling \(Bogdan & Biklen, 2007, p. 45\).
 
-
-A dominant word encountered in qualitative research is triangulation.  Triangulation is a term borrowed from navigation and surveying, and conveys the notion that multiple sources of information will help establish a fact \(Bogdan & Biklen, 2007, p. 115\).  Multiple sources of data are seen to lead to a fuller, more complete, and more defensible understanding of the phenomena observed.  Consequently, multiple methods of data collection are frequently employed within the same qualitative research study.  These commonly consist of the researcher’s fieldnotes, interviews, researcher observations, and analysis of various documents.  
-
+A dominant word encountered in qualitative research is triangulation.  Triangulation is a term borrowed from navigation and surveying, and conveys the notion that multiple sources of information will help establish a fact \(Bogdan & Biklen, 2007, p. 115\).  Multiple sources of data are seen to lead to a fuller, more complete, and more defensible understanding of the phenomena observed.  Consequently, multiple methods of data collection are frequently employed within the same qualitative research study.  These commonly consist of the researcher’s fieldnotes, interviews, researcher observations, and analysis of various documents.
 
 In qualitative research, data is usually collected until saturation is achieved.  Saturation is a term employed that simply means that no new information relevant to the development of categories, properties, dimensions and variances is forthcoming from continued data gathering \(Corbin & Strauss, 2008, p. 143\).  In effect, findings begin to replicate, and not add anything substantially new \(Gall, Gall & Borg, 2007, p. 278\).  Qualitative researchers often make statements about collecting data until saturation is reached in an effort to demonstrate that sufficient data was collected to support the conclusions that will be reported.
 
@@ -30,14 +28,7 @@ Corbin, J. & Strauss, A. \(2008\).  Basics of qualitative research \(3rd ed\).  
 
 Gall, M., Gall, J. & Borg, W.  \(2007\). Educational research.  Boston, MA:  Pearson.
 
-Leedy, P., & Ormrod, J. \(2010\). Practical research: Planning and design \(9th ed.\). Upper Saddle River, NJ: Prentice-Hall.
-
 Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
-
-Seidman, I.  \(2006\).  Interviewing as qualitative research: A guide for researchers in education and the social sciences \(3rd ed.\).  New York, NY:  Teacher’s College Press.  
-
-
-
 
 
 
