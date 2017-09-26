@@ -20,7 +20,7 @@ Create a title page including: a title, running head, author byline, institution
 
 **Abstract:**
 
-You will need to create an abstract, which is intended to provide a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full article. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions.
+You will need to create an abstract, which is intended to provide a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 
 **Introduction:**
 
@@ -59,13 +59,11 @@ Note.  Table adapted from Parris & Peachey \(2013, p. 382\).
 
 **Results:**
 
-The results section should be the main body of the paper and should be in the 2500-3000 word range \(around 10 pages\) exclusive of any title page or references.
-
-In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations.  This is similar to what you had to do for assignment 2.  You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature. Be sure to use multiple sources, including books, lectures, research reports, or any of a multitude of sources.
+In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations.  This is similar to what you had to do for assignment 2.  You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature.
 
 **Discussion:**
 
-For this assignment you should offer a brief conclusion that summarizes and draws together what you have discovered precedent literature has to say about best practices to inform the topics you have investigated.  In this section you should describe your own interpretation of the results and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of the literature, draw a conclusion that clearly connects to your research question, and make recommendations \(and offer a rationale\) for future research on the topic.
+In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results \(e.g., identify gaps, inconsistencies, strengths, weaknesses\) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations \(and offer a rationale\) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.  
 
 **References:**
 
