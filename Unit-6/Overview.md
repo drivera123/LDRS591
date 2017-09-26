@@ -1,6 +1,6 @@
 ### Overview:
 
-In unit 6 we continue our overview of the most common research methods used in leadership research.  Remember that the purpose of these overviews is that you will be a more informed consumer of research and a practitioner of evidence-based leadership practices.  In this unit we will continue to explore the methods and results section of the research report. Specifically, we will focus on the  those of qualitative research reports.
+In unit 6 we continue our overview of the most common research methods used in leadership research.  Remember that the purpose of these overviews is that you will be a more informed consumer of research and a practitioner of evidence-based leadership practices.  Specifically, this unit will focus on the research design, method, and analysis and results of qualitative research reports.
 
 ### Learning Objectives:
 
