@@ -13,5 +13,15 @@ In unit 6 we continue our overview of the most common research methods used in l
 
 ### Resources:
 
+Chan, K.W.C, & So, G.B.K. \(2017\). Cultivating servant leaders in secondary schooling. Servant Leadership: Theory and Practice, 4\(1\), 12-31.  Retrieved from: http://www.sltpjournal.org/uploads/2/6/3/9/26394582/03chan\_so\_vol\_4\_issue\_1.pdf
+
+Jones, D. \(2012\). Does servant leadership lead to greater customer focus and employee satisfaction? Business Studies Journal, 4\(2\), 21-35.
+
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
+
+Russell, E.J., Broome, R.E., & Prince, R. \(2015\). Discovering the servant in fire and emergency service leaders. Servant Leadership: Theory and Practice, 2\(2\), 57-75. Retrieved from: http://www.sltpjournal.org/uploads/2/6/3/9/26394582/discovering\_the\_servant\_in\_fire\_and\_emergency\_services\_leaders.pdf
+
+Russell, E.J., Maxfield, R.J., & Russell, J.L. \(2017\). Discovering the self-interest of servant leadership: A grounded theory. Servant Leadership: Theory and Practice, 4\(1\), 75-97.  Retrieved from: http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell\_vol\_4\_issue\_1.pdf 
+
+
 
