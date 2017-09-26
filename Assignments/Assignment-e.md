@@ -63,7 +63,7 @@ In the results section you are now going to organize what you have learned by su
 
 **Discussion:**
 
-In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results \(e.g., identify gaps, inconsistencies, strengths, weaknesses\) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations \(and offer a rationale\) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.  
+In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results \(e.g., identify gaps, inconsistencies, strengths, weaknesses based on your critical analysis\) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations \(and offer a rationale\) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.
 
 **References:**
 
