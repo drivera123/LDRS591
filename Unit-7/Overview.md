@@ -15,3 +15,5 @@ Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's gu
 
 Stentz, J. E., Plano-Clark, V. L., & Matkin, G.S. \(2012\). Applying mixed methods to leadership research: A review of current practices. The Leadership Quarerly, 23\(6\), 1173-1183.
 
+Tsui, A.S., Zhang, Z., Wang, H., Xin, K.R., & Wu, J.B. \(2006\).  Unpacking the relationship between CEO leadership behavior and organizational culture. 
+
