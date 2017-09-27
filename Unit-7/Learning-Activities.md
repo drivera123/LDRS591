@@ -7,10 +7,11 @@ Read chapter 12 "Mixed Methods Research Designs" in Plano-Clark and Creswell \(2
 Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
 •   What is at the heart of the quantitative/qualitative debate?  
-•   How has mixed methods been seen as a remedy for advancing leadership research?  
-•   How strongly have the authors supported their research questions?
+•   How has mixed methods been seen as a remedy for advancing leadership research?
 
-Please post your reflection on your blog.  Add your post to the 'Learning Activities' and 'Unit 6' categories.
+Please post your reflection on your blog and close with one question that invites further comment and discussion..  Add your post to the 'Learning Activities' and 'Unit 7' categories.
+
+### Learning Activity
 
 Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a qualitative research report in one of the servant leadership articles.
 
