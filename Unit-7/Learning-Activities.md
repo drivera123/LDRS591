@@ -33,11 +33,9 @@ On page 406 you are asked to provide a rating and rationale for the following qu
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 7' categories.
 
-### Learning Activity 5: Blog post 3
+### Learning Activity 5:
 
 
-
-### Learning Activity 6: 
 
 ### 
 
