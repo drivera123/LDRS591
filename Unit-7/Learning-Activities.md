@@ -2,7 +2,7 @@
 
 Read chapter 12 "Mixed Methods Research Designs" in Plano-Clark and Creswell \(2015\).
 
-Watch the following video "Telling a complete story" where Dr. John W. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.   [https://www.youtube.com/watch?v=l5e7kVzMIfs](https://www.youtube.com/watch?v=l5e7kVzMIfs)
+Watch the following video by Dr. John W. Creswell "what is mixed methods research?"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  http://johnwcreswell.com/videos/
 
 ### Learning Activity 2: Blog post 1
 
