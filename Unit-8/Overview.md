@@ -10,5 +10,9 @@ We want to shift our focus from the highly theoretical and rigidly structured fo
 4. Assess the implications of action research for leadership practice. 
 5. Consider ways action research might be utilized in your leadership practice.
 
+### Resources:
+
+Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
+
 
 
