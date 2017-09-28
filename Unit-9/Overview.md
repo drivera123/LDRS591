@@ -4,9 +4,9 @@ In unit 9 we will focus on assessing and interpreting the conclusion section of 
 
 ### Learning Objectives:
 
-1. Identify common elements in the conclusions of research reports.
-2. Assess the rigor and interpret the conclusions of research reports.
-3. Compare the similarities and differences in conclusions of a qualitative and quantitative research report.
+1. Identify common elements in the discussion/conclusion section of research reports.
+2. Assess the rigor and interpret the discussion/conclusion of research reports.
+3. Compare the similarities and differences in the discussion/conclusion section of a qualitative and quantitative research report.
 4. Evaluate the quality of the final sections of a research report.
 
 ### Resources:
