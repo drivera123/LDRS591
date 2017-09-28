@@ -35,6 +35,7 @@
 * [Unit 7 Overview](Unit-7/Overview.md)
 * [Unit 7 Learning Activities](Unit-7/Learning-Activities.md)
 * [Unit 8 Overview](Unit-8/Overview.md)
+  * [Unit 8 Notes](Unit-8/Overview/unit-8-notes.md)
 * [Unit 8 Learning Activities](Unit-8/Learning-Activities.md)
 * [Unit 9 Overview](Unit-9/Overview.md)
 * [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
