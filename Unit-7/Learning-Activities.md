@@ -6,7 +6,7 @@ Watch the following video "Telling a complete story" where Dr. John W. Creswell 
 
 ### Learning Activity 2: Blog post 1
 
-Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
+Read Symonds and Gorard \(2010\) and Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
 •   What is at the heart of the quantitative/qualitative debate?  
 •   How has mixed methods been seen as a remedy for advancing leadership research?
