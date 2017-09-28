@@ -11,7 +11,5 @@ In unit 9 we will focus on assessing and interpreting the conclusion section of 
 
 ### Resources:
 
-
-
-
+Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
 
