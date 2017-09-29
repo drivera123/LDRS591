@@ -4,6 +4,10 @@ Read chapter 13 "Action Research Designs" in Plano-Clark and Creswell \(2015\).
 
 ### Learning Activity 2:
 
+This learning activity asks you to think about some practical problems that you have faced in the past year in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation. 
+
+### Learning Activity 3: 
+
 This learning activity asks you to develop an action research project in a podcast that you can take with you into future leadership situations. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.
 
 ##### Criteria and Evaluation {#criteria-and-evaluation}
