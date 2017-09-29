@@ -6,13 +6,10 @@ We want to shift our focus from the highly theoretical and rigidly structured fo
 
 1. Differentiate the characteristics of action research.
 2. Appraise the applicability of action research to leadership studies. 
-3. Critique the features of an action research report.
-4. Assess the implications of action research for leadership practice. 
-5. Consider ways action research might be utilized in your leadership practice.
+3. Assess the implications of action research for leadership practice.
+4. Design an action research project that might be utilized in your leadership practice.
 
 ### Resources:
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
-
-
 
