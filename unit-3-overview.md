@@ -8,7 +8,7 @@ The MA Leadership program uses the APA Manual \(6th edition\) as the model for f
 
 1. Analyze and adopt the skills required for scholarly writing.
 
-2. Employ APA formatting as a foundation for the scholarly writing required in the MAL program.
+2. Employ APA formatting as a foundation for the scholarly writing required in the MA Leadership program.
 
 3. Create a written document in conformance to APA 6 formatting standards.
 
