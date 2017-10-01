@@ -50,7 +50,7 @@ Scholarly writing, should reflect higher levels of learning.  According to Bloom
 * "re-arrange ideas into a new whole" to demonstrate synthesis.
 * "make judgments based on internal evidence or external criteria" to demonstrate evaluation.
 
-When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind.  According to the Critical Appraisal Skills Program \(2017\) the three key questions to ask are: 1\) Are the results of the study valid? 2\) What are the results? and 3\) Are the results useful?  These questions will help you break down ideas, re-arrange those ideas and help you make judgments about the information you are reading.  Here are 14 additional questions that will help you dig deeper into the analytical process.
+When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind.  According to the Critical Appraisal Skills Program \(2017\) the three key questions to ask are: 1\) Are the results of the study valid? 2\) What are the results? and 3\) Are the results useful?  These questions will help you break down ideas, re-arrange those ideas to synthesize them and help you make judgments about the information you are reading.  Here are 14 additional questions that will help you dig deeper into the analytical process.
 
 1. Does the abstract accurately summarize the article?
 2. Does the purpose statement in the abstract match the purpose statement in the introduction?
