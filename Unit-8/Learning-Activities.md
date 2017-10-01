@@ -12,18 +12,18 @@ This learning activity asks you to develop a hypothetical action research projec
 
 ##### Criteria and Evaluation {#criteria-and-evaluation}
 
-* _Delivery_
-  * appropriate vocal animation, articulation, tone, volume, fluid communication \(1 point\)
-* _Organization_
-  * Project follows steps 1-8 for planning an action research study described by Plano-Clark and Creswell \(pp. 440-442\) \(4 points\)
-  * Project idea is clear, well organized, structure is explained in the introduction \(2 point\)
-  * Fits within 3-5 minutes but no more than 6 minutes \(1 point\)
-* _Subject Knowledge and Application_
-  * Project idea relates to a practical leadership issue you are currently facing \(2 points\)
-* Introduction includes a grabber, subject and message or main point \(3 points\)
-* Conclusion gives a call to action \(2 points\)
+* Use appropriate vocal animation, articulation, tone, volume, fluid communication
+
+* Presentation should follows steps 1-8 for planning an action research study described by Plano-Clark and Creswell \(pp. 440-442\)
+* Project idea should be clear, well organized, structure is explained in the introduction.
+* Fits within 3-5 minutes but no more than 6 minutes
+* Project idea relates to a practical leadership issue you are currently facing 
+* Introduction includes a grabber, subject and message or main point
+* Conclusion gives a call to action
 
 ### Learning Activity 4
 
-This learning activity asks you to provide a substantive response to two projects by colleagues in the class.
+This learning activity asks you to provide a substantive response to two projects by colleagues in the class.  Make notes about the strengths of the presentation as well as areas to work on \(clarify, more analysis, more personal application\).
+
+Summarize your notes in a response to your colleagues post in 150-250 words**.  **Please remember that your response will be visible to all members of the class in the forum.
 
