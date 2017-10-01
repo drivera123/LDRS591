@@ -4,13 +4,11 @@ In unit 4 we explored the introduction to research reports we saw that the resea
 
 ### Learning Objectives:
 
-1. Differentiate the characteristics of experimental, quasi-experimental, and ex post facto studies. 
+1. Differentiate the characteristics of experimental and quasi-experimental studies. 
 2. Distinguish between a sample and a population. 
-3. Discuss the importance of a representative sample, and identify strategies to achieve a representative sample. 
-4. Analyze the characteristics, uses, and limitations of different types of probability and non-probability sampling. 
-5. Appraise the factors that influence determination of sample size. 
-6. Differentiate the uses of descriptive and inferential statistics. 
-7. Critique the methods and results sections of a quantitative research report.
+3. Analyze the characteristics, uses, and limitations of different types of probability and non-probability sampling. 
+4. Differentiate the uses of descriptive and inferential statistics. 
+5. Critique the methods and results sections of a quantitative research report.
 
 ### Resources:
 
