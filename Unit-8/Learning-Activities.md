@@ -8,22 +8,37 @@ This learning activity asks you to think about some practical problems that you 
 
 ### Learning Activity 3:
 
-This learning activity asks you to develop a hypothetical action research project and present the project idea in a podcast. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.
+This learning activity asks you to develop an action research project and present the project idea in a podcast. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.
 
-##### Criteria and Evaluation {#criteria-and-evaluation}
+##### Instructions: {#criteria-and-evaluation}
+
+* Using one of the ideas from learning activity 2, create an action research project that follows steps 1-8 for planning an action research study described by Plano-Clark and Creswell \(pp. 440-442\).
+
+* Your introduction should include a grabber, subject and message or main point, with structure explained.
+* Your project idea should relate to a practical leadership issue you are currently facing 
+* Your project idea should be clear and well organized.
+
+* Fits within 3-5 minutes but no more than 6 minutes
+
+* Conclusion gives a call to action
 
 * Use appropriate vocal animation, articulation, tone, volume, fluid communication
 
-* Presentation should follows steps 1-8 for planning an action research study described by Plano-Clark and Creswell \(pp. 440-442\)
-* Project idea should be clear, well organized, structure is explained in the introduction.
-* Fits within 3-5 minutes but no more than 6 minutes
-* Project idea relates to a practical leadership issue you are currently facing 
-* Introduction includes a grabber, subject and message or main point
-* Conclusion gives a call to action
-
 ### Learning Activity 4
 
-This learning activity asks you to provide a substantive response to two projects by colleagues in the class.  Make notes about the strengths of the presentation as well as areas to work on \(clarify, more analysis, more personal application\).
+This learning activity asks you to peer review two projects by colleagues in the class.  Make notes about the strengths of the presentation as well as areas to work on \(clarify, more analysis, more personal application\) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445.  Here are questions you should address in your evaluation:
 
-Summarize your notes in a response to your colleagues post in 150-250 words**.  **Please remember that your response will be visible to all members of the class in the forum.
+* Does the project focus on a real problem in practice?
+* Does the researcher plan to study his or her own practices or plan to collaborate with community members?
+* Does the project include careful reflection about the problem?
+* Does the researcher plan to gather several sources of information \(e.g., qualitative and quantitative procedures\)?
+* Does the researcher develop a clear plan for addressing the problem?
+* Does the project include reflecting, thinking, looking, and gathering information and acting?
+* Will the results of the project enhance the lives of those involved?
+
+Summarize your notes in a response to your colleagues projects in 150-250 words**.  **Please remember that your response will be visible to all members of the class in the forum.
+
+##### 
+
+
 
