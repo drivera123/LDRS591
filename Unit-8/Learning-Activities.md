@@ -2,6 +2,8 @@
 
 Read chapter 13 "Action Research Designs" in Plano-Clark and Creswell \(2015\).
 
+Watch
+
 ### Learning Activity 2: Blog post 1
 
 This learning activity asks you to think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. Add your post to the 'Learning Activities' and 'Unit 8' categories.
@@ -15,6 +17,7 @@ This learning activity asks you to develop an action research project and presen
 * Using one of the ideas from learning activity 2, create an action research project that follows steps 1-8 for planning an action research study described by Plano-Clark and Creswell \(pp. 440-442\).
 
 * Your introduction should include a grabber, subject and message or main point, with structure explained.
+
 * Your project idea should relate to a practical leadership issue you are currently facing 
 * Your project idea should be clear and well organized.
 
