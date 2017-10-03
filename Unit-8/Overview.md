@@ -13,3 +13,5 @@ We want to shift our focus from the highly theoretical and rigidly structured fo
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
 
+Spender, J. \(2017, January 12\).  What is action research? \[Video file\]. Retrieved from [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/) 
+

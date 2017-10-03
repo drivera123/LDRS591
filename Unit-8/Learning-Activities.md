@@ -1,7 +1,7 @@
 ### Learning Activity 1:
 
 1. Read chapter 13 "Action Research Designs" in Plano-Clark and Creswell \(2015\).
-2. Watch the following video by John Spencer \(2017\) that explains what action research is http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/ 
+2. Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/) 
 
 ### Learning Activity 2: Blog post 1
 
