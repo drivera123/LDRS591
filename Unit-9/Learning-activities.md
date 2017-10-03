@@ -1,6 +1,7 @@
 ### Learning Activity 1:
 
-Read chapter 14 "Conclusions" in Plano-Clark and Creswell \(2015\).
+1. Read chapter 14 "Conclusions" in Plano-Clark and Creswell \(2015\).
+2. Read the four servant leadership articles listed under the unit 9 resources.
 
 ### Learning Activity 2: Blog post 1
 
@@ -17,4 +18,16 @@ On page 477 you are asked to provide a rating and rationale for the following qu
 7. Is the back matter appropriate for the study?
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 9' categories.
+
+### Learning Activity 3: Blog post 2
+
+Prepare a brief \(250-300 word\) response to the following:
+
+The most important thing for me about the conclusions section of a high-quality research report is . . .
+
+Close with one question that invites further comment and discussion. Please post this reflection brief to the 'Learning Activities' and 'Unit 9'.
+
+### Learning Activity 4:
+
+We have now concluded our investigation of research designs and the interpretation of the consequent research reports.  In this learning activity you will be asked to complete assignment 4. In this assignment you will write an outline for your formal literature review paper.
 

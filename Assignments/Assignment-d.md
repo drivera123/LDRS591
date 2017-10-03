@@ -65,6 +65,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 * Were the measures used validated?
 
 * Were the participants adequate and appropriately selected?
+
 * Was the data analysis rigorous and appropriate?
 * Were the findings clearly stated?
 * Have these studies led to new questions being asked, new ways of using existing knowledge?
