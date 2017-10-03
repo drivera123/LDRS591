@@ -29,5 +29,9 @@ Close with one question that invites further comment and discussion. Please post
 
 ### Learning Activity 4:
 
-We have now concluded our investigation of research designs and the interpretation of the consequent research reports.  In this learning activity you will be asked to complete assignment 4. In this assignment you will write an outline for your formal literature review paper.
+We have now concluded our investigation of research designs and the interpretation of the consequent research reports.  In this learning activity you will be asked to complete assignment 4. For this assignment you will write an outline for your formal literature review paper.  Please submit your assignment for peer review first and then submit it via the assignment 4 drop box in the Learning Management System \(LMS\).
+
+### 
+
+
 
