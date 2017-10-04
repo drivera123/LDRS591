@@ -41,6 +41,7 @@
 * [Unit 9 Overview](Unit-9/Overview.md)
 * [Unit 9 Learning Activities](Unit-9/Learning-activities.md)
 * [Unit 10 Overview](Unit-10/Overview.md)
+  * Unit 10 notes
 * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
 * [Unit 3 Overview](unit-3-overview.md)
 

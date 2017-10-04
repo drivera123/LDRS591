@@ -10,11 +10,19 @@ Please post your response to this question on your blog under 'Learning Activiti
 
 This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies.
 
-My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available in a given context. In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader. 
+My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available in a given context. In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
 
 Please post your response to this question on your blog under 'Learning Activities' under 'unit 10'.
 
-### Learning Activity 3: Blog post 3
+### Learning Activity 3:
+
+Read the unit 10 notes and then watch the following video https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science
+
+ 737-9C56^XMQ1 
+
+
+
+
 
 ### 
 
