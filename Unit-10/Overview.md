@@ -6,11 +6,15 @@ Scholarly research reports can have profound impact on society.  Thus far in thi
 
 ### Learning Objectives:
 
-1.    Identify and appreciate the safeguards to the integrity of the research process.  
-2.    Critically reflect on the importance of evidence-based decision making for transformational servant leadership.  
-3.    .
+1. Evaluate the safeguards to the integrity of the research process.  
+2. Critically reflect on the importance of evidence-based decision making for transformational servant leadership.  
+3. Create a critical literature review.
 
-### 
+### Resources:
+
+Unit 10 Notes.
+
+Goldcare, B. \(2011, July\). Battling bad science. \[Video file\]. Retrieved from https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science 
 
 
 
