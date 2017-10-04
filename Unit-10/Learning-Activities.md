@@ -4,7 +4,7 @@ In unit 1 you were asked to blog about a recent decision you made as a leader. Y
 
 In this unit, my question is a little different. I want to know, if after taking this class, would you make your decisions differently?  What new insights have you learned and how would those insights inform your decision making process now?
 
-Please post your response to this question on your blog under 'Learning Activities' under 'unit 10'.
+Please post your response to this question on your blog under 'Learning Activities' and 'Unit 10'.
 
 ### Learning Activity 2: Blog post 2
 
@@ -12,17 +12,23 @@ This course has emphasized evidence-based leadership by equipping you to access,
 
 My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available in a given context. In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
 
-Please post your response to this question on your blog under 'Learning Activities' under 'unit 10'.
+Please post your response to this question on your blog under 'Learning Activities' and 'Unit 10'.
 
-### Learning Activity 3:
+### Learning Activity 3: Blog post 3
 
-Read the unit 10 notes and then watch the following video https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science
+We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports. You have handled many examples of different research methods, and in so doing, you have increased your ability to sense potential problems.
 
- 737-9C56^XMQ1 
+In this learning activity you are asked to 1\) read the unit 10 notes and then 2\) watch the following video [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_scienc](https://www.ted.com/talks/ben_goldacre_battling_bad_science)e and 3\) prepare a brief \(250-300 word\) response to the following questions:
 
+* How can I know that I can trust what I am reading?
 
+* How do I know the research has been performed competently?
 
+* How do I know the research is reported honestly?
 
+* How do I know the findings presented are consistent with what other researchers would conclude?
+
+Close with one question that invites further comment and discussion. Please post this reflection brief to the 'Learning Activities' and 'Unit 10'.
 
 ### 
 
