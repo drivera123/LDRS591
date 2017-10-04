@@ -15,6 +15,8 @@ Barbuto, J.E., Gottfredson, R.K., & Searle, T.P. \(2014\). An examination of emo
 
 Coetzer, M.F., Bussin, M., & Geldenhuys, M. \(2017\). The functions of a servant leader. Administrative Sciences, 7\(5\), 1-32.
 
+Hanse, J.J., Harlin, U., Jarebrant, C., Ulin, K., & Winkel, J. \(2016\). The impact of servant leadership dimensions on leader-member exchange among health care professionals. Journal of Nursing Management, 24, 228-234.
+
 Melchar, D.E. & Bosco, S.M. \(2010\). Achieving high organization performance through servant leadership. Journal of Business Inquiry: Research, Education and Application, 9\(1\), 74-88.
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
