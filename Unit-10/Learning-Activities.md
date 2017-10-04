@@ -1,8 +1,8 @@
 ### Learning Activity 1: Blog post 1
 
-In unit 1 you were asked to blog about a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence \(e.g., data derived from research\), expert opinion?
+In unit 1 you were asked to blog about a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
 
-In this unit, my question is a little different. I want to know, if after taking this class, would you make your decisions differently?  What new insights have you learned and how would those insights inform your decision making process now?
+In this unit, the question is a little different. I want to know, if after taking this class, would you make your decisions differently?  What new insights have you learned and how would those insights inform your decision making process now?
 
 Please post your response to this question on your blog under 'Learning Activities' and 'Unit 10'.
 
@@ -30,7 +30,9 @@ In this learning activity you are asked to 1\) read the unit 10 notes and then 2
 
 Close with one question that invites further comment and discussion. Please post this reflection brief to the 'Learning Activities' and 'Unit 10'.
 
-### 
+### Learning Activity 4:
+
+We have now concluded our course on Scholarly Inquiry.  In this learning activity you will be asked to complete assignment 5, which is to write a formal literature review paper. Please submit your assignment for peer review first and then submit it via the assignment 5 drop box in the Learning Management System \(LMS\).
 
 
 
