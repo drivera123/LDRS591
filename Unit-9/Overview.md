@@ -11,7 +11,11 @@ In unit 9 we will focus on assessing and interpreting the discussion/conclusion 
 
 ### Resources:
 
+Barbuto, J.E., Gottfredson, R.K., & Searle, T.P. \(2014\). An examination of emotional intelligence as an antecedent of servant leadership.  Journal of Leadership and Organizational Studies, 21\(3\), 315-323.
+
 Coetzer, M.F., Bussin, M., & Geldenhuys, M. \(2017\). The functions of a servant leader. Administrative Sciences, 7\(5\), 1-32.
+
+Melchar, D.E. & Bosco, S.M. \(2010\). Achieving high organization performance through servant leadership. Journal of Business Inquiry: Research, Education and Application, 9\(1\), 74-88.
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
 
