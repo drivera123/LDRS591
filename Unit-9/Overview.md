@@ -11,5 +11,7 @@ In unit 9 we will focus on assessing and interpreting the discussion/conclusion 
 
 ### Resources:
 
+Coetzer, M.F., Bussin, M., & Geldenhuys, M. \(2017\). The functions of a servant leader. Administrative Sciences, 7\(5\), 1-32.
+
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
 
