@@ -5,7 +5,7 @@
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the conclusions and back matter in one of the servant leadership articles you read in learning activity 1.
+Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in one of the servant leadership articles you read in learning activity 1.
 
 On page 477 you are asked to provide a rating and rationale for the following questions:
 
