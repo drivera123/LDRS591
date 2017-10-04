@@ -38,7 +38,10 @@ Locke, et al. \(2010\) suggest some important questions to keep in mind when mak
 11.    Did you find that the report was complete enough for you to form a judgment about each important aspect of the study?  
 12.    Do you understand all of the report, or, in all honesty, do you require assistance with some elements?  \(p. 51\)
 
-References  
+##### References
+
 Locke, L, Silverman, S., & Spirduso, W.  \(2010\).  Reading and understanding research \(3rd ed.\).  Los Angeles, CA:  Sage.  
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumers guide. Boston, MA: Merrill
+
+
 
