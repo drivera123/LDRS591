@@ -1,6 +1,10 @@
-Before we finish this course, I want to take some time to address a fundamental question that underlines our decision-making processes:  Simply stated, the question is “how can I know I can trust what I am reading?”  At the heart of this issue are three interrelated concerns:  Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude \(Locke, et al., 2010, p. 12\)?
+### Issues of Credibility
+
+Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes:  Simply stated, the question is “how can I know I can trust what I am reading?”  At the heart of this issue are three interrelated concerns:  Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude \(Locke, et al., 2010, p. 12\)?
 
 By now you are aware that the reason behind much of the tedious detail provided in research reports is aimed at addressing the question "is the research performed competently?"  Great efforts are expended in the publication process to further address research competence, honesty, and consistency.  As we will see, the final concern introduces an element that can be distressing.
+
+##### Competence and Honesty
 
 You will recall that earlier in the course it was suggested that you always check the “Peer-Reviewed or Scholarly” box when doing an online search of the literature.  Your first line of establishing trust in the quality of a research article is the review process followed in the formal presentation and publishing of research.
 
@@ -24,6 +28,8 @@ Clearly, obvious conflicts of interest with the researcher contribute to the bre
 
 Finally, obvious errors either due to carelessness or poor researcher decisions contribute to the erosion of trust.  Poor scholarship is in evidence when such errors are sufficient to call into question whether the researcher has even a basic understanding of the field.
 
+##### Twelve Important Questions
+
 Locke, et al. \(2010\) suggest some important questions to keep in mind when making decisions regarding the merit of research reports you read.  These will help to provide another framework that extends what we have developed thus far in our work with Plano-Clark and Creswell \(2015\).  These twelve questions are as follows:  
 1.    Has the paper been peer reviewed for a refereed journal?  
 2.    Is evidence of replication available to support the results?  
@@ -42,6 +48,4 @@ Locke, et al. \(2010\) suggest some important questions to keep in mind when mak
 
 Locke, L, Silverman, S., & Spirduso, W.  \(2010\).  Reading and understanding research \(3rd ed.\).  Los Angeles, CA:  Sage.  
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumers guide. Boston, MA: Merrill
-
-
 
