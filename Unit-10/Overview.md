@@ -6,7 +6,7 @@ Scholarly research reports can have profound impact on society.  Thus far in thi
 
 ### Learning Objectives:
 
-1. Evaluate the safeguards to the integrity of the research process.  
+1. Evaluate the safeguards that are in place to uphold the integrity of the research process.  
 2. Critically reflect on the importance of evidence-based decision making for transformational servant leadership.  
 3. Create a critical literature review.
 
@@ -14,7 +14,5 @@ Scholarly research reports can have profound impact on society.  Thus far in thi
 
 Unit 10 Notes.
 
-Goldcare, B. \(2011, July\). Battling bad science. \[Video file\]. Retrieved from https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science 
-
-
+Goldcare, B. \(2011, July\). Battling bad science. \[Video file\]. Retrieved from [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science](https://www.ted.com/talks/ben_goldacre_battling_bad_science)
 
