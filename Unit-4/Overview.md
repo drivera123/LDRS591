@@ -13,11 +13,11 @@ In unit 4 we are going to begin unpacking research reports.  To start,  we will 
 
 ### Resources:
 
-Ebener, D.R. & O'Connell, D.J. \(2010\).  How might servant leadership work? Non-profit Management and Leadership, 20\(3\), 315-335. Retrieved from: http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=16&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120
+Ebener, D.R. & O'Connell, D.J. \(2010\).  How might servant leadership work? Non-profit Management and Leadership, 20\(3\), 315-335. Retrieved from: [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=16&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120](http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=16&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120)
 
-Parris, D.L.& Peachey, J.W. \(2013\).  A systematic literature review of servant leadership theory. Journal of Business Ethics, 113 \(3\), 377-393. Retrieved from: http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=19&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120
+Parris, D.L.& Peachey, J.W. \(2013\).  A systematic literature review of servant leadership theory. Journal of Business Ethics, 113 \(3\), 377-393. Retrieved from: [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=19&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120](http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=19&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120)
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
 
-Sendjaya, S. & Pekerti, A. \(2010\).  Servant leadership as antecedent of trust in organizations.  Leadership and Organization Development Journal. 31\(7\), 643-663. 
+
 
