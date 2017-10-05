@@ -2,13 +2,13 @@
 
 a\) Read the unit 4 notes.
 
-b\) Read the introductions to the servant leadership articles listed under the Unit 4 resources. Chose one of these articles to focus on to answer the questions in the following learning activities.
+b\) Read the article by Sendjaya and Sarros \(2002\) "Servant leadership: Its origin, development, and application in organizations" to familiarize yourself with the topic of servant leadership. 
 
-c\) Read chapter 3 in the Plano-Clark and Creswell \(2015\) text "Statements of the Problem".
+c\) Read the introductions to the servant leadership articles listed under the Unit 4 resources. Chose** one **of these articles to focus on to answer the questions in the following learning activities.
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 93 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on.
+Read chapter 3 in the Plano-Clark and Creswell \(2015\) text "Statements of the Problem". Using the evaluation criteria on pg. 93 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on.
 
 On page 94 you are asked to provide a rating and rationale for the following questions:
 
