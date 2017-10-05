@@ -13,7 +13,7 @@ In unit 6 we continue our overview of the most common research methods used in l
 
 ### Resources:
 
-Carter, D., Baghurst, T. \(2014\). The influence of servant leadership on restaurant employee engagement. Journal of Business Ethics, 124, 453-464.
+Carter, D., Baghurst, T. \(2014\). The influence of servant leadership on restaurant employee engagement. Journal of Business Ethics, 124, 453-464. Retrieved from: http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=76&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120
 
 Chan, K.W.C, & So, G.B.K. \(2017\). Cultivating servant leaders in secondary schooling. Servant Leadership: Theory and Practice, 4\(1\), 12-31.  Retrieved from: [http://www.sltpjournal.org/uploads/2/6/3/9/26394582/03chan\_so\_vol\_4\_issue\_1.pdf](http://www.sltpjournal.org/uploads/2/6/3/9/26394582/03chan_so_vol_4_issue_1.pdf)
 
