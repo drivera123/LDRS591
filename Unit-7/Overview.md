@@ -13,13 +13,15 @@ Plano-Clark and Creswell assert that the decision to engage in qualitative or qu
 
 Beck, C.D. \(2014\).  Antecedents of servant leadership: A mixed methods study. Journal of Leadership and Organizational Studies, 21\(3\), 299-314.
 
-Black, G.L. \(2013\). Correlational analysis of servant leadership and school climate. Journal of Catholic Education, 13\(4\), 437-466.
+Black, G.L. \(2013\). Correlational analysis of servant leadership and school climate. Journal of Catholic Education, 13\(4\), 437-466. Retrieved from: https://eric.ed.gov/?id=EJ914879
 
 Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
 
+Melchar, D.E., & Bosco, S.M. \(2010\). Achieving high organization performance through servant leadership. Journal of Business Inquiry, 9\(1\), 774-88. Retrieved from: http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=91&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120
+
 Sendjaya, S., Sarros, J.C., & Santora, J.C. \(2008\). Defining and measuring servant leadership behaviour in organizations. Journal of Management Studies, 45\(2\), 402-424.
 
-Stentz, J. E., Plano-Clark, V. L., & Matkin, G.S. \(2012\). Applying mixed methods to leadership research: A review of current practices. The Leadership Quarerly, 23\(6\), 1173-1183.
+Stentz, J. E., Plano-Clark, V. L., & Matkin, G.S. \(2012\). Applying mixed methods to leadership research: A review of current practices. The Leadership Quarerly, 23\(6\), 1173-1183. Retrieved from: http://ezproxy.student.twu.ca:2055/science/article/pii/S1048984312000902?
 
-Tsui, A.S., Zhang, Z., Wang, H., Xin, K.R., & Wu, J.B. \(2006\).  Unpacking the relationship between CEO leadership behavior and organizational culture.
+
 
