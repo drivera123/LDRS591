@@ -16,9 +16,15 @@ Please post your response to this question on your blog under 'Learning Activiti
 
 ### Learning Activity 3: Blog post 3
 
-We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports. You have handled many examples of different research methods, and in so doing, you have increased your ability to sense potential problems.
+We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports and you have increased your ability to sense potential problems.
 
-In this learning activity you are asked to 1\) read the unit 10 notes and then 2\) watch the following video [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_scienc](https://www.ted.com/talks/ben_goldacre_battling_bad_science)e and 3\) prepare a brief \(250-300 word\) response to the following questions:
+In this learning activity you are asked to: 
+
+1\) Read the unit 10 notes
+
+2\) Watch the following video [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_scienc](https://www.ted.com/talks/ben_goldacre_battling_bad_science)e 
+
+3\) Prepare a brief \(250-300 word\) response to the following questions:
 
 * How can I know that I can trust what I am reading?
 
@@ -33,6 +39,4 @@ Close with one question that invites further comment and discussion. Please post
 ### Learning Activity 4:
 
 We have now concluded our course on Scholarly Inquiry.  In this learning activity you will be asked to complete assignment 5, which is to write a formal literature review paper. Please submit your assignment for peer review first and then submit it via the assignment 5 drop box in the Learning Management System \(LMS\).
-
-
 
