@@ -2,7 +2,7 @@
 
 a\) Read chapter 6 "Quantitative Research Designs" in Plano-Clark and Creswell \(2015\).
 
-b\) Read the four servant leadership articles posted under the unit 5 resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
+b\) Read the four servant leadership articles posted under the unit 5 resources.  Chose **one** of the servant leadership articles to focus on to answer the questions in the following learning activities.
 
 c\) Read the unit 5 notes.
 
