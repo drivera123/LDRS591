@@ -8,15 +8,37 @@ By now you are well aware of the applied nature of the MA in Leadership program.
 
 A professor of mine often observed that a fundamental attribute of being human is to ask questions.  Humanity is especially interested in three fundamental questions: What is real?  What is true?  What is good?   The philosophical category of metaphysics is concerned with what is real, and what is the nature of reality.  The philosophical category of epistemology is concerned with what is true, and what is the nature and process of knowing, and axiology is concerned with what is good, and how we can determine the nature of goodness.  Much of history is a chronicle of the different ways people have answered these three fundamental questions.  How we answer these questions reveals our perspective or our worldview.
 
-A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" \(Geisler & Watkins, 2003\).  It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live.  It is important to be aware of what your worldview is before you enter into the research journey because it will inform the types of questions that you ask, and also the processes that you use to find the answers to your questions.  As an example let me compare two common worldviews and explain how they can be applied to the research journey.
+A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" \(Geisler & Watkins, 2003\).  It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live.  It is important to be aware of what your worldview is before you enter into the research journey because it will inform the types of questions that you ask, and also the processes that you use to find the answers to your questions.  As an example let me compare two common worldviews and explain how they can be applied to the research journey.  The way I will compare them will be how they address four fundamental worldview questions.
+
+Secular Humanist Worldview
+
+Who are we? Fundamentally we are a material organisms with no soul or spirit.  Things we can touch, feel, prove, or study – exists and has always existed.
+
+What's our purpose?  Each individual is tasked with constructing his or her own purpose.   
+
+What's the problem? Human suffering. 
+
+What's the solution? Alleviate suffering through human reason, scientific methods, education.
+
+Christian Worldview
+
+Who are we?  We are image bearers of God created to reflect God's love and goodness.
+
+What's our purpose? To love God and cultivate human flourishing.
+
+What's the problem? Our sinful disposition toward God and other humans.
+
+What's the solution? Enter into a restored relationship with God and with others. 
+
+
 
 A Christian worldview states that God has created the world and everything in it and that truth is arrived at through a study of God's specific revelation \(the bible\) and general revelation \(creation\).  The Christian worldview can be summarized in three words: Creation, Fall and Redemption. Initially, when God created the world, it was all good and whole and harmonious. God created man in his own image. Originally, man was created healthy in body, soul and spirit \(Genesis 1:26-27, 31\). As people rebelled against God causing the fall, the presence of sin became like a sickness in the world that has caused much suffering and disease. Where there was harmony and wholeness, we now experience ourselves, our relationships and the world around us as fractured, broken, and full of dis-ease \(a literal discomfort with who we are\) \(Genesis 3\).
 
 Now, despite the brokenness, Christians believe that God is actively working to bring about restoration and wholeness to his entire creation. Through Christ’s redemptive work on the cross, and in our own lives, people are reconciled to God and are challenged to make all things as they were created and meant to be – very good. Redemption means that all things are made new in Christ \(Colossians 1:19-20\).
 
-The framework of Creation, Fall, Redemption is important because it allows us to enter into a discussion about research with confidence knowing that God’s redemptive work touches this area. Christians believe that we are called to study creation with the desire to take the knowledge we gain and use it to help and bless others; to work toward the restoration and healing of God’s creation.  Christians are called to inquire, to investigate, to ask questions, with the purpose of blessing others. 
+The framework of Creation, Fall, Redemption is important because it allows us to enter into a discussion about research with confidence knowing that God’s redemptive work touches this area. Christians believe that we are called to study creation with the desire to take the knowledge we gain and use it to help and bless others; to work toward the restoration and healing of God’s creation.  Christians are called to inquire, to investigate, to ask questions, with the purpose of blessing others.
 
-A secular humanist worldview states that evolutionary theory holds comprehensive explanatory power to account for all that exists.  Truth is arrived at through human reason and scientific understanding.  The secular worldview places man at the center of all things and believes in man’s inherent goodness and predicts that every individual can achieve mental health through the fulfillment of physical or material needs.  man is evil primarily because his cultural and social environments are evil, not through any fault of his own. Humanists believe that science, reason, and historical experience are sufficient guides for figuring out what is right or wrong in any situation.  
+A secular humanist worldview states that naturalism \(that is the  holds comprehensive explanatory power to account for all that exists.  Truth is arrived at through human reason and scientific understanding.  The secular worldview places man at the center of all things and believes in man’s inherent goodness and predicts that every individual can achieve mental health through the fulfillment of physical or material needs.  The humanists believe that man is evil primarily because his cultural and social environments are evil, not through any fault of his own. Humanists believe that science, reason, and historical experience are sufficient guides for figuring out what is right or wrong in any situation.
 
 So, how do we know what is true?  While this list is not exhaustive, there are three common approaches to knowing:
 
