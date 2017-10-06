@@ -5,7 +5,7 @@
 
 ### Learning Activity 2: Blog post 1
 
-This learning activity asks you to think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. Add your post to the 'Learning Activities' and 'Unit 8' categories.
+This learning activity asks you to think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to.  Add your post to the 'Learning Activities' and 'Unit 8' categories.
 
 ### Learning Activity 3:
 
