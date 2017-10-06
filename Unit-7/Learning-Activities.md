@@ -15,7 +15,7 @@ Please post your reflection on your blog and close with one question that invite
 
 ### Learning Activity 3:
 
-Read the four leadership articles listed under the unit 7 resources.
+Read the four servant leadership articles listed under the unit 7 resources.
 
 ### Learning Activity 4: Blog post 2
 
