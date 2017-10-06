@@ -11,7 +11,7 @@
   * [Literature Review Outline](Assignments/Assignment-d.md)
   * [Formal Literature Review](Assignments/Assignment-e.md)
   * [APA Formatting Requirements](Assignments/apa-formatting-requirements.md)
-  * [Peer Review](Assignments/peer-review.md)
+  * [Peer Review Protocol](Assignments/peer-review.md)
 * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
 * [Unit 1 Overview](Unit-1/Overview.md)
   * [Unit 1 Notes](Unit-1/Overview/philosophical-foundations.md)
