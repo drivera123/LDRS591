@@ -17,6 +17,7 @@ All blog posts should be between 150 - 250 words.
 * Unit 4: Learning Activity X and X
 
 * Unit 5: Learning Activity X and X. Respond to colleagues posts.
+
 * Unit 6 Learning Activity X, X and X
 * Unit 7 Learning Activity X and X. Respond to colleagues posts.
 * Unit 8 Learning Activity X and X
@@ -34,4 +35,13 @@ The following criteria will be used to assign marks to your blog posts and colle
 * All posts are clearly written and contain no APA/spelling/grammatical errors
 
 Marks accumulate at 3% per week – 3 = outstanding on all criteria above; 2= meeting expectations; 1 = not meeting all expectations as outlined above but made an effort; 0 = did not make an effort to answer the question
+
+##### Reflection Brief Rubric:
+
+| Reflection | Poor | Fair | Good | Excellent |
+| :--- | :--- | :--- | :--- | :--- |
+| **Depth of reflection** | Writing demonstrates lack of reflection on the selected topic, with no details. | Writing demonstrates a minimal reflection on the selected topic, including a few supporting details and examples. | Writing demonstrates a general reflection on the selected topic, including some supporting details and examples. | Writing demonstrates an in-depth reflection on the selected topic, including supporting details and examples. |
+| **Content** | The writer simply restates facts rather than reflecting on his or her own experience.  The writer's point of view is not evident. | Contains some interesting ideas, but the writer does not explore them thoroughly.  Lacks detailed explanation or supporting examples. | Shows thoughtful reflection.  Writer's point of view is apparent. | Demonstrates fresh, original thought and ideas.  Point of view is thoroughly explored and clearly expressed. |
+
+
 
