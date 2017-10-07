@@ -62,7 +62,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 * Clear articulation of future directions
 * Adequate justification for the future directions stated
 
-**APA formatting**
+**APA formatting **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
 
 **Overall score = /60**
 
