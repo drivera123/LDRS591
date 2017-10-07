@@ -50,22 +50,19 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 * Method
 * Measures
 * Clear summary of key study findings
-* Total = /32
 
 **Critique of study as presented in the article **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
 
 * Clear statement of study strengths
 * Clear statement of study weaknesses
 * Clear statement pertaining to generalizability of data
-* Total = /12
 
 **Future directions based on current study’s limitations **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
 
 * Clear articulation of future directions
 * Adequate justification for the future directions stated
-* Total = /8
 
-**Overall score = /52**
+**APA formatting**
 
-
+**Overall score = /60**
 
