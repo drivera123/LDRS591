@@ -34,11 +34,38 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 4:** Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or more specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without sufficient justification for your claims. Thus, concrete ideas about the rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 
-**STEP 5:** APA formatting is required for this assignment.
+**STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting guidelines and APA rubric for further information.
 
 **STEP 6**: Submit your assignment to the course instructor.
 
-##### Assignment Rubric
+##### Evaluation:
+
+**Article Summary **\(Below standard = 1; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+
+* Clear identification of research question
+* Clear statement pertaining to study hypotheses
+* Brief overview of study participants
+* Clear description of following elements:
+* Design
+* Method
+* Measures
+* Clear summary of key study findings
+* Total = /32
+
+**Critique of study as presented in the article **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+
+* Clear statement of study strengths
+* Clear statement of study weaknesses
+* Clear statement pertaining to generalizability of data
+* Total = /12
+
+**Future directions based on current study’s limitations **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+
+* Clear articulation of future directions
+* Adequate justification for the future directions stated
+* Total = /8
+
+**Overall score = /52**
 
 
 
