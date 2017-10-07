@@ -65,11 +65,40 @@ Table 3. _Internet search results_
 
 **5. Reference list: **List all references in APA 6 format.** **
 
-**6.** **APA formatting is required for this assignment.**   
+**6.** **APA formatting is required for this assignment. Please refer to the APA requirements and APA rubric.**
 
 **7. Submit your assignment to the course instructor.**
 
-##### Assignment Rubric
+##### Evaluation
+
+**Identify Question and Key Terms x / 10**
+
+1. The Question, which you have written clearly and concisely in one sentence \(or in question format\). It is well formulated to provide direction for your literature search.
+
+2. Identification of Search Terms and Domains that arise from your statement or question above.
+
+**Use Search Strategies to Locate and Select Literature x / 30**
+
+3. TWU/Other Library Catalogue Searchto locate books and e-books:
+
+* You identified at least two books or e-books relevant to your question \(some of these could be books you have already read\).
+* You identified at least two high quality \(peer reviewed\) journal articles relevant to your question.
+* You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.
+* You have located a total of 15 sources relevant to your question.
+* You have added the references produced from this search to your Reference list.
+
+**Preliminary Investigation Summary x/ 30**
+
+4. Preliminary Investigation Summary: In several appropriately cited paragraphs each, you have \(a\) presented a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature and \(b\) a brief statement outlining your personal professional interest in this topic.
+
+**APA Format Compliance x/30**
+
+* APA Format in Prose Sections 
+* Document text is APA 6 compliant \(including headings and citations\).
+* APA Format in References
+* References list is APA 6 compliant.
+
+**Overall Score: x/100**
 
 
 
