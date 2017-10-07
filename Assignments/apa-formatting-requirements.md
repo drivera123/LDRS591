@@ -11,7 +11,9 @@
 9. Adhere to the mechanics of style identified in chapter 4 of the APA manual.
 10. Adhere to the crediting of sources identified in chapter 6 of the APA manual. 
 
+### APA Style Rubric
 
+![](/assets/APARubric.jpg)
 
 
 
