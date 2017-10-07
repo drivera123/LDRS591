@@ -40,7 +40,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 ##### Evaluation:
 
-**Article Summary **\(Below standard = 1; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+**Article Summary **\(8 points\)
 
 * Clear identification of research question
 * Clear statement pertaining to study hypotheses
@@ -51,18 +51,18 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 * Measures
 * Clear summary of key study findings
 
-**Critique of study as presented in the article **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+**Critique of study as presented in the article **\(10 points\)
 
 * Clear statement of study strengths
 * Clear statement of study weaknesses
 * Clear statement pertaining to generalizability of data
 
-**Future directions based on current study’s limitations **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+**Future directions based on current study’s limitations **\(4 points\)
 
 * Clear articulation of future directions
 * Adequate justification for the future directions stated
 
-**APA formatting **\(Below standard = 0; Meets standard = 2; Above standard = 3; Exceeds standard = 4\)
+**APA formatting **\(10 points\)
 
-**Overall score = /60**
+**Overall score = /32**
 
