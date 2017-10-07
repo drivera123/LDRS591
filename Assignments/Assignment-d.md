@@ -38,34 +38,25 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 **C\) Results:**
 
-* How will you organize the main body of your paper? \(e.g., themes or categories, chronologically, theoretical or methodological issues\)
-* Did you include 10-15 academic sources? 
-* How will you summarize the articles you have reviewed?  Have you included the following information in your summaries:
+How will you organize the main body of your paper? \(e.g., themes or categories, chronologically, theoretical or methodological issues\). Did you include 10-15 academic sources? 
+
+How will you summarize the articles you have reviewed?  Have you included the following information in your summaries:
 
 * Author and year of the study
-
 * Purpose of the study
-
 * Type of study conducted
-
 * Data collection method
-
 * Key findings
 
-* How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text?
+How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text?
 
-* Have you evaluated the following information in each of the articles you have reviewed?
+Have you evaluated the following information in each of the articles you have reviewed:
 
 * Is there appropriate background information provided?
-
 * Is the research purpose clearly stated?
-
 * Was the study well-planned? Was the method appropriate for addressing the research question?
-
 * Were the measures used validated?
-
 * Were the participants adequate and appropriately selected?
-
 * Was the data analysis rigorous and appropriate?
 * Were the findings clearly stated?
 * Have these studies led to new questions being asked, new ways of using existing knowledge?
@@ -90,7 +81,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 **Submit your assignment to the course instructor in the assignment 4 drop box on the Learning Management System \(LMS\).**
 
-##### Assignment Rubric:
+##### Evaluation:
 
 
 
