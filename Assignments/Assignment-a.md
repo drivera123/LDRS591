@@ -26,7 +26,14 @@ B.Second, the concept map presented in the figure above stopped after one level 
 
 This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted directly to the course instructor with the student’s name in the top right hand side of the header. The concept map must be drawn using electronic software \(Microsoft Word, Powerpoint, Paint, etc\). Any submission that is not fully produced using electronic software cannot be considered for full credit within the context of this assignment. The assignment should not exceed 2 type-written pages.
 
-##### Assignment Rubric
+##### Evaluation:
+
+1. Personal and/or professional interests are described **\(4 points\).**
+2. Interests are clearly labelled on a diagram using electronic software **\(6 points\).**
+3. Three potential research questions are identified that could be studied **\(6 points\)**
+4. One research question is provided and your reasons are clear why it is the strongest one to pursue for a future research **\(4 points\).**
+
+**Overall Score = /20**
 
 
 
