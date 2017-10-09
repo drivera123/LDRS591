@@ -103,7 +103,7 @@ b\) Using the article that you found for learning activity 2, write an example o
 
 Create a title page in APA format in a word document.  Your title page should include: a title, running head, author byline, institutional affiliation, and page number \(see pg. 229 in the APA manual under the heading "order of manuscript pages"\).
 
-Instructions for setting up the "Running head" in **Microsoft Word 2007 and Microsoft Word 2010:**
+Instructions for setting up the "Running head" in **Microsoft Word:**
 
 1. On the \_View \_tab, select the \_Print Layout \_document view.
 2. Double click the header area of the document.
