@@ -10,7 +10,7 @@ Your instructor will assign partners for each assignment and post the partnershi
 
 Once your partner has posted their paper, download it to your own computer, read it, and make notes according to grammar, composition, and content as prescribed by the assignment. Make notes about the strengths of your partner's paper as well as areas to work on \(clarify, more analysis, more personal application\).
 
-Summarize your notes in a response to your partner's forum post in 150-250 words**.**Please remember that your response will be visible to all members of the class in the forum.
+Summarize your notes in a response to your partner's forum post in 150-250 words**. **Please remember that your response will be visible to all members of the class in the forum.
 
 ###### Please remember! {#please-remember}
 
