@@ -34,23 +34,22 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 4:** Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or more specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without sufficient justification for your claims. Thus, concrete ideas about the rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 
-**STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting guidelines and APA rubric for further information.
+**STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
 
-**STEP 6**: Submit your assignment to the course instructor.
+**STEP 6**: Submit your assignment using the Assignment 2 drop box on the learning management system.
 
 ##### Evaluation:
 
-**Article Summary **\(8 points\)
+| Criterion |  |
+| :--- | :--- |
+| Article Summary \(8 points\) | Clear identification of research question and statement pertaining to study hypotheses.  Brief overview of study participants.  Clear description of the design, method, measures, summary of key findings. |
+| Critique of study as presented in the article \(10 points\) | Clear statement of strengths, weaknesses, and generalizability or  |
+|  |  |
+|  |  |
 
-* Clear identification of research question
-* Clear statement pertaining to study hypotheses
-* Brief overview of study participants
-* Clear description of following elements:
-* Design
-* Method
-* Measures
-* Clear summary of key study findings
+Clear identification of research question. Clear statement pertaining to study hypotheses. Brief overview of study participants. Clear description of following elements: Design, method, measures, summary of key findings.
 
+* 
 **Critique of study as presented in the article **\(10 points\)
 
 * Clear statement of study strengths
