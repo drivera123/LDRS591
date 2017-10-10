@@ -36,7 +36,7 @@ _Critical analysis_
 
 In the critical analysis section of the paper you want to tell your reader what strategy you used for organizing, abstracting and critically evaluating important information from the articles you found. For example, this section could look something like this:
 
-For each publication, the methodology that was used to critically appraise each article was 1\) a 49 item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\) and 2\) a 49 item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The description for how articles were classified as high quality or low quality is presented in the table below.
+For each publication, the methodology that was used to critically appraise each article was 1\) a 10 item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\) and 2\) a 10 item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The description for how articles were classified as high quality or low quality is presented in the table below.
 
 | Quality Criteria | Indicators of high quality \(+\) | Indicators of low quality \(-\) |
 | :--- | :--- | :--- |
