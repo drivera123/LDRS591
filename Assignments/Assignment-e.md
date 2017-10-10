@@ -57,15 +57,14 @@ In the discussion section you should open by restating the problem you are inves
 
 At the very end list your references.  Reference lists must start on a new page, and be formatted as per APA 6 guidelines according to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
-**Submit your assignment to your assigned partner for peer review and then submit the assignment to the Assignment 5 drop box on the learning management system.**
+**Submit your assignment to your assigned partner for peer review and then submit the assignment to Turnitin.com.**
 
 ##### Assignment Rubric:
 
 | LDRS 591 FORMAL LITERATURE REVIEW EVALUATION | Outstanding15 points | Good  10 points | Acceptable 5 points | Inadequate/Missing 0 points |
 | :--- | :--- | :--- | :--- | :--- |
 | TITLE PAGE | Includes running head, specific and informative title, author, course code, institution and date. | Omits one of the previous | Omits two of the previous | Omits three or more of the previous |
-| ABSTRACT | Clearly states the purpose/question, literature review criteria, results, important conclusions. | Purpose/question are stated clearly, other points are not included. |  Purpose/question are not stated, other points are included. |  Purpose/question is not clearly stated, other points are not included. |
-| TITLE PAGE |  |  | Omits two of the previous | Omits three or more of the previous. |
+| ABSTRACT | Clearly states the purpose/question, literature review criteria, results, important conclusions. | Purpose/question are stated clearly, other points are not included. | Purpose/question are not stated, other points are included. | Purpose/question is not clearly stated, other points are not included. |
 | INTRODUCTION | Aim and scope are clearlyprovided using the following rationale: a broad context, relevant statistics, importance of addressing the problem, and defining key terms. Purpose and research question are clearly identified. | Aim and scope are provided, rationale is not explained. Purpose and research question are clearly stated. | The topic is introduced, rationale is explained. Purpose and research question are not clear. | The topic is not introduced, the rationale is not explained, and the purpose and research question are not clear. |
 | METHODS |  |  |  |  |
 | RESULTS |  |  |  |  |
