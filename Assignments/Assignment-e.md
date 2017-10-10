@@ -72,5 +72,5 @@ At the very end list your references.  Reference lists must start on a new page,
 | REFERENCES | Information in cited properly in APA format. | Information is cited properly, but has a 2-3 errors. | Information is cited properly, but has 4+ errors. | Information is not cited properly. |
 | GENERAL WRITING STYLE & PRESENTATION | Adheres to the 10 page minimum criteria. There are 2 or less grammatical/spelling errors. The paper is clearly organized using headings, and the readability of is excellent. | Is under 10 pages by 1/2 a page or less. There are 3- 4 grammatical or spelling errors.  The paper is organized well with headings and the readability of the paper is very good. | Is under 10 pages by .5-1 pages. There are 4-5 grammatical or spelling errors. The paper is organized with headings and the readability of the paper is good. | Does not meet 10 page criteria. There are 6 or more grammatical or spelling errors. The paper is not organized welland the readability of the paper is poor. |
 
-Please refer to the APA formatting rubric provided for an evaluation of APA formatting for this assignment.
+Please refer to the APA formatting rubric provided for an evaluation of specific APA requirements for this assignment.
 

@@ -13,7 +13,5 @@
 
 ### APA Style Rubric
 
-![](/assets/APARubric.jpg)
-
 
 
