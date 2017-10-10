@@ -40,28 +40,13 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 ##### Evaluation:
 
-| Criterion |  |
+| Criterion | Explanation of points to cover |
 | :--- | :--- |
 | Article Summary \(8 points\) | Clear identification of research question and statement pertaining to study hypotheses.  Brief overview of study participants.  Clear description of the design, method, measures, summary of key findings. |
-| Critique of study as presented in the article \(10 points\) | Clear statement of strengths, weaknesses, and generalizability or  |
-|  |  |
-|  |  |
+| Critique of study as presented in the article \(10 points\) | Clear statement of strengths, weaknesses, and generalizability or applicability. |
+| Future directions based on limitations \(4 points\) | Clear articulation of and rationale for future directions. |
+| APA formatting \(10 points\) | See APA rubric for specific details. |
+| Overall score | /32 |
 
-Clear identification of research question. Clear statement pertaining to study hypotheses. Brief overview of study participants. Clear description of following elements: Design, method, measures, summary of key findings.
 
-* 
-**Critique of study as presented in the article **\(10 points\)
-
-* Clear statement of study strengths
-* Clear statement of study weaknesses
-* Clear statement pertaining to generalizability of data
-
-**Future directions based on current study’s limitations **\(4 points\)
-
-* Clear articulation of future directions
-* Adequate justification for the future directions stated
-
-**APA formatting **\(10 points\)
-
-**Overall score = /32**
 
