@@ -36,7 +36,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
 
-**STEP 6**: Submit your assignment using the Assignment 2 drop box on the learning management system.
+**STEP 6**: Submit your assignment for peer review to your assigned partner.  Then after you have made corrections submit your assignment using the Assignment 2 drop box on the learning management system.
 
 ##### Evaluation:
 
