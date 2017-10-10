@@ -8,17 +8,12 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 **A\) Introduction:**
 
-•What is the ‘problem’ you are aiming to address?
-
-•What information will you need to provide a broad context for your topic?
-
-•Do you have any relevant statistics that you could use to support "the problem"?
-
-•Why is it important to address this problem?
-
-•What key terms should you define in your introduction so that the reader understands your topic?
-
-•What is the purpose of your paper? Or what research questions are being addressed?
+* What is the ‘problem’ you are aiming to address?
+* What information will you need to provide a broad context for your topic?
+* Do you have any relevant statistics that you could use to support "the problem"?
+* Why is it important to address this problem?
+* What key terms should you define in your introduction so that the reader understands your topic?
+* What is the purpose of your paper? Or what research questions are being addressed?
 
 **B\) Methods:**
 
@@ -38,17 +33,19 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 **C\) Results:**
 
-How will you organize the main body of your paper? \(e.g., themes or categories, chronologically, theoretical or methodological issues\). Did you include 10-15 academic sources? 
+* How will you organize the main body of your paper? \(e.g., themes or categories, chronologically, theoretical or methodological issues\). 
+* Did you include 10-15 academic sources?
 
-How will you summarize the articles you have reviewed?  Have you included the following information in your summaries:
+* How will you summarize the articles you have reviewed?  
+* Have you included the following information in your summaries:
 
-* Author and year of the study
-* Purpose of the study
-* Type of study conducted
-* Data collection method
-* Key findings
+1. Author and year of the study
+2. Purpose of the study
+3. Type of study conducted
+4. Data collection method
+5. Key findings
 
-How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text?
+* How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text?
 
 Have you evaluated the following information in each of the articles you have reviewed:
 
@@ -82,6 +79,18 @@ Have you evaluated the following information in each of the articles you have re
 **Submit your assignment to the course instructor in the assignment 4 drop box on the Learning Management System \(LMS\).**
 
 ##### Evaluation:
+
+The following rubric will be used to assess your literature review oultine.
+
+|  | Exceeding Expectations | Meeting Expectations | Below Expectations or Missing |
+| :--- | :--- | :--- | :--- |
+| Introduction \(6 points\) | All 6 points are discussed in detail. | All 6 points are discussed, minimal details are provided. | A few points were not discussed and/or no details are provided. |
+| Methods \(7 points\) | All 7 points are discussed in detail. | All 7 points are discussed, minimal details are provided. | A few points were not discussed and/or details are provided. |
+| Results \(5 points\) | All 5 points are discussed in detail. | All 5 points are discussed, minimal details are provided. | A few points were not discussed and/or no details are provided. |
+| Discussion \(8 points\) | All 8 points are discussed in detail. | All 8 points are discussed, minimal details are provided. | A few points were not discussed and/or no details are provided. |
+| Personal Reflection \(4 points\) | Both points are discussed and provided with exceptional detail and insight. | Both points are discussed, minimal detail and insight are provided. | One point was not discussed and/or no details are provided. |
+| Clarity of Writing & Organization \(2 points\) | The outline does an excellent job of following proper writing style and also provides a clear logical progression. | The outline does a good job of following proper writing style and provides logial progression. | The outline fails to demonstrate proper writing style and also does not follow a clear logical progression. |
+| **Total score** = **32 points** |  |  |  |
 
 
 
