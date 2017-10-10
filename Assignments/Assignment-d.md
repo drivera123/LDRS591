@@ -36,18 +36,13 @@ For this assignment you do not need to use APA style.  You may use the template 
 * How will you organize the main body of your paper? \(e.g., themes or categories, chronologically, theoretical or methodological issues\). 
 * Did you include 10-15 academic sources?
 
-* How will you summarize the articles you have reviewed?  
-* Have you included the following information in your summaries:
+* How will you summarize the articles you have reviewed?
 
-1. Author and year of the study
-2. Purpose of the study
-3. Type of study conducted
-4. Data collection method
-5. Key findings
+* Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings.
 
 * How you will present the "results" from your critical analysis of your 10-15 academic sources?  Will you present this information in a table or text?
 
-Have you evaluated the following information in each of the articles you have reviewed:
+Have you critically evaluated each of the articles you have reviewed based on the following questions:
 
 * Is there appropriate background information provided?
 * Is the research purpose clearly stated?
@@ -56,8 +51,7 @@ Have you evaluated the following information in each of the articles you have re
 * Were the participants adequate and appropriately selected?
 * Was the data analysis rigorous and appropriate?
 * Were the findings clearly stated?
-* Have these studies led to new questions being asked, new ways of using existing knowledge?
-* Are the strengths and weaknesses of the body of literature addressed?
+* Have these studies led to new questions being asked, new ways of using existing knowledge? 
 * Are possible explanations for any inconsistencies in the literature uncovered?
 
 **D\) Discussion:**
@@ -82,12 +76,12 @@ Have you evaluated the following information in each of the articles you have re
 
 The following rubric will be used to assess your literature review oultine.
 
-|  | Exceeding Expectations | Meeting Expectations | Below Expectations or Missing |
+|  | Outstanding | Good/Acceptable | Inadequate |
 | :--- | :--- | :--- | :--- |
-| Introduction \(6 points\) | All 6 points are discussed in detail. | All 6 points are discussed, minimal details are provided. | A few points were not discussed and/or no details are provided. |
-| Methods \(7 points\) | All 7 points are discussed in detail. | All 7 points are discussed, minimal details are provided. | A few points were not discussed and/or details are provided. |
-| Results \(5 points\) | All 5 points are discussed in detail. | All 5 points are discussed, minimal details are provided. | A few points were not discussed and/or no details are provided. |
-| Discussion \(8 points\) | All 8 points are discussed in detail. | All 8 points are discussed, minimal details are provided. | A few points were not discussed and/or no details are provided. |
+| Introduction \(6 points\) | All 6 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or no details are provided. |
+| Methods \(7 points\) | All 7 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or details are provided. |
+| Results \(5 points\) | All 5 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or no details are provided. |
+| Discussion \(8 points\) | All 8 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or no details are provided. |
 | Personal Reflection \(4 points\) | Both points are discussed and provided with exceptional detail and insight. | Both points are discussed, minimal detail and insight are provided. | One point was not discussed and/or no details are provided. |
 | Clarity of Writing & Organization \(2 points\) | The outline does an excellent job of following proper writing style and also provides a clear logical progression. | The outline does a good job of following proper writing style and provides logial progression. | The outline fails to demonstrate proper writing style and also does not follow a clear logical progression. |
 | **Total score** = **32 points** |  |  |  |
