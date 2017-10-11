@@ -32,7 +32,7 @@ It is beyond the purpose of this course to go deeper into this topic other than 
 
 ### Leadership and Scholarly Inquiry
 
-On what basis are sound decisions made?  What evidence do leaders rely upon for best outcomes?  The need to evaluate the bases or evidence for best practices in leadership decision-making is widely acknowledged.  Patton \(2001\) observes that “the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society” \(p. 329\).
+On what basis are sound decisions made?  What evidence do leaders rely upon for best outcomes?  The need to evaluate evidence for best practices in leadership decision-making is widely acknowledged.  Patton \(2001\) observes that “the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society” \(p. 329\).
 
 We often refer to the vision of best practices in leadership within the MA in Leadership program \(see Kirkham 2004\). What do we mean by this?  Put simply, “best practices” refers to those practices and initiatives that result in the best possible outcomes.  How do we know what best practice is?  The process of identifying best practices begins with an understanding of common sources of evidence available to leaders.
 
@@ -40,7 +40,7 @@ Take a moment to think about a recent decision you made as a leader.  On what di
 
 Systematic inquiry \(as represented by research\) is one tool that leaders can use to inform best practices and their decision making process.  Systematic inquiry is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry.  Consider the following passage from Luke, a physician trained in empirical methods of his day:
 
-1Many have undertaken to draw up an account of the things that have been fulfilled\[a\] among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3  With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught. \(Luke 1:1-4, NIV\)
+> 1Many have undertaken to draw up an account of the things that have been fulfilled among us, 2 just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. 3  With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, 4 so that you may know the certainty of the things you have been taught. \(Luke 1:1-4, NIV\)
 
 How does the research process differ from managerial activities such as decision-making and problem solving?  Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process.  What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community.
 
