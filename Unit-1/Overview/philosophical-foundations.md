@@ -60,7 +60,7 @@ Finally, Boyer's Scholarship of **Teaching** is “the scholarship of sharing kn
 
 Boyer’s typology originally identified as the Scholarship of Teaching has been expanded somewhat and is widely known today in the literature as the Scholarship of Teaching and Learning \(Bosher, 2009\).  You have undoubtedly already noticed an ambiguity:  If the entire model is called the Scholarship of Teaching, how is it that the last element is also called the Scholarship of Teaching?  This ambiguity is evidence, Bosher contends, that Boyer’s four domains were conceived holistically as elements that overlap and interact, not as discrete elements, appearing in any predictable order, and are better viewed as an operating system than a list of elements  \(2009, pp. 4-5\).
 
-
+![](/assets/BoyersModel2.JPG)
 
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research \(scholarship of discovery\).  Put another way, you will be learning about various research methods \(e.g., quantitative research, qualitative research, and mixed methods\) so that you can gain proficiency in becoming a critical consumer of research.
 
