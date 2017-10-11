@@ -74,12 +74,5 @@ As a consumer of research reports, the most important thing\(s\) for me in the m
 
 Close with one question that invites further comment and discussion. Please post this reflection brief to the 'Learning Activities' and 'Unit 5'.
 
-##### Reflection Brief Rubric:
-
-| Reflection | Poor | Fair | Good | Excellent |
-| :--- | :--- | :--- | :--- | :--- |
-| **Depth of reflection** | Writing demonstrates lack of reflection on the selected topic, with no details. | Writing demonstrates a minimal reflection on the selected topic, including a few supporting details and examples. | Writing demonstrates a general reflection on the selected topic, including some supporting details and examples. | Writing demonstrates an in-depth reflection on the selected topic, including supporting details and examples. |
-| **Content** | The writer simply restates facts rather than reflecting on his or her own experience.  The writer's point of view is not evident. | Contains some interesting ideas, but the writer does not explore them thoroughly.  Lacks detailed explanation or supporting examples. | Shows thoughtful reflection.  Writer's point of view is apparent. | Demonstrates fresh, original thought and ideas.  Point of view is thoroughly explored and clearly expressed. |
-
 
 
