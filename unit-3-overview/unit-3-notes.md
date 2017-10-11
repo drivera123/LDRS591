@@ -44,11 +44,11 @@ Heady \(2013\) suggests 5 general rules you should always follow when you are or
 
 One of the distinguishing features of scholarly writing is the practice of critical thinking.  Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it" \(Foundation for Critical Thinking, 2015\).  In addition, critical thinking also involves creating new and original information, conclusions and ideas \(Heady, 2013\).
 
-Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning, they are: knowledge, comprehension, application, analysis, synthesis and evaluation.  When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to:
+Scholarly writing, should reflect higher levels of learning.  According to Bloom's \(1956\) taxonomy there are six levels of learning, they are: knowledge, comprehension, application, analysis, synthesis and evaluation.  When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should also reflect analysis, synthesis and evaluation.  What this means is that your writing \(and your thinking\) should be able to:
 
-* "break down ideas into parts and see how those parts relate and are organized" to demonstrate analysis.  
-* "re-arrange ideas into a new whole" to demonstrate synthesis.
-* "make judgments based on internal evidence or external criteria" to demonstrate evaluation.
+* break down ideas into parts and see how those parts relate and are organized to demonstrate analysis.  
+* re-arrange ideas into a new whole to demonstrate synthesis.
+* make judgments based on internal evidence or external criteria to demonstrate evaluation.
 
 When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind.  According to the Critical Appraisal Skills Program \(2017\) the three key questions to ask are: 1\) Are the results of the study valid? 2\) What are the results? and 3\) Are the results useful?  These questions will help you break down ideas, re-arrange those ideas to synthesize them and help you make judgments about the information you are reading.  Here are 14 additional questions that will help you dig deeper into the analytical process.
 
