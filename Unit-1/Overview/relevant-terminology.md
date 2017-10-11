@@ -15,9 +15,7 @@ By now you may have noticed what seemed like differences in usage among the term
 2\)    Collecting data to answer the question.  
 3\)    Presenting an answer to the question \(Plano-Clark & Creswell, 2010, p.4\).” Research generates “new” knowledge.
 
-
-
 ##### Clarifying terminology
 
-Students often talk about “researching a term paper;” leaders may speak of “researching a problem.” How do we understand the term “research”? In this course we use the term research in a particular \(arguably in a “purist”\) way to refer to empirical inquiry \(what Boyer refers to the “scholarship of discovery”\).  This distinction will be revisited throughout the course, emphasizing that while we are learning about research methods, your aim in LDRS 697/698 is not to generate new knowledge \(i.e., to conduct research\), but rather to demonstrate your application of leadership theory to a particular practice situation.
+Students often talk about “researching a term paper;” leaders may speak of “researching a problem.” How do we understand the term “research”? In this course we use the term research in a particular \(arguably in a “purist”\) way to refer to empirical inquiry \(what Boyer refers to the “scholarship of discovery”\).  This distinction will be revisited throughout the course, emphasizing that while we are learning about research methods, your aim is not to generate new knowledge \(i.e., to conduct research\), but rather to demonstrate your application of leadership theory to a particular practice situation.
 
