@@ -67,7 +67,7 @@ If you are having difficulty finding research articles and books on your topic t
 
 When you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources.  Unfortunately, not all information that you will come across is created equal.  Just because you find articles and books at the library does not mean that the information will be accurate or high quality.
 
-As a MA Leadership student, and as a professional, it is imperative that you are able to critically evaluate information in order to conduct quality research yourself, inform policies and improve your professional practice. To evaluate a source for quality and credibility you need to consider the following:
+As a MA Leadership student, and as a professional, it is imperative that you are able to critically evaluate information in order to conduct quality research yourself, inform policies, and improve your professional practice. To evaluate a source for quality and credibility you need to consider the following:
 
 * **Authority**: Who is the author? What are the author's credentials \(educational background, past writing experience, expertise on the topic\)? Is the author's name cited in other sources or reference lists?  A simple google search will help you evaluate these questions.
 
