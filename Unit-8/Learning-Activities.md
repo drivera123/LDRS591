@@ -29,7 +29,7 @@ This learning activity asks you to develop an action research project and presen
 
 * Please submit this assignment in the Unit 8 Learning Activity 3 forum on the Learning Management System.
 
-### Learning Activity 4
+### Learning Activity 4:
 
 This learning activity asks you to peer review two projects by colleagues in the class.  The instructor will inform you of the projects that you will be peer reviewing.
 
