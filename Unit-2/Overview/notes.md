@@ -83,7 +83,7 @@ As a MA Leadership student, and as a professional, it is imperative that you are
 
 ### Synthesize and Critique Scholarly Literature.
 
-A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this is to effectively critique and summarize scholarly literature.
+A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
 
 An effective summary of an article or book will:
 
