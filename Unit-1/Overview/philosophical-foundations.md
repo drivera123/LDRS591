@@ -44,7 +44,7 @@ Systematic inquiry \(as represented by research\) is one tool that leaders can u
 
 How does the research process differ from managerial activities such as decision-making and problem solving?  Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process.  What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community.
 
-The past two decades have seen remarkable growth within natural and applied sciences and humanities of the articulation of the foundations of research with a corresponding expansion of research methodologies.
+The past two decades have produced remarkable growth in the area of foundations of research and research methodologies within natural, applied, and social sciences and humanities.
 
 ### Boyer's Model of Scholarship
 
