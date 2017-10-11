@@ -20,15 +20,15 @@ The framework of Creation, Fall, Redemption is important because it allows us to
 
 So, how do we know what is true?  While this list is not exhaustive, there are three common approaches to knowing.  The first one is the rational approach \(focused on logical thought\), which is the process of taking the bits and pieces of our experience of life and we put it together logically.  The second is the empirical approach \(focused on external evidence\), which rests on senses and information gathered by our senses.  The third is the intuitive approach \(focused on insight and inner knowledge\) and this consists of insight that cannot be rationally explained, but is none-the-less real.  Each of us has an epistemological preference, and manifestations of these preferences abound.
 
-Whichever epistemological preference you have, we are all faced with a similar problem.  It is easy to say, “I know this is true!” when, if we are really honest, we really don’t know.  I want to suggest four processes that we must constantly keep wading through as we test our own knowledge:  
+Whichever epistemological preference you have, we are all faced with a similar problem.  It is easy to say, “I know this is true!” when, if we are really honest, we really don’t know.  I want to suggest four processes that as scholars we must constantly keep wading through as we test our own knowledge:  
 •    Consistency—it has to make logical sense.  
 •    Coherency—it has to make sense as a whole.  That is not to say that mystery is disallowed.  
-•    Comprehensive—it has to relate to the whole world as I know it.  
-•    Congruent \(with reality\)—it has to match what is.
+•    Comprehensiveness—it has to relate to the whole world as I know it.  
+•    Congruentcy \(with reality\)—it has to match what is.
 
-As we get into looking at different research methodologies, we will see that great pains are taken to attend to these four processes.
+As we start looking at different research methodologies, we will see that great effort is expended to attend to these four processes.
 
-It is beyond the purpose of this course to go deeper into this other than to make the point that our way of knowing and understanding the world around us \(e.g., our worldview\) influences how we approach all of life, including how we approach research, and how we use research to inform our decision-making process.
+It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around us \(i.e., our worldview\) influences how we approach all of life, including how we approach research, and how we use research to inform our decision-making process.
 
 ### Leadership and Scholarly Inquiry
 
