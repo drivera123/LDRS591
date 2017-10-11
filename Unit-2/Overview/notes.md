@@ -14,7 +14,7 @@ Plano-Clark and Creswell \(2015\) define research as "a process of steps used to
 
 6. **Analyzing data** involves systematic processes to make sense of the information that has been gathered.  We call this process “results”, which are then reported in forms appropriate to the research method \(e.g., statistics or words\).
 
-7. **Drawing conclusions** means interpreting the results and explaining how the conclusions relate to the research questions/hypotheses, and/or similar studies.  There is also a discussion of limitations of the study and often suggestions of implications for the study for intended audiences, for practice, and for future research.
+7. **Drawing conclusions** means interpreting the results and explaining how the conclusions relate to the research questions/hypotheses, and/or similar studies.  There is also a discussion of limitations of the study and often suggestions of implications for the intended audiences, for practice, and for future research.
 
 8. **Disseminating and evaluating the research. **Usually the term “disseminated” means “published.” The most common way that research is disseminated is in journals dedicated to publishing primary research.
 
