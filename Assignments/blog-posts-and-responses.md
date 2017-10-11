@@ -8,22 +8,23 @@ All blog posts should be between 150 - 250 words.
 
 ##### **Blog posts and responses requested in the course**
 
-* Unit 1: Learning Activities X. Respond to colleagues posts.
+* Unit 1: Learning Activities 2, 4, 6. Respond to colleagues posts.
 
-* Unit 2: Learning Activity X
+* Unit 2: Learning Activity 4, 6, 8.
 
-* Unit 3: Learning Activity X. Respond to colleagues posts.
+* Unit 3: Learning Activity 2, 3, 4, 5, 6.
 
-* Unit 4: Learning Activity X and X
+* Unit 4: Learning Activity 2, 4, 6, 7. Respond to colleagues posts.
 
-* Unit 5: Learning Activity X and X. Respond to colleagues posts.
+* Unit 5: Learning Activity 2, 4, 6, 7. Respond to colleagues posts.
 
-* Unit 6 Learning Activity X, X and X
+* Unit 6 Learning Activity 2, 4, 6, 7. Respond to colleagues posts.
 
-* Unit 7 Learning Activity X and X. Respond to colleagues posts.
-* Unit 8 Learning Activity X and X
-* Unit 9 Learning Activity X. Respond to colleagues post.
-* Unit 10 Learning Activity X
+* Unit 7 Learning Activity 2 and 4. 
+
+* Unit 8 Learning Activity 2 and 4. 
+* Unit 9 Learning Activity 2 and 3. Respond to colleagues posts.
+* Unit 10 Learning Activity 1, 2, 3.  Respond to colleagues posts.
 
 ##### Marking criteria for posts and responses: {#marking-criteria-for-posts-and-responses}
 
@@ -37,7 +38,7 @@ The following criteria will be used to assign marks to your blog posts and colle
 
 Marks accumulate at 3% per week – 3 = outstanding on all criteria above; 2= meeting expectations; 1 = not meeting all expectations as outlined above but made an effort; 0 = did not make an effort to answer the question
 
-In Unit 4, 5, 6, 7, 9 you will be asked to provide a brief reflection on the topic for the unit.  Below you will find the reflection brief rubric for these specific blog post responses. 
+In Unit 4, 5, 6, 7, 9 you will be asked to provide a brief reflection on the topic for the unit.  Below you will find the reflection brief rubric for these specific blog post responses.
 
 ##### Reflection Brief Rubric:
 
