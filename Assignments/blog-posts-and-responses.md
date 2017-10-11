@@ -19,6 +19,7 @@ All blog posts should be between 150 - 250 words.
 * Unit 5: Learning Activity X and X. Respond to colleagues posts.
 
 * Unit 6 Learning Activity X, X and X
+
 * Unit 7 Learning Activity X and X. Respond to colleagues posts.
 * Unit 8 Learning Activity X and X
 * Unit 9 Learning Activity X. Respond to colleagues post.
@@ -35,6 +36,8 @@ The following criteria will be used to assign marks to your blog posts and colle
 * All posts are clearly written and contain no APA/spelling/grammatical errors
 
 Marks accumulate at 3% per week – 3 = outstanding on all criteria above; 2= meeting expectations; 1 = not meeting all expectations as outlined above but made an effort; 0 = did not make an effort to answer the question
+
+In Unit 4, 5, 6, 7, 9 you will be asked to provide a brief reflection on the topic for the unit.  Below you will find the reflection brief rubric for these specific blog post responses. 
 
 ##### Reflection Brief Rubric:
 
