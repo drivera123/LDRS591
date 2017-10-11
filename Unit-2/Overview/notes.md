@@ -1,18 +1,18 @@
 ### The Research Process
 
-Plano-Clark and Creswell \(2015\) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" \(p. 4\).The 8 steps that Plano-Clark and Creswell \(2015\) identify in the research process provides a useful framework that describes what researchers do when they conduct their studies and help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
+Plano-Clark and Creswell \(2015\) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" \(p. 4\).Plano-Clark and Creswell \(2015\) identify  8 steps in the research process which provides us with a useful framework that describes what researchers do when they conduct their studies and help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 
-1. The whole process begins with **identifying the research problem**. This step is vitally important. The statement of the research problem is the very foundation that the subsequent research is built upon, and quite literally guides each and every step moving forward.
+1. The whole process begins with **identifying the research problem**. This step is vitally important. The statement of the research problem is the very foundation that subsequent research is built upon, and quite literally guides each and every step moving forward.
 
 2. A **literature review** is a summary of the “state of knowledge” in a given area.This step is the primary focus of this course and involves locating relevant scholarly literature, and analyzing, synthesizing, and summarizing what precedent literature has to say about a specific topic.
 
 3. The **purpose of research** includes identifying the objective of a study \(e.g., purpose statement\). This information is typically expressed in a few research questions or hypotheses.
 
-4. Next, it is important to **choose a research design**– this is where an overall plan or approach of the study is described and a specific method is explained.
+4. Next, it is important to **choose a research design. **This step involves describing an overall plan or approach of the study and also explains the methods used to carry out the plan.
 
-5. **Selecting participants and collecting data** which includes who will be the participants, how you will collect information from those participants and what permission you need to obtain.
+5. **Selecting participants and collecting data** includes who will be the participants, how you will collect information from those participants, and what permission you need to obtain in order to collect the information.
 
-6. **Analyzing data** means to make sense of the information that has been gathered by utilizing systematic processes to extract meaning. We call this extracted meaning “results”, which are then reported in forms appropriate to the research method \(e.g., statistics or words\).
+6. **Analyzing data** involves systematic processes to make sense of the information that has been gathered.  We call this process “results”, which are then reported in forms appropriate to the research method \(e.g., statistics or words\).
 
 7. **Drawing conclusions** means interpreting the results and explaining how the conclusions relate to the research questions/hypotheses, and/or similar studies.  There is also a discussion of limitations of the study and often suggestions of implications for the study for intended audiences, for practice, and for future research.
 
