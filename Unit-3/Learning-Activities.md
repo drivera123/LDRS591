@@ -4,7 +4,7 @@ a\) Read the unit 3 notes
 
 b\) Read chapter 2 and pgs. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
-### Learning Activity 2: Blog post
+### Learning Activity 2: Blog post 1
 
 Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
 
@@ -24,7 +24,7 @@ Find a scholarly article from the article search that you did in unit 2.  Write 
 
 Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
-### Learning Activity 3: Blog post
+### Learning Activity 3: Blog post 2
 
 a\) Read chapter 3 \(pgs. 61-76\) of the APA manual.
 
@@ -54,7 +54,7 @@ b\) Using the article summary that you just completed for learning activity 2, r
 
 Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
-### Learning Activity 4: Blog post
+### Learning Activity 4: Blog post 3
 
 a\) Read pages 77-86 of chapter 3 and 87-114 in chapter 4 of the APA manual.
 
@@ -74,7 +74,7 @@ b\) Using the article summary that you just completed for learning activity 3, r
 
 Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
-### Learning Activity 5: Blog post
+### Learning Activity 5: Blog post 4
 
 a\) Read chapters 6 \(pgs. 180-192\) and chapter 7 of the APA manual.
 
@@ -89,7 +89,7 @@ b\) Find six different scholarly sources \(on any topic\) and provide a complete
 
 Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
 
-### Learning Activity 6: Blog post
+### Learning Activity 6: Blog post 5
 
 a\) Read chapter 6 \(pgs. 169-179\) of the APA manual.
 
