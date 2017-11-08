@@ -12,7 +12,7 @@
   * [Formal Literature Review](Assignments/Assignment-e.md)
   * [APA Formatting Requirements](Assignments/apa-formatting-requirements.md)
   * [Peer Review Protocol](Assignments/peer-review.md)
-* [Blog posts and responses](Assignments/blog-posts-and-responses.md)
+  * [Blog posts and responses](Assignments/blog-posts-and-responses.md)
 * [Unit 1 Overview](Unit-1/Overview.md)
   * [Unit 1 Notes](Unit-1/Overview/philosophical-foundations.md)
   * [Glossary](Unit-1/Overview/relevant-terminology.md)
@@ -43,4 +43,6 @@
 * [Unit 10 Overview](Unit-10/Overview.md)
   * [Unit 10 notes](Unit-10/Overview/unit-10-notes.md)
   * [Unit 10 Learning Activities](Unit-10/Learning-Activities.md)
+
+
 
