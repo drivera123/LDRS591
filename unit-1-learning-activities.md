@@ -18,7 +18,7 @@ Read the unit 1 course "notes".
 
 ### Learning Activity 4: Blog Post 2
 
-Create a new post where you answer the following questions: What factors do you think shape your decision-making process as a leader? Do you agree or disagree with the proposition made in the course notes \(by the authors\) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?   Close with one question that invites further comment and discussion. 
+Create a new post where you answer the following questions: What factors do you think shape your decision-making process as a leader? Do you agree or disagree with the proposition made in the course notes \(by the authors\) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?   Close with one question that invites further comment and discussion.
 
 ##### Categories for this post:
 
@@ -30,11 +30,11 @@ Create a new post where you answer the following questions: What factors do you 
 
 Read the following articles that speak to the importance of evidence-based leadership.
 
-Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336
+Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336. Retrieved from: [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=9&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120](https://www.gitbook.com/book/twonline/ldrs-591/edit#)
 
-Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8.
+Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8. Retrieved from: [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=3&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9@sessionmgr120](http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=3&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9@sessionmgr120)
 
-Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. The Millbank Quarterly, 79 \(3\), 429-457.
+Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. The Millbank Quarterly, 79 \(3\), 429-457. Retrieved from: [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=12&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120](http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=12&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120)
 
 ### Learning Activity 6: Blog Post 3
 
