@@ -24,14 +24,18 @@ B.Second, the concept map presented in the figure above stopped after one level 
 
 **Format of Assignment:**
 
-This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted using the Assignment 1 drop box on the learning management system. Remember to include your name in the top right hand side of the header. The concept map must be drawn using electronic software \(Microsoft Word, Powerpoint, Paint, etc\). Any submission that is not fully produced using electronic software cannot be considered for full credit within the context of this assignment. The assignment should not exceed 2 type-written pages.
+This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted using the Assignment 1 drop box on the learning management system. Remember to include your name in the top right hand side of the header. 
+
+There are many online tools available for creating concept maps and many of those are free to use. You might consider using [Gliffy.com](http://gliffy.com/) and exporting your map as a jpg \(Gliffy is free for students...[https://support.gliffy.com/hc/en-us/articles/217895678](https://support.gliffy.com/hc/en-us/articles/217895678)\). There are many other tools available.
+
+Once you have created your concept map, export it as an image and upload it to the Media folder of your blog, then create a new post with your map as the featured image and answer the questions listed above.  The assignment should not exceed 2 type-written pages.
 
 ##### Evaluation:
 
 1. Personal and/or professional interests are described **\(4 points\).**
 2. Interests are clearly labelled on a diagram using electronic software **\(6 points\).**
 3. Three potential research questions are identified that could be studied **\(6 points\)**
-4. One research question is provided and reasons are clear why it is the strongest one to pursue for a future research **\(4 points\).**
+4. One research question is provided and reasons are clear why it is the strongest one to pursue for future research **\(4 points\).**
 
 **Overall Score = /20**
 
