@@ -6,7 +6,7 @@ The purpose of this assignment is to provide you with an opportunity to develop 
 
 **Requirements:**
 
-To complete this assignment successfully, you will be asked to examine Trochim’s \(2001\) guidelines for concept mapping \([http://www.socialresearchmethods.net/kb/conmap.htm](http://www.socialresearchmethods.net/kb/conmap.htm)\) and then respond to the following questions in clear, concise, paragraph form:
+To complete this assignment successfully, you will be asked to examine Trochim’s \(2001\) guidelines for concept mapping \([http://www.socialresearchmethods.net/kb/conmap.htm](http://www.socialresearchmethods.net/kb/conmap.htm)\) and then respond to the following questions:
 
 1. What are your personal and/or professional interests? 
 2. Please diagram these interests by placing yourself as the central point of the map and surrounding yourself with concepts of interest that can range in differentiation \(see notes below figure\). 
@@ -24,7 +24,7 @@ B.Second, the concept map presented in the figure above stopped after one level 
 
 **Format of Assignment:**
 
-This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted using the Assignment 1 drop box on the learning management system. Remember to include your name in the top right hand side of the header. 
+This assignment should be typed, single-spaced, using 12pt Times New Roman font, and submitted using the Assignment 1 drop box on the learning management system. Remember to include your name in the top right hand side of the header.
 
 There are many online tools available for creating concept maps and many of those are free to use. You might consider using [Gliffy.com](http://gliffy.com/) and exporting your map as a jpg \(Gliffy is free for students...[https://support.gliffy.com/hc/en-us/articles/217895678](https://support.gliffy.com/hc/en-us/articles/217895678)\). There are many other tools available.
 
