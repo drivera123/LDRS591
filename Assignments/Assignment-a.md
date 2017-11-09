@@ -7,14 +7,15 @@ The purpose of this assignment is to provide you with an opportunity to develop 
 ##### Steps to complete this assignment
 
 1. Read Trochim's \(2001\) guidelines for concept mapping at [http://www.socialresearchmethods.net/kb/conmap.htm](http://www.socialresearchmethods.net/kb/conmap.htm).
-2. Using Gliffy.com, draw.io or another mapping program, create a map similar to the one pictured below, with you at the centre and your personal and professional interests around the outside.
-   1. The letters A through E represent areas of interest to the researcher \(labelled “You” in the figure below\) and would normally be labelled accordingly in a concept map. For example, A might be health, B might be exercise, and so on with as many different yellow circles as the researcher \(‘You’\) has an interest in exploring.
-   2. The concept map presented in the figure above stopped after one level of abstraction from the researcher \(in other words only one other set of circles was added outside the blue circle identifying the researcher\). It is possible to add other circles to the concept map with more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item A as 'Teaching' and A1 as 'K12' and A2 as 'Higher Ed'.
-   3. On the basis of the areas of interest identified in the concept map, most researchers would proceed to ‘link’ areas together in the form of research questions. For example, if circle A was exercise and circle B was health then possible research questions might include:
-      1. Does exercise participation improve or diminish health?
-      2. Does health limit exercise participation? 
+2. Using Gliffy.com, draw.io or another mapping program, create a map similar to the one pictured below, with you at the centre and your personal and professional interests around the outside.  
+   1. The letters A through D represent areas of interest to the researcher \(labelled “You” in the figure below\) and would normally be labelled accordingly in a concept map. For example, A might be health, B might be exercise, and so on with as many different yellow circles as the researcher \(‘You’\) has an interest in exploring.  
+   2. The concept map presented in the figure above stopped after one level of abstraction from the researcher \(in other words only one other set of circles was added outside the blue circle identifying the researcher\). It is possible to add other circles to the concept map with more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item C as 'Teaching' and C1 as 'K12' and C2 as 'Higher Ed'.  
+   3. On the basis of the areas of interest identified in the concept map, most researchers would proceed to ‘link’ areas together in the form of research questions. For example, if circle A was exercise and circle B was health then possible research questions might include:  
+      1. Does exercise participation improve or diminish health?  
+      2. Does health limit exercise participation?
 
-      The number \(and nature\) of research questions is not limited and remains at the discretion of the researcher.
+   The number \(and nature\) of research questions is not limited and remains at the discretion of the researcher.
+
 3. Use the program to draw connections between areas of interest. Use a different style of connector for these links.
 4. Download your map as a jpg or png and upload it to your blog.
 5. Create a new blog post with your concept map as the featured image and answer the following questions:
