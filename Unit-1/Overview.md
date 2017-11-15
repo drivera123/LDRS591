@@ -16,7 +16,7 @@ Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's gu
 
 Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8. Retrieved from: [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=3&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9@sessionmgr120](http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=3&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9@sessionmgr120)
 
-[http://eds.b.ebscohost.com/eds/detail/detail?vid=1&sid=93479b35-839c-4acd-b56f-316e6120b071%40sessionmgr120&bdata=JnNpdGU9ZWRzLWxpdmU%3d\#db=a9h&AN=27106722](http://eds.b.ebscohost.com/eds/detail/detail?vid=1&sid=93479b35-839c-4acd-b56f-316e6120b071%40sessionmgr120&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=a9h&AN=27106722)
+[Link](http://eds.b.ebscohost.com/eds/detail/detail?vid=1&sid=93479b35-839c-4acd-b56f-316e6120b071%40sessionmgr120&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=a9h&AN=27106722)
 
 
 
