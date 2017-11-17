@@ -1,5 +1,7 @@
 ### Course Learning Outcomes
 
+After successfully completing this course, students are expected to be able to:
+
 1. Appraise and evaluate the research process based upon the values and ethical standards of servant leadership.
 
 2. Demonstrate critical thinking and analytic skills characteristic of a rigorous approach to scholarship.
