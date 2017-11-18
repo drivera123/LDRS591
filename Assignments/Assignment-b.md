@@ -15,7 +15,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 3. What are \(if any\) the specific study hypotheses?
 4. Provide a brief overview of the participant sample, including age, sex, any distinguishing features of the sample, and how the participants were recruited.
 5. Describe briefly the procedures of the study, including what kind of design was used, what methods/measures were used, and in general “how” the subjects were “studied.”
-6. Summarize the important findings and relate them back to how they support or don’t support the hypotheses.
+6. Summarize the important findings and explain how they support or don’t support the hypotheses.
 
 **STEP 3:** Discuss the study with a critical eye both for strengths as well as weaknesses. Consider the following questions in your discussion:
 
