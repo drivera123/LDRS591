@@ -17,11 +17,11 @@ The purpose of this assignment is to provide you with an opportunity to develop 
          1. Does exercise participation improve or diminish health?  
          2. Does health limit exercise participation?
 
-      The number \(and nature\) of research questions is not limited and remains at the discretion of the researcher.
+      There is no limit to the number \(and nature\) of research questions the researcher wishes to include.
 
-3. Use the program to draw connections between areas of interest. Use a different style of connector for these links.
+3. Use the program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.
 
-4. Download your map as a jpg or png and upload it to your blog.
+4. Download your map as a .jpg or .png and upload it to your blog.
 
 5. Create a new blog post with your concept map as the featured image and answer the following questions:  
    1. What research questions can be generated from combining different areas of personal and/or professional interest you have identified in the concept map? Please state three potential research questions that could be studied.  
