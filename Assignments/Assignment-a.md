@@ -2,7 +2,7 @@
 
 The Master of Arts in Leadership program values the application of best practices to your personal and professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we would like you to take time to reflect on and articulate some of the salient interests in your personal and professional life and practice.
 
-The purpose of this assignment is to provide you with an opportunity to develop a concept map depicting your interests \(personal and/or professional\) and use the concept map to generate research questions amenable to scholarly inquiry. A concept map is a general method used by individuals or groups to describe ideas in the form of a picture \(Trochim, 2001\). The picture can then be used to articulate or refine research areas relevant to scientists and stakeholders.
+In this assignment, you develop a concept map depicting your interests \(personal and/or professional\) and use the concept map to generate research questions amenable to scholarly inquiry. A concept map is a general method used by individuals or groups to describe ideas in the form of a picture \(Trochim, 2001\). The picture can then be used to articulate or refine research areas relevant to scientists and stakeholders.
 
 ##### Steps to complete this assignment
 
