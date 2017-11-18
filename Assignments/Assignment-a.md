@@ -45,10 +45,10 @@ The written portion of your assignment should be 500 words or less.
 
 ##### Evaluation
 
-1. Personal and/or professional interests are described **\(4 points\).**
-2. Interests are clearly labelled on a diagram using electronic software **\(6 points\).**
-3. Three potential research questions are identified that could be studied **\(6 points\)**
-4. One research question is provided and reasons are clear why it is the strongest one to pursue for future research **\(4 points\).**
+1. Personal and/or professional interests are described. **\(4 points\)**
+2. Interests are clearly labelled on a diagram using electronic software. **\(6 points\)**
+3. Three potential research questions are identified that could be studied. **\(6 points\)**
+4. One research question is provided and reasons are clear why it is the strongest one to pursue for future research. **\(4 points\)**
 
 **Overall Score = /20**
 
