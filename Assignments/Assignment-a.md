@@ -27,7 +27,7 @@ In this assignment, you develop a concept map depicting your interests \(persona
 
    1. What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied.
 
-   2. Identify which research question you feel is **the strongest one** to pursue for a future research paper and outline reasons for your selection.
+   2. Identify the research question you feel is **the strongest one** to pursue for a future research paper, and outline reasons for your selection.
 
    3. In what broad fields do you anticipate searching for literature that might inform your research question \(e.g., education, business, psychology, healthcare, leadership, religion\)?
 
