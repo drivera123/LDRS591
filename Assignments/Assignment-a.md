@@ -11,7 +11,7 @@ In this assignment, you develop a concept map depicting your interests \(persona
 
    1. The letters A through D represent areas of interest to the researcher \(labelled “ME” in the sample below\). For example, A might be "Health," B might be "Exercise," and so on, with as many different yellow circles as you, the researcher \("ME"\) has an interest in exploring.
 
-   2. The sample map stops after one level of abstraction from the researcher \(in other words, only one other set of circles was added outside the blue circle identifying the researcher\). It is possible to add other circles to the concept map with more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item C as "Teaching" and C1 as "K12" and C2 as "Higher Ed."
+   2. The sample map stops after one level of abstraction from the researcher \(in other words, only one other set of circles was added outside the blue circle identifying the researcher\). It is possible to add other circles to the concept map for more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item C as "Teaching" and C1 as "K12" and C2 as "Higher Ed."
 
    3. On the basis of the areas of interest identified in the concept map, most researchers would proceed to "link" areas together in the form of research questions. For example, if circle A was "Exercise" and circle B was "Health," then possible research questions might include:  
          1. Does exercise participation improve or diminish health?  
