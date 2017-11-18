@@ -23,12 +23,15 @@ The purpose of this assignment is to provide you with an opportunity to develop 
 
 4. Download your map as a .jpg or .png and upload it to your blog.
 
-5. Create a new blog post with your concept map as the featured image and answer the following questions:  
-   1. What research questions can be generated from combining different areas of personal and/or professional interest you have identified in the concept map? Please state three potential research questions that could be studied.  
-   2. Identify which research question you feel is **the strongest one** to pursue for a future research paper and outline reasons for your selection.  
-   3. What broad fields do you anticipate you may search for literature that might inform your research question? \(E.g., education, business, psychology, healthcare, leadership, religion\)
+5. Create a new blog post with your concept map as the featured image and answer the following questions:
 
-The written portion of your assignment shouldn't exceed 500 words.
+   1. What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied.
+
+   2. Identify which research question you feel is **the strongest one** to pursue for a future research paper and outline reasons for your selection.
+
+   3. In what broad fields do you anticipate searching for literature that might inform your research question \(e.g., education, business, psychology, healthcare, leadership, religion\)?
+
+The written portion of your assignment should be 500 words or less.
 
 ##### Categories
 
