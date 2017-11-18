@@ -7,17 +7,17 @@ In this assignment, you develop a concept map depicting your interests \(persona
 ##### Steps to complete this assignment
 
 1. Read Trochim's \(2001\) guidelines for concept mapping at [http://www.socialresearchmethods.net/kb/conmap.php](http://www.socialresearchmethods.net/kb/conmap.htm).
-2. Using Gliffy.com, draw.io or another mapping program, create a map similar to the sample pictured below, with you at the centre and your personal and professional interests around the outside.
+2. Use Gliffy.com, draw.io or another mapping program, to create a map similar to the sample pictured below, with you at the centre and your personal and professional interests around the outside.
 
    1. The letters A through D represent areas of interest to the researcher \(labelled “ME” in the sample below\). For example, A might be "Health," B might be "Exercise," and so on, with as many different yellow circles as you, the researcher \("ME"\) has an interest in exploring.
 
    2. The sample map stops after one level of abstraction from the researcher \(in other words, only one other set of circles was added outside the blue circle identifying the researcher\). It is possible to add other circles to the concept map for more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item C as "Teaching" and C1 as "K12" and C2 as "Higher Ed."
 
-   3. On the basis of the areas of interest identified in the concept map, most researchers would proceed to "link" areas together in the form of research questions. For example, if circle A was "Exercise" and circle B was "Health," then possible research questions might include:  
+   3. Using the areas of interest identified in the concept map, most researchers then "link" areas together in the form of research questions. For example, if circle A was "Exercise" and circle B was "Health," then possible research questions might include:  
          1. Does exercise participation improve or diminish health?  
          2. Does health limit exercise participation?
 
-      There is no limit to the number \(and nature\) of research questions the researcher wishes to include.
+      There is no limit to the number \(and nature\) of research questions the researcher creates.
 
 3. Use the mapping program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.
 
