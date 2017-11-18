@@ -1,6 +1,6 @@
 ### Assignment \#1: Clarifying Your Research Interest
 
-The Master of Arts in Leadership program values the application of best practices to your personal and professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we would like you to take time to reflect on and articulate some of the salient issues in your personal and professional life and practice.
+The Master of Arts in Leadership program values the application of best practices to your personal and professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we would like you to take time to reflect on and articulate some of the salient interests in your personal and professional life and practice.
 
 The purpose of this assignment is to provide you with an opportunity to develop a concept map depicting your interests \(personal and/or professional\) and use the concept map to generate research questions amenable to scholarly inquiry. A concept map is a general method used by individuals or groups to describe ideas in the form of a picture \(Trochim, 2001\). The picture can then be used to articulate or refine research areas relevant to scientists and stakeholders.
 
@@ -19,7 +19,7 @@ The purpose of this assignment is to provide you with an opportunity to develop 
 
       There is no limit to the number \(and nature\) of research questions the researcher wishes to include.
 
-3. Use the program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.
+3. Use the mapping program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.
 
 4. Download your map as a .jpg or .png and upload it to your blog.
 
