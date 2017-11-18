@@ -7,7 +7,7 @@ The purpose of this assignment is to provide you with an opportunity to develop 
 ##### Steps to complete this assignment
 
 1. Read Trochim's \(2001\) guidelines for concept mapping at [http://www.socialresearchmethods.net/kb/conmap.php](http://www.socialresearchmethods.net/kb/conmap.htm).
-2. Using Gliffy.com, draw.io or another mapping program, create a map similar to the one pictured below, with you at the centre and your personal and professional interests around the outside.
+2. Using Gliffy.com, draw.io or another mapping program, create a map similar to the sample pictured below, with you at the centre and your personal and professional interests around the outside.
 
    1. The letters A through D represent areas of interest to the researcher \(labelled “ME” in the figure below\). For example, A might be health, B might be exercise, and so on, with as many different yellow circles as the researcher \("ME"\) has an interest in exploring.
 
