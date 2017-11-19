@@ -4,8 +4,8 @@ The purpose of this assignment is to develop your skills to search, retrieve and
 
 ##### Literature Review Search
 
-1. **Identify your research topic**: In the first paragraph, state the problem you are addressing in at most a few sentences Next, provide your research question\(s\).
-2. **Record your library catalogue search:** In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement.  You may use a table \(in APA format\) similar to the one below to organize this information.
+1. **Identify your research topic**: In the first paragraph, state the problem you are addressing in at most a few sentences. Next, provide your research question\(s\).
+2. **Record your library catalogue search:** In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement.  You may use a table \(in APA format\) similar to the one below to organize this information \(in APA format\).
 
 Table 1. _Library catalogue search_
 
