@@ -17,13 +17,13 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 5. Describe briefly the procedures of the study, including what kind of design was used, what methods/measures were used, and in general “how” the subjects were “studied.”
 6. Summarize the important findings and explain how they support or don’t support the hypotheses.
 
-**STEP 3:** Discuss the study with a critical eye both for strengths as well as weaknesses. Consider the following questions in your discussion:
+**STEP 3:** Discuss the study with a critical eye for both its strengths and its weaknesses. Consider the following questions in your discussion:
 
-1. What are the strengths and weaknesses of this study? Include both what the authors tell you as well as your own thoughts.
+1. What are the strengths and weaknesses of this study? Include both what the authors tell you and your own thoughts.
 2. Does the abstract accurately summarize the article?
 3. Does the purpose statement in the abstract match the purpose statement in the introduction?
 4. Is all of the information in the introduction organized well?
-5. Does the information presented in the introduction allow you to grasp "the problem" under investigation, provide a "broad context" for the problem? 
+5. Does the information presented in the introduction allow you to grasp "the problem" under investigation and provide a "broad context" for the problem? 
 6. Is there a review of precedent literature on the topic and does the introduction lead coherently to the purpose of the study?
 7. Do you think the methods are appropriate for studying the problem?  Explain your reasoning.
 8. Do you think the study could be duplicated from the information provided in the methods section?
