@@ -1,4 +1,4 @@
-### Assignment \#2: Scholarly Article Review
+### Assignment 2: Scholarly Article Review
 
 In this assignement, you will write a critique of a journal article using the guideline provided below.
 
