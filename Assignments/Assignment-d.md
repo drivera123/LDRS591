@@ -78,9 +78,9 @@ The following rubric will be used to assess your literature review oultine.
 
 |  | Outstanding | Good/Acceptable | Inadequate |
 | :--- | :--- | :--- | :--- |
-| Introduction \(6 points\) | All 6 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or no details are provided. |
-| Methods \(7 points\) | All 7 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or details are provided. |
-| Results \(5 points\) | All 5 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or no details are provided. |
+| Introduction \(6 points\) | All 6 points are discussed in detail. | Most of the points are         discussed, minimal details are provided. | Many points were not          discussed and/or no details are provided. |
+| Methods \(7 points\) | All 7 points are discussed in detail. | Most of the points are        discussed, minimal details are provided. | Many points were not          discussed and/or details     are not provided. |
+| Results \(5 points\) | All 5 points are discussed in detail. | Most of the points are         discussed, minimal details are provided. | Many points were not          discussed and/or no details are provided. |
 | Discussion \(8 points\) | All 8 points are discussed in detail. | Most of the points are discussed, minimal details are provided. | Many points were not discussed and/or no details are provided. |
 | Personal Reflection \(4 points\) | Both points are discussed and provided with exceptional detail and insight. | Both points are discussed, minimal detail and insight are provided. | One point was not discussed and/or no details are provided. |
 | Clarity of Writing & Organization \(2 points\) | The outline does an excellent job of following proper writing style and also provides a clear logical progression. | The outline does a good job of following proper writing style and provides logial progression. | The outline fails to demonstrate proper writing style and also does not follow a clear logical progression. |
