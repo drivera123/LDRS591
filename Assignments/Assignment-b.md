@@ -2,7 +2,7 @@
 
 In this assignement, you will write a critique of a journal article using the guideline provided below.
 
-This assignment should be written in APA style. Please use your APA manual for details about structure and content, clear and concise writing, the mechanics of style, and crediting sources.
+This assignment should be written in APA formatting style. Please use your APA manual for details about structure and content, clear and concise writing, the mechanics of style, and crediting sources.
 
 This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
 
