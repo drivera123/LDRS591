@@ -34,7 +34,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 13. Are there limitations identified?
 14. Are there suggestions for future research? 
 
-**STEP 4:** Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or more specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without sufficient justification for your claims. Thus, concrete ideas about the rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
+**STEP 4:** Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without including sufficient justification for your claims. Thus, concrete ideas about your rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 
 **STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
 
