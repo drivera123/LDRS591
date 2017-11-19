@@ -38,14 +38,16 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
 
-**STEP 6**: Submit your assignment for peer review to your assigned partner.  Then after you have made corrections submit your assignment using the Assignment 2 drop box on the learning management system.
+**STEP 6**: Submit your assignment for peer review to your assigned partner.  Then after you have made any recommended corrections, submit your assignment using the Assignment 2 drop box on the learning management system.
 
 ##### Evaluation:
 
 | Criterion | Explanation of points to cover |
 | :--- | :--- |
 | Article Summary \(8 points\) | Clear identification of research question and statement pertaining to study hypotheses.  Brief overview of study participants.  Clear description of the design, method, measures, summary of key findings. |
+|  |  |
 | Critique of study as presented in the article \(10 points\) | Clear statement of strengths, weaknesses, and generalizability or applicability. |
+|  |  |
 | Future directions based on limitations \(4 points\) | Clear articulation of and rationale for future directions. |
 | APA formatting \(10 points\) | See APA rubric for specific details. |
 | Overall score | /32 |
