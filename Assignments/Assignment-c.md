@@ -5,11 +5,11 @@ The purpose of this assignment is to develop your skills to search, retrieve and
 ##### Literature Review Search
 
 1. **Identify your research topic**: In the first paragraph, state the problem you are addressing in at most a few sentences. Next, provide your research question\(s\).
-2. **Record your library catalogue search:** In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement.  You may use a table \(in APA format\) similar to the one below to organize this information \(in APA format\).
+2. **Record your library catalogue search:** In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement. You may use a table similar to Table 1 below to organize this information \(in APA format\).
 
 Table 1. _Library catalogue search_
 
-| Key words used in searches | Number of Hits | Title, author\(s\) and year of usable results | Comments |
+| Key words used in searches | Number of Hits | Title, author\(s\) and year of  usable results | Comments |
 | :--- | :--- | :--- | :--- |
 |  |  |  |  |
 |  |  |  |  |
@@ -17,17 +17,17 @@ Table 1. _Library catalogue search_
 |  |  |  |  |
 |  |  |  |  |
 
-**3. Identify key sources:** In the third section list 10 scholarly sources that you have found that are potentially relevant to your research question.
+**3. Identify key sources:** In the third section, list 10 scholarly sources that you have found to be potentially relevant to your research question.
 
-a\) Include at least two books or e-books and 5-8 journal articles. Present the results in a table like the one below.
+a\) Include at least 2 books or e-books and 5-8 journal articles. Present the results in a table similar to Table 2 below.
 
 Please make sure you include the following information in this section:
 
-The two databases that I choose to search were:
+* The two databases that I choose to search were:
 
-The search terms that I have decided on are:
+* The search terms that I have decided on are:
 
-Describe in a paragraph how you chose the particular articles you did \(that is, what inclusion and exclusion criteria did you utilize\).
+Describe in a paragraph how you chose the particular articles you did \(that is, what inclusion and exclusion criteria you utilized\).
 
 Table 2. _Articles from academic databases_
 
