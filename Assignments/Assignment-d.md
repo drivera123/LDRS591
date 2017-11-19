@@ -1,4 +1,4 @@
-### Assignment \#4: Literature Review Outline
+### Assignment 4: Literature Review Outline
 
 ##### Instructions:
 
