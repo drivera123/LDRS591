@@ -94,7 +94,7 @@ Table 3. _Internet search results_
 
 **Preliminary investigation summary \(20 points\)**
 
-1. Preliminary Investigation Summary: In several appropriately cited paragraphs, you have \(a\) presented a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature and \(b\) a brief statement outlining your personal professional interest in this topic.
+1. Preliminary Investigation Summary: In several appropriately cited paragraphs, you have \(a\) presented a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature, and \(b\) a brief statement outlining your personal professional interest in this topic.
 
 **APA format compliance \(10 points\)**
 
