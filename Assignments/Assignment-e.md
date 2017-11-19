@@ -1,14 +1,14 @@
 ### Assignment 5: Formal Literature Review
 
-In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, 3 and 4.  Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully APA 6 format compliant.
+In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, 3 and 4.  Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA \(6th edition\) format.
 
 **Title page:**
 
-Create a title page including: a title, running head, author byline, institutional affiliation, date submitted and page number.
+Create a title page including a title, running head, author byline, institutional affiliation, date submitted and page number.
 
 **Abstract:**
 
-You will need to create an abstract, which is intended to provide a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250 word \(or less\) single paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, overall research question or objective, a general description of the method or approach, important results, and important conclusions.
+You will need to create an abstract that provides a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250-word \(or less\), single-paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, the overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 
 **Introduction:**
 
@@ -20,11 +20,11 @@ On the basis of your personal knowledge, as well as your investigation of the li
 
 On the basis of your personal knowledge as well as your investigation of the literature, provide a brief discussion of the major issues or gaps that have been identified related to the topic that is being investigated. This addresses the importance or the significance of your study.
 
-To conclude this section, provide a brief statement outlining the purpose of the study and be explicit about the research question you will be addressing. If you want, you may also include a paragraph about your personal interest in this topic as a researcher.
+To conclude this section, provide a brief statement outlining the purpose of the study and be explicit about the research question you will be addressing. If you wish, you may also include a paragraph about your personal interest in this topic as a researcher.
 
 **Method:**
 
-Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment \#3. Here is an example template that you can use:
+Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment 3. Here is an example template that you can use:
 
 A review of the literature was conducted to identify scholarly research of XXXX on XXXX. Published articles were identified through searches of electronic databases that were available at the author’s university library. Databases included in this review were: \[list specific databases that you searched\]. The following key subject words were used to search the databases: XXX, XXX, XXX, XXX, XXX, XXX \(include your search terms from assignment \#3 here\). Boolean “AND” was used to combine the XXX terms with the XXX terms. This search resulted in a total of XX articles.
 
