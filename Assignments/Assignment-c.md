@@ -38,6 +38,7 @@ Table 2. _Articles from academic databases_
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+|  |  |  |  |
 
 b\) Next move into the literature available on the internet by conducting a search using a search engine such as _Google Scholar_. Briefly describe how you found the first website/document, and why or why not what you found was helpful.  Please include the following in this section:
 
@@ -57,29 +58,29 @@ Table 3. _Internet search results_
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-**4. Preliminary investigation summary: **In a fourth section, in several appropriately cited paragraphs each, do the following:
+**4. Preliminary investigation summary: **In a fourth section, in several appropriately cited paragraphs, do the following:
 
 \(a\) Present a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature.
 
 \(b\) Present a brief statement outlining your personal/professional interest in this topic. In essence, you are providing a summary of the topic based on your own experiences and from the reference sources. You will want to superficially describe the relevant issues subsumed in your problem statement, including the urgency, the controversies, and anything else that will convince your reader that your problem statement is worthwhile pursuing.
 
-**5. Reference list: **List all references in APA 6 format.** **
+**5. Reference list: **List all references in APA \(6th edition\) format.** **
 
-**6.** **APA formatting is required for this assignment. Please refer to the APA requirements and APA rubric link.**
+**6.** **Assignment formatting: **APA formatting is required for this assignment. Please refer to the APA requirements and APA rubric link.
 
-**7. Submit your assignment using Assignment 3 drop box on the learning management system.**
+**7. Submit your assignment: **Use the Assignment 3 drop box on the learning management system.
 
 ##### Evaluation
 
 **Identify research question and key terms \(10 points\)**
 
-1. The question, which you have written clearly and concisely in one sentence \(or in question format\). It is well formulated to provide direction for your literature search.
+1. The question, which you have written clearly and concisely in one sentence \(or in question format\), is well formulated to provide direction for your literature search.
 
-2. Identification of search terms and domains that arise from your statement or question above.
+2. You identified search terms and domains that arise from your statement or question above.
 
 **Use search strategies to locate and select literature \(20 points\)**
 
-1. TWU/other library catalogue search to locate books and e-books:
+1. TWU/other library catalogue search was used to locate books and e-books.
 
 2. You identified at least two books or e-books relevant to your question \(some of these could be books you have already read\).
 
@@ -87,13 +88,13 @@ Table 3. _Internet search results_
 
 4. You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.
 
-5. You have located a total of 12-15 sources relevant to your question.
+5. You have located  12 to 15 sources relevant to your question.
 
 6. You have added the references produced from this search to your reference list.
 
 **Preliminary investigation summary \(20 points\)**
 
-1. Preliminary Investigation Summary: In several appropriately cited paragraphs each, you have \(a\) presented a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature and \(b\) a brief statement outlining your personal professional interest in this topic.
+1. Preliminary Investigation Summary: In several appropriately cited paragraphs, you have \(a\) presented a working knowledge summary of your topic \(the basic facts required to make someone familiar with the topic to a limited extent\) based on what you have discovered about the topic from your initial investigations of literature and \(b\) a brief statement outlining your personal professional interest in this topic.
 
 **APA format compliance \(10 points\)**
 
