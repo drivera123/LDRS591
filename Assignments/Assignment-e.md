@@ -30,18 +30,18 @@ A review of the literature was conducted to identify scholarly research of XXXX 
 
 The articles were then manually screened for relevance and attainability. Searches of bibliographies from relevant articles were also performed. Of the XX articles retrieved, XX articles were relevant to this review.
 
-The articles were either kept or eliminated due to inclusion and exclusion criteria. The inclusion criteria included the following components: peer reviewed, published 2007-2017, written in English language, accessible through the university library. The exclusion criteria included the following factors:any study that does not meet the inclusion criteria, and non-English full text studies were excluded even if an English translation of the abstract was provided. XX studies met the inclusion criteria and were used in the review. The XX articles were drawn from a variety of scholarly sources. Table 1 depicts the list of journals included in this review, the number of articles from each journal and the database used to access the journal.
+The articles were either kept or eliminated due to inclusion and exclusion criteria. The inclusion criteria included the following components: peer reviewed, published 2007-2017, written in English language, accessible through the university library. The exclusion criteria included the following factors: any study that does not meet the inclusion criteria, and non-English full text studies were excluded even if an English translation of the abstract was provided. XX studies met the inclusion criteria and were used in the review. The XX articles were drawn from a variety of scholarly sources. Table 1 depicts the list of journals included in this review, the number of articles from each journal and the database used to access the journal.
 
 _Critical analysis_
 
 In the critical analysis section of the paper you want to tell your reader what strategy you used for organizing, abstracting and critically evaluating important information from the articles you found. For example, this section could look something like this:
 
-For each publication, the methodology that was used to critically appraise each article was 1\) a 10 item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\) and 2\) a 10 item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The description for how articles were classified as high quality or low quality is presented in the table below.
+For each publication, the methodology that was used to critically appraise each article was 1\) a 10-item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\), and 2\) a 10-item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The description for how articles were classified as high quality or low quality is presented in the table below.
 
 | Quality Criteria | Indicators of high quality \(+\) | Indicators of low quality \(-\) |
 | :--- | :--- | :--- |
 | For quantitative studies \(QNT\) | Clearly focused study, sufficient background provided, well planned, method is appropriate, measures validated, adequate number of participants, data analysis rigorous with adequate statistical methods, findings and limitations are clearly stated. | Not focused, insufficient background provided, poorly planned, inappropriate method, invalidated measures, inadequate number of participants, data analysis not rigorous, inadequate statistical methods, unclear findings and limitations. |
-| For qualitative studies \(QAL\) | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigor in data collection strategies and analysis, evidence of the four components of trustworthiness \(credibility, transferability, dependability, and confirmability\) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
+| For qualitative studies \(QAL\) | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigour in data collection strategies and analysis, evidence of the four components of trustworthiness \(credibility, transferability, dependability, and confirmability\) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
 
 Note.  Table adapted from Parris & Peachey \(2013, p. 382\).
 
@@ -55,7 +55,7 @@ In the discussion section you should open by restating the problem you are inves
 
 **References:**
 
-At the very end list your references.  Reference lists must start on a new page, and must be formatted as per APA 6 guidelines according to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
+At the very end list your references.  Reference lists must start on a new page, and must be formatted according to APA \(6th edition\) guidelines pertaining to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
 **Submit your assignment to your assigned partner for peer review and then submit the assignment to your instructor on Turnitin.com.**
 
