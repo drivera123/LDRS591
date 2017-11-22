@@ -1,7 +1,7 @@
 ---
-post_title: 'Post Title'
-layout: post_type_probably_post
-published: true_or_false
+post_title: 'Overview'
+layout: page
+published: true
 ---
 
 ### Overview:
