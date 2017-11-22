@@ -12,15 +12,17 @@ In unit 4 we explored the introduction to research reports we saw that the resea
 
 ### Resources:
 
-Cerit, Y. \(2009\).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. Educational Management Administration and Leadership, 37\(5\), 600-623. Retrieved from: [http://ezproxy.student.twu.ca:3201/doi/pdf/10.1177/1741143209339650](http://ezproxy.student.twu.ca:3201/doi/pdf/10.1177/1741143209339650)
+Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
 
-Irving, J.A., & Berndt, J. \(2017\). Leader purposefulness within servant leadership: Examining the effects of servant leadership, leader follower-focus, leader goal-orientation, and leader purposefulness in a large U.S. healthcare organization. Administrative Sciences, 7\(10\), 1-20. [http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=45&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120](http://ezproxy.student.twu.ca:3102/eds/pdfviewer/pdfviewer?vid=45&sid=5f7e83c6-bbd0-4e94-83c1-3d46b6030ed9%40sessionmgr120)
+##### E-Resources: The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
 
-Jenkins, M., & Stewart, A.C. \(2010\). The importance of a servant leader orientation. Health Care Management Review, 35\(1\), 46-54. Retrieved from: [http://ezproxy.student.twu.ca:2622/sp-3.26.1a/ovidweb.cgi?WebLinkFrameset=1&S=ANBJFPEJEPDDJCHANCGKEBLBNELOAA00&returnUrl=ovidweb.cgi%3f%26Complete%2bReference%3dS.sh.47%7c1%7c1%26FORMAT%3dcitationFormatPrint%26FIELDS%3dFORMATl%26S%3dANBJFPEJEPDDJCHANCGKEBLBNELOAA00&directlink=http%3a%2f%2fovidsp.tx.ovid.com%2fovftpdfs%2fFPDDNCLBEBHAEP00%2ffs047%2fovft%2flive%2fgv031%2f00004010%2f00004010-201001000-00006.pdf&filename=The+importance+of+a+servant+leader+orientation.&navigation\_links=NavLinks.S.sh.47.1&PDFIdLinkField=%2ffs047%2fovft%2flive%2fgv031%2f00004010%2f00004010-201001000-00006&link\_from=S.sh.47\|1&pdf\_key=B&pdf\_index=S.sh.47&D=ovft](http://ezproxy.student.twu.ca:2622/sp-3.26.1a/ovidweb.cgi?WebLinkFrameset=1&S=ANBJFPEJEPDDJCHANCGKEBLBNELOAA00&returnUrl=ovidweb.cgi%3f%26Complete%2bReference%3dS.sh.47|1|1%26FORMAT%3dcitationFormatPrint%26FIELDS%3dFORMATl%26S%3dANBJFPEJEPDDJCHANCGKEBLBNELOAA00&directlink=http%3a%2f%2fovidsp.tx.ovid.com%2fovftpdfs%2fFPDDNCLBEBHAEP00%2ffs047%2fovft%2flive%2fgv031%2f00004010%2f00004010-201001000-00006.pdf&filename=The+importance+of+a+servant+leader+orientation.&navigation_links=NavLinks.S.sh.47.1&PDFIdLinkField=%2ffs047%2fovft%2flive%2fgv031%2f00004010%2f00004010-201001000-00006&link_from=S.sh.47|1&pdf_key=B&pdf_index=S.sh.47&D=ovft)
+Cerit, Y. \(2009\).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. Educational Management Administration and Leadership, 37\(5\), 600-623. 
 
-Van Winkle, B., Allen, S., DeVore, D., & Winston, B. \(2014\). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. Journal of Leadership Education, 13\(3\), 70-82. Retrieved from: [https://www.leadershipeducators.org/Resources/Documents/jole/2014\_summer/13\_3vanwinkle210.pdf](https://www.leadershipeducators.org/Resources/Documents/jole/2014_summer/13_3vanwinkle210.pdf)
+Irving, J.A., & Berndt, J. \(2017\). Leader purposefulness within servant leadership: Examining the effects of servant leadership, leader follower-focus, leader goal-orientation, and leader purposefulness in a large U.S. healthcare organization. Administrative Sciences, 7\(10\), 1-20.
 
-Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
+Jenkins, M., & Stewart, A.C. \(2010\). The importance of a servant leader orientation. Health Care Management Review, 35\(1\), 46-54. 
+
+Van Winkle, B., Allen, S., DeVore, D., & Winston, B. \(2014\). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. Journal of Leadership Education, 13\(3\), 70-82. 
 
 ### 
 
