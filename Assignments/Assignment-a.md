@@ -35,7 +35,7 @@ The written portion of your assignment should be 500 words or less.
 
 ##### Categories
 
-* ldrs591
+* LDRS591
 * Unit 2
 * Assignment 1
 
