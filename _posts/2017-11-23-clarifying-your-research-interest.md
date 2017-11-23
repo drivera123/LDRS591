@@ -2,7 +2,7 @@
 ID: 1275
 post_title: Clarifying Your Research Interest
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: "The purpose of this assignment is to provide you with an opportunity to develop a concept map depicting your interests (personal and/or professional) and use the concept map to generate research questions amenable to scholarly inquiry."
 layout: post
 permalink: >
   https://create.twu.ca/ldrs591-sp18/clarifying-your-research-interest/
