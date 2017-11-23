@@ -1,3 +1,10 @@
+---
+post_title: 'Scholarly Article Review'
+category: assignments
+layout: post
+published: true
+---
+
 ### APA Formatting Requirements:
 
 1. Use Times New Roman, 12-point font.
