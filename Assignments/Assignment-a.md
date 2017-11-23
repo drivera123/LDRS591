@@ -1,6 +1,6 @@
 ---
 post_title: 'Clarifying Your Research Interest'
-layout: page
+layout: post
 published: true
 ---
 
