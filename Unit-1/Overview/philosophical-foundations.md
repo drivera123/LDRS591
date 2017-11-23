@@ -68,13 +68,18 @@ This course will provide the background necessary to critique empirical research
 
 Boyer, E. \(1997\). Scholarship reconsidered: Priorities for the professoriate. San Francisco, CA: Jossey-Bass.
 
-Bosher, R.  \(2009\). Why is the scholarship of teaching and learning such a hard sell?  Higher Education Research and Development, 28\(1\), 1-15.  
+Bosher, R.  \(2009\). Why is the scholarship of teaching and learning such a hard sell?  Higher Education Research and Development, 28\(1\), 1-15.
+
 Geisler, N., & Watkins, W. D. \(2003\). Worlds apart: A handbook on world views. Wipf and Stock Publishers.
 
-Gill, J., & Johnson, P. \(2002\).  Research methods for managers \(3rd ed\).  Thousand Oaks, CA:  Sage.  
-Jacobsen, D. & Jacobsen, R. \(2004\). Scholarship and Christian faith: Enlarging the conversation.  Oxford, United Kingdom: Oxford University Press.  
-Leedy, P. & Ormrod, J.  \(2010\). Practical research: Planning and design \(9th ed.\). Boston, MA:  Pearson.  
-Patton, M. \(2001\).  Qualitative research and evaluation methods.  Thousand Oaks, CA: Sage.  
+Gill, J., & Johnson, P. \(2002\).  Research methods for managers \(3rd ed\).  Thousand Oaks, CA:  Sage.
+
+Jacobsen, D. & Jacobsen, R. \(2004\). Scholarship and Christian faith: Enlarging the conversation.  Oxford, United Kingdom: Oxford University Press.
+
+Leedy, P. & Ormrod, J.  \(2010\). Practical research: Planning and design \(9th ed.\). Boston, MA:  Pearson.
+
+Patton, M. \(2001\).  Qualitative research and evaluation methods.  Thousand Oaks, CA: Sage.
+
 Penner, D. \(2017\). Inquiry in the social sciences. Unpublished manuscript. McMaster University. Retrieved from: [https://socialsciences.mcmaster.ca/.../Inquiry C08 Course Outline 2017](https://socialsciences.mcmaster.ca/.../Inquiry C08 Course Outline 2017)
 
 Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
