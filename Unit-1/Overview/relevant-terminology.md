@@ -2,7 +2,9 @@
 
 By now you may have noticed what seemed like differences in usage among the terms “research,” “scholarship,” and “scholarly inquiry.”  In this course we will use these terms as follows:
 
-**Scholarship:** The application of systematic approaches to the acquisition of knowledge through intellectual inquiry \(used interchangeably with “scholarly inquiry”\).
+**Scholarship:** 
+
+The application of systematic approaches to the acquisition of knowledge through intellectual inquiry \(used interchangeably with “scholarly inquiry”\).
 
 **Scholarly:**
 
@@ -10,10 +12,14 @@ By now you may have noticed what seemed like differences in usage among the term
 2\) exhibiting the methods and attitudes of a scholar, and  
 3\) having the manner and appearance of a scholar.
 
-**Research:** “At a general level, research consists of three steps:  
-1\)    Posing a question.  
-2\)    Collecting data to answer the question.  
-3\)    Presenting an answer to the question \(Plano-Clark & Creswell, 2010, p.4\).” Research generates “new” knowledge.
+**Research:** 
+
+“At a general level, research consists of three steps:  
+1\) Posing a question.  
+2\) Collecting data to answer the question.  
+3\) Presenting an answer to the question \(Plano-Clark & Creswell, 2010, p.4\).” 
+
+Research generates “new” knowledge.
 
 ##### Clarifying terminology
 
