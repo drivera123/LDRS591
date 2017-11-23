@@ -93,7 +93,7 @@ As an example, below is an excerpt from the article "A Systematic Literature Rev
 
 Parris and Peachy \(2013\) provided information about the three studies they found under the theme implementation of servant leadership in the table below.  This table describes the reference, type of study conducted, conclusions, the quality of methodology and the strength of evidence in support of the conclusion.  This is an effective and efficient way of presenting information in a literature review.
 
-Table adapted from Parris & Peachy \(2013 p. 385\)
+Table adapted from Parris & Peachy \(2013, p. 385\)
 
 | Result themes | Conclusion | Evidence | Reference |
 | :--- | :--- | :--- | :--- |
@@ -104,7 +104,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study_
 
 **Discussion: **In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed.  In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
 
-**Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(2010\) has many rules to follow for correct formatting of references \(see chapter 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources" \(p.193\).
+**Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(6th edition\) has many rules to follow for correct formatting of references \(see chapters 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources" \(p.193\).
 
 **References**
 
