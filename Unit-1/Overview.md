@@ -10,8 +10,6 @@ Unit 1 will provide you with a general introduction to inquiry, familiarizing yo
 
 ### Learning Objectives
 
-At the end of the unit, the student will be able to
-
 1. Evaluate the philosophical bases for empirical inquiry, including the knowledge claims represented by various approaches to research.    
 2. Appraise the contributions of scholarly inquiry as foundational for evidence-based leadership.
 3. Distinguish between various domains of scholarship \(i.e., discovery, integration, application, and teaching\).
