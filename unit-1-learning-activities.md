@@ -14,7 +14,7 @@ According to Plano-Clark and Creswell \(2015\), "research is a process of steps 
 
 ### Learning Activity 3:
 
-Read the unit 1 course "Notes."
+Read Unit 1 Notes.
 
 ### Learning Activity 4: Blog Post 2
 
@@ -28,7 +28,7 @@ Create a new post where you answer the following questions: What factors do you 
 
 ### Learning Activity 5:
 
-Read the following articles that speak to the importance of evidence-based leadership. The articles below can be found through the [TWU library](https://twu.ca/library). 
+Read the following articles that speak to the importance of evidence-based leadership. The articles below can be found through the [TWU library](https://twu.ca/library).
 
 Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336.
 
