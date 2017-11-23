@@ -1,10 +1,14 @@
 ---
-post_title: 'Scholarly Article Review'
-category: assignments
+ID: 1280
+post_title: Scholarly Article Review
+author: Colin Madland
+post_excerpt: ""
 layout: post
+permalink: >
+  https://create.twu.ca/ldrs591-sp18/scholarly-article-review/
 published: true
+post_date: 2017-11-23 11:34:45
 ---
-
 ### Scholarly Article Review
 
 Below you will find a guideline for writing a critique of a journal article. This assignment should be written in APA style format.  Please use your APA manual for details regarding structure and content, writing clearly and concisely, the mechanics of style and crediting sources.
@@ -17,7 +21,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 1. What are the key research questions being addressed?
 2. Are these questions based on, or related to, previous theory or research?
-3. What are \(if any\) the specific study hypotheses?
+3. What are (if any) the specific study hypotheses?
 4. Provide a brief overview of the participant sample, including age, sex, any distinguishing features of the sample, and how they were recruited.
 5. Describe the procedures of the study in brief, including what kind of design was used, what methods/measures were used, and in general “how” the subjects were “studied”.
 6. Summarize the important findings and relate them back to how they support or don’t support the hypotheses.
@@ -34,8 +38,8 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 8. Do you think the study could be duplicated from the information provided in the methods section?
 9. Is the sequence of the methods section clear?
 10. Review the results in light of the purpose of the study.  Do the results reveal what the researcher intended?
-11. Does the discussion just repeat the results or does the author\(s\) interpret the meaning of the results?
-12. Is the author's interpretation supported \(or backed up\) by other research?
+11. Does the discussion just repeat the results or does the author(s) interpret the meaning of the results?
+12. Is the author's interpretation supported (or backed up) by other research?
 13. Are there limitations identified?
 14. Are there suggestions for future research? 
 
@@ -49,11 +53,8 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 | Criterion | Explanation of points to cover |
 | :--- | :--- |
-| Article Summary \(8 points\) | Clear identification of research question and statement pertaining to study hypotheses.  Brief overview of study participants.  Clear description of the design, method, measures, summary of key findings. |
-| Critique of study as presented in the article \(10 points\) | Clear statement of strengths, weaknesses, and generalizability or applicability. |
-| Future directions based on limitations \(4 points\) | Clear articulation of and rationale for future directions. |
-| APA formatting \(10 points\) | See APA rubric for specific details. |
+| Article Summary (8 points) | Clear identification of research question and statement pertaining to study hypotheses.  Brief overview of study participants.  Clear description of the design, method, measures, summary of key findings. |
+| Critique of study as presented in the article (10 points) | Clear statement of strengths, weaknesses, and generalizability or applicability. |
+| Future directions based on limitations (4 points) | Clear articulation of and rationale for future directions. |
+| APA formatting (10 points) | See APA rubric for specific details. |
 | Overall score | /32 |
-
-
-
