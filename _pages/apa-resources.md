@@ -13,7 +13,7 @@ Here you will find a list of APA resources that can answer most of your APA styl
 
 **APA Style Guide by Dr. Albe Scribe** http://www.docstyles.com/apaguide.html
 
-* "*Doc's Guides* are concise (free!) guides to formatting and documenting research papers in AMA, APA, ASA, Chicago, and MLA styles. The main focus is on preparing papers for classes, seminars, and conferences." (Scribe, 2017)
+* "*Doc's Guides*" are concise (free!) guides to formatting and documenting research papers in AMA, APA, ASA, Chicago, and MLA styles. The main focus is on preparing papers for classes, seminars, and conferences." (Scribe, 2017)
 
 **APA Style Blog **http://blog.apastyle.org/apastyle/
 
