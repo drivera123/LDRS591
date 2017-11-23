@@ -1,8 +1,8 @@
-### Learning Activity 1:
+### Learning Activity 1
 
-a\) Read the unit 3 notes
+a\) Read the Unit 3 Notes
 
-b\) Read chapter 2 and pgs. 228-230 \(section 8.03\) of the APA \(2010\) manual.
+b\) Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
 ### Learning Activity 2: Blog post 1
 
@@ -10,11 +10,11 @@ Find a scholarly article from the article search that you did in unit 2.  Write 
 
 **1\)** **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
-**2\)** **Introduction** - Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address.  Were there any hypotheses? if so, what were they?
+**2\)** **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address.  Were there any hypotheses? if so, what were they?
 
-**3\)** **Methods** - In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected?  What did they have the participants do?  What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
+**3\)** **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected?  What did they have the participants do?  What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
 
-**4\) Results/Findings** – In your own words describe what was found. Were the results significant?
+**4\) Results/Findings** –                                                                                                                                                                                                                                           In your own words describe what was found. Were the results significant?
 
 **5\) Conclusions** - In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
 
@@ -26,11 +26,11 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 ### Learning Activity 3: Blog post 2
 
-a\) Read chapter 3 \(pgs. 61-76\) of the APA manual.
+a\) Read chapter 3 \(pp. 61-76\) of the APA manual.
 
 b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3, and 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
 
-1\) Times New Roman 12 point font \(8.03\)
+1\) Times New Roman 12-point font \(8.03\)
 
 2\) Double-space between all text lines of the paper \(8.03\)
 
@@ -72,11 +72,11 @@ b\) Using the article summary that you just completed for learning activity 3, r
 * Abbreviations \(4.22\)
 * Numbers \(4.31 & 4.32\)
 
-Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
+Create a new blog post, and post this information on your blog.  Add your post to the "Learning Activities" and "Unit 3"  categories.
 
 ### Learning Activity 5: Blog post 4
 
-a\) Read chapters 6 \(pgs. 180-192\) and chapter 7 of the APA manual.
+a\) Read chapters 6 \(pp. 180-192\) and chapter 7 of the APA manual.
 
 b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should include in your reference list are:
 
@@ -87,11 +87,11 @@ b\) Find six different scholarly sources \(on any topic\) and provide a complete
 * A doctoral dissertation or master's thesis \(7.05\)
 * An online newspaper article \(7.01 \#11\)
 
-Create a new blog post, and post this information on your blog.  Add your post to the 'Learning Activities' and 'Unit 3' categories.
+Create a new blog post, and post this information on your blog.  Add your post to the "Learning Activities and "Unit 3" categories.
 
 ### Learning Activity 6: Blog post 5
 
-a\) Read chapter 6 \(pgs. 169-179\) of the APA manual.
+a\) Read chapter 6 \(pp. 169-179\) of the APA manual.
 
 b\) Using the article that you found for learning activity 2, write an example of each of the following:
 
@@ -116,7 +116,7 @@ Follow the instructions below to submit this document to your instructor.
 
 ### Learning Activity 8:
 
-a\) Read chapter 9 of Badke \(2017\) "Learning how to read for research".
+a\) Read chapter 9 of Badke \(2017\) "Learning how to read for research."
 
-b\) Complete Assignment \#2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).  The article you chose for the unit 3 Learning Activities can be the same article that you use for assignment \#2.
+b\) Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).  The article you chose for the unit 3 Learning Activities can be the same article that you use for assignment 2.
 

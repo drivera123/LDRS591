@@ -22,7 +22,7 @@ In this learning activity you are asked to:
 
 1\) Read the unit 10 notes
 
-2\) Watch the following video [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_scienc](https://www.ted.com/talks/ben_goldacre_battling_bad_science)e 
+2\) Watch the following video [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science](https://www.ted.com/talks/ben_goldacre_battling_bad_science) 
 
 3\) Prepare a brief \(250-300 word\) response to the following questions:
 
