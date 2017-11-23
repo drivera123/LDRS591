@@ -63,15 +63,15 @@ Create a new blog post, and post the author, date and title \(including the hype
 
 ### Learning Activity 7
 
-a\) Read chapter 7 in Badke \(2017\) text.
+a\) Read chapter 7 in the Badke \(2017\) text.
 
-b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to develop research skills".  Begin by watching all of the video tutorials under the section "upgrading your research skills".  There are three short videos in this section on Boolean searches, search history, and other search techniques.
+b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click  "How to develop research skills."  Begin by watching all of the video tutorials under the section "upgrading your research skills." There are three short videos in this section on Boolean searches, search history, and other search techniques.
 
-c\) Next, watch the two videos in the section "using the web".  There are two short videos on using google scholar and assessing online resources in this section.
+c\) Next, watch the two videos in the section "using the web."  There are two short videos on using google scholar and assessing online resources in this section.
 
 ### Learning Activity 8: Blog post 3
 
-Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic.  How will you evaluate these sources to make sure they are credible and reliable sources of information? Add your post to the 'Learning Activities' and 'Unit 2' categories.
+Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic.  How will you evaluate these sources to make sure they are credible and reliable sources of information? Add your post to the "Learning Activities" and "Unit 2" categories.
 
 ### 
 
