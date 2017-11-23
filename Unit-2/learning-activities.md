@@ -1,16 +1,16 @@
-### Learning Activity 1:
+### Learning Activity 1
 
 a\) Read the unit 2 course notes.
 
 b\) Watch the following video tutorials prepared by Dr. William Badke.  The tutorials can be found at this link  [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) Begin with clicking on the tab "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper".  The videos are labelled: Understanding the research process and Pre-research strategies
 
-### Learning Activity 2:
+### Learning Activity 2
 
 a\) Read chapter 3 in Badke \(2017\) text.
 
 b\) Complete Assignment \#1 and submit it via the assignment 1 drop box in the Learning Management System \(LMS\).
 
-### Learning Activity 3:
+### Learning Activity 3
 
 a\) Read chapter 4 & 6 in Badke \(2017\) text.
 
@@ -41,7 +41,7 @@ Create a new blog post, and write the author, date and title \(including the hyp
 
 • Are there any obvious biases and/or special interests that the author acknowledges?
 
-### Learning Activity 5:
+### Learning Activity 5
 
 a\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click on the tab "How to search for books". Begin by selecting one of video tutorials in the section "searching for e-books" such as "searching for e-books in the classic catalogue".  Watch this video tutorial to get an idea of how to search for a topic found in an e-book.
 
