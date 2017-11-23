@@ -1,4 +1,4 @@
-### Learning Activity 1:
+### Learning Activity 1
 
 Read Chapter 1 and 2 of the Plano-Clark and Creswell \(2015\) text.
 
@@ -12,7 +12,7 @@ According to Plano-Clark and Creswell \(2015\), "research is a process of steps 
 * Unit 1
 * Learning Activity 2
 
-### Learning Activity 3:
+### Learning Activity 3
 
 Read Unit 1 Notes.
 
@@ -26,7 +26,7 @@ Create a new post where you answer the following questions: What factors do you 
 * Unit 1
 * Learning Activity 4
 
-### Learning Activity 5:
+### Learning Activity 5
 
 Read the following articles that speak to the importance of evidence-based leadership. The articles below can be found through the [TWU library](https://twu.ca/library).
 
