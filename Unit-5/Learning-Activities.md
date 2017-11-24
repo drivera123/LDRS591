@@ -1,14 +1,14 @@
-### Learning Activity 1:
+### Learning Activity 1
 
-a\) Read chapter 6 "Quantitative Research Designs" in Plano-Clark and Creswell \(2015\).
+a\) Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell \(2015\).
 
 b\) Read the four servant leadership articles posted under the unit 5 resources.  Chose **one** of the servant leadership articles to focus on to answer the questions in the following learning activities.
 
-c\) Read the unit 5 notes.
+c\) Read Unit 5 notes.
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in one of the servant leadership articles.
+Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in one of the servant leadership articles.
 
 On page 212 you are asked to provide a rating and rationale for the following questions:
 
@@ -20,17 +20,17 @@ On page 212 you are asked to provide a rating and rationale for the following qu
 6. Does the study use a rigorous research design?
 7. Does the quantitative research design address the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 5' categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the "Learning Activities" and "Unit 5" categories.
 
-### Learning Activity 3:
+### Learning Activity 3
 
-a\) Read chapter 7 "Participants and Data Collection" in Plano-Clark and Creswell \(2015\).
+a\) Read chapter 7, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
 
 b\) Review the methods section of the servant leadership article you chose to focus on.
 
 ### Learning Activity 4: Blog post 2
 
-Using the evaluation criteria on pg. 249 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a quantitative research report in one of the servant leadership articles.
+Using the evaluation criteria on p. 249 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a quantitative research report in one of the servant leadership articles.
 
 On page 250 you are asked to provide a rating and rationale for the following questions:
 
@@ -44,9 +44,9 @@ On page 250 you are asked to provide a rating and rationale for the following qu
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 5' categories.
 
-### Learning Activity 5:
+### Learning Activity 5
 
-a\) Read chapter 8 "Data Analysis and Results" in Plano-Clark and Creswell \(2015\).
+a\) Read chapter 8, "Data Analysis and Results," in Plano-Clark and Creswell \(2015\).
 
 b\) Review the results section of the servant leadership article you chose to focus on.
 
@@ -64,15 +64,13 @@ On page 280 you are asked to provide a rating and rationale for the following qu
 6. Did the data analysis represent a good quantitative process?
 7. Did the results provide a good explanation of the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 5' categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities and Unit 5 categories.
 
 ### Learning Activity 7: Blog post 4
 
-Prepare a brief \(250-500 word\) response to the following:
+Prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing\(s\) for me in the methods and results section of a high-quality quantitative research report is/are . . .
 
-Close with one question that invites further comment and discussion. Please post this reflection brief to the 'Learning Activities' and 'Unit 5'.
-
-
+Close with one question that invites further comment and discussion. Please post this reflection brief to the "Learning Activities" and "Unit 5".
 
