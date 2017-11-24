@@ -101,7 +101,7 @@ b\) Using the article that you found for learning activity 2, write an example o
 
 ### Learning Activity 7
 
-Create a title page in APA format in a word document.  Your title page should include a title, running head, author byline, institutional affiliation, and page number \(see p. 229 in the APA manual under the heading "order of manuscript pages"\).
+Create a title page in APA format in a word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number \(see p. 229 in the APA manual under the heading "order of manuscript pages"\).
 
 Instructions for setting up the "Running head" in **Microsoft Word:**
 
@@ -118,5 +118,5 @@ Follow the instructions below to submit this document to your instructor.
 
 a\) Read chapter 9, "Learning how to read for research," in Badke \(2017\).
 
-b\) Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\).  The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
+b\) Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
 
