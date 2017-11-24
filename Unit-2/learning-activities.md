@@ -12,7 +12,7 @@ b\) Complete Assignment 1 and submit it via the Assignment 1 drop box in the Lea
 
 ### Learning Activity 3
 
-a\) Read chapter 4 and 6 in the Badke \(2017\) text.
+a\) Read chapters 4 and 6 in the Badke \(2017\) text.
 
 b\) Watch the tutorial "[Preparing a research question for a database search](https://vimeo.com/161998287/7661f12293)".
 
