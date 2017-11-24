@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-### Assignment 1: Clarifying Your Research Interest
+### Clarifying Your Research Interest
 
 The Master of Arts in Leadership program values the application of best practices to your personal and professional practice.  Before we get into some of the concrete realities of accessing scholarly literature, we would like you to take time to reflect on and articulate some of the salient interests in your personal and professional life and practice.
 
