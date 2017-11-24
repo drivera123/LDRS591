@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 8 Notes'
+layout: page
+published: true
+---
+
 ### Action Research Design
 
 Action research has been defined as “a form of applied research whose primary purpose is to increase the quality, impact, and justice” of professional practice \(Gall, Gall & Borg, 2007, p. 597\).  Its purpose is to solve local problems through the application of systematic investigation.  The problem is local, the investigation is local, and there is little concern for generalizing results to other settings.  Gay \(1987\) states“the primary goal of action research is the solution of a given problem, not contribution to science” \(p. 8\).  Action research may employ virtually any research methodology, and will commonly be conducted collaboratively with other professionals.  Action research differs from more formal research in some important ways.

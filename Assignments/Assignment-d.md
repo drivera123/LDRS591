@@ -1,4 +1,11 @@
-### Assignment 4: Literature Review Outline
+---
+post_title: 'Literature Review Outline'
+layout: post
+category: Assignments
+published: true
+---
+
+### Literature Review Outline
 
 ##### Instructions:
 

@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 6 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1:
 
 a\) Read chapter 9 "Qualitative Research Designs" in Plano-Clark and Creswell \(2015\).

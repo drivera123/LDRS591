@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 8 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1:
 
 1. Read chapter 13 "Action Research Designs" in Plano-Clark and Creswell \(2015\).

@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 1 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1
 
 Read Chapters 1 and 2 of the Plano-Clark and Creswell \(2015\) text.

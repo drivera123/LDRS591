@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 4 Notes'
+layout: page
+published: true
+---
+
 ### What is a research problem?
 
 All good research begins with a good research problem. Plano-Clark and Creswell \(2015\) suggest that research problems “are the issues, controversies or concerns that demand study" \(p. 80\). They assert that these are often real problems that must be addressed. Gall, Gall and Borg \(2007\) suggest that in identifying the research problem, the researcher should consider personal interest, the potential benefits to the researcher’s professional growth, and potential contribution of the research study to research knowledge. They suggest that all three criteria should be considered, with emphasis on the first and third.

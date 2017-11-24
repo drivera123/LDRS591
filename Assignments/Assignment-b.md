@@ -1,4 +1,12 @@
-### Assignment 2: Scholarly Article Review
+---
+post_title: 'Scholarly Article Review'
+layout: post
+category: Assignments
+published: true
+---
+
+
+### Scholarly Article Review
 
 In this assignment, you will write a critique of a journal article using the guideline provided below.
 

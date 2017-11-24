@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 1 Notes'
+layout: page
+published: true
+---
+
 ### What is inquiry?
 
 Inquiry is “the process of developing skills to arrive at understandings of a problem, an issue, or a phenomenon, through the process of asking good questions, searching out good evidence, and arriving at well-reasoned conclusions" \(Penner, 2017\).

@@ -1,4 +1,11 @@
-##### Peer Review {#part-2---peer-review}
+---
+post_title: 'Peer Review'
+layout: post
+category: Assignments
+published: true
+---
+
+##### Peer Review
 
 For your assignments, you will be asked to exchange your work with a partner in the class and perform a peer review for each other. Your peer review should be collegial and address issues like grammar and structure as well as the quality of arguments and evidence presented in the paper.
 

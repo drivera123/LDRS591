@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 2 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1
 
 a\) Read Unit 2 Notes.

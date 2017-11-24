@@ -1,3 +1,10 @@
+---
+post_title: 'Instructions for blog posts and responses'
+layout: post
+category: Assignments
+published: true
+---
+
 ### Instructions for blog posts and responses:
 
 As you work through the material in this course, you will be asked to respond to questions every week on your own blog. You should have already set up a blog during the Orientation course, and used your blog in 500.

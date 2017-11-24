@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 6 Notes'
+layout: page
+published: true
+---
+
 ### Qualitative Research Design
 
 Qualitative research has been “mainstreamed” in recent years, although in certain disciplines its use is not as widespread.  In order to understand the complexity and “messiness” of real-life organizations, leadership investigation is turning increasingly to qualitative research.

@@ -1,3 +1,11 @@
+---
+post_title: 'Academic Integrity'
+layout: page
+published: true
+---
+
+
+
 ### Academic Integrity and Avoiding Plagiarism at TWU
 
 As scholars pursuing higher education, academic integrity is a core value of the entire TWU community. Students are invited into this scholarly culture and required to abide by the principles of sound academic scholarship at TWU. This includes, but is not limited to, avoiding all forms of plagiarism and cheating in scholarly work. 

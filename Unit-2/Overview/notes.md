@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 2 Notes'
+layout: page
+published: true
+---
+
 ### The Research Process
 
 Plano-Clark and Creswell \(2015\) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" \(p. 4\). Plano-Clark and Creswell \(2015\) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps  help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
