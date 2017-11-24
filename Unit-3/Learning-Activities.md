@@ -6,7 +6,7 @@ b\) Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
 ### Learning Activity 2: Blog post 1
 
-Find a scholarly article from the article search that you did in unit 2.  Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
+Find a scholarly article from the article search that you did inunit 2.  Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
 
 **1\)** **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
@@ -28,7 +28,7 @@ Create a new blog post, and post this information on your blog.  Add your post t
 
 a\) Read chapter 3 \(pp. 61-76\) of the APA manual.
 
-b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3, and 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
+b\) Using the article summary that you just completed for learning activity 2, re-format your summary so that you are following APA formatting rules from chapter 3 and section 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should include:
 
 1\) Use Times New Roman 12-point font \(8.03\).
 
@@ -72,7 +72,7 @@ b\) Using the article summary that you just completed for learning activity 3, r
 * Abbreviations \(4.22\)
 * Numbers \(4.31 & 4.32\)
 
-Create a new blog post, and post this information on your blog.  Add your post to the "Learning Activities" and "Unit 3"  categories.
+Create a new blog post, and post this information on your blog.  Add your post to the "Learning Activities" and "Unit 3" categories.
 
 ### Learning Activity 5: Blog post 4
 
@@ -107,7 +107,7 @@ Instructions for setting up the "Running head" in **Microsoft Word:**
 
 1. On the View tab, select the Print Layout in the Document Views group.
 2. Double click the header area of the document.
-3. On the Header & Footer Tools Design\_ \_tab, select the check box for Different First Page in the Options group.
+3. On the Header & Footer Tools Design tab, select the check box for Different First Page in the Options group.
 4. In the First Page Header box at the top of page 1 of your document, type _Running head: and then your abbreviated title._
 5. Go to page 2 of your document and delete the phrase _Running head._
 6. On page 1 of your document, _Running head_ will remain in your first page header, and only your abbreviated title will appear on subsequent pages.
