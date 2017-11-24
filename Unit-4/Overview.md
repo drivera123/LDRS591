@@ -2,7 +2,7 @@
 
 In Unit 4 we are going to begin unpacking research reports.  To start,  we will focus on understanding the common elements found in the introduction of research reports.  We will be engaging with the research problem, the review of precedent literature, and the research purpose.  Although the terms “research problem” and “research purpose” sound similar, we will see that although related, they are quite different.
 
-### Learning Objectives:
+### Learning Objectives
 
 1. Distinguish the three common elements in the introductions of research reports.
 2. Differentiate between a research problem statement and the purpose of a study.
@@ -19,7 +19,7 @@ Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer’s 
 
 Hunter, E.M., Neubert, M.J., Perry, S.J., Witt, L.A., Penny, L.M., Weinberger, E. \(2013\). Servant leaders inspire servant followers: Antecedents and outcomes for employees and the organization. Leadership Quarterly, 24\(2\), 316-331.
 
-Parris, D.L.& Peachey, J.W. \(2013\).  A systematic literature review of servant leadership theory. Journal of Business Ethics, 113 \(3\), 377-393.
+Parris, D.L.& Peachey, J.W. \(2013\). A systematic literature review of servant leadership theory. Journal of Business Ethics, 113 \(3\), 377-393.
 
 Sendjaya, S., & Sarros, J.C. \(2002\). Servant leadership: Its origin, development, and application in organizations. Journal of Leadership and Organization Studies, 9\(2\). 57-64.
 
