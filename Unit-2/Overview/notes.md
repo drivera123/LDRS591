@@ -104,7 +104,7 @@ When you are critically evaluating research studies, you are not just listing an
 
 When doing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature \(e.g., why we need to know more, or why the literature needs to be applied in a particular context\). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
 
-##### References:
+##### References
 
 Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
 
