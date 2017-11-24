@@ -104,7 +104,7 @@ _SL = servant leadership; QAT = quantitative study; QAL = qualitative study_
 
 **Discussion: **In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed.  In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
 
-**Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(6th edition\) has many rules to follow for correct formatting of references \(see chapters 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources" \(p.193\).
+**Reference List:** The reference list provides a precise list of all of the sources you cited within your paper.  APA \(6th edition\) has many rules to follow for correct formatting of references \(see chapters 6 and 7\). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." \(p.193\).
 
 **References**
 
