@@ -57,7 +57,7 @@ In the discussion section you should open by restating the problem you are inves
 
 At the very end list your references.  Reference lists must start on a new page, and must be formatted according to APA \(6th edition\) guidelines pertaining to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
-**Submit your assignment to your assigned partner for peer review and then submit the assignment to your instructor on Turnitin.com.**
+**Submit your assignment to your assigned partner for peer review and then submit the assignment to your instructor u**sing the Assignment 5 drop box on the learning management system.
 
 ##### Assignment Rubric:
 
