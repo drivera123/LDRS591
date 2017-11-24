@@ -88,7 +88,7 @@ Table 3. _Internet search results_
 
 4. You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.
 
-5. You have located  12 to 15 sources relevant to your question.
+5. You have located 12 to 15 sources relevant to your question.
 
 6. You have added the references produced from this search to your reference list.
 

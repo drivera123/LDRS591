@@ -33,11 +33,9 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 **C\) Results:**
 
-* How will you organize the main body of your paper \(e.g., themes or categories, chronologically, theoretical or methodological issues\)? 
+* How will you organize the main body of your paper \(e.g., themes or categories, chronologically, theoretical or methodological issues\)?
 * Did you include 10 to 15 academic sources?
-
 * How will you summarize the articles you have reviewed?
-
 * Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings?
 
 * How you will present the "results" from your critical analysis of your 10 to 15 academic sources?  Will you present this information in a table or text?
@@ -65,12 +63,12 @@ Have you critically evaluated each of the articles you have reviewed based on th
 * Why are your findings important?
 * What are the practical implications of your findings?
 
-**F\) Personal Reflection \(not usually included in a scholarly article, but required for this class only\):**
+**E\) Personal Reflection \(not usually included in a scholarly article, but required for this class only\):**
 
 * Why is this topic personally meaningful to you?
 * How will you use the information in this review to improve your personal or professional practices?
 
-**Submit your assignment to the course instructor in the assignment 4 drop box on the Learning Management System \(LMS\).**
+**Submit your assignment to the course instructor in the Assignment 4 drop box on the Learning Management System \(LMS\).**
 
 ##### Evaluation:
 
