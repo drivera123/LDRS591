@@ -58,7 +58,7 @@ Taken together, these three common elements in introductions to research reports
 
 Plano-Clark and Creswell \(2015\) contend that "specifying a study purpose may be the most important step the entire research process" \(p. 162\).  Identification of the research problem and review of precedent literature leads directly to specifying the purpose of the study. The purpose will then provide direction for selection of the research design, data collection, analysis of data in determining findings or results and finally in the interpretation and evaluation of the research.
 
-##### References:
+##### References
 
 Bordens, K., & Abbott, B. \(2005\). Research design and methods:  A process approach \(6th ed.\). Boston, MA: McGraw-Hill.
 
