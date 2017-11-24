@@ -20,9 +20,9 @@ Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's gu
 
 ##### E-Resources:  The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
 
-Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8.
-
 Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336.
+
+Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8.
 
 Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. The Millbank Quarterly, 79 \(3\), 429-457.
 
