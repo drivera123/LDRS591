@@ -64,7 +64,7 @@ Boyer’s typology originally identified as the Scholarship of Teaching has been
 
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research \(scholarship of discovery\).  Put another way, you will be learning about various research methods \(e.g., quantitative research, qualitative research, and mixed methods\) so that you can gain proficiency in becoming a critical consumer of research.
 
-##### References:
+##### References
 
 Boyer, E. \(1997\). Scholarship reconsidered: Priorities for the professoriate. San Francisco, CA: Jossey-Bass.
 
