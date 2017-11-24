@@ -106,11 +106,11 @@ When doing a review of literature, it may be difficult to determine how much lit
 
 ##### References
 
-Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
-
 Creswell, J. \(2003\).  Research design: Qualitative, quantitative, and mixed methods approaches \(2nd ed.\).  Thousand Oaks, CA:  Sage.
 
 Driscoll, D.L. & Brizee, A. \(2017\). Evaluating print versus internet sources.  Retrieved from: [https://owl.english.purdue.edu/owl/resource/553/04/](https://owl.english.purdue.edu/owl/resource/553/04/)
 
 Pannucci, C.J. & Wilkins, E.G., \(2010\). Identifying and avoiding bias in research.  _Plast Reconstr Surg. 126_\(2\), 619-625.
+
+Plano-Clark, V., Creswell, J. \(2015\). Understanding research: A consumer’s guide \(2nd ed.\). Boston, MA: Pearson
 
