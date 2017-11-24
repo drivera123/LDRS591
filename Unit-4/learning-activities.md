@@ -46,7 +46,7 @@ Make sure that you include your article reference, quality rating \(0-3\) and al
 
 ### Learning Activity 5
 
-a\) Read chapter 5, "Purpose statements and research questions," in the Plano-Clark and Creswell \(2015\) text. 
+a\) Read chapter 5, "Purpose statements and research questions," in the Plano-Clark and Creswell \(2015\) text.
 
 b\) Review the **introduction** to the servant leadership article you chose to focus on.
 
@@ -68,7 +68,7 @@ Make sure that you include your article reference, quality rating \(0-3\) and al
 
 ### Learning Activity 7: Blog post 4
 
-Prepare a brief \(250- to 500-word\) response to the following:
+Prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing\(s\) for me in the introduction section of a high-quality research report is/are . . .
 
