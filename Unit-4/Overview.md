@@ -1,6 +1,6 @@
 ### Overview
 
-In Unit 4 we are going to find out about research reports.  To start,  we will focus on understanding the common elements found in the introduction of research reports. We will be engaging with the research problem, the review of precedent literature, and the research purpose.  Although the terms “research problem” and “research purpose” sound similar, we will see that although related, they are quite different.
+In Unit 4 we are going to find out about research reports. To start,  we will focus on understanding the common elements found in the introduction of research reports. We will be engaging with the research problem, the review of precedent literature, and the research purpose.  Although the terms “research problem” and “research purpose” sound similar, we will see that although related, they are quite different.
 
 ### Learning Objectives
 
