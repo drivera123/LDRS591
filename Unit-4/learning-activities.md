@@ -8,9 +8,7 @@ c\) Read the introduction to the servant leadership articles listed under the Un
 
 ### Learning Activity 2: Blog post 1
 
-Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell \(2015\) text. Using the evaluation criteria on p. 93 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on.
-
-On page 94 you are asked to provide a rating and rationale for the following questions:
+Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell \(2015\) text. Using the evaluation criteria on p. 93 in Plano-Clark & Creswell \(2015\), answer the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on. The figure on page 94 provides a template for recording your rating and rationale.
 
 1. Is the topic interesting?
 2. Is there a meaningful problem?
@@ -30,9 +28,7 @@ b\) Review the **introduction** to the servant leadership article you chose to f
 
 ### Learning Activity 4: Blog post 2
 
-Using the evaluation criteria on p. 143 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the literature review in the servant leadership article you chose to focus on.
-
-On page 144 you are asked to provide a rating and rationale for the following questions:
+Using the evaluation criteria on p. 143 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the literature review in the servant leadership article you chose to focus on. The figure on page 144 provides a template for recording your rating and rationale.
 
 1. Does the review include relevant literature?
 2. Does the review examine sources that are recent and of high quality?
@@ -52,9 +48,7 @@ b\) Review the **introduction** to the servant leadership article you chose to f
 
 ### Learning Activity 6: Blog post 3
 
-Using the evaluation criteria on p.184 \(for a quantitative study\) and p.185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the purpose in the servant leadership article you chose to focus on.
-
-On page 185 you are asked to provide a rating and rationale for the following questions:
+Using the evaluation criteria on p.184 \(for a quantitative study\) and p.185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the purpose in the servant leadership article you chose to focus on. The figure on page 186 provides a template for recording your rating and rationale.
 
 1. Is the study's purpose clearly specified?
 2. Is the focus of the study appropriate?
