@@ -4,7 +4,6 @@ layout: page
 published: true
 ---
 
-
 ### Learning Activity 1: Blog post 1
 
 In unit 1 you were asked to blog about a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
