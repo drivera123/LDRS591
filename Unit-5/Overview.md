@@ -23,8 +23,3 @@ Irving, J.A., & Berndt, J. \(2017\). Leader purposefulness within servant leader
 Jenkins, M., & Stewart, A.C. \(2010\). The importance of a servant leader orientation. Health Care Management Review, 35\(1\), 46-54.
 
 Van Winkle, B., Allen, S., DeVore, D., & Winston, B. \(2014\). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. Journal of Leadership Education, 13\(3\), 70-82.
-
-### 
-
-
-
