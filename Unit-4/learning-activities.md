@@ -1,6 +1,6 @@
-### Learning Activity 1:
+### Learning Activity 1
 
-a\) Read the unit 4 notes.
+a\) Read the Unit 4 notes.
 
 b\) Read the article by Sendjaya and Sarros \(2002\) "Servant leadership: Its origin, development, and application in organizations" to familiarize yourself with the topic of servant leadership.
 
@@ -22,7 +22,7 @@ On page 94 you are asked to provide a rating and rationale for the following que
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 4' categories.
 
-### Learning Activity 3:
+### Learning Activity 3
 
 a\) Read chapter 4 in the Plano-Clark and Creswell \(2015\) text "Literature Reviews".
 
@@ -44,7 +44,7 @@ On page 144 you are asked to provide a rating and rationale for the following qu
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the 'Learning Activities' and 'Unit 4' categories.
 
-### Learning Activity 5:
+### Learning Activity 5
 
 a\) Read chapter 5 in the Plano-Clark and Creswell \(2015\) text "Purpose statements and research questions".
 
@@ -73,6 +73,4 @@ Prepare a brief \(250-500 word\) response to the following:
 As a consumer of research reports, the most important thing\(s\) for me in the introduction section of a high-quality research report is/are . . .
 
 Close with one question that invites further comment and discussion. Please post this reflection brief to the 'Learning Activities' and 'Unit 4'.
-
-
 

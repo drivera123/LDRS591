@@ -1,6 +1,6 @@
 ### Learning Activity 1
 
-a\) Read the Unit 3 Notes.
+a\) Read Unit 3 Notes.
 
 b\) Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
@@ -107,7 +107,7 @@ Instructions for setting up the "Running head" in **Microsoft Word:**
 
 1. On the View tab, select the Print Layout in the Document Views group.
 2. Double click the header area of the document.
-3. On the Header & Footer Tools Design_ _tab, select the check box for Different First Page in the Options group.
+3. On the Header & Footer Tools Design\_ \_tab, select the check box for Different First Page in the Options group.
 4. In the First Page Header box at the top of page 1 of your document, type _Running head: and then your abbreviated title._
 5. Go to page 2 of your document and delete the phrase _Running head._
 6. On page 1 of your document, _Running head_ will remain in your first page header, and only your abbreviated title will appear on subsequent pages.
