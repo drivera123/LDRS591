@@ -16,13 +16,13 @@ Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer’s 
 
 ##### E-Resources: The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
 
-Cerit, Y. \(2009\).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. Educational Management Administration and Leadership, 37\(5\), 600-623. 
+Cerit, Y. \(2009\).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. Educational Management Administration and Leadership, 37\(5\), 600-623.
 
 Irving, J.A., & Berndt, J. \(2017\). Leader purposefulness within servant leadership: Examining the effects of servant leadership, leader follower-focus, leader goal-orientation, and leader purposefulness in a large U.S. healthcare organization. Administrative Sciences, 7\(10\), 1-20.
 
-Jenkins, M., & Stewart, A.C. \(2010\). The importance of a servant leader orientation. Health Care Management Review, 35\(1\), 46-54. 
+Jenkins, M., & Stewart, A.C. \(2010\). The importance of a servant leader orientation. Health Care Management Review, 35\(1\), 46-54.
 
-Van Winkle, B., Allen, S., DeVore, D., & Winston, B. \(2014\). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. Journal of Leadership Education, 13\(3\), 70-82. 
+Van Winkle, B., Allen, S., DeVore, D., & Winston, B. \(2014\). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. Journal of Leadership Education, 13\(3\), 70-82.
 
 ### 
 
