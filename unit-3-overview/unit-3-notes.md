@@ -93,7 +93,7 @@ As an example, below is an excerpt from the article "A Systematic Literature Rev
 
 Parris and Peachy \(2013\) provided information about the three studies they found under the theme implementation of servant leadership in the table below.  This table describes the reference, type of study conducted, conclusions, the quality of methodology and the strength of evidence in support of the conclusion.  This is an effective and efficient way of presenting information in a literature review.
 
-Table adapted from Parris & Peachy \(2013, p. 385\)
+The table below is adapted from Parris & Peachy \(2013, p. 385\).
 
 | Result themes | Conclusion | Evidence | Reference |
 | :--- | :--- | :--- | :--- |
