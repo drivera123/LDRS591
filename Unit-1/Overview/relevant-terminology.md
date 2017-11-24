@@ -17,7 +17,7 @@ The application of systematic approaches to the acquisition of knowledge through
 “At a general level, research consists of three steps:  
 1\) Posing a question.  
 2\) Collecting data to answer the question.  
-3\) Presenting an answer to the question \(Plano-Clark & Creswell, 2010, p.4\).”
+3\) Presenting an answer to the question \(Plano-Clark & Creswell, 2015, p.4\).”
 
 Research generates “new” knowledge.
 
