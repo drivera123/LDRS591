@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 9 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1:
 
 1. Read chapter 14 "Conclusions" in Plano-Clark and Creswell \(2015\).

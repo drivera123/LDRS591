@@ -1,3 +1,11 @@
+---
+post_title: 'Outcomes'
+layout: page
+published: true
+---
+
+
+
 ### Course Learning Outcomes
 
 After successfully completing this course, students are expected to be able to:

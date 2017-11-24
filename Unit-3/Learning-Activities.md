@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 3 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1
 
 a\) Read Unit 3 Notes.

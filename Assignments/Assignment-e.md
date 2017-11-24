@@ -1,4 +1,11 @@
-### Assignment 5: Formal Literature Review
+---
+post_title: 'Formal Literature Review'
+layout: post
+category: Assignments
+published: true
+---
+
+### Formal Literature Review
 
 In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, 3 and 4.  Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA \(6th edition\) format.
 

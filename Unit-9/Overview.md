@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 9 Overview'
+layout: page
+published: true
+---
+
 ### Overview:
 
 In unit 9 we will focus on assessing and interpreting the discussion/conclusion section of a research report.  The discussion section is where loose threads are gathered together, and in particular, the author looks backward and distills into a few succinct paragraphs what the particular research has accomplished.  All significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions.  Above all, a good discussion makes explicit how the findings or results support the conclusions.

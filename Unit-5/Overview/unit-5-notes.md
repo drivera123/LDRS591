@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 5 Notes'
+layout: page
+published: true
+---
+
 ### Introduction to Quantitative and Qualitative Research Design
 
 By now you should be familiar with the terms quantitative research and qualitative research. Plano-Clark and Creswell \(2015\) assert that these research approaches are suited to different kinds of research questions: a quantitative research approach is indicated when the research problem requires _**an explanation**_, while a qualitative research approach is indicated when the research problem requires _**exploration**_ \(p. 85\).  Expanding on that somewhat, Leedy and Ormrod assert that quantitative research has three purposes:  to explain and predict, to confirm and validate, and to test theory.  In contrast, qualitative research has three distinct purposes:  to describe and explain, to explore and interpret, and to build theory \(Leedy & Ormrod, 2010, p. 96\).  These differing research purposes find expression in differing research processes, the kinds of data gathered, the approaches to data analysis, and finally in the ways findings are communicated.

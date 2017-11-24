@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 7 Learning Activities'
+layout: page
+published: true
+---
+
 ### Learning Activity 1:
 
 Read chapter 12 "Mixed Methods Research Designs" in Plano-Clark and Creswell \(2015\).

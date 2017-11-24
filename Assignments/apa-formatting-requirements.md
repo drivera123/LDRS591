@@ -1,3 +1,10 @@
+---
+post_title: 'APA Formatting Requirements'
+layout: post
+category: Assignments
+published: true
+---
+
 ### APA Formatting Requirements:
 
 1. Use Times New Roman, 12-point font.

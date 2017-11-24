@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 10 Notes'
+layout: page
+published: true
+---
+
 ### Issues of Credibility
 
 Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes:  Simply stated, the question is “how can I know I can trust what I am reading?”  At the heart of this issue are three interrelated concerns:  Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude \(Locke, et al., 2010, p. 12\)?

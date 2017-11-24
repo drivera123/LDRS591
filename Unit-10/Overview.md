@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 10 Overview'
+layout: page
+published: true
+---
+
 ### Overview:
 
 “So I turned my mind to understand, to investigate and to search out wisdom…” \(Ecclesiastes 7:25\)

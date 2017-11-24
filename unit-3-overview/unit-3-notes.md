@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 3 Notes'
+layout: page
+published: true
+---
+
 ### Developing your professional voice
 
 When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice \(McDonald, 2011\).  A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communication \(Walden University Writing Center, 2017\). Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources \(McDonald, 2011\).

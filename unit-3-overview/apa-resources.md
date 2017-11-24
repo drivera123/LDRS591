@@ -1,3 +1,9 @@
+---
+post_title: 'APA Resources'
+layout: page
+published: true
+---
+
 Here you will find a list of APA resources that can answer most of your APA style questions.
 
 **APA Style Guide by Dr. Albe Scribe ** [http://www.docstyles.com/apaguide.html](http://www.docstyles.com/apaguide.html)

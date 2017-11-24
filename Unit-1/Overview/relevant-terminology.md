@@ -1,3 +1,9 @@
+---
+post_title: 'Unit 1 Glossary'
+layout: page
+published: true
+---
+
 ### Glossary
 
 By now you may have noticed what seemed like differences in usage among the terms “research,” “scholarship,” and “scholarly inquiry.”  In this course we will use these terms as follows:
