@@ -2,7 +2,7 @@
 
 An essential attribute of scholarly work is that of writing well. Writing well involves several components. Some are conceptual—reasoning and developing a logical argument.  Others reflect the mechanics of good written communication—organization of a manuscript, style and language use, grammar, spelling, and punctuation.  APA formatting also falls within this category of the mechanics of writing well.
 
-The MA Leadership program uses the APA Manual \(6th edition\) as the model for formatting written work formally submitted.  Unit 3 is devoted to helping you become familiar with some of the more common elements of scholarly writing and APA style.
+The MA Leadership program uses the APA Manual \(6th edition\) as the model for formatting written work formally submitted. Unit 3 is devoted to helping you become familiar with some of the more common elements of scholarly writing and APA style.
 
 ### Learning Objectives
 
