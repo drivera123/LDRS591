@@ -60,7 +60,7 @@ Plano-Clark and Creswell \(2015\) contend that "specifying a study purpose may b
 
 ##### References:
 
-Bordens, K., & Abbott, B. \(2005\). Research design and methods:  A process approach  \(6th ed.\). Boston, MA: McGraw-Hill.
+Bordens, K., & Abbott, B. \(2005\). Research design and methods:  A process approach \(6th ed.\). Boston, MA: McGraw-Hill.
 
 Creswell, J. \(2003\). Research design: Qualitative, quantitative, and mixed methods approaches \(2nd ed.\).Thousand Oaks, CA:  Sage.
 
