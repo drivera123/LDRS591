@@ -4,7 +4,7 @@ a\) Read Unit 4 Notes.
 
 b\) Read the article by Sendjaya and Sarros \(2002\), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership.
 
-c\) Read the introduction to the servant leadership articles listed under the Unit 4 resources. Chose** one **of these articles to focus on to answer the questions in the following learning activities.
+c\) Read the introduction to the servant leadership articles listed under the Unit 4 resources. Choose** one **of these articles to focus on to answer the questions in the following learning activities.
 
 ### Learning Activity 2: Blog post 1
 
