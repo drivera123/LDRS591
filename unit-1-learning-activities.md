@@ -1,6 +1,6 @@
 ### Learning Activity 1
 
-Read Chapter 1 and 2 of the Plano-Clark and Creswell \(2015\) text.
+Read Chapters 1 and 2 of the Plano-Clark and Creswell \(2015\) text.
 
 ### Learning Activity 2: Blog Post 1
 
@@ -38,7 +38,7 @@ Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to p
 
 ### Learning Activity 6: Blog Post 3
 
-Create a new post and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership?  What is considered as "evidence"? In your own words, why is evidence-based decision-making important?   Close with one question that invites further comment and discussion. Add your post to the "Learning Activities" and "Unit 1" categories.
+Create a new post and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership? What is considered as "evidence"? In your own words, why is evidence-based decision-making important? Close with one question that invites further comment and discussion. Add your post to the "Learning Activities" and "Unit 1" categories.
 
 ##### Categories for this post:
 
