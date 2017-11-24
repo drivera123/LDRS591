@@ -34,7 +34,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 **C\) Results:**
 
 * How will you organize the main body of your paper \(e.g., themes or categories, chronologically, theoretical or methodological issues\)?
-* Did you include 10 to 15 academic sources?
+* Did you include 10-15 academic sources?
 * How will you summarize the articles you have reviewed?
 * Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings?
 
