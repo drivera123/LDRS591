@@ -30,5 +30,5 @@ American Psychological Association \(2010\). _Publication manual of the American
 
 Badke, W. \(2017\).  _Research strategies: Finding your way through the information fog_ \(6th ed.\).  iUniverse.com
 
-Plano-Clark, V. & Creswell, J. \(2015\). _Understanding research: A consumer's guide_ \(2nd ed.\).  Boston, MA: Pearson.
+Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer's guide_ \(2nd ed.\).  Boston, MA: Pearson.
 
