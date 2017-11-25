@@ -24,13 +24,13 @@ At the end of the unit, the student will be able to
 
 ### Resources:
 
-Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
+Plano-Clark, V. & Creswell, J. \(2015\). _Understanding research: A consumer's guide. \(2nd Ed.\)._ Boston, MA: Pearson.
 
-**E-Resources:** The articles below can be found through the TWU library https://www.twu.ca/library
+**E-Resources:** The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
 
-Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. _American Journal of Evaluation, 22_\(3\), 329-336.  
+Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. _American Journal of Evaluation, 22_\(3\), 329-336.
 
-Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? _Delta Kappa Gamma Bulletin, 73_\(4\), 5-8. 
+Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? _Delta Kappa Gamma Bulletin, 73_\(4\), 5-8.
 
 Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. _The Millbank Quarterly, 79_ \(3\), 429-457.
 
