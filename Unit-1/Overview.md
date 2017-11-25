@@ -1,5 +1,5 @@
 ---
-post_title: 'Unit 1 Overview'
+post_title: Unit 1 Overview
 layout: page
 published: true
 ---
@@ -16,13 +16,13 @@ Unit 1 will provide you with a general introduction to inquiry, familiarizing yo
 
 ### Resources
 
-Plano-Clark, V. & Creswell, J. \(2015\). Understanding research: A consumer's guide. \(2nd Ed.\). Boston, MA: Pearson.
+Plano-Clark, V. & Creswell, J. \(2015\). _Understanding research: A consumer's guide_ \(2nd ed.\). Boston, MA: Pearson.
 
 ##### E-Resources:  The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
 
-Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22\(3\), 329-336.
+Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. _American Journal of Evaluation,_ 22\(3\), 329-336.
 
-Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73\(4\), 5-8.
+Trybus, M. \(2007\). Understanding scientifically based research: A mandate or decision making tool? _Delta Kappa Gamma Bulletin, _73\(4\), 5-8.
 
-Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. The Millbank Quarterly, 79 \(3\), 429-457.
+Walshe, K. & Rundall, T.G. \(2001\). Evidence-based management: From theory to practice in health care. _The Millbank Quarterly,_ 79 \(3\), 429-457.
 
