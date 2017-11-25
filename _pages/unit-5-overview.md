@@ -25,7 +25,7 @@ In unit 4, as we explored the introduction to research reports, we saw that the 
 
 Plano-Clark, V. & Creswell, J. (2015). Understanding research: A consumer’s guide (2nd ed.). Boston, MA: Pearson
 
-##### E-Resources: The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
+##### E-Resources: The articles below can be found through the [TWU library](https://www.twu.ca/library)
 
 Cerit, Y. (2009).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. Educational Management Administration and Leadership, 37(5), 600-623.
 
