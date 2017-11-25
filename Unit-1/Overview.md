@@ -1,3 +1,9 @@
+---
+post_title: 'Overview'
+layout: page
+published: true
+---
+
 ### Overview:
 
 Unit 1 will provide you with a general introduction to inquiry, familiarizing you with foundational concepts related to scholarly inquiry.  In particular, this unit will focus on the philosophical foundations of research, the connection between leadership and scholarly inquiry, and what evidence-based leadership looks like. By the end of the unit, you will understand the importance of Boyer's Model of Scholarship and begin to evaluate the decision-making processes that you utilize in your professional life.
