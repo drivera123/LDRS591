@@ -44,5 +44,5 @@
   * [Unit 10 notes](_pages/unit-10-notes.md)
   * [Unit 10 Learning Activities](_pages/unit-10-learning-activities.md)
 * [Boyer's Model of Scholarship](boyers-model-of-scholarship.md)
-* [Leadership Integration Project](goals-of-ldrs-697698.md)
+* [Leadership Integration Project](leadership-integration-project.md)
 
