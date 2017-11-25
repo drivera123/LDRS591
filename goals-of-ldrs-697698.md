@@ -1,4 +1,4 @@
-### Goals of LDRS/MAEL 697/698
+### Goals of LDRS/MAEL 697/698 
 
 The LDRS/MAEL 697/698 is the capstone of the Master of Arts in Leadership program.  This course is the vehicle upon which your personal Leadership Competency Development will be framed and documented.
 
