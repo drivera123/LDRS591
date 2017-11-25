@@ -18,7 +18,7 @@ Unit 1 will provide you with a general introduction to inquiry, familiarizing yo
 
 Plano-Clark, V. & Creswell, J. \(2015\). _Understanding research: A consumer's guide_ \(2nd ed.\). Boston, MA: Pearson.
 
-##### E-Resources:  The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
+##### E-Resources:  The articles below can be found through the [TWU library](https://www.twu.ca/library)
 
 Patton, M.  \(2001\). Evaluation, knowledge management, best practices and high quality lessons learned. _American Journal of Evaluation,_ 22\(3\), 329-336.
 
