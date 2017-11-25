@@ -1,3 +1,9 @@
+---
+post_title: Boyer's Model of Scholarship
+layout: page
+published: true
+---
+
 ### Boyer's Model of Scholarship
 
 MA in Leadership’s guidelines for LDRS 697/698 draws in part from Boyer’s four-part Model of Scholarship.  Boyer’s typology identifies four domains of scholarship: discovery, integration, application, and teaching.  The model is discussed by Marta Nibert \(n.d.\) in her paper titled Boyer’s Model of Scholarship. In the section titled Application she notes that the "scholarship of application focuses on using research findings and innovations to remedy societal problems".
