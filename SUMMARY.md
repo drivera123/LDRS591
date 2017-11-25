@@ -43,6 +43,6 @@
 * [Unit 10 Overview](_pages/unit-10-overview.md)
   * [Unit 10 notes](_pages/unit-10-notes.md)
   * [Unit 10 Learning Activities](_pages/unit-10-learning-activities.md)
-* [Boyer's Model of Scholarship](boyers-model-of-scholarship.md)
-* [Leadership Integration Project](leadership-integration-project.md)
+* [Boyer's Model of Scholarship](_pages/boyers-model-of-scholarship.md)
+* [Leadership Integration Project](_pages/leadership-integration-project.md)
 
