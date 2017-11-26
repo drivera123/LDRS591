@@ -19,7 +19,7 @@ Please note: This course is a pre-requisite for LDRS 697-698.
 
 ### Texts and Reading Resources
 
-American Psychological Association \(2010\). _Publication manual of the American Psychological Association_ \(6th ed.\). Washington, DC: Author.
+American Psychological Association \(2010\). _Publication manual of the American Psychological Association_ \(6th ed.\). Washington, DC: American Psychological Association.
 
 Badke, W. \(2017\). _Research strategies: Finding your way through the information fog _\(6th ed.\). Bloomington, IN: iUniverse.
 
