@@ -8,29 +8,33 @@ This course is not intended as a research methods course that will develop advan
 
 The themes of this course include:
 
-•	Foundations of research.
+•    Foundations of research.
 
-•	Developing a good research question.
+•    Developing a good research question.
 
-•	Locating and evaluating sources of scholarly literature.
+•    Locating and evaluating sources of scholarly literature.
 
-•	Developing your professional voice through scholarly writing and APA formatting.
+•    Developing your professional voice through scholarly writing and APA formatting.
 
-•	Critically evaluating different research approaches.
+•    Critically evaluating different research approaches.
 
-•	Creating a graduate level review of precedent literature.
+•    Creating a graduate level review of precedent literature.
 
 Please note: This course is a pre-requisite for LDRS 697-698.
 
 ### Texts and Reading Resources
 
-American Psychological Association \(2010\). _Publication manual of the American Psychological Association_ \(6th ed.\). Washington, DC: Author. 
+American Psychological Association \(2010\). _Publication manual of the American Psychological Association_ \(6th ed.\). Washington, DC: Author.
 
 Badke, W. \(2017\). _Research strategies: Finding your way through the information fog _\(6th ed.\). Bloomington, IN: iUniverse.
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
 **Electronic resources:** Additional e-articles will be assigned in specific units and will be available via links in each unit.
+
+### Course Evaluation
+
+The table below lists all of the assignments for this course. All of the assignments listed are mandatory.
 
 
 
