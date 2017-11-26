@@ -16,7 +16,7 @@ In unit 6 we continue our overview of the most common research methods used in l
 
 6. Critique the methods and results sections of a qualitative research report.
 
-### Resources:
+### Resources
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson
 
