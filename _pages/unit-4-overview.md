@@ -35,5 +35,5 @@ Parris, D. L., & Peachey, J. W. \(2013\). A systematic literature review of serv
 
 Sendjaya, S., & Sarros, J. C. \(2002\). Servant leadership: Its origin, development, and application in organizations. _Journal of Leadership and Organization Studies, 9_\(2\), 57-64.
 
-Sturm, B. E. \(2009\). Principles of servant leadership in community health nursing.  Management issues and behaviors discovered in ethnographic research. _Home Health Care Management and Practice, 21_ \(2\), 82-89.
+Sturm, B. E. \(2009\). Principles of servant leadership in community health nursing.  Management issues and behaviors discovered in ethnographic research. _Home Health Care Management and Practice, 21_\(2\), 82-89.
 
