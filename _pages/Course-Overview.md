@@ -25,7 +25,7 @@ Badke, W. \(2017\). _Research strategies: Finding your way through the informati
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
-**Electronic resources:** Additional e-articles will be assigned in specific units and will be available via links in each unit.
+**Electronic resources:** Additional e-articles will be assigned in specific units.
 
 ### Course Evaluation
 
