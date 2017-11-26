@@ -28,7 +28,7 @@ The MA Leadership program uses the APA Manual \(6th edition\) as the model for f
 
 American Psychological Association \(2010\). _Publication manual of the American Psychological Association_ \(6th ed.\).  Washington, DC: Author.
 
-Badke, W. \(2017\).  _Research strategies: Finding your way through the information fog_ \(6th ed.\).  iUniverse.com
+Badke, W. \(2017\).  _Research strategies: Finding your way through the information fog_ \(6th ed.\). Bloomington, IN: iUniverse.
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer's guide_ \(2nd ed.\).  Boston, MA: Pearson.
 
