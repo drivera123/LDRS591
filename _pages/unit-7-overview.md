@@ -10,20 +10,20 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Overview:
+### Overview
 
 Plano-Clark and Creswell assert that the decision to engage in qualitative or quantitative research is driven by whether the research problem calls for an explanation or an exploration \(2015, p. 63\).  A third genre—mixed methods, has developed.  Mixed methods is the conscious inclusion of both qualitative and quantitative methods and so doing, seeks to mitigate some of the inherent tensions and weaknesses in both.  In unit 7 we will investigate mixed methods research design.
 
-### Learning Objectives:
+### Learning Objectives
 
 1. Identify and understand the used of mixed methods research.
 2. Evaluate the quality and use of mixed methods research designs.
 3. Analyze the qualitative and quantitative features of mixed methods research methods.
 4. Critique the features of a mixed methods research report.
 
-### Resources:
+### Resources
 
-Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson
+Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
 ##### E-Resources: The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
 
