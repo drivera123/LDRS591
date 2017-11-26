@@ -33,5 +33,5 @@ Coetzer, M. F., Bussin, M., & Geldenhuys, M. \(2017\). The functions of a servan
 
 Hanse, J. J., Harlin, U., Jarebrant, C., Ulin, K., & Winkel, J. \(2016\). The impact of servant leadership dimensions on leader-member exchange among health care professionals. _Journal of Nursing Management, 24,_ 228-234.
 
-Melchar, D. E. & Bosco, S. M. \(2010\). Achieving high organization performance through servant leadership. _Journal of Business Inquiry: Research, Education and Application, 9_\(1\), 74-88.
+Melchar, D. E., & Bosco, S. M. \(2010\). Achieving high organization performance through servant leadership. _Journal of Business Inquiry: Research, Education and Application, 9_\(1\), 74-88.
 
