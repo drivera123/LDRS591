@@ -78,5 +78,5 @@ Creswell, J. \(2003\). _Research design: Qualitative, quantitative, and mixed me
 
 Gall, M., Gall, J., & Borg, W.  \(2007\). _Educational research_. Boston, MA: Pearson.
 
-Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson
+Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
