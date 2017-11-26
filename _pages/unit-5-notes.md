@@ -56,7 +56,7 @@ As a consumer of qualitative research reports, you will want to know that the st
 
 ##### References:
 
-Bogdan, R., & Biklen, S. \(2007\). _Qualitative research for education: An introduction to theories and method_ \(5th ed.\).  Boston, MA:  Pearson.
+Bogdan, R., & Biklen, S. \(2007\). _Qualitative research for education: An introduction to theories and method_ \(5th ed.\). Boston, MA:  Pearson.
 
 Corbin, J., & Strauss, A. \(2008\). _Basics of qualitative research_ \(3rd ed.\). Los Angeles, CA: Sage.
 
