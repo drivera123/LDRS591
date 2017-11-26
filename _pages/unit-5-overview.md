@@ -24,7 +24,7 @@ In unit 4, as we explored the introduction to research reports, we saw that the 
 
 ### Resources
 
-Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson
+Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
 ##### E-Resources: The articles below can be found through the [TWU library](https://www.twu.ca/library)
 
