@@ -10,11 +10,11 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Overview:
+### Overview
 
 In unit 6 we continue our overview of the most common research methods used in leadership research.  Remember that the purpose of these overviews is that you will be a more informed consumer of research and a practitioner of evidence-based leadership practices.  Specifically, this unit will focus on the research design, method, and analysis and results of qualitative research reports.
 
-### Learning Objectives:
+### Learning Objectives
 
 1. Appraise the uses of qualitative methods for leadership studies.  
 2. Examine various qualitative research methods.  
@@ -23,7 +23,7 @@ In unit 6 we continue our overview of the most common research methods used in l
 5. Contrast the quantitative term “generalizability” with the qualitative term “applicability.”  
 6. Critique the methods and results sections of a qualitative research report.
 
-### Resources:
+### Resources
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
