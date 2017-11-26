@@ -34,7 +34,7 @@ Glanz, J. \(1998\). _Action research: An educational leaders guide to school imp
 
 Leedy, P., & Ormrod, J. \(2010\). _Practical research: Planning and design_ \(9th ed.\). Upper Saddle River, NJ: Prentice-Hall.
 
-Smith, M. K. \(2007\). _Action research._ Retrieved from http://infed.org/mobi/action-research/ 
+Smith, M. K. \(2007\). _Action research._ Retrieved from [http://infed.org/mobi/action-research/](http://infed.org/mobi/action-research/)
 
 Stringer, E., & Genat, W. \(2004\). _Action research in health._ Upper Saddle River, NJ: Pearson Merrill Prentice-Hall.
 
