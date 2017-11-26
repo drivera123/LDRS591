@@ -26,7 +26,7 @@ In unit 6 we continue our overview of the most common research methods used in l
 
 Plano-Clark, V. & Creswell, J. (2015). Understanding research: A consumer’s guide (2nd ed.). Boston, MA: Pearson
 
-##### E-Resources: The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
+##### E-Resources: The articles below can be found through the [TWU library](https://www.twu.ca/library)
 
 Carter, D., Baghurst, T. (2014). The influence of servant leadership on restaurant employee engagement. Journal of Business Ethics, 124, 453-464. 
 
