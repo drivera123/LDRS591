@@ -34,7 +34,19 @@ Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’
 
 ### Course Evaluation
 
-The table below lists all of the assignments for this course. All of the assignments listed are mandatory.
+The table below lists all of the assignments for this course.  All of the assignments are mandatory.
+
+| **Assignment** | **Value** |
+| :--- | ---: |
+| Blog posts and responses | 25% |
+| Clarifying your research interest \(assignment \#1\) | 10% |
+| Article review \(assignment \#2\) | 10% |
+| Literature search \(assignment \#3\) | 15% |
+| Literature review outline \(assignment \#4\) | 10% |
+| Formal literature review paper \(assignment \#5\) | 30% |
+| **Total** | **100%** |
+
+##### 
 
 
 
