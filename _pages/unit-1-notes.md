@@ -94,5 +94,5 @@ Patton, M. \(2001\). _Qualitative research and evaluation methods._ Thousand Oak
 
 Penner, D. \(2017\). _INQUIRY 1SS3: Inquiry in the social sciences _\[Syllabus\]_._ Hamilton, ON: McMaster University. Retrieved from [https://socialsciences.mcmaster.ca/.../Inquiry C08 Course Outline 2017](https://socialsciences.mcmaster.ca/.../Inquiry C08 Course Outline 2017)
 
-Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson
+Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
