@@ -34,11 +34,11 @@ Because qualitative research can involve the investigation of as few as one rese
 
 ##### References:
 
-Bogdan, R., & Biklen, S. \(2007\). _Qualitative research for education: An introduction to theories and method_ \(5th ed.\).  Boston, MA:  Pearson.
+Bogdan, R., & Biklen, S. \(2007\). _Qualitative research for education: An introduction to theories and method_ \(5th ed.\). Boston, MA:  Pearson.
 
 Corbin, J., & Strauss, A. \(2008\). _Basics of qualitative research_ \(3rd ed.\). Los Angles, CA: Sage.
 
-Gall, M., Gall, J., & Borg, W.  \(2007\). _Educational research_. Boston, MA:  Pearson.
+Gall, M., Gall, J., & Borg, W.  \(2007\). _Educational research_. Boston, MA: Pearson.
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
