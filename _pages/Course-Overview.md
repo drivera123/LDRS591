@@ -8,17 +8,12 @@ This course is not intended as a research methods course that will develop advan
 
 The themes of this course include:
 
-•    Foundations of research.
-
-•    Developing a good research question.
-
-•    Locating and evaluating sources of scholarly literature.
-
-•    Developing your professional voice through scholarly writing and APA formatting.
-
-•    Critically evaluating different research approaches.
-
-•    Creating a graduate level review of precedent literature.
+* Foundations of research.
+* Developing a good research question.
+* Locating and evaluating sources of scholarly literature.
+* Developing your professional voice through scholarly writing and APA formatting.
+* Critically evaluating different research approaches.
+* Creating a graduate level review of precedent literature.
 
 Please note: This course is a pre-requisite for LDRS 697-698.
 
