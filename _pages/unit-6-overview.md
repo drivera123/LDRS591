@@ -12,7 +12,7 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Overview
 
-In unit 6 we continue our overview of the most common research methods used in leadership research.  Remember that the purpose of these overviews is that you will be a more informed consumer of research and a practitioner of evidence-based leadership practices.  Specifically, this unit will focus on the research design, method, and analysis and results of qualitative research reports.
+In unit 6 we continue our overview of the most common research methods used in leadership research. Remember that the purpose of these overviews is that you will be a more informed consumer of research and a practitioner of evidence-based leadership practices.  Specifically, this unit will focus on the research design, method, and analysis and results of qualitative research reports.
 
 ### Learning Objectives
 
@@ -27,7 +27,7 @@ In unit 6 we continue our overview of the most common research methods used in l
 
 Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
 
-##### E-Resources: The articles below can be found through the [TWU library](https://www.twu.ca/library)
+##### E-Resources: The articles below can be found through the [TWU library](https://www.twu.ca/library).
 
 Carter, D., & Baghurst, T. \(2014\). The influence of servant leadership on restaurant employee engagement. _Journal of Business Ethics, 124,_ 453-464.
 
