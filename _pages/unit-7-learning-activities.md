@@ -33,8 +33,6 @@ Read the four servant leadership articles listed under the unit 7 resources.
 
 Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the mixed methods approach in one of the servant leadership articles you read in learning activity 3. The figure on page 406 provides a template for recording your rating and rationale for the following questions:
 
-On page 406 you are asked to provide a rating and rationale for the following questions:
-
 1. Is there a rationale provided for needing a mixed methods design?
 2. Is the choice of the mixed methods design appropriate and justified?
 3. Are the quantitative methods of good quality?
