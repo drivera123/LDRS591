@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 1:
+### Learning Activity 1
 
 a\) Read chapter 9 "Qualitative Research Designs" in Plano-Clark and Creswell \(2015\).
 
@@ -32,7 +32,7 @@ Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), com
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 6" categories.
 
-### Learning Activity 3:
+### Learning Activity 3
 
 a\) Read chapter 10, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
 
@@ -52,7 +52,7 @@ Using the evaluation criteria on pg. 349 in Plano-Clark & Creswell \(2015\), com
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 6" categories.
 
-### Learning Activity 5:
+### Learning Activity 5
 
 a\) Read chapter 11, "Data Analysis and Findings," in Plano-Clark and Creswell \(2015\).
 
