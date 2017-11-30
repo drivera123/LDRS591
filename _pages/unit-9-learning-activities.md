@@ -17,7 +17,7 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 2: Blog post 1
 
-Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in one of the servant leadership articles you read in learning activity 1.  The figure on page 477 provides a template for recording your rating and rationale for the following questions:
+Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in one of the servant leadership articles you read in learning activity 1. The figure on page 477 provides a template for recording your rating and rationale for the following questions:
 
 1. Are the major results identified and summarized?
 2. Are the results thoroughly examined and related to the literature?
@@ -27,11 +27,11 @@ Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\),
 6. Are the interpretations consistent with the study's results and limitations?
 7. Is the back matter appropriate for the study?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the "Learning Activities" and "Unit 9" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 9" categories.
 
 ### Learning Activity 3: Blog post 2
 
-Prepare a brief \(250- to 300-word\) response to the following:
+Prepare a brief 250- to 300-word response to the following:
 
 The most important thing for me about the conclusions section of a high-quality research report is . . .
 
