@@ -12,7 +12,7 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 1
 
-a\) Read chapter 9 "Qualitative Research Designs" in Plano-Clark and Creswell \(2015\).
+a\) Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell \(2015\).
 
 b\) Read the four servant leadership articles posted under the unit 6 resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
 
