@@ -24,9 +24,9 @@ Glanz \(1998\) has suggested that an action research cycle consists of six steps
 
 ##### References
 
-Gall, M., Gall, J., & Borg, W. \(2007\). _Educational research._ Boston, MA: Pearson.
+Gall, M., Gall, J., & Borg, W. \(2007\). _Educational research: An introduction \(8th ed.\)._ Boston, MA: Pearson.
 
-Gay, L. \(1987\). _Educational research._ Columbus, OH: Merrill.
+Gay, L. \(1987\). _Educational research: Competencies for analysis and application._ Columbus, OH: Merrill.
 
 Gill, J., & Johnson, P. \(2002\). _Research methods for managers_ \(3rd ed.\). Thousand Oaks, CA: Sage.
 
