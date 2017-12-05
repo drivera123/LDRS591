@@ -2,28 +2,29 @@
 ID: 1322
 post_title: Unit 2 Notes
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs591-sp18/unit-2-notes/
 published: true
-post_date: 2017-11-24 14:49:50
+post_date: 2017-11-24T14:49:50.000Z
 ---
+
 ### The Research Process
 
-Plano-Clark and Creswell (2015) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" (p. 4). Plano-Clark and Creswell (2015) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps  help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
+Plano-Clark and Creswell \(2015\) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" \(p. 4\). Plano-Clark and Creswell \(2015\) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps  help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 
 1. The whole process begins with **identifying the research problem**. This step is vitally important. The statement of the research problem is the very foundation that subsequent research is built upon, and quite literally guides each and every step moving forward.
 
 2. A **literature review** is a summary of the “state of knowledge” in a given area.This step is the primary focus of this course and involves locating relevant scholarly literature, and analyzing, synthesizing and summarizing what precedent literature has to say about a specific topic.
 
-3. The **purpose of research** includes identifying the objective of a study (e.g., purpose statement). This information is typically expressed in a few research questions or hypotheses.
+3. The **purpose of research** includes identifying the objective of a study \(e.g., purpose statement\). This information is typically expressed in a few research questions or hypotheses.
 
 4. Next, it is important to **choose a research design. **This step involves describing an overall plan or approach of the study and also explains the methods used to carry out the plan.
 
 5. **Selecting participants and collecting data** includes who will be the participants, how you will collect information from those participants, and what permission you need to obtain in order to collect the information.
 
-6. **Analyzing data** involves systematic processes to make sense of the information that has been gathered.  We call this process “results,” which are then reported in forms appropriate to the research method (e.g., statistics or words).
+6. **Analyzing data** involves systematic processes to make sense of the information that has been gathered.  We call this process “results,” which are then reported in forms appropriate to the research method \(e.g., statistics or words\).
 
 7. **Drawing conclusions **means interpreting the results and explaining how the conclusions relate to the research questions/hypotheses, and/or similar studies. There is also a discussion of limitations of the study and often suggestions of implications for the intended audiences, for practice and for future research.
 
@@ -31,24 +32,24 @@ Plano-Clark and Creswell (2015) define research as "a process of steps used to c
 
 ### Accessing Scholarly Literature
 
-Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search (library books, online periodicals, internet search), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests.
+Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search \(library books, online periodicals, internet search\), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests.
 
-Part of your planning and organizing is to recognize various genres of scholarly literature and to be aware of the limitations inherent to each. A very helpful discussion is provided by Plano-Clark and Creswell (2015) on pages 10-12.  The figure below identifies different classifications of scholarly literature, that is, where you can find research reports.![](/assets/Literaturemap.jpg)There are three different categories of documents where you can find research reports: summaries and books, journal articles and early stage materials. Many times you will see this sequence followed: A research project is completed, and the research is first published in a Mater's thesis or PhD dissertation, or as a paper in a symposium or conference. The research report then goes to a professional journal for publication and eventually it is incorporated into a book. Keep in mind the timeline at the left side of the figure above. By the time a dissertation is successfully defended, the actual research may have been conducted two to three years earlier. It could easily take another three years for a journal article to make it through the peer-review process and be published. Therefore, the research referenced in the journal article could be at least five years old. It could easily take another five years for high quality publishers to work through their review processes and publish something in a book.  Obviously, what you lose in this process is cutting edge thought.
+Part of your planning and organizing is to recognize various genres of scholarly literature and to be aware of the limitations inherent to each. A very helpful discussion is provided by Plano-Clark and Creswell \(2015\) on pages 10-12.  The figure below identifies different classifications of scholarly literature, that is, where you can find research reports.![](/assets/Literaturemap.jpg)There are three different categories of documents where you can find research reports: summaries and books, journal articles and early stage materials. Many times you will see this sequence followed: A research project is completed, and the research is first published in a Mater's thesis or PhD dissertation, or as a paper in a symposium or conference. The research report then goes to a professional journal for publication and eventually it is incorporated into a book. Keep in mind the timeline at the left side of the figure above. By the time a dissertation is successfully defended, the actual research may have been conducted two to three years earlier. It could easily take another three years for a journal article to make it through the peer-review process and be published. Therefore, the research referenced in the journal article could be at least five years old. It could easily take another five years for high quality publishers to work through their review processes and publish something in a book.  Obviously, what you lose in this process is cutting edge thought.
 
-The chart below summarizes the relative advantages and disadvantages of each genre of scholarly literature.  You can refer to Plano-Clark and Creswell (2015) pages 10-12 for more details.
+The chart below summarizes the relative advantages and disadvantages of each genre of scholarly literature.  You can refer to Plano-Clark and Creswell \(2015\) pages 10-12 for more details.
 
 | GENRE | ADVANTAGES | DISADVANTAGES | UTILITY |
 | :--- | :--- | :--- | :--- |
-| Summaries (encyclopedias and handbooks) | Generally highest quality. | Tend to be dated. | Establish a general working knowledge of the field. |
+| Summaries \(encyclopedias and handbooks\) | Generally highest quality. | Tend to be dated. | Establish a general working knowledge of the field. |
 | Books | Generally high quality. | Can be dated. | Establish mainstream thought.  Most foundational literature is found in books. |
-| Journal Articles | Generally high quality.*** Provide a clear description of actual research. Generally more current than books or summaries | Generally will not give a full development of application and implications. | Best available balance between quality and currency. |
-| Early stage materials (conference papers, dissertations, newspapers, personal websites etc.) | Most current cutting edge ideas are found here. | Little review for quality (except for dissertations). Ideas are not usually well developed. | Valuable for establishing trends in current thought. Use cautiously. |
+| Journal Articles | Generally high quality._\*_ Provide a clear description of actual research. Generally more current than books or summaries | Generally will not give a full development of application and implications. | Best available balance between quality and currency. |
+| Early stage materials \(conference papers, dissertations, newspapers, personal websites etc.\) | Most current cutting edge ideas are found here. | Little review for quality \(except for dissertations\). Ideas are not usually well developed. | Valuable for establishing trends in current thought. Use cautiously. |
 
-***High quality journals are determined by the peer review process, the journals impact factor (IF) and by professional reputation.  The impact factor is a measure of the frequency with which the average article in a journal has been cited in a particular year. The IF is used to measure the importance or rank of a journal by calculating the times its articles are cited.  The IF can be found on the home page of most online journals.
+\_\*\_High quality journals are determined by the peer review process, the journals impact factor \(IF\) and by professional reputation.  The impact factor is a measure of the frequency with which the average article in a journal has been cited in a particular year. The IF is used to measure the importance or rank of a journal by calculating the times its articles are cited.  The IF can be found on the home page of most online journals.
 
-Peer review is the process used by publishers and editors of academic/scholarly journals to ensure that the articles they publish meet the accepted standards of their discipline. Manuscripts being considered for publication are sent to independent experts in the same field (the author's scholarly or scientific peers). They evaluate the quality of the scholarship, reliability of findings, relevance to the field, appropriateness for the journal, etc.
+Peer review is the process used by publishers and editors of academic/scholarly journals to ensure that the articles they publish meet the accepted standards of their discipline. Manuscripts being considered for publication are sent to independent experts in the same field \(the author's scholarly or scientific peers\). They evaluate the quality of the scholarship, reliability of findings, relevance to the field, appropriateness for the journal, etc.
 
-Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources of literature you should access.  They suggest that although you are probably used to searching for books on a particular topic, it is important to "focus on reading recent research studies published as journal articles to learn the most up-to-date information in your profession" (p. 11).  As a general rule, articles published within the past 10 years should give you a good idea of what is current in your profession.
+Plano-Clark and Creswell \(2015\) provide a very useful tip regarding what sources of literature you should access.  They suggest that although you are probably used to searching for books on a particular topic, it is important to "focus on reading recent research studies published as journal articles to learn the most up-to-date information in your profession" \(p. 11\).  As a general rule, articles published within the past 10 years should give you a good idea of what is current in your profession.
 
 ### Utilizing Scholarly Literature
 
@@ -56,7 +57,7 @@ After you have determined what sources you will be accessing, you need to conduc
 
 | Search Engine/Databases | Search words used | Number of hits | Results |
 | :--- | :--- | :--- | :--- |
-| EbscoHost | mental health and aging | 5,346 | Birren, J.E. et al., (2013). Handbook of mental health and aging. Academic Press. |
+| EbscoHost | mental health and aging | 5,346 | Birren, J.E. et al., \(2013\). Handbook of mental health and aging. Academic Press. |
 
 After you have retrieved the results from your database searches, you need to select documents to review.  Begin by reviewing the titles and abstracts.  For those articles that you deem worthwhile, skim the article itself to determine if it is relevant to your topic.  Read the introduction and literature review and examine the reference list.
 
@@ -64,7 +65,7 @@ As you collect relevant literature you can either enter it into a summary chart 
 
 | Category | Description |
 | :--- | :--- |
-| Reference | Cite full reference in APA (6th edition) format for a reference list. |
+| Reference | Cite full reference in APA \(6th edition\) format for a reference list. |
 | Research Problem | Describe the research problem and relevant background information.  Include page references for both your summaries and direct quotations. |
 | Purpose, Research Questions, or Hypothesis | Describe the purpose, research question and hypothesis.  Include page references for summaries and quotations. |
 | Data collection/Procedure | Describe how the researcher collected data.  What participants did they use? What measures did they use? What method was used? |
@@ -80,7 +81,7 @@ After you have found several articles and books related to your research topic a
 
 As an MA Leadership student, and as a professional, it is imperative that you are able to critically evaluate information in order to conduct quality research yourself, inform policies and improve your professional practice. To evaluate a source for quality and credibility you need to consider the following:
 
-* **Authority**: Who is the author? What are the author's credentials (educational background, past writing experience, expertise on the topic)? Is the author's name cited in other sources or reference lists?  A simple google search will help you explore these questions.
+* **Authority**: Who is the author? What are the author's credentials \(educational background, past writing experience, expertise on the topic\)? Is the author's name cited in other sources or reference lists?  A simple google search will help you explore these questions.
 
 * **Currency: **When was the source published? Is the source current or out of date for your topic? Remember the general rule is to use sources that have been published within the past 10 years.
 
@@ -90,11 +91,11 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
 
 * **Publication type/process:** Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?
 
-* **Bias and special interests: **According to Panucci and Williams (2010) bias can occur during all phases of research from  design, implementation, and analysis to publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias.  Driscoll and Brizee (2017) suggest that when it comes to publishing research reports, ** "**most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".
+* **Bias and special interests: **According to Panucci and Williams \(2010\) bias can occur during all phases of research from  design, implementation, and analysis to publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias.  Driscoll and Brizee \(2017\) suggest that when it comes to publishing research reports, ** "**most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".
 
 ### Synthesize and Critique Scholarly Literature.
 
-A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical (i.e., careful and judicious) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
+A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical \(i.e., careful and judicious\) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
 
 An effective summary of an article or book will:
 
@@ -113,14 +114,15 @@ When you are critically evaluating research studies, you are not just listing an
 
 ### How Much Information Is Enough?
 
-When doing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature (e.g., why we need to know more, or why the literature needs to be applied in a particular context). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
+When doing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature \(e.g., why we need to know more, or why the literature needs to be applied in a particular context\). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
 
 ##### References
 
-Creswell, J. (2003).  Research design: Qualitative, quantitative, and mixed methods approaches (2nd ed.).  Thousand Oaks, CA:  Sage.
+Creswell, J. \(2003\). _Research design: Qualitative, quantitative, and mixed methods approaches _\(2nd ed.\). Thousand Oaks, CA:  Sage.
 
-Driscoll, D.L. & Brizee, A. (2017). Evaluating print versus internet sources.  Retrieved from: [https://owl.english.purdue.edu/owl/resource/553/04/](https://owl.english.purdue.edu/owl/resource/553/04/)
+Driscoll, D. L. & Brizee, A. \(2017\). _Evaluating print versus internet sources._  Retrieved from [https://owl.english.purdue.edu/owl/resource/553/04/](https://owl.english.purdue.edu/owl/resource/553/04/)
 
-Pannucci, C.J. & Wilkins, E.G., (2010). Identifying and avoiding bias in research.  _Plast Reconstr Surg. 126_(2), 619-625.
+Pannucci, C. J. & Wilkins, E. G., \(2010\). Identifying and avoiding bias in research.  _Plastic and Reconstructive Surgery, 126_\(2\), 619-625.
 
-Plano-Clark, V., Creswell, J. (2015). Understanding research: A consumer’s guide (2nd ed.). Boston, MA: Pearson
+Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
+

@@ -30,7 +30,7 @@
 * [Unit 5 Overview](_pages/unit-5-overview.md)
   * [Unit 5 Notes](_pages/unit-5-notes.md)
   * [Unit 5 Learning Activities](_pages/unit-5-learning-activities.md)
-* [Unit 6 Overview](Unit-6/Overview.md)
+* [Unit 6 Overview](_pages/unit-6-overview.md)
   * [Unit 6 Notes](_pages/unit-6-notes.md)
   * [Unit 6 Learning Activities](_pages/unit-6-learning-activities.md)
 * [Unit 7 Overview](_pages/unit-7-overview.md)
