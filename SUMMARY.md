@@ -5,7 +5,6 @@
   * [Outcomes](_pages/outcomes.md)
   * [Academic Integrity](_pages/academic-integrity-2.md)
   * [Course Timeline](_pages/Course-Timeline.md)
-* [Course Timeline](_pages/Course-Timeline.md)
 * [Assignments](_pages/course-assignments.md)
   * [Clarifying your research interest](_posts/2017-11-24-clarifying-your-research-interest-2.md)
   * [Scholarly Article Review](_posts/2017-11-24-scholarly-article-review-3.md)
