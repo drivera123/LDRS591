@@ -4,6 +4,8 @@
 * [Course Overview](_pages/Course-Overview.md)
   * [Outcomes](_pages/outcomes.md)
   * [Academic Integrity](_pages/academic-integrity-2.md)
+  * [Course Timeline](_pages/Course-Timeline.md)
+* [Course Timeline](_pages/Course-Timeline.md)
 * [Assignments](_pages/course-assignments.md)
   * [Clarifying your research interest](_posts/2017-11-24-clarifying-your-research-interest-2.md)
   * [Scholarly Article Review](_posts/2017-11-24-scholarly-article-review-3.md)
@@ -44,5 +46,4 @@
   * [Unit 10 notes](_pages/unit-10-notes.md)
   * [Unit 10 Learning Activities](_pages/unit-10-learning-activities.md)
 * [Boyer's Model of Scholarship](_pages/boyers-model-of-scholarship.md)
-* [Leadership Integration Project](_pages/leadership-integration-project.md)
 
