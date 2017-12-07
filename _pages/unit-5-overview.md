@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Methods and Results of Quantitative Research Reports
+### Understanding the Methods and Results of Quantitative Research Reports
 
 ### Overview
 
