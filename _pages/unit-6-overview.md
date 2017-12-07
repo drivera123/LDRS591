@@ -10,6 +10,8 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
+### Understanding the Methods and Results of Qualitative Research Reports
+
 ### Overview
 
 In unit 6 we continue our overview of the most common research methods used in leadership research. Remember that the purpose of these overviews is that you will be a more informed consumer of research and a practitioner of evidence-based leadership practices.  Specifically, this unit will focus on the research design, method, and analysis and results of qualitative research reports.
