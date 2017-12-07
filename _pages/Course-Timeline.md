@@ -8,18 +8,20 @@
 
 * 3 blog posts 
 * 5 learning activities
-* Complete Clarifying your research interest assignment
+* Complete Clarifying Your Research Interest Assignment
 
 ### Unit 3 - Jan 15-21
 
 * 5 blog posts
 * 2 learning activities
-* Complete Scholarly Article Review assignment
+* Begin Scholarly Article Review Assignment
+  * Submit draft for peer review
 
 ### Unit 4 - Jan 22-28
 
 * 4 blog posts and responses
 * 3 learning activities
+* Complete Scholarly Article Review Assignment
 
 ### Unit 5 - Jan 29-Feb 4
 
