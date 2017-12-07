@@ -10,6 +10,8 @@ published: true
 post_date: 2017-11-24T14:49:50.000Z
 ---
 
+### Bringing It All Together
+
 ### Overview
 
 “So I turned my mind to understand, to investigate and to search out wisdom…” \(Ecclesiastes 7:25\)
