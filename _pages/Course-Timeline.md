@@ -1,6 +1,6 @@
 ### Unit 1 - Jan 2-7
 
-* 3 blog posts
+* 3 blog posts and responses
 * 5 learning activities
 * Begin Clarifying your research interest assignment
 
@@ -18,17 +18,17 @@
 
 ### Unit 4 - Jan 22-28
 
-* 4 blog posts
+* 4 blog posts and responses
 * 3 learning activities
 
 ### Unit 5 - Jan 29-Feb 4
 
-* 4 blog posts
+* 4 blog posts and responses
 * 3 learning activities
 
 ### Unit 6 - Feb 5-11
 
-* 4 blog posts
+* 4 blog posts and responses
 * 3 learning activities
 * Begin Literature Review Search Assignment
 
@@ -46,14 +46,14 @@
 
 ### Unit 9 - Feb 26-Mar 4
 
-* 2 blog posts
+* 2 blog posts and responses
 * 3 learning activities
 * Complete Literature Review Outline Assignment
 * Begin Formal Literature Review Assignment
 
 ### Unit 10 - Mar 5-11
 
-* 3 blog posts
+* 3 blog posts and responses
 * Complete Formal Literature Review Assignment
 
 
