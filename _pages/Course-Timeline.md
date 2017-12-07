@@ -25,12 +25,14 @@
 
 * 4 blog posts and responses
 * 3 learning activities
+* Begin Literature Review Search Assignment
 
 ### Unit 6 - Feb 5-11
 
 * 4 blog posts and responses
 * 3 learning activities
-* Begin Literature Review Search Assignment
+* Create a draft of the Literature Review Search Assignment
+  * Submit draft for peer review
 
 ### Unit 7 - Feb 12-18
 
@@ -42,7 +44,9 @@
 
 * 1 blog post
 * 3 learning activities
+* Peer review two action research projects
 * Begin Literature Review Outline Assignment
+  * Submit draft for peer review
 
 ### Unit 9 - Feb 26-Mar 4
 
@@ -54,7 +58,9 @@
 ### Unit 10 - Mar 5-11
 
 * 3 blog posts and responses
-* Complete Formal Literature Review Assignment
+* Complete a draft of the Formal Literature Review Assignment
+  * Submit draft for peer review
+  * Final submission due March 23, 2018 by midnight
 
 
 
