@@ -1,8 +1,5 @@
-
-
 ### Unit 1 - Jan 2-7
 
-* 
 ### Unit 2 - Jan 8-14
 
 ### Unit 3 - Jan 15-21
