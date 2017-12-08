@@ -10,18 +10,17 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 1
+### Learning Activity 44
 
-Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
+1. Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
+2. Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  
 
-Watch the following video by Dr. John W. Creswell, "What is mixed methods research?"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  [http://johnwcreswell.com/videos/](http://johnwcreswell.com/videos/)
-
-### Learning Activity 2: Blog post 1
+### Learning Activity 45 - Blog post
 
 Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
-•   What is at the heart of the quantitative/qualitative debate?  
-•   How has mixed methods been seen as a remedy for advancing leadership research?
+* What is at the heart of the quantitative/qualitative debate?
+* How has mixed methods been seen as a remedy for advancing leadership research?
 
 Please post your reflection on your blog and close with one question that invites further comment and discussion. Add your post to the "Learning Activities" and "Unit 7" categories.
 
