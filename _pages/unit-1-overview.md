@@ -9,25 +9,28 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-### Overview
+<h3>Overview</h3>
 
 Unit 1 will provide you with a general introduction to inquiry, familiarizing you with foundational concepts related to scholarly inquiry. In particular, this unit will focus on the philosophical foundations of research, the connection between leadership and scholarly inquiry, and what evidence-based leadership looks like. By the end of the unit, you will understand the importance of Boyer's Model of Scholarship and begin to evaluate the decision-making processes that you utilize in your professional life.
 
-### Learning Objectives
+<h3>Learning Objectives</h3>
 
-1. Evaluate the philosophical bases for empirical inquiry, including the knowledge claims represented by various approaches to research.
-2. Appraise the contributions of scholarly inquiry as foundational for evidence-based leadership.
-3. Distinguish between various domains of scholarship (i.e., discovery, integration, application, and teaching).
+<ol>
+<li>Evaluate the philosophical bases for empirical inquiry, including the knowledge claims represented by various approaches to research.</li>
+<li>Appraise the contributions of scholarly inquiry as foundational for evidence-based leadership.</li>
+<li>Distinguish between various domains of scholarship (i.e., discovery, integration, application, and teaching).</li>
+</ol>
 
-### Resources
+<h3>Resources</h3>
 
 Plano-Clark, V. &amp; Creswell, J. (2015). Understanding research: A consumer's guide. (2nd Ed.). Boston, MA: Pearson.
 
-##### E-Resources: The articles below can be found through the TWU library [https://www.twu.ca/library](https://www.twu.ca/library)
+<h5>E-Resources: The articles below can be found through the TWU library <a href="https://www.twu.ca/library">https://www.twu.ca/library</a></h5>
 
 Patton, M. (2001). Evaluation, knowledge management, best practices and high quality lessons learned. American Journal of Evaluation, 22(3), 329-336.
 
 Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? Delta Kappa Gamma Bulletin, 73(4), 5-8.
 
 Walshe, K. &amp; Rundall, T.G. (2001). Evidence-based management: From theory to practice in health care. The Millbank Quarterly, 79 (3), 429-457.
+
 <p style="text-align: center;"><a style="background-color: black; color: white; text-decoration: none; padding: 4px 6px; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto, 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: bold; line-height: 1.2; display: inline-block; border-radius: 3px;" title="Download free do whatever you want high-resolution photos from Helloquence" href="https://unsplash.com/@helloquence?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer"><span style="display: inline-block; padding: 2px 3px;">Header Photo Credit: Helloquence</span></a></p>
