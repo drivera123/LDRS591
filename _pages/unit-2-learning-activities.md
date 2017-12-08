@@ -9,19 +9,19 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-### Learning Activity 1
+### Learning Activity 7
 
 a) Read Unit 2 Notes.
 
 b) Watch the following [video tutorials](http://libguides.twu.ca/library_research/home) prepared by Dr. William Badke. Begin with clicking "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper."  The videos are labelled "Understanding the research process" and "Pre-research strategies."
 
-### Learning Activity 2
+### Learning Activity 8
 
 a) Read chapter 3 in the Badke (2017) text.
 
 b) Complete Assignment 1 and submit it via the Assignment 1 drop box in the Learning Management System (LMS).
 
-### Learning Activity 3
+### Learning Activity 9
 
 a) Read chapters 4 and 6 in the Badke (2017) text.
 
@@ -38,9 +38,9 @@ c) Keeping in mind the topic and specific question(s) you identified in Assignme
 5. You will be asked to sign in as a student with your pass ID and password to access the online database.
 6. Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier."
 
-### Learning Activity 4: Blog post 1
+### Learning Activity 10 - Blog post
 
-Create a new blog post, and write the author, date and title (including the hyperlink) of a journal article you found in your search in the Academic Search Premier.  Post this information on your blog.  Next, briefly assess the source in the following categories. Add your post to the "Learning Activities" and "Unit 2" categories.
+Create a new blog post, and write the author, date and title (including the hyperlink) of a journal article you found in your search in the Academic Search Premier.  Post this information on your blog.  Next, briefly assess the source in the following categories. 
 
 •Authority – Who is the author? What are the author’s credentials?
 
@@ -52,15 +52,22 @@ Create a new blog post, and write the author, date and title (including the hype
 
 • Are there any obvious biases and/or special interests that the author acknowledges?
 
-### Learning Activity 5
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+* ldrs591
+* Unit 2
+* Learning Activity 10
+
+### Learning Activity 11
 
 a) Go to [http://libguides.twu.ca/library_research/home](http://libguides.twu.ca/library_research/home) and click  "How to search for books". Begin by selecting one of video tutorials in the section "searching for e-books" such as "searching for e-books in the classic catalogue."  Watch this video tutorial to get an idea of how to search for a topic found in an e-book.
 
 b) Keeping in mind the topic and specific question(s) you identified in Assignment 1, use the library catalogue to locate a good example of an **e-book.**
 
-### Learning Activity 6: Blog post 2
+### Learning Activity 12 - Blog post
 
-Create a new blog post, and post the author, date and title (including the hyperlink) of the e-book on your blog.  Next, briefly assess the source in the following categories. Add your post to the "Learning Activities" and "Unit 2" categories.
+Create a new blog post, and post the author, date and title (including the hyperlink) of the e-book on your blog.  Next, briefly assess the source in the following categories. 
 
 •Authority – Who is the author? What are the author’s credentials?
 
@@ -72,7 +79,14 @@ Create a new blog post, and post the author, date and title (including the hyper
 
 • Are there any obvious biases and/or special interests that the author acknowledges?
 
-### Learning Activity 7
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+* ldrs591
+* Unit 2
+* Learning Activity 12
+
+### Learning Activity 13
 
 a) Read chapter 7 in the Badke (2017) text.
 
@@ -80,8 +94,13 @@ b) Go to the link [http://libguides.twu.ca/library_research/home](http://libguid
 
 c) Next, watch the two videos in the section "using the web."  There are two short videos on using google scholar and assessing online resources in this section.
 
-### Learning Activity 8: Blog post 3
+### Learning Activity 14 - Blog post
 
-Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic.  How will you evaluate these sources to make sure they are credible and reliable sources of information? Add your post to the "Learning Activities" and "Unit 2" categories.
+Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic.  How will you evaluate these sources to make sure they are credible and reliable sources of information? 
 
-###
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+* ldrs591
+* Unit 2
+* Learning Activity 14
