@@ -27,7 +27,7 @@ Find a scholarly article from the article search that you did inunit 2.  Write a
 6. **Personal comments** – Give your reaction to the study. For example,  What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
 7. **Reference **– in APA format \(see chapter 6 in the APA manual\).
 
-Create a new blog post, and post this information on your blog.  
+Create a new blog post, and post this information on your blog.
 
 Make sure you add a link to this page in your post.
 
@@ -56,62 +56,80 @@ Make sure you add a link to this page in your post.
       * Linguistic devices \(3.10\)
       * Reducing bias \(3.11\)
 
-Create a new blog post, and post this information on your blog.  
+Create a new blog post, and post this information on your blog.
 
 Make sure you add a link to this page in your post.
 
-Categories for this post:
+##### Categories for this post:
 
 * ldrs591
 * Unit 3
 * Learning Activity 17
 
-### Learning Activity 4 - Blog post
+### Learning Activity 18 - Blog post
 
-a\) Read pp. 77-86 of chapter 3 and pp. 87-114 in chapter 4 of the APA manual.
+1. Read pp. 77-86 of chapter 3 and pp. 87-114 in chapter 4 of the APA manual.
+2. Using the article summary that you just completed for learning activity 3, re-edit your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should be aware of:
+   1. Active rather than passive voice \(3.18\)
+   2. Agreement of subject and verb \(3.19\)
+   3. Pronouns \(3.20\)
+   4. Dangling modifiers \(3.21\)
+   5. Parallel construction \(3.23\)
+   6. Punctuation \(4.01-4.11\) 
+   7. Spelling \(4.12\)
+   8. Capitalization \(4.14-4.20\)
+   9. Italics \(4.21\)
+   10. Abbreviations \(4.22\)
+   11. Numbers \(4.31 & 4.32\)
 
-b\) Using the article summary that you just completed for learning activity 3, re-edit your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below.  Here is what you should be aware of:
+Create a new blog post, and post this information on your blog.  
 
-* Active rather than passive voice \(3.18\)
-* Agreement of subject and verb \(3.19\)
-* Pronouns \(3.20\)
-* Dangling modifiers \(3.21\)
-* Parallel construction \(3.23\)
-* Punctuation \(4.01-4.11\) 
-* Spelling \(4.12\)
-* Capitalization \(4.14-4.20\)
-* Italics \(4.21\)
-* Abbreviations \(4.22\)
-* Numbers \(4.31 & 4.32\)
+Make sure you add a link to this page in your post.
 
-Create a new blog post, and post this information on your blog.  Add your post to the "Learning Activities" and "Unit 3" categories.
+##### Categories for this post:
 
-### Learning Activity 5: Blog post 4
+* ldrs591
+* Unit 3
+* Learning Activity 18
 
-a\) Read chapters 6 \(pp. 180-192\) and chapter 7 of the APA manual.
+### Learning Activity 19 - Blog post
 
-b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should include in your reference list are as follows:
+1. Read chapters 6 \(pp. 180-192\) and chapter 7 of the APA manual.
+2. Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source.  The sources you should include in your reference list are as follows:
+   1. A journal article \(7.01\)
+   2. A book or book chapter \(7.02\)
+   3. A government report \(7.03\)
+   4. A blog post \(7.11 \#76\)
+   5. A doctoral dissertation or master's thesis \(7.05\)
+   6. An online newspaper article \(7.01 \#11\)
 
-* A journal article \(7.01\)
-* A book or book chapter \(7.02\)
-* A government report \(7.03\)
-* A blog post \(7.11 \#76\)
-* A doctoral dissertation or master's thesis \(7.05\)
-* An online newspaper article \(7.01 \#11\)
+Create a new blog post, and post this information on your blog.  
 
-Create a new blog post, and post this information on your blog.  Add your post to the "Learning Activities and "Unit 3" categories.
+Make sure you add a link to this page in your post.
 
-### Learning Activity 6: Blog post 5
+##### Categories for this post:
 
-a\) Read chapter 6 \(pp. 169-179\) of the APA manual.
+* ldrs591
+* Unit 3
+* Learning Activity 19
 
-b\) Using the article that you found for learning activity 2, write an example of each of the following:
+### Learning Activity 20 - Blog post
 
-* A direct quote less than 40 words with proper in-text citation \(6.03\)
-* A direct quote more than 40 words with proper in-text citation \(6.03\).
-* A sentence that refers to an idea from the article \(paraphrased\), and provide a proper in-text citation \(6.11-6.12\)
+1. Read chapter 6 \(pp. 169-179\) of the APA manual.
+2. Using the article that you found for learning activity 2, write an example of each of the following:
+   1. A direct quote less than 40 words with proper in-text citation \(6.03\)
+   2. A direct quote more than 40 words with proper in-text citation \(6.03\).
+   3. A sentence that refers to an idea from the article \(paraphrased\), and provide a proper in-text citation \(6.11-6.12\)
 
-### Learning Activity 7
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 3
+* Learning Activity 20
+
+### Learning Activity 21
 
 Create a title page in APA format in a word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number \(see p. 229 in the APA manual under the heading "order of manuscript pages"\).
 
@@ -128,7 +146,8 @@ Follow the instructions below to submit this document to your instructor.
 
 ### Learning Activity 8
 
-a\) Read chapter 9, "Learning how to read for research," in Badke \(2017\).
+1. Read chapter 9, "Learning how to read for research," in Badke \(2017\).
+2. Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
 
-b\) Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
+
 
