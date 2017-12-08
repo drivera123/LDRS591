@@ -10,15 +10,13 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 1
+### Learning Activity 37
 
-a\) Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell \(2015\).
+1. Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell \(2015\).
+2. Read the four servant leadership articles posted under the unit 6 resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
+3. Read Unit 6 Notes.
 
-b\) Read the four servant leadership articles posted under the unit 6 resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
-
-c\) Read Unit 6 Notes.
-
-### Learning Activity 2: Blog post 1
+### Learning Activity 38 - Blog post
 
 Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a qualitative research report in one of the servant leadership articles.The figure on page 302 provides a template for recording your rating and rationale for the following questions:
 
@@ -30,15 +28,22 @@ Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), com
 6. Does the study use a rigorous research design?
 7. Does the qualitative research design address the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 6" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. 
 
-### Learning Activity 3
+Make sure you add a link to this page in your post.
 
-a\) Read chapter 10, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
+##### Categories for this post:
 
-b\) Review the methods section of the servant leadership article you chose to focus on.
+* ldrs591
+* Unit 6
+* Learning Activity 38
 
-### Learning Activity 4: Blog post 2
+### Learning Activity 39
+
+1. Read chapter 10, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
+2. Review the methods section of the servant leadership article you chose to focus on.
+
+### Learning Activity 40 - Blog post
 
 Using the evaluation criteria on pg. 349 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a qualitative research report in one of the servant leadership articles.The figure on page 350 provides a template for recording your rating and rationale for the following questions:
 
@@ -50,15 +55,22 @@ Using the evaluation criteria on pg. 349 in Plano-Clark & Creswell \(2015\), com
 6. Are the selected participants information rich?
 7. Does the database provide extensive and credible information about the central phenomenon?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 6" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. 
 
-### Learning Activity 5
+Make sure you add a link to this page in your post.
 
-a\) Read chapter 11, "Data Analysis and Findings," in Plano-Clark and Creswell \(2015\).
+##### Categories for this post:
 
-b\) Review the results section of the servant leadership article you chose to focus on.
+* ldrs591
+* Unit 6
+* Learning Activity 40
 
-### Learning Activity 6: Blog post 3
+### Learning Activity 41
+
+1. Read chapter 11, "Data Analysis and Findings," in Plano-Clark and Creswell \(2015\).
+2. Review the results section of the servant leadership article you chose to focus on.
+
+### Learning Activity 42 - Blog post
 
 Using the evaluation criteria on pg. 377 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the data analysis and findings in a qualitative research report in one of the servant leadership articles. The figure on page 378 provides a template for recording your rating and rationale for the following questions:
 
@@ -70,13 +82,31 @@ Using the evaluation criteria on pg. 377 in Plano-Clark & Creswell \(2015\), com
 6. Did the data analysis represent a good qualitative process?
 7. Did the findings provide a good exploration of the central phenomenon?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the "Learning Activities" and "Unit 6" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. 
 
-### Learning Activity 7: Blog post 4
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 6
+* Learning Activity 42
+
+### Learning Activity 43 - Blog post
 
 Prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing\(s\) for me in the methods and results section of a high-quality qualitative research report is/are . . .
 
-Close with one question that invites further comment and discussion. Please post this reflection brief to the "Learning Activities" and "Unit 6" categories.
+Close with one question that invites further comment and discussion. 
+
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 6
+* Learning Activity 43
+
+
 
