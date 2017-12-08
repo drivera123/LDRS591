@@ -25,7 +25,7 @@ Find a scholarly article from the article search that you did inunit 2.  Write a
 4. **Results/Findings** – In your own words describe what was found. Were the results significant?
 5. **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
 6. **Personal comments** – Give your reaction to the study. For example,  What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
-7. **Reference **– in APA format \(see chapter 6 in the APA manual\).
+7. **Reference**– in APA format \(see chapter 6 in the APA manual\).
 
 Create a new blog post, and post this information on your blog.
 
