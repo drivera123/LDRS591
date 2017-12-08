@@ -17,6 +17,8 @@ Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.
 
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4).  Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion). If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How To information.
 
+Make sure you add a link to this page in your post.
+
 ##### Categories for this post:
 
 * LDRS591
@@ -30,6 +32,8 @@ Read Unit 1 Notes.
 ### Learning Activity 4: Blog Post 2
 
 Create a new post where you answer the following questions: What factors do you think shape your decision-making process as a leader? Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions? Close with one question that invites further comment and discussion.
+
+Make sure you add a link to this page in your post.
 
 ##### Categories for this post:
 
@@ -50,6 +54,8 @@ Walshe, K. & Rundall, T.G. (2001). Evidence-based management: From theory to pra
 ### Learning Activity 6: Blog Post 3
 
 Create a new post and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership? What is considered as "evidence"? In your own words, why is evidence-based decision-making important? Close with one question that invites further comment and discussion. Add your post to the "Learning Activities" and "Unit 1" categories.
+
+Make sure you add a link to this page in your post.
 
 ##### Categories for this post:
 
