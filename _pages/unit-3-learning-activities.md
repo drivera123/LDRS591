@@ -82,7 +82,7 @@ Make sure you add a link to this page in your post.
    10. Abbreviations \(4.22\)
    11. Numbers \(4.31 & 4.32\)
 
-Create a new blog post, and post this information on your blog.  
+Create a new blog post, and post this information on your blog.
 
 Make sure you add a link to this page in your post.
 
@@ -103,7 +103,7 @@ Make sure you add a link to this page in your post.
    5. A doctoral dissertation or master's thesis \(7.05\)
    6. An online newspaper article \(7.01 \#11\)
 
-Create a new blog post, and post this information on your blog.  
+Create a new blog post, and post this information on your blog.
 
 Make sure you add a link to this page in your post.
 
@@ -144,7 +144,7 @@ Instructions for setting up the "Running head" in **Microsoft Word:**
 
 Follow the instructions below to submit this document to your instructor.
 
-### Learning Activity 8
+### Learning Activity 22
 
 1. Read chapter 9, "Learning how to read for research," in Badke \(2017\).
 2. Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.

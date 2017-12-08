@@ -2,24 +2,23 @@
 ID: 1332
 post_title: Unit 4 Learning Activities
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: page
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs591-sp18/unit-4-learning-activities/
 published: true
-post_date: 2017-11-24 14:49:50
+post_date: 2017-11-24T14:49:50.000Z
 ---
-### Learning Activity 1
 
-a) Read Unit 4 Notes.
+### Learning Activity 23
 
-b) Read the article by Sendjaya and Sarros (2002), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership.
+1. Read Unit 4 Notes.
+2. Read the article by Sendjaya and Sarros \(2002\), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership.
+3. Read the introduction to the servant leadership articles listed under the Unit 4 resources. Choose **one** of these articles to focus on to answer the questions in the following learning activities.
 
-c) Read the introduction to the servant leadership articles listed under the Unit 4 resources. Choose** one **of these articles to focus on to answer the questions in the following learning activities.
+### Learning Activity 24 - Blog post
 
-### Learning Activity 2: Blog post 1
-
-Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell (2015) text. Using the evaluation criteria on p. 93 in Plano-Clark & Creswell (2015), answer the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on. The figure on page 94 provides a template for recording your rating and rationale.
+Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell \(2015\) text. Using the evaluation criteria on p. 93, answer the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on. The figure on page 94 provides a template for recording your rating and rationale.
 
 1. Is the topic interesting?
 2. Is there a meaningful problem?
@@ -29,17 +28,24 @@ Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell (20
 6. Does the passage clearly argue that the study is warranted?
 7. Is the passage well written?
 
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the "Learning Activities" and "Unit 4" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
 
-### Learning Activity 3
+Make sure you add a link to this page in your post.
 
-a) Read chapter 4, "Literature Reviews," in the Plano-Clark and Creswell (2015) text.
+##### Categories for this post:
 
-b) Review the **introduction** to the servant leadership article you chose to focus on.
+* ldrs591
+* Unit 4
+* Learning Activity 24
 
-### Learning Activity 4: Blog post 2
+### Learning Activity 25
 
-Using the evaluation criteria on p. 143 in Plano-Clark & Creswell (2015), complete the following questions to evaluate the literature review in the servant leadership article you chose to focus on. The figure on page 144 provides a template for recording your rating and rationale.
+1. Read chapter 4, "Literature Reviews," in the Plano-Clark and Creswell \(2015\) text.
+2. Review the **introduction** to the servant leadership article you chose to focus on.
+
+### Learning Activity 26 - Blog post
+
+Using the evaluation criteria on p. 143 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the literature review in the servant leadership article you chose to focus on. The figure on page 144 provides a template for recording your rating and rationale.
 
 1. Does the review include relevant literature?
 2. Does the review examine sources that are recent and of high quality?
@@ -49,17 +55,24 @@ Using the evaluation criteria on p. 143 in Plano-Clark & Creswell (2015), comple
 6. Does the study have a strong foundation in the literature?
 7. Does the literature fit the study's overall approach?
 
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 4" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. 
 
-### Learning Activity 5
+Make sure you add a link to this page in your post.
 
-a) Read chapter 5, "Purpose statements and research questions," in the Plano-Clark and Creswell (2015) text.
+##### Categories for this post:
 
-b) Review the **introduction** to the servant leadership article you chose to focus on.
+* ldrs591
+* Unit 4
+* Learning Activity 26
 
-### Learning Activity 6: Blog post 3
+### Learning Activity 27
 
-Using the evaluation criteria on p.184 (for a quantitative study) and p.185 (for a qualitative study) in Plano-Clark & Creswell (2015), complete the following questions to evaluate the purpose in the servant leadership article you chose to focus on. The figure on page 186 provides a template for recording your rating and rationale.
+1. Read chapter 5, "Purpose statements and research questions," in the Plano-Clark and Creswell \(2015\) text.
+2. Review the **introduction** to the servant leadership article you chose to focus on.
+
+### Learning Activity 28 - Blog post
+
+Using the evaluation criteria on p.184 \(for a quantitative study\) and p.185 \(for a qualitative study\) in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the purpose in the servant leadership article you chose to focus on. The figure on page 186 provides a template for recording your rating and rationale.
 
 1. Is the study's purpose clearly specified?
 2. Is the focus of the study appropriate?
@@ -69,12 +82,31 @@ Using the evaluation criteria on p.184 (for a quantitative study) and p.185 (for
 6. Does the purpose of the study follow logically from the statement of the problem and the literature review?
 7. Is the purpose consistent with the study's overall approach?
 
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. Add your post to the "Learning Activities" and "Unit 4" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. 
 
-### Learning Activity 7: Blog post 4
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 4
+* Learning Activity 28
+
+### Learning Activity 29 - Blog post
 
 Prepare a brief 250- to 500-word response to the following:
 
-As a consumer of research reports, the most important thing(s) for me in the introduction section of a high-quality research report is/are . . .
+As a consumer of research reports, the most important thing\(s\) for me in the introduction section of a high-quality research report is/are . . .
 
-Close with one question that invites further comment and discussion. Please post this reflection brief to the "Learning Activities" and "Unit 4."
+Close with one question that invites further comment and discussion. 
+
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 4
+* Learning Activity 29
+
+
+
