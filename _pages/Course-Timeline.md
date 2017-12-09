@@ -2,13 +2,14 @@
 
 * 3 blog posts and responses
 * 5 learning activities
-* Begin Clarifying your research interest assignment
+* Begin Clarifying Your Research Interest Assignment
+* Assignment 1 is due January 8th
 
 ### Unit 2 - Jan 8-14
 
 * 3 blog posts 
 * 5 learning activities
-* Complete Clarifying Your Research Interest Assignment
+* Submit Clarifying Your Research Interest Assignment
 
 ### Unit 3 - Jan 15-21
 
@@ -16,18 +17,20 @@
 * 2 learning activities
 * Begin Scholarly Article Review Assignment
   * Submit draft for peer review
+* Assignment 2 is due January 29th
 
 ### Unit 4 - Jan 22-28
 
 * 4 blog posts and responses
 * 3 learning activities
-* Complete Scholarly Article Review Assignment
+* Submit Scholarly Article Review Assignment
 
 ### Unit 5 - Jan 29-Feb 4
 
 * 4 blog posts and responses
 * 3 learning activities
 * Begin Literature Review Search Assignment
+* Assignment 3 is due February 12
 
 ### Unit 6 - Feb 5-11
 
@@ -40,7 +43,7 @@
 
 * 2 blog posts
 * 2 learning activities
-* Complete Literature Review Search Assignment
+* Submit Literature Review Search Assignment
 
 ### Unit 8 - Feb 19-25
 
@@ -49,12 +52,13 @@
 * Peer review two action research projects
 * Begin Literature Review Outline Assignment
   * Submit draft for peer review
+* Assignment 4 is due February 26th
 
 ### Unit 9 - Feb 26-Mar 4
 
 * 2 blog posts and responses
 * 3 learning activities
-* Complete Literature Review Outline Assignment
+* Submit Literature Review Outline Assignment
 * Begin Formal Literature Review Assignment
 
 ### Unit 10 - Mar 5-11
@@ -62,7 +66,7 @@
 * 3 blog posts and responses
 * Complete a draft of the Formal Literature Review Assignment
   * Submit draft for peer review
-  * Final submission due March 23, 2018 by midnight
+  * Final submission for Assignment 5 is due March 23, 2018 by midnight
 
 
 
