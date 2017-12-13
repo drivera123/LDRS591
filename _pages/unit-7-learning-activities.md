@@ -10,25 +10,33 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 44
+### Learning Activity 7.1
 
 1. Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
 2. Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  
 
-### Learning Activity 45 - Blog post
+### Learning Activity 7.2 - Blog post
 
 Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
 * What is at the heart of the quantitative/qualitative debate?
 * How has mixed methods been seen as a remedy for advancing leadership research?
 
-Please post your reflection on your blog and close with one question that invites further comment and discussion. Add your post to the "Learning Activities" and "Unit 7" categories.
+Please post your reflection on your blog and close with one question that invites further comment and discussion. 
 
-### Learning Activity 3
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 7
+* Learning Activity 7.2
+
+### Learning Activity 7.3
 
 Read the four servant leadership articles listed under the unit 7 resources.
 
-### Learning Activity 4: Blog post 2
+### Learning Activity 7.4 - Blog post
 
 Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the mixed methods approach in one of the servant leadership articles you read in learning activity 3. The figure on page 406 provides a template for recording your rating and rationale for the following questions:
 
@@ -40,13 +48,17 @@ Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), com
 6. Does the study use a rigorous application of mixed methods research?
 7. Does the use of mixed methods produce a good understanding of the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  Add your post to the "Learning Activities" and "Unit 7'" categories.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  
 
-### Learning Activity 5
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 7
+* Learning Activity 7.4
+
+### Learning Activity 7.5
 
 Complete Assignment 3 and submit it via the assignment 3 drop box in the Learning Management System \(LMS\).
-
-## \
-
-
 
