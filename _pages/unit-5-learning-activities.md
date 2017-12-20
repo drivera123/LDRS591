@@ -10,15 +10,15 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 5.1
+### Learning Activity 5.1 - Blog post
 
-1. Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell \(2015\).
-2. Read the four servant leadership articles posted under the unit 5 resources.  Chose **one** of the servant leadership articles to focus on to answer the questions in the following learning activities.
-3. Read Unit 5 Notes.
+a\) Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 5.2 - Blog post
+b\) Read Unit 5 Notes.
 
-Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in one of the servant leadership articles. The figure on page 212 provides a template for recording your rating and rationale for the following questions:
+c\) Chose **one** of the servant leadership articles posted under the unit 5 resources to focus on to answer the questions in this learning activity. 
+
+d\) Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in the article you chose. The figure on page 212 provides a template for recording your rating and rationale for the following questions:
 
 1. Is the research design appropriate and justified?
 2. Are good quantitative procedures used to select and assign participants?
@@ -28,7 +28,7 @@ Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), comp
 6. Does the study use a rigorous research design?
 7. Does the quantitative research design address the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\), and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\), and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -36,12 +36,13 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 5
-* Learning Activity 5.2
+* Learning Activity 5.1
 
 ### Learning Activity 5.3
 
-1. Read chapter 7, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
-2. Review the methods section of the servant leadership article you chose to focus on.
+a\) Read chapter 7, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
+
+b\) Review the methods section of the servant leadership article you chose to focus on.
 
 ### Learning Activity 5.4 - Blog post
 
