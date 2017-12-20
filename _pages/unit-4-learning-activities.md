@@ -20,15 +20,18 @@ post_date: 2017-11-24T14:49:50.000Z
 * Why would this article interest researchers in the leadership field? 
 * What is already known about servant leadership? 
 * Are there any gaps in knowledge or understanding servant leadership?
-* ### Learning Activity 4.2 - Blog post
 
-1. Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell \(2015\) text. 
+### Learning Activity 4.2 - Blog post
+
+1. Read chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell \(2015\) text.
+
 2. Choose **one** of the servant leadership articles listed under the Unit 4 resources to focus on to answer the questions in this learning activity.
 3. Using the evaluation criteria on p. 93, answer the following questions to evaluate the statement of the problem in the servant leadership article you chose to focus on. The figure on page 94 provides a template for recording your rating and rationale.
 
 4. Is the topic interesting?
 
 5. Is there a meaningful problem?
+
 6. Is the importance of the problem justified?
 7. Are there deficiencies in the knowledge about the problem?
 8. Is an audience identified and are there specific examples of how the audience can use the missing knowledge?
@@ -53,6 +56,7 @@ Make sure you add a link to this page in your post.
 3. Does the review include relevant literature?
 
 4. Does the review examine sources that are recent and of high quality?
+
 5. Is the literature review documented properly?
 6. Is the literature thoughtfully synthesized?
 7. Is the literature critically examined?
@@ -77,6 +81,7 @@ Make sure you add a link to this page in your post.
 3. Is the study's purpose clearly specified?
 
 4. Is the focus of the study appropriate?
+
 5. Is the overall intent of the study appropriate?
 6. Are the participants and the sites appropriate?
 7. Is the purpose of the study narrowed through appropriate research questions and/or hypotheses?
