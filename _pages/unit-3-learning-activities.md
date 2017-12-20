@@ -12,11 +12,9 @@ post_date: 2017-11-24T14:49:50.000Z
 
 ### Learning Activity 3.1 - Blog post
 
-a\) Read Unit 3 Notes.
-
-b\) Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
-
-c\) Find a scholarly article from the article search that you completed in unit 2. Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
+* Read Unit 3 Notes.
+* Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
+* Find a scholarly article from the article search that you completed in unit 2. Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
 
 1. **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
@@ -25,11 +23,12 @@ c\) Find a scholarly article from the article search that you completed in unit 
 3. **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
 
 4. **Results/Findings** – In your own words describe what was found. Were the results significant?
+
 5. **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
 6. **Personal comments** – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
 7. **Reference** – in APA format \(see chapter 6 in the APA manual\).
 
-Create a new blog post, and post this information on your blog. This post should be between 500-600 words.
+* Create a new blog post, and post this information on your blog. This post should be between 500-600 words.
 
 Make sure you add a link to this page in your post.
 
@@ -41,27 +40,22 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 3.2 - Blog post
 
-a\) Read chapter 3 \(pp. 61-76\) of the APA manual.
-
-b\) Using the article summary that you just completed for learning activity 3.1, re-format your summary so that you are following APA formatting rules from chapter 3 and section 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below. Here is what you should include:
-
-1. Use Times New Roman 12-point font \(8.03\).
-
-2. Double-space between all text lines of the paper \(8.03\).
-
-3. Leave 1- inch margins at the top, bottom, left, and right of every page \(8.03\).
-
-4. Indent the first line of every paragraph \(8.03\).
-5. Use the flush-left alignment style \(8.03\).
-6. Organize the summary with appropriate headings \(3.03\).
-7. Evaluate your summary and edit it to improve your writing style paying close attention to the following:
-   * Continuity in presentation of ideas \(3.05\)
-   * Smoothness of expression \(3.06\)
-   * Tone \(3.07\)
-   * Economy of expression \(3.08\)
-   * Precision and clarity \(3.09\)
-   * Linguistic devices \(3.10\)
-   * Reducing bias \(3.11\)
+* Read chapter 3 \(pp. 61-76\) of the APA manual.
+* Using the article summary that you just completed for learning activity 3.1, re-format your summary so that you are following APA formatting rules from chapter 3 and section 8.03 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below. Here is what you should include:
+  * Use Times New Roman 12-point font \(8.03\).
+  * Double-space between all text lines of the paper \(8.03\).
+  * Leave 1- inch margins at the top, bottom, left, and right of every page \(8.03\).
+  * Indent the first line of every paragraph \(8.03\).
+  * Use the flush-left alignment style \(8.03\).
+  * Organize the summary with appropriate headings \(3.03\).
+  * Evaluate your summary and edit it to improve your writing style paying close attention to the following:
+    * Continuity in presentation of ideas \(3.05\)
+    * Smoothness of expression \(3.06\)
+    * Tone \(3.07\)
+    * Economy of expression \(3.08\)
+    * Precision and clarity \(3.09\)
+    * Linguistic devices \(3.10\)
+    * Reducing bias \(3.11\)
 
 Create a new blog post, and post this information on your blog.  This post should be between 500-600 words.
 
