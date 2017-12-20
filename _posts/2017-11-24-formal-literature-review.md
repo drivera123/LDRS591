@@ -69,7 +69,7 @@ In the discussion section you should open by restating the problem you are inves
 
 At the very end list your references.  Reference lists must start on a new page, and must be formatted according to APA \(6th edition\) guidelines pertaining to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
-**Submit your assignment to your assigned partner for peer review and then submit the assignment to your instructor **using the Assignment 5 drop box on the learning management system.
+**Submit a draft of your assignment for peer review to your assigned partner via email.**  Please submit the draft at least one week before the due date to allow for feedback and revisions.  Your partner will review your assignment and provide you with feedback following the peer review protocol.  Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make.  Please submit this assignment using the Assignment 5 drop box on the learning management system.
 
 ##### Assignment Rubric:
 
