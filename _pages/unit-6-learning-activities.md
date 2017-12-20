@@ -10,19 +10,15 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 6.1
+### Learning Activity 6.1 - Blog post
 
 a\) Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell \(2015\).
 
-b\) Read Unit 6 Notes. 
+b\) Read Unit 6 Notes.
 
-c\) Chose **one** of the servant leadership articles to focus on to answer the questions in the following learning activities
+c\) Chose **one** of the servant leadership articles listed under the unit 6 resources to focus on to answer the questions in this  learning activity.
 
-
-
-### Learning Activity 6.2 - Blog post
-
-Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a qualitative research report in one of the servant leadership articles.The figure on page 302 provides a template for recording your rating and rationale for the following questions:
+d\) Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a qualitative research report in the servant leadership article you chose.The figure on page 302 provides a template for recording your rating and rationale for the following questions:
 
 1. Is there a research design to guide the qualitative study?
 2. Is the choice of research design appropriate and justified?
@@ -32,7 +28,7 @@ Using the evaluation criteria on pg. 301 in Plano-Clark & Creswell \(2015\), com
 6. Does the study use a rigorous research design?
 7. Does the qualitative research design address the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -40,16 +36,13 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 6
-* Learning Activity 6.2
+* Learning Activity 6.1
 
-### Learning Activity 6.3
+### Learning Activity 6.2 - Blog post
 
-1. Read chapter 10, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
-2. Review the methods section of the servant leadership article you chose to focus on.
+a\) Read chapter 10, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 6.4 - Blog post
-
-Using the evaluation criteria on pg. 349 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a qualitative research report in one of the servant leadership articles.The figure on page 350 provides a template for recording your rating and rationale for the following questions:
+b\) Using the evaluation criteria on pg. 349 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a qualitative research report in the servant leadership article you chose.The figure on page 350 provides a template for recording your rating and rationale for the following questions:
 
 1. Is the sampling strategy appropriate and justified?
 2. Is the sample size appropriate and justified?
@@ -59,7 +52,7 @@ Using the evaluation criteria on pg. 349 in Plano-Clark & Creswell \(2015\), com
 6. Are the selected participants information rich?
 7. Does the database provide extensive and credible information about the central phenomenon?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -67,16 +60,13 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 6
-* Learning Activity 6.4
+* Learning Activity 6.2
 
-### Learning Activity 6.5
+### Learning Activity 6.3 - Blog post
 
-1. Read chapter 11, "Data Analysis and Findings," in Plano-Clark and Creswell \(2015\).
-2. Review the results section of the servant leadership article you chose to focus on.
+a\) Read chapter 11, "Data Analysis and Findings," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 6.6 - Blog post
-
-Using the evaluation criteria on pg. 377 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the data analysis and findings in a qualitative research report in one of the servant leadership articles. The figure on page 378 provides a template for recording your rating and rationale for the following questions:
+b\) Using the evaluation criteria on pg. 377 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the data analysis and findings in a qualitative research report in the servant leadership article you chose. The figure on page 378 provides a template for recording your rating and rationale for the following questions:
 
 1. Did the researcher\(s\) use rigorous qualitative analysis procedures?
 2. Did the researcher\(s\) use at least three strategies to validate the findings?
@@ -86,7 +76,7 @@ Using the evaluation criteria on pg. 377 in Plano-Clark & Creswell \(2015\), com
 6. Did the data analysis represent a good qualitative process?
 7. Did the findings provide a good exploration of the central phenomenon?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -94,9 +84,9 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 6
-* Learning Activity 6.6
+* Learning Activity 6.3
 
-### Learning Activity 6.7 - Blog post
+### Learning Activity 6.4 - Blog post
 
 Prepare a brief 250- to 500-word response to the following:
 
@@ -110,7 +100,7 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 6
-* Learning Activity 6.7
+* Learning Activity 6.4
 
 
 
