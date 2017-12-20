@@ -28,11 +28,11 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 8.2 - Podcast
 
-This learning activity asks you to create an idea for an action research project based on one of the practical problems you have identified from your professional life.  You will present this project idea in a podcast for your colleagues. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.  This learning activity is intended to be informal, so do not spend too much time planning and researching your topic.   
+This learning activity asks you to create an idea for an action research project based on one of the practical problems you have identified from your professional life.  You will present this project idea in a podcast for your colleagues. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.  This learning activity is intended to be informal, so do not spend too much time planning and researching your topic.
 
 ##### Instructions: {#criteria-and-evaluation}
 
-* Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the 8 steps described by Plano-Clark and Creswell \(2015\) on pp. 440-442. 
+* Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the 8 steps described by Plano-Clark and Creswell \(2015\) on pp. 440-442.
 
 * Record that idea in a podcast so that it can be presented to your colleagues for feedback.
 
@@ -70,5 +70,5 @@ Make notes about the strengths of the project idea as well as areas to work on \
 * Does the project include reflecting, thinking, looking, and gathering information and acting?
 * Will the results of the project enhance the lives of those involved?
 
-Summarize your notes in a response to your colleagues projects in 250-350 words**.  **Please post your review on your colleagues' post on the Unit 8 Learning Activity 3 forum on the Learning Management System. Remember that your response will be visible to all members of the class in the forum.
+Summarize your notes in a response to your colleagues projects in 250-350 words**.  **Please post your review on your colleagues' blog post on the Unit 8 Learning Activity 8.2. Remember that your response will be visible to all members of the class.
 
