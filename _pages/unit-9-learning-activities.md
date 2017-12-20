@@ -52,7 +52,7 @@ Make sure you add a link to this page in your post.
 * Unit 9
 * Learning Activity 9.2
 
-### Learning Activity 9.4
+### Learning Activity 9.3
 
 We have now concluded our investigation of research designs and the interpretation of the consequent research reports.  In this learning activity you will be asked to complete assignment 4. For this assignment you will write an outline for your formal literature review paper.  Please submit your assignment via the assignment 4 drop box in the Learning Management System \(LMS\).
 
