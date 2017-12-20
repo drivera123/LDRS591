@@ -14,9 +14,9 @@ post_date: 2017-11-24T14:49:51.000Z
 
 a\) Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell \(2015\).
 
-b\) Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/) 
+b\) Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/)
 
-c\) This learning activity asks you to think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to. The post should be between 250-500 words.
+c\) Think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
