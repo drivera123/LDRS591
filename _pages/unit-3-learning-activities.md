@@ -15,19 +15,13 @@ post_date: 2017-11-24T14:49:50.000Z
 * Read Unit 3 Notes.
 * Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 * Find a scholarly article from the article search that you completed in unit 2. Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
-
-* **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
-
-* **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?
-
-* **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
-
-* **Results/Findings** – In your own words describe what was found. Were the results significant?
-
-* **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
-
-* **Personal comments** – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
-* **Reference** – in APA format \(see chapter 6 in the APA manual\).
+  * **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
+  * **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?
+  * **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
+  * **Results/Findings** – In your own words describe what was found. Were the results significant?
+  * **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
+  * **Personal comments** – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
+  * **Reference** – in APA format \(see chapter 6 in the APA manual\).
 
 * Create a new blog post, and post this information on your blog. This post should be between 500-600 words.
 
