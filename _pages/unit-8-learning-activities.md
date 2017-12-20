@@ -26,27 +26,27 @@ Make sure you add a link to this page in your post.
 * Unit 8
 * Learning Activity 8.1
 
-### Learning Activity 8.3
+### Learning Activity 8.2 - Podcast
 
-This learning activity asks you to develop an action research project and present the project idea in a podcast. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.
+This learning activity asks you to create an idea for an action research project based on one of the practical problems you have identified from your professional life.  You will present this project idea in a podcast for your colleagues. There is a section of the Orientation that explains how to create a podcast. If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video.  This learning activity is intended to be informal, so do not spend too much time planning and researching your topic.   
 
 ##### Instructions: {#criteria-and-evaluation}
 
-* Using one of the ideas from learning activity 2, create an action research project that follows steps 1-8 for planning an action research study described by Plano-Clark and Creswell \(pp. 440-442\).
+* Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the 8 steps described by Plano-Clark and Creswell \(2015\) on pp. 440-442. 
 
-* Your introduction should include a grabber, your key idea and explain the structure of your presentation.
+* Record that idea in a podcast so that it can be presented to your colleagues for feedback.
+
+* Your introduction should include your key problem and explain the structure of your presentation.
 
 * Your project idea should relate to a practical leadership issue you are currently facing.
 
 * Your project idea should be clear and well organized.
 
-* Your project should fits within 3-5 minutes but no more than 6 minutes.
+* Your project should fit within 3-5 minutes but no more than 6 minutes.
 
-* Conclusion gives a call to action.
+* Provide a conclusion that gives a call to action.
 
-* Use appropriate vocal animation, articulation, tone, volume, fluid communication.
-
-Upload your podcast to [soundcloud.com](https://soundcloud.com), [tapewrite.com](https://tapewrite.com), or another suitable online service and embed it in a new post on your blog.
+* Upload your podcast to [soundcloud.com](https://soundcloud.com), [tapewrite.com](https://tapewrite.com), or another suitable online service and embed it in a new post on your blog.
 
 Make sure you add a link to this page in your post.
 
@@ -54,13 +54,13 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 8
-* Learning Activity 8.3
+* Learning Activity 8.2
 
-### Learning Activity 8.4
+### Learning Activity 8.3
 
 This learning activity asks you to peer review two projects by colleagues in the class.  The instructor will inform you of the projects that you will be peer reviewing.
 
-Make notes about the strengths of the presentation as well as areas to work on \(clarify, more analysis, more personal application\) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445.  Here are questions you should address in your evaluation:
+Make notes about the strengths of the project idea as well as areas to work on \(clarify, more analysis, more personal application\) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445.  Here are questions you should address in your evaluation:
 
 * Does the project focus on a real problem in practice?
 * Does the researcher plan to study his or her own practices or plan to collaborate with community members?
