@@ -48,21 +48,15 @@ We have spent a great deal of time wrestling with the specifics of research repo
 
 In this learning activity you are asked to do the following:
 
-a\) Read the unit 10 notes.
+* Read the unit 10 notes.
+* Watch the video [Battling Bad Science](https://www.ted.com/talks/ben_goldacre_battling_bad_science).
+* Prepare a brief 250- to 300-word response on your blog to the following questions:
 
-b\) Watch the following video [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science](https://www.ted.com/talks/ben_goldacre_battling_bad_science).
-
-c\) Prepare a brief 250- to 300-word response on your blog to the following questions:
-
-* How can I know that I can trust what I am reading?
-
-* How do I know the research has been performed competently?
-
-* How do I know the research is reported honestly?
-
-* How do I know the findings presented are consistent with what other researchers would conclude?
-
-Close with one question that invites further comment and discussion.
+  * How can I know that I can trust what I am reading?
+  * How do I know the research has been performed competently?
+  * How do I know the research is reported honestly?
+  * How do I know the findings presented are consistent with what other researchers would conclude?
+* Close with one question that invites further comment and discussion.
 
 Make sure you add a link to this page in your post.
 

@@ -12,19 +12,17 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 9.1 - Blog post
 
-a\) Read chapter 14, "Conclusions," in Plano-Clark and Creswell \(2015\).
+* Read chapter 14, "Conclusions," in Plano-Clark and Creswell \(2015\).
+* Select **one** of the servant leadership articles listed under the unit 9 resources to focus on for the learning activity.
+* Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in the servant leadership article you chose. The figure on page 477 provides a template for recording your rating and rationale for the following questions:
 
-b\) Select **one** of the servant leadership articles listed under the unit 9 resources to focus on for the learning activity.
-
-c\) Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in the servant leadership article you chose. The figure on page 477 provides a template for recording your rating and rationale for the following questions:
-
-1. Are the major results identified and summarized?
-2. Are the results thoroughly examined and related to the literature?
-3. Are appropriate implications of the results for practice identified and justified?
-4. Is there a thoughtful critique of the study's limitations?
-5. Are suitable implications for future research provided?
-6. Are the interpretations consistent with the study's results and limitations?
-7. Is the back matter appropriate for the study?
+  * Are the major results identified and summarized?
+  * Are the results thoroughly examined and related to the literature?
+  * Are appropriate implications of the results for practice identified and justified?
+  * Is there a thoughtful critique of the study's limitations?
+  * Are suitable implications for future research provided?
+  * Are the interpretations consistent with the study's results and limitations?
+  * Is the back matter appropriate for the study?
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
