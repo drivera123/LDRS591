@@ -2,13 +2,14 @@
 ID: 1288
 post_title: Scholarly Article Review
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: post
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs591-sp18/scholarly-article-review-3/
 published: true
-post_date: 2017-11-24 14:49:50
+post_date: 2017-11-24T14:49:50.000Z
 ---
+
 ### Scholarly Article Review
 
 In this assignment, you will write a critique of a journal article using the guideline provided below.
@@ -23,7 +24,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 1. What are the key research questions being addressed?
 2. Are these questions based on, or related to, previous theory or research?
-3. What are (if any) the specific study hypotheses?
+3. What are \(if any\) the specific study hypotheses?
 4. Provide a brief overview of the participant sample, including age, sex, any distinguishing features of the sample, and how the participants were recruited.
 5. Describe briefly the procedures of the study, including what kind of design was used, what methods/measures were used, and in general “how” the subjects were “studied.”
 6. Summarize the important findings and explain how they support or don’t support the hypotheses.
@@ -40,8 +41,8 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 8. Do you think the study could be duplicated from the information provided in the methods section?
 9. Is the sequence of the methods section clear?
 10. Review the results in light of the purpose of the study.  Do the results reveal what the researcher intended?
-11. Does the discussion just repeat the results or does the author(s) interpret the meaning of the results?
-12. Is the author's interpretation supported (or backed up) by other research?
+11. Does the discussion just repeat the results or does the author\(s\) interpret the meaning of the results?
+12. Is the author's interpretation supported \(or backed up\) by other research?
 13. Are there limitations identified?
 14. Are there suggestions for future research? 
 
@@ -49,14 +50,17 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
 
-**STEP 6**: Submit your assignment for peer review to your assigned partner.  Then after you have made any recommended corrections, submit your assignment using the Assignment 2 drop box on the learning management system.
+**STEP 6**: Submit a draft of your assignment for peer review to your assigned partner via email.  Please submit the draft at least one week before the due date to allow for feedback and revisions.  Your partner will review your assignment and provide you with feedback.  Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make.  Please submit this assignment using the Assignment 2 drop box on the learning management system.
 
 ##### Evaluation:
 
 | Criterion | Explanation of points to cover |
 | :--- | :--- |
-| Article Summary (8 points) | Clear identification of research question and statement per- taining to study hypotheses.  Brief overview of study partici- pants.  Clear description of the design, method, measures,    summary of key findings. |
-| Critique of study as presented in the article (10 points) | Clear statement of strengths, weaknesses, and generalizability or applicability. |
-| Future directions based on limitations (4 points) | Clear articulation of and rationale for future directions. |
-| APA formatting (10 points) | See APA rubric for specific details. |
+| Article Summary \(8 points\) | Clear identification of research question and statement per- taining to study hypotheses.  Brief overview of study partici- pants.  Clear description of the design, method, measures,    summary of key findings. |
+| Critique of study as presented in the article \(10 points\) | Clear statement of strengths, weaknesses, and generalizability or applicability. |
+| Future directions based on limitations \(4 points\) | Clear articulation of and rationale for future directions. |
+| APA formatting \(10 points\) | See APA rubric for specific details. |
 | **Overall score   /32** |  |
+
+
+
