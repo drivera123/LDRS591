@@ -37,7 +37,6 @@
 * 4 blog posts and responses
 * 3 learning activities
 * Create a draft of the Literature Review Search Assignment
-  * Submit draft for peer review
 
 ### Unit 7 - Feb 12-18
 
@@ -51,7 +50,6 @@
 * 3 learning activities
 * Peer review two action research projects
 * Begin Literature Review Outline Assignment
-  * Submit draft for peer review
 * Assignment 4 is due February 26th, by midnight
 
 ### Unit 9 - Feb 26-Mar 4
