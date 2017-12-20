@@ -12,11 +12,9 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 8.1 - Blog post
 
-a\) Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell \(2015\).
-
-b\) Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/)
-
-c\) Think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to. The post should be between 250-500 words.
+* Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell \(2015\).
+* Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/)
+* Think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -33,19 +31,12 @@ This learning activity asks you to create an idea for an action research project
 ##### Instructions: {#criteria-and-evaluation}
 
 * Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the 8 steps described by Plano-Clark and Creswell \(2015\) on pp. 440-442.
-
 * Record that idea in a podcast so that it can be presented to your colleagues for feedback.
-
 * Your introduction should include your key problem and explain the structure of your presentation.
-
 * Your project idea should relate to a practical leadership issue you are currently facing.
-
 * Your project idea should be clear and well organized.
-
 * Your project should fit within 3-5 minutes but no more than 6 minutes.
-
 * Provide a conclusion that gives a call to action.
-
 * Upload your podcast to [soundcloud.com](https://soundcloud.com), [tapewrite.com](https://tapewrite.com), or another suitable online service and embed it in a new post on your blog.
 
 Make sure you add a link to this page in your post.
@@ -70,5 +61,7 @@ Make notes about the strengths of the project idea as well as areas to work on \
 * Does the project include reflecting, thinking, looking, and gathering information and acting?
 * Will the results of the project enhance the lives of those involved?
 
-Summarize your notes in a response to your colleagues projects in 250-350 words.  **Please post your review on your colleagues' blog post on the Unit 8 Learning Activity 8.2. Remember that your response will be visible to all members of the class.**
+Summarize your notes in a response to your colleagues projects in 250-350 words.  
+
+Please post your review ***on your own blog*** and include a link to their post. Remember that your response will be visible to all members of the class.
 
