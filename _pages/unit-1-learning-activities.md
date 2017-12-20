@@ -12,9 +12,8 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 1.1 - Blog Post
 
-a\) Read Chapters 1 and 2 of the Plano-Clark and Creswell \(2015\) text.
-
-b\) According to Plano-Clark and Creswell \(2015\), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" \(p.4\).  Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision \(e.g., values, research, policy, past experience, expert opinion\). If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How To information. This blog post should be between 250-500 words.
+1. Read Chapters 1 and 2 of the Plano-Clark and Creswell \(2015\) text.
+2. According to Plano-Clark and Creswell \(2015\), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" \(p.4\).  Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision \(e.g., values, research, policy, past experience, expert opinion\). If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How To information. This blog post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
