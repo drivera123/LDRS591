@@ -12,14 +12,12 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 7.1 - Blog post
 
-a\) Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
+* Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
+* Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.
+* Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
-b\) Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.
-
-c\) Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
-
-* What is at the heart of the quantitative/qualitative debate?
-* How has mixed methods been seen as a remedy for advancing leadership research?
+  * What is at the heart of the quantitative/qualitative debate?
+  * How has mixed methods been seen as a remedy for advancing leadership research?
 
 Please post your reflection on your blog and close with one question that invites further comment and discussion. The post should be between 250-500 words.
 
@@ -33,17 +31,16 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 7.2 - Blog post
 
-a\) Select **one** of the servant leadership articles listed under the unit 7 resources to focus on to answer the questions in this learning activity.
+* Select **one** of the servant leadership articles listed under the unit 7 resources to focus on to answer the questions in this learning activity.
+* Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the mixed methods approach in the servant leadership article you chose. The figure on page 406 provides a template for recording your rating and rationale for the following questions:
 
-b\) Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the mixed methods approach in the servant leadership article you chose. The figure on page 406 provides a template for recording your rating and rationale for the following questions:
-
-1. Is there a rationale provided for needing a mixed methods design?
-2. Is the choice of the mixed methods design appropriate and justified?
-3. Are the quantitative methods of good quality?
-4. Are the qualitative methods of good quality?
-5. Are the quantitative and qualitative components of the study meaningfully mixed?
-6. Does the study use a rigorous application of mixed methods research?
-7. Does the use of mixed methods produce a good understanding of the study's purpose?
+  * Is there a rationale provided for needing a mixed methods design?
+  * Is the choice of the mixed methods design appropriate and justified?
+  * Are the quantitative methods of good quality?
+  * Are the qualitative methods of good quality?
+  * Are the quantitative and qualitative components of the study meaningfully mixed?
+  * Does the study use a rigorous application of mixed methods research?
+  * Does the use of mixed methods produce a good understanding of the study's purpose?
 
 Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
