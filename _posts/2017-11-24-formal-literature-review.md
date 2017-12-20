@@ -2,16 +2,17 @@
 ID: 1294
 post_title: Formal Literature Review
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: post
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs591-sp18/formal-literature-review/
 published: true
-post_date: 2017-11-24 14:49:50
+post_date: 2017-11-24T14:49:50.000Z
 ---
+
 ### Formal Literature Review
 
-In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, 3 and 4.  Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA (6th edition) format.
+In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, 3 and 4.  Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA \(6th edition\) format.
 
 **Title page:**
 
@@ -19,7 +20,7 @@ Create a title page including a title, running head, author byline, institutiona
 
 **Abstract:**
 
-You will need to create an abstract that provides a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250-word (or less), single-paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, the overall research question or objective, a general description of the method or approach, important results, and important conclusions.
+You will need to create an abstract that provides a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250-word \(or less\), single-paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, the overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 
 **Introduction:**
 
@@ -37,7 +38,7 @@ To conclude this section, provide a brief statement outlining the purpose of the
 
 Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment 3. Here is an example template that you can use:
 
-A review of the literature was conducted to identify scholarly research of XXXX on XXXX. Published articles were identified through searches of electronic databases that were available at the author’s university library. Databases included in this review were: [list specific databases that you searched]. The following key subject words were used to search the databases: XXX, XXX, XXX, XXX, XXX, XXX (include your search terms from assignment #3 here). Boolean “AND” was used to combine the XXX terms with the XXX terms. This search resulted in a total of XX articles.
+A review of the literature was conducted to identify scholarly research of XXXX on XXXX. Published articles were identified through searches of electronic databases that were available at the author’s university library. Databases included in this review were: \[list specific databases that you searched\]. The following key subject words were used to search the databases: XXX, XXX, XXX, XXX, XXX, XXX \(include your search terms from assignment \#3 here\). Boolean “AND” was used to combine the XXX terms with the XXX terms. This search resulted in a total of XX articles.
 
 The articles were then manually screened for relevance and attainability. Searches of bibliographies from relevant articles were also performed. Of the XX articles retrieved, XX articles were relevant to this review.
 
@@ -47,14 +48,14 @@ _Critical analysis_
 
 In the critical analysis section of the paper you want to tell your reader what strategy you used for organizing, abstracting and critically evaluating important information from the articles you found. For example, this section could look something like this:
 
-For each publication, the methodology that was used to critically appraise each article was 1) a 10-item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell (2015), and 2) a 10-item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell (2015). The description for how articles were classified as high quality or low quality is presented in the table below.
+For each publication, the methodology that was used to critically appraise each article was 1\) a 10-item rating scale for evaluating qualitative studies developed by Plano-Clark and Creswell \(2015\), and 2\) a 10-item rating scale for evaluating quantitative studies developed by Plano-Clark and Creswell \(2015\). The description for how articles were classified as high quality or low quality is presented in the table below.
 
-| Quality Criteria | Indicators of high quality (+) | Indicators of low quality (-) |
+| Quality Criteria | Indicators of high quality \(+\) | Indicators of low quality \(-\) |
 | :--- | :--- | :--- |
-| For quantitative studies (QNT) | Clearly focused study, sufficient background provided, well planned, method is appropriate, measures validated, adequate number of participants, data analysis rigorous with adequate statistical methods, findings and limitations are clearly stated. | Not focused, insufficient background provided, poorly planned, inappropriate method, invalidated measures, inadequate number of participants, data analysis not rigorous, inadequate statistical methods, unclear findings and limitations. |
-| For qualitative studies (QAL) | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigour in data collection strategies and analysis, evidence of the four components of trustworthiness (credibility, transferability, dependability, and confirmability) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
+| For quantitative studies \(QNT\) | Clearly focused study, sufficient background provided, well planned, method is appropriate, measures validated, adequate number of participants, data analysis rigorous with adequate statistical methods, findings and limitations are clearly stated. | Not focused, insufficient background provided, poorly planned, inappropriate method, invalidated measures, inadequate number of participants, data analysis not rigorous, inadequate statistical methods, unclear findings and limitations. |
+| For qualitative studies \(QAL\) | Purpose stated clearly, relevant background literature reviewed, design appropriate, identified researcher's theoretical or philosophical perspective, relevant and well described selection of participants and context, procedural rigour in data collection strategies and analysis, evidence of the four components of trustworthiness \(credibility, transferability, dependability, and confirmability\) results are comprehensive and well described. | Vague purpose, insufficient background, few or unsatisfactory descriptions of participants and context, trustworthiness inadequately addressed, lacks description of data collection, data analysis and results. |
 
-Note.  Table adapted from Parris & Peachey (2013, p. 382).
+Note.  Table adapted from Parris & Peachey \(2013, p. 382\).
 
 **Results:**
 
@@ -62,13 +63,13 @@ In the results section you are now going to organize what you have learned by su
 
 **Discussion:**
 
-In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results (e.g., identify gaps, inconsistencies, strengths, weaknesses based on your critical analysis) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations (and offer a rationale) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.
+In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results \(e.g., identify gaps, inconsistencies, strengths, weaknesses based on your critical analysis\) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations \(and offer a rationale\) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.
 
 **References:**
 
-At the very end list your references.  Reference lists must start on a new page, and must be formatted according to APA (6th edition) guidelines pertaining to which type of literature is being cited (i.e., book by one author, book with an editor, journal article, blog and so forth).
+At the very end list your references.  Reference lists must start on a new page, and must be formatted according to APA \(6th edition\) guidelines pertaining to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
-**Submit your assignment to your assigned partner for peer review and then submit the assignment to your instructor u**sing the Assignment 5 drop box on the learning management system.
+**Submit your assignment to your assigned partner for peer review and then submit the assignment to your instructor **using the Assignment 5 drop box on the learning management system.
 
 ##### Assignment Rubric:
 
@@ -84,3 +85,4 @@ At the very end list your references.  Reference lists must start on a new page,
 | GENERAL WRITING STYLE & PRESENTATION | Adheres to the 10 page minimum criteria. There are 2 or less grammatical/spelling errors. The paper is clearly organized using headings, and the readability of is excellent. | Is under 10 pages by half a page or less. There are 3- 4 grammatical or spelling errors.  The paper is organized well with headings and the readability of the paper is very good. | Is under 10 pages by one page. There are 4-5 grammatical or spelling errors. The paper is organized with headings and the readability of the paper is good. | Does not meet 10 page criteria. There are 6 or more grammatical or spelling errors. The paper is not organized welland the readability of the paper is poor. |
 
 Please refer to the APA formatting rubric provided for an evaluation of specific APA requirements for this assignment.
+
