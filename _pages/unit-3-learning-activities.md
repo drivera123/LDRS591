@@ -16,11 +16,12 @@ a\) Read Unit 3 Notes.
 
 b\) Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 
-c\) Find a scholarly article from the article search that you did in unit 2. Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
+c\) Find a scholarly article from the article search that you completed in unit 2. Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
 
 1. **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
 2. **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?
+
 3. **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
 4. **Results/Findings** – In your own words describe what was found. Were the results significant?
 5. **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
@@ -46,6 +47,7 @@ b\) Using the article summary that you just completed for learning activity 3.1,
 1. Use Times New Roman 12-point font \(8.03\).
 
 2. Double-space between all text lines of the paper \(8.03\).
+
 3. Leave 1- inch margins at the top, bottom, left, and right of every page \(8.03\).
 4. Indent the first line of every paragraph \(8.03\).
 5. Use the flush-left alignment style \(8.03\).
@@ -160,6 +162,4 @@ Follow the instructions below to submit this document to your instructor.
 a\) Read chapter 9, "Learning how to read for research," in Badke \(2017\).
 
 b\) Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
-
-
 
