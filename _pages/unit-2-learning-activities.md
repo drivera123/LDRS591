@@ -12,13 +12,10 @@ post_date: 2017-11-24T14:49:50.000Z
 
 ### Learning Activity 2.1
 
-a\) Read Unit 2 Notes.
-
-b\) Watch the following \[video tutorials\]\([http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home)\) prepared by Dr. William Badke. Begin with clicking "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper." The videos are labelled "Understanding the research process" and "Pre-research strategies."
-
-c\) Read chapter 3 in the Badke \(2017\) text.
-
-d\) Complete Assignment 1 and submit it via the Assignment 1 drop box in the Learning Management System \(LMS\).
+* Read Unit 2 Notes.
+* Watch the following \[video tutorials\]\([http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home)\) prepared by Dr. William Badke. Begin with clicking "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper." The videos are labelled "Understanding the research process" and "Pre-research strategies."
+* Read chapter 3 in the Badke \(2017\) text.
+* Complete Assignment 1 and submit it via the Assignment 1 drop box in the Learning Management System \(LMS\).
 
 ### Learning Activity 2.2
 
@@ -53,17 +50,14 @@ Make sure you add a link to this page in your post. This post should be between 
 
 ### Learning Activity 2.4 - Blog post
 
-a\) Go to [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for books". Begin by selecting one of video tutorials in the section "searching for e-books" such as "searching for e-books in the classic catalogue." Watch this video tutorial to get an idea of how to search for a topic found in an e-book.
-
-b\) Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the library catalogue to locate a good example of an **e-book.**
-
-c\) Create a new blog post, and post the author, date and title \(including the hyperlink\) of the e-book on your blog. Next, briefly assess the source in the following categories.
-
-1. Authority – Who is the author? What are the author’s credentials?
-2. Currency – Is the source up to date?
-3. Purpose – What are the intentions of the author? Who is the intended audience?
-4. Publication type/process – Who published the article? Was the article peer reviewed?
-5. Are there any obvious biases and/or special interests that the author acknowledges?
+* Go to [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for books". Begin by selecting one of video tutorials in the section "searching for e-books" such as "searching for e-books in the classic catalogue." Watch this video tutorial to get an idea of how to search for a topic found in an e-book.
+* Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the library catalogue to locate a good example of an **e-book.**
+* Create a new blog post, and post the author, date and title \(including the hyperlink\) of the e-book on your blog. Next, briefly assess the source in the following categories.
+  * Authority – Who is the author? What are the author’s credentials?
+  * Currency – Is the source up to date?
+  * Purpose – What are the intentions of the author? Who is the intended audience?
+  * Publication type/process – Who published the article? Was the article peer reviewed?
+  * Are there any obvious biases and/or special interests that the author acknowledges?
 
 Make sure you add a link to this page in your post. This post should be between 250-500 words.
 
@@ -75,13 +69,10 @@ Make sure you add a link to this page in your post. This post should be between 
 
 ### Learning Activity 2.5 - Blog post
 
-a\) Read chapter 7 in the Badke \(2017\) text.
-
-b\) Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to develop research skills." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are three short videos in this section on Boolean searches, search history, and other search techniques.
-
-c\) Next, watch the two videos in the section "using the web." There are two short videos on using google scholar and assessing online resources in this section.
-
-d\) Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?
+* Read chapter 7 in the Badke \(2017\) text.
+* Go to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to develop research skills." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are three short videos in this section on Boolean searches, search history, and other search techniques.
+* Next, watch the two videos in the section "using the web." There are two short videos on using google scholar and assessing online resources in this section.
+* Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?
 
 Make sure you add a link to this page in your post. This post should be between 250-500 words.
 
