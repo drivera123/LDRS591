@@ -102,7 +102,7 @@ Prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing\(s\) for me in the introduction section of a high-quality research report is/are . . .
 
-Close with one question that invites further comment and discussion.  This post should be between 150-250 words.
+Close with one question that invites further comment and discussion.
 
 Make sure you add a link to this page in your post.
 
