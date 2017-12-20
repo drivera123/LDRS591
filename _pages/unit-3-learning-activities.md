@@ -23,6 +23,7 @@ c\) Find a scholarly article from the article search that you completed in unit 
 2. **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?
 
 3. **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
+
 4. **Results/Findings** – In your own words describe what was found. Were the results significant?
 5. **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
 6. **Personal comments** – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
@@ -49,6 +50,7 @@ b\) Using the article summary that you just completed for learning activity 3.1,
 2. Double-space between all text lines of the paper \(8.03\).
 
 3. Leave 1- inch margins at the top, bottom, left, and right of every page \(8.03\).
+
 4. Indent the first line of every paragraph \(8.03\).
 5. Use the flush-left alignment style \(8.03\).
 6. Organize the summary with appropriate headings \(3.03\).
@@ -155,7 +157,7 @@ Instructions for setting up the "Running head" in **Microsoft Word:**
 5. Go to page 2 of your document and delete the phrase _Running head._
 6. On page 1 of your document, _Running head_ will remain in your first page header, and only your abbreviated title will appear on subsequent pages.
 
-Follow the instructions below to submit this document to your instructor.
+Submit the document via the Unit 3 Learning Activity 3.6 assignment drop box under the Assignment table in the Learning Management System \(LMS\).
 
 ### Learning Activity 3.7
 
