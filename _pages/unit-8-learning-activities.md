@@ -70,5 +70,5 @@ Make notes about the strengths of the project idea as well as areas to work on \
 * Does the project include reflecting, thinking, looking, and gathering information and acting?
 * Will the results of the project enhance the lives of those involved?
 
-Summarize your notes in a response to your colleagues projects in 250-350 words**.  **Please post your review on your colleagues' blog post on the Unit 8 Learning Activity 8.2. Remember that your response will be visible to all members of the class.
+Summarize your notes in a response to your colleagues projects in 250-350 words.  **Please post your review on your colleagues' blog post on the Unit 8 Learning Activity 8.2. Remember that your response will be visible to all members of the class.
 
