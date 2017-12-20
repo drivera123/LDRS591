@@ -18,9 +18,13 @@ This assignment should be written in APA formatting style. Please use your APA m
 
 This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
 
-**STEP 1:** Select a published, peer-reviewed journal article of your choice and provide the reference for this article in APA format at the top of the page.
+##### **STEP 1** 
 
-**STEP 2:** Summarize the article you selected by answering each of the following questions:
+Select a published, peer-reviewed journal article of your choice and provide the reference for this article in APA format at the top of the page.
+
+##### **STEP 2**
+
+Summarize the article you selected by answering each of the following questions:
 
 1. What are the key research questions being addressed?
 2. Are these questions based on, or related to, previous theory or research?
@@ -29,7 +33,9 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 5. Describe briefly the procedures of the study, including what kind of design was used, what methods/measures were used, and in general “how” the subjects were “studied.”
 6. Summarize the important findings and explain how they support or don’t support the hypotheses.
 
-**STEP 3:** Discuss the study with a critical eye for both its strengths and its weaknesses. Consider the following questions in your discussion:
+##### **STEP 3** 
+
+Discuss the study with a critical eye for both its strengths and its weaknesses. Consider the following questions in your discussion:
 
 1. What are the strengths and weaknesses of this study? Include both what the authors tell you and your own thoughts.
 2. Does the abstract accurately summarize the article?
@@ -46,11 +52,17 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 13. Are there limitations identified?
 14. Are there suggestions for future research? 
 
-**STEP 4:** Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without including sufficient justification for your claims. Thus, concrete ideas about your rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
+##### **STEP 4**
 
-**STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
+Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without including sufficient justification for your claims. Thus, concrete ideas about your rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 
-**STEP 6**: Submit a draft of your assignment for peer review to your assigned partner via email.  Please submit the draft at least one week before the due date to allow for feedback and revisions.  Your partner will review your assignment and provide you with feedback following the peer review protocol.  Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make.  Please submit this assignment using the Assignment 2 drop box on the learning management system.
+##### **STEP 5**
+
+APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
+
+##### **STEP 6**
+
+Submit a draft of your assignment for peer review to your assigned partner via email.  Please submit the draft at least one week before the due date to allow for feedback and revisions.  Your partner will review your assignment and provide you with feedback following the peer review protocol.  Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make.  Please submit this assignment using the Assignment 2 drop box on the learning management system.
 
 ##### Evaluation:
 
