@@ -16,9 +16,9 @@ a\) Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell
 
 b\) Read Unit 5 Notes.
 
-c\) Chose **one** of the servant leadership articles posted under the unit 5 resources to focus on to answer the questions in this learning activity. 
+c\) Chose **one** of the servant leadership articles posted under the unit 5 resources to focus on to answer the questions in this learning activity.
 
-d\) Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in the article you chose. The figure on page 212 provides a template for recording your rating and rationale for the following questions:
+d\) Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in the servant leadership article you chose. The figure on page 212 provides a template for recording your rating and rationale for the following questions:
 
 1. Is the research design appropriate and justified?
 2. Are good quantitative procedures used to select and assign participants?
@@ -38,15 +38,11 @@ Make sure you add a link to this page in your post.
 * Unit 5
 * Learning Activity 5.1
 
-### Learning Activity 5.3
+### Learning Activity 5.2 - Blog post
 
 a\) Read chapter 7, "Participants and Data Collection," in Plano-Clark and Creswell \(2015\).
 
-b\) Review the methods section of the servant leadership article you chose to focus on.
-
-### Learning Activity 5.4 - Blog post
-
-Using the evaluation criteria on p. 249 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a quantitative research report in one of the servant leadership articles. The figure on page 250 provides a template for recording your rating and rationale for the following questions.
+b\) Using the evaluation criteria on p. 249 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the participants and data collection in a quantitative research report in the servant leadership article you chose. The figure on page 250 provides a template for recording your rating and rationale for the following questions.
 
 1. Is the sampling strategy appropriate and justified?
 2. Is the sample size appropriate and justified?
@@ -56,7 +52,7 @@ Using the evaluation criteria on p. 249 in Plano-Clark & Creswell \(2015\), comp
 6. Does the study have a high level of internal validity?
 7. Does the study have a high level of external validity?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -64,16 +60,13 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 5
-* Learning Activity 5.4
+* Learning Activity 5.2
 
-### Learning Activity 5.5
+### Learning Activity 5.3 - Blog post
 
-1. Read chapter 8, "Data Analysis and Results," in Plano-Clark and Creswell \(2015\).
-2. Review the results section of the servant leadership article you chose to focus on.
+a\) Read chapter 8, "Data Analysis and Results," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 5.6 - Blog post
-
-Using the evaluation criteria on pp. 278 and 279 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the data analysis and results in a quantitative research report in one of the servant leadership articles. The figure on page 280 provides a template for recording your rating and rationale for the following questions:
+b\) Using the evaluation criteria on pp. 278 and 279 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the data analysis and results in a quantitative research report in the servant leadership article you chose. The figure on page 280 provides a template for recording your rating and rationale for the following questions:
 
 1. Were the data rigorously scored and prepared?
 2. Were good descriptive analyses conducted?
@@ -83,7 +76,7 @@ Using the evaluation criteria on pp. 278 and 279 in Plano-Clark & Creswell \(201
 6. Did the data analysis represent a good quantitative process?
 7. Did the results provide a good explanation of the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -91,9 +84,9 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 5
-* Learning Activity 5.6
+* Learning Activity 5.3
 
-### Learning Activity 5.7 - Blog post
+### Learning Activity 5.4 - Blog post
 
 Prepare a brief 250- to 500-word response to the following:
 
@@ -107,7 +100,7 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 5
-* Learning Activity 5.7
+* Learning Activity 5.4
 
 
 
