@@ -16,17 +16,18 @@ post_date: 2017-11-24T14:49:50.000Z
 * Read chapter 2 and pp. 228-230 \(section 8.03\) of the APA \(2010\) manual.
 * Find a scholarly article from the article search that you completed in unit 2. Write a summary of the journal article you chose, paying close attention to writing clearly and concisely. Here is what you need to include in your summary:
 
-1. **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
+* **Organize your summary following the structure of a manuscript from chapter 2 in the APA manual.**
 
-2. **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?
+* **Introduction** – Give a brief introduction \(1-3 sentences\) to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?
 
-3. **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
+* **Methods** – In your own words, describe the procedures for the study \(5-7 sentences\). Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?
 
-4. **Results/Findings** – In your own words describe what was found. Were the results significant?
+* **Results/Findings** – In your own words describe what was found. Were the results significant?
 
-5. **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
-6. **Personal comments** – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
-7. **Reference** – in APA format \(see chapter 6 in the APA manual\).
+* **Conclusions** – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?
+
+* **Personal comments** – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.
+* **Reference** – in APA format \(see chapter 6 in the APA manual\).
 
 * Create a new blog post, and post this information on your blog. This post should be between 500-600 words.
 
@@ -69,21 +70,19 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 3.3 - Blog post
 
-a\) Read pp. 77-86 of chapter 3 and pp. 87-114 in chapter 4 of the APA manual.
-
-b\) Using the article summary that you just completed for learning activity 3, re-edit your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below. Here is what you should be aware of:
-
-* Active rather than passive voice \(3.18\)
-* Agreement of subject and verb \(3.19\)
-* Pronouns \(3.20\)
-* Dangling modifiers \(3.21\)
-* Parallel construction \(3.23\)
-* Punctuation \(4.01-4.11\)
-* Spelling \(4.12\)
-* Capitalization \(4.14-4.20\)
-* Italics \(4.21\)
-* Abbreviations \(4.22\)
-* Numbers \(4.31 & 4.32\)
+* Read pp. 77-86 of chapter 3 and pp. 87-114 in chapter 4 of the APA manual.
+* Using the article summary that you just completed for learning activity 3, re-edit your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below. Here is what you should be aware of:
+  * Active rather than passive voice \(3.18\)
+  * Agreement of subject and verb \(3.19\)
+  * Pronouns \(3.20\)
+  * Dangling modifiers \(3.21\)
+  * Parallel construction \(3.23\)
+  * Punctuation \(4.01-4.11\)
+  * Spelling \(4.12\)
+  * Capitalization \(4.14-4.20\)
+  * Italics \(4.21\)
+  * Abbreviations \(4.22\)
+  * Numbers \(4.31 & 4.32\)
 
 Create a new blog post, and post this information on your blog. This post should be between 500-600 words.
 
@@ -97,16 +96,14 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 3.4 - Blog post
 
-a\) Read chapters 6 \(pp. 180-192\) and chapter 7 of the APA manual.
-
-b\) Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source. The sources you should include in your reference list are as follows:
-
-* A journal article \(7.01\)
-* A book or book chapter \(7.02\)
-* A government report \(7.03\)
-* A blog post \(7.11 \#76\)
-* A doctoral dissertation or master's thesis \(7.05\)
-* An online newspaper article \(7.01 \#11\)
+* Read chapters 6 \(pp. 180-192\) and chapter 7 of the APA manual.
+* Find six different scholarly sources \(on any topic\) and provide a complete APA reference for each source. The sources you should include in your reference list are as follows:
+  * A journal article \(7.01\)
+  * A book or book chapter \(7.02\)
+  * A government report \(7.03\)
+  * A blog post \(7.11 \#76\)
+  * A doctoral dissertation or master's thesis \(7.05\)
+  * An online newspaper article \(7.01 \#11\)
 
 Create a new blog post, and post this information on your blog. This post should be between 150-200 words.
 
@@ -120,13 +117,11 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 3.5 - Blog post
 
-a\) Read chapter 6 \(pp. 169-179\) of the APA manual.
-
-b\) Using the article that you found for learning activity 3.1, write an example of each of the following:
-
-* A direct quote less than 40 words with proper in-text citation \(6.03\)
-* A direct quote more than 40 words with proper in-text citation \(6.03\).
-* A sentence that refers to an idea from the article \(paraphrased\), and provide a proper in-text citation \(6.11-6.12\)
+*  Read chapter 6 \(pp. 169-179\) of the APA manual.
+* Using the article that you found for learning activity 3.1, write an example of each of the following:
+  * A direct quote less than 40 words with proper in-text citation \(6.03\)
+  * A direct quote more than 40 words with proper in-text citation \(6.03\).
+  * A sentence that refers to an idea from the article \(paraphrased\), and provide a proper in-text citation \(6.11-6.12\)
 
 Create a new blog post, and post this information on your blog. This post should be between 100-150 words.
 
@@ -155,7 +150,6 @@ Submit the document via the Unit 3 Learning Activity 3.6 assignment drop box und
 
 ### Learning Activity 3.7
 
-a\) Read chapter 9, "Learning how to read for research," in Badke \(2017\).
-
-b\) Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
+* Read chapter 9, "Learning how to read for research," in Badke \(2017\).
+* Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System \(LMS\). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.
 
