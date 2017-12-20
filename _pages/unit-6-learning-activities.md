@@ -12,9 +12,13 @@ post_date: 2017-11-24T14:49:51.000Z
 
 ### Learning Activity 6.1
 
-1. Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell \(2015\).
-2. Read the four servant leadership articles posted under the unit 6 resources.  Chose one of the servant leadership articles to focus on to answer the questions in the following learning activities.
-3. Read Unit 6 Notes.
+a\) Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell \(2015\).
+
+b\) Read Unit 6 Notes. 
+
+c\) Chose **one** of the servant leadership articles to focus on to answer the questions in the following learning activities
+
+
 
 ### Learning Activity 6.2 - Blog post
 
