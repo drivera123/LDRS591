@@ -12,14 +12,17 @@ post_date: 2017-11-24T14:49:50.000Z
 
 ### Learning Activity 4.1
 
-* Read Unit 4 Notes.
-* Read the article by Sendjaya and Sarros \(2002\), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership.
-* After reading the article, take some time to reflect on the following questions:
+1. Read Unit 4 Notes.
+2. Read the article by Sendjaya and Sarros \(2002\), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership.
+3. After reading the article, take some time to reflect on the following questions:
 
-1. Why is servant leadership an interesting or worthwhile topic/phenomenon to research?
-2. Why would this article interest researchers in the leadership field? 
-3. What is already known about servant leadership? 
-4. Are there any gaps in knowledge or understanding servant leadership?
+Why is servant leadership an interesting or worthwhile topic/phenomenon to research?
+
+Why would this article interest researchers in the leadership field? 
+
+What is already known about servant leadership? 
+
+Are there any gaps in knowledge or understanding servant leadership?
 
 ### Learning Activity 4.2 - Blog post
 
@@ -36,6 +39,7 @@ post_date: 2017-11-24T14:49:50.000Z
 6. Is the importance of the problem justified?
 
 7. Are there deficiencies in the knowledge about the problem?
+
 8. Is an audience identified and are there specific examples of how the audience can use the missing knowledge?
 9. Does the passage clearly argue that the study is warranted?
 10. Is the passage well written?
@@ -62,6 +66,7 @@ Make sure you add a link to this page in your post.
 5. Is the literature review documented properly?
 
 6. Is the literature thoughtfully synthesized?
+
 7. Is the literature critically examined?
 8. Does the study have a strong foundation in the literature?
 9. Does the literature fit the study's overall approach?
@@ -88,6 +93,7 @@ Make sure you add a link to this page in your post.
 5. Is the overall intent of the study appropriate?
 
 6. Are the participants and the sites appropriate?
+
 7. Is the purpose of the study narrowed through appropriate research questions and/or hypotheses?
 8. Does the purpose of the study follow logically from the statement of the problem and the literature review?
 9. Is the purpose consistent with the study's overall approach?
