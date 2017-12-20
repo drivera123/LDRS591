@@ -10,14 +10,13 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 8.1
+### Learning Activity 8.1 - Blog post
 
-1. Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell \(2015\).
-2. Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/) 
+a\) Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 8.2 - Blog post
+b\) Watch the following video by John Spencer \(2017\) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/) 
 
-This learning activity asks you to think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to.  
+c\) This learning activity asks you to think about some practical problems that you have faced in your professional life that you would like to change.  In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation.  Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -25,7 +24,7 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 8
-* Learning Activity 8.2
+* Learning Activity 8.1
 
 ### Learning Activity 8.3
 
@@ -72,6 +71,4 @@ Make notes about the strengths of the presentation as well as areas to work on \
 * Will the results of the project enhance the lives of those involved?
 
 Summarize your notes in a response to your colleagues projects in 250-350 words**.  **Please post your review on your colleagues' post on the Unit 8 Learning Activity 3 forum on the Learning Management System. Remember that your response will be visible to all members of the class in the forum.
-
-
 
