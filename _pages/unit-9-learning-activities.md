@@ -10,14 +10,13 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 9.1
+### Learning Activity 9.1 - Blog post
 
-1. Read chapter 14, "Conclusions," in Plano-Clark and Creswell \(2015\).
-2. Read the four servant leadership articles listed under the unit 9 resources.
+a\) Read chapter 14, "Conclusions," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 9.2 - Blog post
+b\) Select **one** of the servant leadership articles listed under the unit 9 resources to focus on for the learning activity.
 
-Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in one of the servant leadership articles you read in learning activity 9.1. The figure on page 477 provides a template for recording your rating and rationale for the following questions:
+c\) Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the quality of the discussion/conclusion section in the servant leadership article you chose. The figure on page 477 provides a template for recording your rating and rationale for the following questions:
 
 1. Are the major results identified and summarized?
 2. Are the results thoroughly examined and related to the literature?
@@ -27,7 +26,23 @@ Using the evaluation criteria on pg. 476-477 in Plano-Clark & Creswell \(2015\),
 6. Are the interpretations consistent with the study's results and limitations?
 7. Is the back matter appropriate for the study?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. 
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
+
+Make sure you add a link to this page in your post.
+
+##### Categories for this post:
+
+* ldrs591
+* Unit 9
+* Learning Activity 9.1
+
+### Learning Activity 9.2 - Blog post
+
+Prepare a brief 250- to 300-word response to the following:
+
+The most important thing for me about the conclusions section of a high-quality research report is . . .
+
+Close with one question that invites further comment and discussion.
 
 Make sure you add a link to this page in your post.
 
@@ -37,23 +52,7 @@ Make sure you add a link to this page in your post.
 * Unit 9
 * Learning Activity 9.2
 
-### Learning Activity 9.3 - Blog post 
-
-Prepare a brief 250- to 300-word response to the following:
-
-The most important thing for me about the conclusions section of a high-quality research report is . . .
-
-Close with one question that invites further comment and discussion. 
-
-Make sure you add a link to this page in your post.
-
-##### Categories for this post:
-
-* ldrs591
-* Unit 9
-* Learning Activity 9.3
-
 ### Learning Activity 9.4
 
-We have now concluded our investigation of research designs and the interpretation of the consequent research reports.  In this learning activity you will be asked to complete assignment 4. For this assignment you will write an outline for your formal literature review paper.  Please submit your assignment for peer review first and then submit it via the assignment 4 drop box in the Learning Management System \(LMS\).
+We have now concluded our investigation of research designs and the interpretation of the consequent research reports.  In this learning activity you will be asked to complete assignment 4. For this assignment you will write an outline for your formal literature review paper.  Please submit your assignment via the assignment 4 drop box in the Learning Management System \(LMS\).
 
