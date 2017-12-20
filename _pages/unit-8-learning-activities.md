@@ -58,7 +58,7 @@ Make sure you add a link to this page in your post.
 
 ### Learning Activity 8.3
 
-This learning activity asks you to peer review two projects by colleagues in the class.  The instructor will inform you of the projects that you will be peer reviewing.
+This learning activity asks you to peer review one project by colleagues in the class.  The instructor will inform you of the project that you will be peer reviewing.
 
 Make notes about the strengths of the project idea as well as areas to work on \(clarify, more analysis, more personal application\) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445.  Here are questions you should address in your evaluation:
 
