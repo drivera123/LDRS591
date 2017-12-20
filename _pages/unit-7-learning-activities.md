@@ -10,19 +10,18 @@ published: true
 post_date: 2017-11-24T14:49:51.000Z
 ---
 
-### Learning Activity 7.1
+### Learning Activity 7.1 - Blog post
 
-1. Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
-2. Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  
+a\) Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
 
-### Learning Activity 7.2 - Blog post
+b\) Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  
 
-Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
+c\) Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
 * What is at the heart of the quantitative/qualitative debate?
 * How has mixed methods been seen as a remedy for advancing leadership research?
 
-Please post your reflection on your blog and close with one question that invites further comment and discussion. 
+Please post your reflection on your blog and close with one question that invites further comment and discussion. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -30,11 +29,11 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 7
-* Learning Activity 7.2
+* Learning Activity 7.1
 
-### Learning Activity 7.3
+### Learning Activity 7.3 - Blog post
 
-Read the four servant leadership articles listed under the unit 7 resources.
+a\) Chose one of the servant leadership articles listed under the unit 7 resources to focus on .
 
 ### Learning Activity 7.4 - Blog post
 
@@ -48,7 +47,7 @@ Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), com
 6. Does the study use a rigorous application of mixed methods research?
 7. Does the use of mixed methods produce a good understanding of the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.  
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
 
 Make sure you add a link to this page in your post.
 
