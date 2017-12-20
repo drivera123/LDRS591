@@ -14,15 +14,15 @@ post_date: 2017-11-24T14:49:50.000Z
 
 In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, 3 and 4.  Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA \(6th edition\) format.
 
-**Title page:**
+##### **Title page**
 
 Create a title page including a title, running head, author byline, institutional affiliation, date submitted and page number.
 
-**Abstract:**
+##### **Abstract**
 
 You will need to create an abstract that provides a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250-word \(or less\), single-paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, the overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 
-**Introduction:**
+##### **Introduction**
 
 The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention. This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
 
@@ -34,7 +34,7 @@ On the basis of your personal knowledge as well as your investigation of the lit
 
 To conclude this section, provide a brief statement outlining the purpose of the study and be explicit about the research question you will be addressing. If you wish, you may also include a paragraph about your personal interest in this topic as a researcher.
 
-**Method:**
+##### **Method**
 
 Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment 3. Here is an example template that you can use:
 
@@ -44,7 +44,7 @@ The articles were then manually screened for relevance and attainability. Search
 
 The articles were either kept or eliminated due to inclusion and exclusion criteria. The inclusion criteria included the following components: peer reviewed, published 2007-2017, written in English language, accessible through the university library. The exclusion criteria included the following factors: any study that does not meet the inclusion criteria, and non-English full text studies were excluded even if an English translation of the abstract was provided. XX studies met the inclusion criteria and were used in the review. The XX articles were drawn from a variety of scholarly sources. Table 1 depicts the list of journals included in this review, the number of articles from each journal and the database used to access the journal.
 
-_Critical analysis_
+##### _Critical analysis_
 
 In the critical analysis section of the paper you want to tell your reader what strategy you used for organizing, abstracting and critically evaluating important information from the articles you found. For example, this section could look something like this:
 
@@ -57,15 +57,15 @@ For each publication, the methodology that was used to critically appraise each 
 
 Note.  Table adapted from Parris & Peachey \(2013, p. 382\).
 
-**Results:**
+##### **Results**
 
 In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations.  This is similar to what you had to do for assignment 2.  You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature.
 
-**Discussion:**
+##### **Discussion**
 
 In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results \(e.g., identify gaps, inconsistencies, strengths, weaknesses based on your critical analysis\) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations \(and offer a rationale\) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.
 
-**References:**
+##### **References**
 
 At the very end list your references.  Reference lists must start on a new page, and must be formatted according to APA \(6th edition\) guidelines pertaining to which type of literature is being cited \(i.e., book by one author, book with an editor, journal article, blog and so forth\).
 
