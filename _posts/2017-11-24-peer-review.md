@@ -2,13 +2,14 @@
 ID: 1300
 post_title: Peer Review
 author: Colin Madland
-post_excerpt: ""
+post_excerpt: ''
 layout: post
-permalink: >
+permalink: |
   https://create.twu.ca/ldrs591-sp18/peer-review/
 published: true
-post_date: 2017-11-24 14:49:50
+post_date: 2017-11-24T14:49:50.000Z
 ---
+
 ##### Peer Review
 
 For some of your assignments, you will be asked to exchange your work with a partner in the class and perform a peer review of the content. Your peer review should be collegial and address issues like quality of arguments and evidence as well as the structure and grammar of the paper.
@@ -17,11 +18,11 @@ Your feedback to your partner should be 150-250 words and may be provided in poi
 
 ##### **Peer Review Protocol**
 
-Your instructor will assign partners for each assignment and post the partnerships in the assignments forum in the learning management system.
+Your instructor will assign partners for each peer reviewed assignment and post the partnerships in the assignments tab in the learning management system.
 
-Once your partner has posted their paper, download it to your own computer, read it, and make notes according to content, composition, and grammar as prescribed by the assignment. Make notes about the strengths of your partner's paper as well as areas to work on (clarify, more analysis, more personal application).
+You will exchange your papers with your partner via email. Once your partner has sent you their paper, download it to your own computer, read it, and make notes according to content, composition, and grammar as prescribed by the assignment. Make notes about the strengths of your partner's paper as well as areas to work on \(clarify, more analysis, more personal application\).
 
-Summarize your notes in a response to your partner's forum post in 150-250 words**. **Please remember that your response will be visible to all members of the class in the forum.
+Summarize your notes in an email to your partner in 150-250 words**. **
 
 ###### Please remember! {#please-remember}
 
@@ -38,3 +39,6 @@ Summarize your notes in a response to your partner's forum post in 150-250 words
   * "I notice...".
   * "I wonder...".
   * "If this were my work, I would...".
+
+
+
