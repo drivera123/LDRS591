@@ -53,9 +53,9 @@ Make sure you add a link to this page in your post.
 
 * ldrs591
 * Unit 7
-* Learning Activity 7.4
+* Learning Activity 7.2
 
-### Learning Activity 7.5
+### Learning Activity 7.3
 
 Complete Assignment 3 and submit it via the assignment 3 drop box in the Learning Management System \(LMS\).
 
