@@ -50,7 +50,7 @@ This assignment may be a maximum of 3-4 pages in length. Note that this is rathe
 
 **STEP 5:** APA formatting is required for this assignment.  Please refer to the APA formatting requirments and APA rubric for further information.
 
-**STEP 6**: Submit a draft of your assignment for peer review to your assigned partner via email.  Please submit the draft at least one week before the due date to allow for feedback and revisions.  Your partner will review your assignment and provide you with feedback.  Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make.  Please submit this assignment using the Assignment 2 drop box on the learning management system.
+**STEP 6**: Submit a draft of your assignment for peer review to your assigned partner via email.  Please submit the draft at least one week before the due date to allow for feedback and revisions.  Your partner will review your assignment and provide you with feedback following the peer review protocol.  Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make.  Please submit this assignment using the Assignment 2 drop box on the learning management system.
 
 ##### Evaluation:
 
