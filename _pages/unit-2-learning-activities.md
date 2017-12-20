@@ -12,23 +12,31 @@ post_date: 2017-11-24T14:49:50.000Z
 
 ### Learning Activity 2.1
 
-1. Read Unit 2 Notes.
-2. Watch the following \[video tutorials\]\([http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home)\) prepared by Dr. William Badke. Begin with clicking "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper." The videos are labelled "Understanding the research process" and "Pre-research strategies."
-3. Read chapter 3 in the Badke \(2017\) text.
-4. Complete Assignment 1 and submit it via the Assignment 1 drop box in the Learning Management System \(LMS\).
+a\) Read Unit 2 Notes.
+
+b\) Watch the following \[video tutorials\]\([http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home)\) prepared by Dr. William Badke. Begin with clicking "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper." The videos are labelled "Understanding the research process" and "Pre-research strategies."
+
+c\) Read chapter 3 in the Badke \(2017\) text.
+
+d\) Complete Assignment 1 and submit it via the Assignment 1 drop box in the Learning Management System \(LMS\).
 
 ### Learning Activity 2.2
 
-1. Read chapters 4 and 6 in the Badke \(2017\) text.
-2. Watch the tutorial "[Preparing a research question for a database search](https://vimeo.com/161998287/7661f12293)".
-3. Next, return to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for articles." Begin by selecting one of video tutorials in the section multi-disciplinary databases such as "Academic Search Premier." Watch this video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
-4. Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of a **journal article. **To do this you will need to:
-5. Go to the [library home page](https://www.twu.ca/library) .
-6. In the first search window, click the databases tab and then click the articles and databases box which brings you to a different screen.
-7. In the Database Guide screen you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
-8. The first database that appears on the next screen is "Academic Search Premier." Select this database.
-9. You will be asked to sign in as a student with your pass ID and password to access the online database.
-10. Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier."
+a\) Read chapters 4 and 6 in the Badke \(2017\) text.
+
+b\) Watch the tutorial "[Preparing a research question for a database search](https://vimeo.com/161998287/7661f12293)".
+
+c\) Next, return to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for articles." Begin by selecting one of video tutorials in the section multi-disciplinary databases such as "Academic Search Premier." Watch this video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
+
+d\) Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of a **journal article. **To do this you will need to:
+
+e\) Go to the [library home page](https://www.twu.ca/library).
+
+1. In the first search window, click the databases tab and then click the articles and databases box which brings you to a different screen.
+2. In the Database Guide screen you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
+3. The first database that appears on the next screen is "Academic Search Premier." Select this database.
+4. You will be asked to sign in as a student with your pass ID and password to access the online database.
+5. Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier."
 
 ### Learning Activity 2.3 - Blog post
 
@@ -50,15 +58,17 @@ Make sure you add a link to this page in your post. This post should be between 
 
 ### Learning Activity 2.4 - Blog post
 
-1. Go to [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for books". Begin by selecting one of video tutorials in the section "searching for e-books" such as "searching for e-books in the classic catalogue." Watch this video tutorial to get an idea of how to search for a topic found in an e-book.
-2. Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the library catalogue to locate a good example of an **e-book.**
-3. Create a new blog post, and post the author, date and title \(including the hyperlink\) of the e-book on your blog. Next, briefly assess the source in the following categories.
+a\) Go to [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for books". Begin by selecting one of video tutorials in the section "searching for e-books" such as "searching for e-books in the classic catalogue." Watch this video tutorial to get an idea of how to search for a topic found in an e-book.
 
-* Authority – Who is the author? What are the author’s credentials?
-* Currency – Is the source up to date?
-* Purpose – What are the intentions of the author? Who is the intended audience?
-* Publication type/process – Who published the article? Was the article peer reviewed?
-* Are there any obvious biases and/or special interests that the author acknowledges?
+b\) Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the library catalogue to locate a good example of an **e-book.**
+
+c\) Create a new blog post, and post the author, date and title \(including the hyperlink\) of the e-book on your blog. Next, briefly assess the source in the following categories.
+
+1. Authority – Who is the author? What are the author’s credentials?
+2. Currency – Is the source up to date?
+3. Purpose – What are the intentions of the author? Who is the intended audience?
+4. Publication type/process – Who published the article? Was the article peer reviewed?
+5. Are there any obvious biases and/or special interests that the author acknowledges?
 
 Make sure you add a link to this page in your post. This post should be between 250-500 words.
 
