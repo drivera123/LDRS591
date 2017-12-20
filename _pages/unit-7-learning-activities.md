@@ -14,7 +14,7 @@ post_date: 2017-11-24T14:49:51.000Z
 
 a\) Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell \(2015\).
 
-b\) Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.  
+b\) Watch the following video by Dr. John W. Creswell, "[What is mixed methods research?](http://johnwcreswell.com/videos/)"  Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.
 
 c\) Read Stentz, Plano-Clark and Matkin \(2012\) and then reflect on the following questions:
 
@@ -31,13 +31,11 @@ Make sure you add a link to this page in your post.
 * Unit 7
 * Learning Activity 7.1
 
-### Learning Activity 7.3 - Blog post
+### Learning Activity 7.2 - Blog post
 
-a\) Chose one of the servant leadership articles listed under the unit 7 resources to focus on .
+a\) Select **one** of the servant leadership articles listed under the unit 7 resources to focus on to answer the questions in this learning activity.
 
-### Learning Activity 7.4 - Blog post
-
-Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the mixed methods approach in one of the servant leadership articles you read in learning activity 3. The figure on page 406 provides a template for recording your rating and rationale for the following questions:
+b\) Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the use of the mixed methods approach in the servant leadership article you chose. The figure on page 406 provides a template for recording your rating and rationale for the following questions:
 
 1. Is there a rationale provided for needing a mixed methods design?
 2. Is the choice of the mixed methods design appropriate and justified?
