@@ -16,7 +16,7 @@ a\) Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell
 
 b\) Read Unit 5 Notes.
 
-c\) Chose **one** of the servant leadership articles posted under the unit 5 resources to focus on to answer the questions in this learning activity.
+c\) Chose **one** of the servant leadership articles listed under the unit 5 resources to focus on to answer the questions in this learning activity.
 
 d\) Using the evaluation criteria on p. 211 in Plano-Clark & Creswell \(2015\), complete the following questions to evaluate the research design in a quantitative research report in the servant leadership article you chose. The figure on page 212 provides a template for recording your rating and rationale for the following questions:
 
