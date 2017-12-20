@@ -45,7 +45,7 @@ b\) Using the evaluation criteria on pg. 405 in Plano-Clark & Creswell \(2015\),
 6. Does the study use a rigorous application of mixed methods research?
 7. Does the use of mixed methods produce a good understanding of the study's purpose?
 
-Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog.
+Make sure that you include your article reference, quality rating \(0-3\) and also the rationale/evidence for your rating in your response.  Please post your evaluation on your blog. The post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
