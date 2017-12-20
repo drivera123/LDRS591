@@ -22,16 +22,16 @@ d\) Complete Assignment 1 and submit it via the Assignment 1 drop box in the Lea
 
 ### Learning Activity 2.2
 
-1. Read chapters 4 and 6 in the Badke \(2017\) text.
-2. Watch the tutorial "[Preparing a research question for a database search](https://vimeo.com/161998287/7661f12293)".
-3. Next, return to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for articles." Begin by selecting one of video tutorials in the section multi-disciplinary databases such as "Academic Search Premier." Watch this video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
-4. Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of a **journal article. **To do this you will need to:
-5. Go to the [library home page](https://www.twu.ca/library).
-   1. In the first search window, click the databases tab and then click the articles and databases box which brings you to a different screen.
-   2. In the Database Guide screen you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
-   3. The first database that appears on the next screen is "Academic Search Premier." Select this database.
-   4. You will be asked to sign in as a student with your pass ID and password to access the online database.
-   5. Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier."
+* Read chapters 4 and 6 in the Badke \(2017\) text.
+* Watch the tutorial "[Preparing a research question for a database search](https://vimeo.com/161998287/7661f12293)".
+* Next, return to the link [http://libguides.twu.ca/library\_research/home](http://libguides.twu.ca/library_research/home) and click "How to search for articles." Begin by selecting one of video tutorials in the section multi-disciplinary databases such as "Academic Search Premier." Watch this video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
+* Keeping in mind the topic and specific question\(s\) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of a **journal article. **To do this you will need to:
+* Go to the [library home page](https://www.twu.ca/library).
+  1. In the first search window, click the databases tab and then click the articles and databases box which brings you to a different screen.
+  2. In the Database Guide screen you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
+  3. The first database that appears on the next screen is "Academic Search Premier." Select this database.
+  4. You will be asked to sign in as a student with your pass ID and password to access the online database.
+  5. Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier."
 
 ### Learning Activity 2.3 - Blog post
 
