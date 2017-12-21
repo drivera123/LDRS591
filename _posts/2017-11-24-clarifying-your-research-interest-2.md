@@ -33,7 +33,7 @@ In this assignment, you develop a concept map depicting your interests (personal
 
 There is no limit to the number (and nature) of research questions the researcher creates.</p></li>
 </ol></li>
-<li><p>Use the mapping program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.</p></li>
+<li>Use the mapping program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.</p></li>
 <li><p>Download your map as a .jpg or .png and upload it to your blog.</p></li>
 <li><p>Create a new blog post with your concept map as the featured image and answer the following questions:
 
