@@ -98,4 +98,6 @@ Submit a draft of your assignment for peer review to your assigned partner via e
   <td align="left"></td>
 </tr>
 </tbody>
-</table><!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/" > Upload Link </a><!--/themify_builder_static-->
+</table>
+
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/" > Upload Link </a><!--/themify_builder_static-->
