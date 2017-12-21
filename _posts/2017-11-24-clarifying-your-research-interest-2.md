@@ -23,8 +23,8 @@ In this assignment, you develop a concept map depicting your interests (personal
 
 <ul>
 <li>The letters A through D represent areas of interest to the researcher (labelled “ME” in the sample below). For example, A might be "Health," B might be "Exercise," and so on, with as many different yellow circles as you, the researcher ("ME") has an interest in exploring.</p></li>
-<li><p>It is possible to add other circles to the concept map for more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item C as "Teaching" and C1 as "K12" and C2 as "Higher Ed."</p></li>
-<li><p>Using the areas of interest identified in the concept map, most researchers then "link" areas together in the form of research questions. For example, if circle A was "Exercise" and circle B was "Health," then possible research questions might include:
+<li>It is possible to add other circles to the concept map for more differentiation. Please feel free to include related interests as sub-items from other interests. You might have item C as "Teaching" and C1 as "K12" and C2 as "Higher Ed."</p></li>
+<li>Using the areas of interest identified in the concept map, most researchers then "link" areas together in the form of research questions. For example, if circle A was "Exercise" and circle B was "Health," then possible research questions might include:
 
 <ul>
 <li>Does exercise participation improve or diminish health?  </li>
@@ -56,7 +56,7 @@ There is no limit to the number (and nature) of research questions the researche
 
 <h5>Sample Map</h5>
 
-![![](https://github.com/TWUOnline/LDRS591/blob/2e2b251de0909ad07bd3c2f211f2b1dee66d9056/Assignments/Research%20Interest%20Concept%20Map.png)](/assets/Research Interest Concept Map.png)
+![<img src="https://github.com/TWUOnline/LDRS591/blob/2e2b251de0909ad07bd3c2f211f2b1dee66d9056/Assignments/Research%20Interest%20Concept%20Map.png" alt="" />](/assets/Research Interest Concept Map.png)
 
 <h5>Evaluation</h5>
 
