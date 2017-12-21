@@ -73,7 +73,7 @@ Please make sure you include the following information in this section:
 
 <ul>
 <li>The two databases that I choose to search were:</p></li>
-<li><p>The search terms that I have decided on are:</p></li>
+<li>The search terms that I have decided on are:</p></li>
 </ul>
 
 <p>Describe in a paragraph how you chose the particular articles you did (that is, what inclusion and exclusion criteria you utilized).
@@ -205,22 +205,50 @@ Table 3. <em>Internet search results</em>
 <strong>Identify research question and key terms (10 points)</strong>
 
 <ol>
-<li>The question, which you have written clearly and concisely in one sentence (or in question format), is well formulated to provide direction for your literature search.</p></li>
-<li><p>You identified search terms and domains that arise from your statement or question above.</p></li>
+<li>The question, which you have written clearly and concisely in one sentence (or in question format), is well formulated to provide direction for your literature search.
+
+</li>
+<li>
+
+You identified search terms and domains that arise from your statement or question above.
+
+</li>
 </ol>
 
-<p><strong>Use search strategies to locate and select literature (20 points)</strong>
+<strong>Use search strategies to locate and select literature (20 points)</strong>
 
 <ol>
-<li>TWU/other library catalogue search was used to locate books and e-books.</p></li>
-<li><p>You identified at least two books or e-books relevant to your question (some of these could be books you have already read).</p></li>
-<li><p>You identified at least two high quality (peer reviewed) journal articles relevant to your question.</p></li>
-<li><p>You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.</p></li>
-<li><p>You have located 12 to 15 sources relevant to your question.</p></li>
-<li><p>You have added the references produced from this search to your reference list.</p></li>
+<li>TWU/other library catalogue search was used to locate books and e-books.
+
+</li>
+<li>
+
+You identified at least two books or e-books relevant to your question (some of these could be books you have already read).
+
+</li>
+<li>
+
+You identified at least two high quality (peer reviewed) journal articles relevant to your question.
+
+</li>
+<li>
+
+You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.
+
+</li>
+<li>
+
+You have located 12 to 15 sources relevant to your question.
+
+</li>
+<li>
+
+You have added the references produced from this search to your reference list.
+
+</li>
 </ol>
 
-<p><strong>Preliminary investigation summary (20 points)</strong>
+<strong>Preliminary investigation summary (20 points)</strong>
 
 <ol>
 <li>Preliminary Investigation Summary: In several appropriately cited paragraphs, you have (a) presented a working knowledge summary of your topic (the basic facts required to make someone familiar with the topic to a limited extent) based on what you have discovered about the topic from your initial investigations of literature, and (b) a brief statement outlining your personal professional interest in this topic.</li>
@@ -230,4 +258,4 @@ Table 3. <em>Internet search results</em>
 
 Please refer to the APA formatting requirements and rubric for specific details.
 
-<strong>Overall Score: /60</strong>
+<strong>Overall Score: /60</strong><!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-search/" > Upload Link </a><!--/themify_builder_static-->
