@@ -34,7 +34,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 <li>How did you choose your articles for your paper?</p></li>
 <li>What inclusion/exclusion criteria did you use?</p></li>
 <li>What databases did you search?</p></li>
-<li><p>What key search terms did you use?</p></li>
+<li>What key search terms did you use?</p></li>
 <li><p>How many records were obtained in your search?</p></li>
 <li><p>How many articles did you use for your review?</p></li>
 <li><p>How will you critically evaluate your articles?</p></li>
