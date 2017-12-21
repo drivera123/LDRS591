@@ -33,7 +33,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 <ul>
 <li>How did you choose your articles for your paper?</p></li>
 <li>What inclusion/exclusion criteria did you use?</p></li>
-<li><p>What databases did you search?</p></li>
+<li>What databases did you search?</p></li>
 <li><p>What key search terms did you use?</p></li>
 <li><p>How many records were obtained in your search?</p></li>
 <li><p>How many articles did you use for your review?</p></li>
@@ -149,4 +149,6 @@ The following rubric will be used to assess your literature review oultine.
   <td align="left"></td>
 </tr>
 </tbody>
-</table><!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-outline/" > Upload Link </a><!--/themify_builder_static-->
+</table>
+
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-outline/" > Upload Link </a><!--/themify_builder_static-->
