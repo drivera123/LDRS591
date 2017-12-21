@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h3>Literature Review Search**</h3>
+<h3>Literature Review Search</h3>
 
 The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignment 5 will be closely linked. This assignment will include the “paper trail” that provides the details of your search for relevant literature, and Assignment 5 will be the final document that summarizes the findings of your review of precedent literature in scholarly prose.  Please notice that this assignment follows the search strategy suggested by Badke (2017).
 
