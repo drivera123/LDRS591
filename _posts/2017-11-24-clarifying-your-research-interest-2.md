@@ -56,7 +56,7 @@ There is no limit to the number (and nature) of research questions the researche
 
 <h5>Sample Map</h5>
 
-![](/assets/Research Interest Concept Map %281%29.png)
+![](/Assignments/Research Interest Concept Map.png)
 
 <h5>Evaluation</h5>
 
