@@ -56,7 +56,7 @@ There is no limit to the number (and nature) of research questions the researche
 
 <h5>Sample Map</h5>
 
-![](/Assignments/Research Interest Concept Map.png)
+![](https://github.com/TWUOnline/LDRS591/blob/2e2b251de0909ad07bd3c2f211f2b1dee66d9056/Assignments/Research%20Interest%20Concept%20Map.png)
 
 <h5>Evaluation</h5>
 
