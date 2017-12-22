@@ -21,7 +21,7 @@ post_date: 2017-11-24 14:49:50
 <li><strong>Results/Findings</strong> – In your own words describe what was found. Were the results significant?</li>
 <li><strong>Conclusions</strong> – In your own words, summarize the researchers’ conclusions. What was the major outcome of the study?</li>
 <li><strong>Personal comments</strong> – Give your reaction to the study. For example, What did you learn from the study? Why did you find this study interesting? Explain how this study might relate to the research topic you have chosen.</li>
-<li><p><strong>Reference</strong> – in APA format (see chapter 6 in the APA manual).</p></li>
+<li><strong>Reference</strong> – in APA format (see chapter 6 in the APA manual).</p></li>
 <li><p>Create a new blog post, and post this information on your blog. This post should be between 500-600 words.</p></li>
 </ul>
 
