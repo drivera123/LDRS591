@@ -71,4 +71,4 @@ Submit a draft of your assignment for peer review to your assigned partner via e
 
 [table id=6 /]
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/" > Upload Link </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/" > Submit Scholarly Article Review </a><!--/themify_builder_static-->
