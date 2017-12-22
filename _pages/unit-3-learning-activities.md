@@ -182,4 +182,6 @@ Submit the document via the Unit 3 Learning Activity 3.6 assignment drop box und
 <ul>
 <li>Read chapter 9, "Learning how to read for research," in Badke (2017).</li>
 <li>Complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.</li>
-</ul><!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/learning-activity-3-6/" > Submit Learning Activity 3.6 </a><!--/themify_builder_static-->
+</ul>
+
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/learning-activity-3-6/" > Submit Learning Activity 3.6 </a><!--/themify_builder_static-->
