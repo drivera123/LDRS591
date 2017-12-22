@@ -12,10 +12,10 @@ post_date: 2017-11-24 14:49:50
 <h3>Learning Activity 2.1</h3>
 
 <ul>
-<li>Read Unit 2 Notes.</li>
+<li>Read [Unit 2 Notes](https://create.twu.ca/ldrs591-sp18/unit-2-notes).</li>
 <li>Watch the following <a href="[http://libguides.twu.ca/library_research/home](http://libguides.twu.ca/library_research/home)">video tutorials</a> prepared by Dr. William Badke. Begin with clicking "How to develop research skills" and watch the first two video tutorials under the section "starting a research paper." The videos are labelled "Understanding the research process" and "Pre-research strategies."</li>
 <li>Read chapter 3 in the Badke (2017) text.</li>
-<li>Complete Assignment 1 and submit it via the Assignment 1 drop box in the Learning Management System (LMS).</li>
+<li>Complete Assignment 1 [Clarifying your Research Interest](https://create.twu.ca/ldrs591-sp18/clarifying-your-research-interest-2/) and submit it via the link at the bottom of the assignment page.</li>
 </ul>
 
 <h3>Learning Activity 2.2</h3>
@@ -24,16 +24,16 @@ post_date: 2017-11-24 14:49:50
 <li>Read chapters 4 and 6 in the Badke (2017) text.</li>
 <li>Watch the tutorial "<a href="https://vimeo.com/161998287/7661f12293">Preparing a research question for a database search</a>".</li>
 <li>Next, return to the link <a href="http://libguides.twu.ca/library_research/home">http://libguides.twu.ca/library_research/home</a> and click "How to search for articles." Begin by selecting one of video tutorials in the section multi-disciplinary databases such as "Academic Search Premier." Watch this video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.</li>
-<li>Keeping in mind the topic and specific question(s) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of a **journal article. **To do this you will need to:</li>
+<li>Keeping in mind the topic and specific question(s) you identified in Assignment 1, use the Academic Search Premier database at the TWU library to locate a good example of a **journal article.** To do this you will need to:</li>
 <li>Go to the <a href="https://www.twu.ca/library">library home page</a>.
 
-<ol>
+<ul>
 <li>In the first search window, click the databases tab and then click the articles and databases box which brings you to a different screen.</li>
 <li>In the Database Guide screen you will need to select "A-B" from the A-Z list of databases at the bottom of this page.</li>
 <li>The first database that appears on the next screen is "Academic Search Premier." Select this database.</li>
 <li>You will be asked to sign in as a student with your pass ID and password to access the online database.</li>
 <li>Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Premier."</li>
-</ol></li>
+</ul></li>
 </ul>
 
 <h3>Learning Activity 2.3 - Blog post</h3>
