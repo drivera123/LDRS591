@@ -9,127 +9,79 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h3>Literature Review Search**</h3>
+The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignment 5 will be closely linked. This assignment will include the “paper trail” that provides the details of your search for relevant literature, and Assignment 5 will be the final document that summarizes the findings of your review of precedent literature in scholarly prose. Please notice that this assignment follows the search strategy suggested by Badke (2017).
 
-The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignment 5 will be closely linked. This assignment will include the “paper trail” that provides the details of your search for relevant literature, and Assignment 5 will be the final document that summarizes the findings of your review of precedent literature in scholarly prose.  Please notice that this assignment follows the search strategy suggested by Badke (2017).
-
-<h5>Literature Review Search</h5>
-
-<ol>
-<li><strong>Identify your research topic</strong>: In the first paragraph, state the problem you are addressing in at most a few sentences. Next, provide your research question(s).</li>
-<li><strong>Record your library catalogue search:</strong> In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement. You may use a table similar to Table 1 below to organize this information (in APA format).</li>
-</ol>
-
-Table 1. <em>Library catalogue search</em>
-
-<table>
-<thead>
-<tr>
-  <th align="left">Key words used in searches</th>
-  <th align="left">Number of Hits</th>
-  <th align="left">Title, author(s) and year of  usable results</th>
-  <th align="left">Comments</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-</tr>
-<tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-</tr>
-<tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-</tr>
-<tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-</tr>
-<tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-</tr>
-</tbody>
-</table>
-
-<strong>3. Identify key sources:</strong> In the third section, list 10 scholarly sources that you have found to be potentially relevant to your research question.
-
-a) Include at least 2 books or e-books and 5-8 journal articles. Present the results in a table similar to Table 2 below.
-
-Please make sure you include the following information in this section:
-
+In order to complete this assignment you will need to:
 <ul>
-<li>The two databases that I choose to search were:</p></li>
-<li>The search terms that I have decided on are:</p></li>
+ 	<li><strong>Identify your research topic</strong>: In the first paragraph, state the problem you are addressing in at most a few sentences. Next, provide your research question(s).</li>
+ 	<li><strong>Record your search terms:</strong> In the second section, in point form, identify the searchable keywords and domains of social science that arise from your problem statement. You may use a table similar to Table 1 below to organize this information (in APA format).</li>
 </ul>
+Table 1. <em>Library one search results</em>
 
-Describe in a paragraph how you chose the particular articles you did (that is, what inclusion and exclusion criteria you utilized).
-
+[table id=9 /]
+<ul>
+ 	<li><strong>Identify key sources:</strong> In the third section, list 10 scholarly sources that you have found to be potentially relevant to your research question.</li>
+ 	<li>Include at least 2 books or e-books and 5-8 journal articles. Present the results in a table similar to Table 2 below (in APA format).</li>
+ 	<li>Please make sure you include the following information in this section:
+<ul>
+ 	<li>The two databases that I choose to search were:</li>
+ 	<li>The search terms that I have decided on are:</li>
+ 	<li>Describe in a paragraph how you chose the particular articles you did (that is, what inclusion and exclusion criteria you utilized).</li>
+</ul>
+</li>
+</ul>
 Table 2. <em>Articles from academic databases</em>
 
+&nbsp;
 <table>
 <thead>
 <tr>
-  <th align="left">Database</th>
-  <th align="left">Search words</th>
-  <th align="left">Author/Title/Date</th>
-  <th align="left">Why might this source be relevant?</th>
+<th align="left">Database</th>
+<th align="left">Search words</th>
+<th align="left">Author/Title/Date</th>
+<th align="left">Why might this source be relevant?</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
-
-b) Next move into the literature available on the internet by conducting a search using a search engine such as <em>Google Scholar</em>. Briefly describe how you found the first website/document, and why or why not what you found was helpful.  Please include the following in this section:
+b) Next move into the literature available on the internet by conducting a search using a search engine such as <em>Google Scholar</em>. Briefly describe how you found the first website/document, and why or why not what you found was helpful. Please include the following in this section:
 
 The search engine that I choose to search was:
 
@@ -138,56 +90,54 @@ The search terms that I used were:
 Present your results in table format like the one below.
 
 Table 3. <em>Internet search results</em>
-
 <table>
 <thead>
 <tr>
-  <th align="left">Search Engine</th>
-  <th align="left">Search words</th>
-  <th align="left">Number of hits</th>
-  <th align="left">Results</th>
-  <th align="left">Comments</th>
+<th align="left">Search Engine</th>
+<th align="left">Search words</th>
+<th align="left">Number of hits</th>
+<th align="left">Results</th>
+<th align="left">Comments</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
-  <td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
-
 **4. Preliminary investigation summary: **In a fourth section, in several appropriately cited paragraphs, do the following:
 
 (a) Present a working knowledge summary of your topic (the basic facts required to make someone familiar with the topic to a limited extent) based on what you have discovered about the topic from your initial investigations of literature.
@@ -199,63 +149,29 @@ Table 3. <em>Internet search results</em>
 <strong>6.</strong> **Assignment formatting: **APA formatting is required for this assignment. Please refer to the APA requirements and APA rubric link.
 
 **7. Submit your assignment: **Use the Assignment 3 drop box on the learning management system.
-
 <h5>Evaluation</h5>
-
 <strong>Identify research question and key terms (10 points)</strong>
-
 <ol>
-<li>The question, which you have written clearly and concisely in one sentence (or in question format), is well formulated to provide direction for your literature search.
-
-</li>
-<li>
-
-You identified search terms and domains that arise from your statement or question above.
-
-</li>
+ 	<li>The question, which you have written clearly and concisely in one sentence (or in question format), is well formulated to provide direction for your literature search.</li>
+ 	<li>You identified search terms and domains that arise from your statement or question above.</li>
 </ol>
-
 <strong>Use search strategies to locate and select literature (20 points)</strong>
-
 <ol>
-<li>TWU/other library catalogue search was used to locate books and e-books.
-
-</li>
-<li>
-
-You identified at least two books or e-books relevant to your question (some of these could be books you have already read).
-
-</li>
-<li>
-
-You identified at least two high quality (peer reviewed) journal articles relevant to your question.
-
-</li>
-<li>
-
-You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.
-
-</li>
-<li>
-
-You have located 12 to 15 sources relevant to your question.
-
-</li>
-<li>
-
-You have added the references produced from this search to your reference list.
-
-</li>
+ 	<li>TWU/other library catalogue search was used to locate books and e-books.</li>
+ 	<li>You identified at least two books or e-books relevant to your question (some of these could be books you have already read).</li>
+ 	<li>You identified at least two high quality (peer reviewed) journal articles relevant to your question.</li>
+ 	<li>You identified at least two high quality internet based sources relevant to your question. These may include documents or websites.</li>
+ 	<li>You have located 12 to 15 sources relevant to your question.</li>
+ 	<li>You have added the references produced from this search to your reference list.</li>
 </ol>
-
 <strong>Preliminary investigation summary (20 points)</strong>
-
 <ol>
-<li>Preliminary Investigation Summary: In several appropriately cited paragraphs, you have (a) presented a working knowledge summary of your topic (the basic facts required to make someone familiar with the topic to a limited extent) based on what you have discovered about the topic from your initial investigations of literature, and (b) a brief statement outlining your personal professional interest in this topic.</li>
+ 	<li>Preliminary Investigation Summary: In several appropriately cited paragraphs, you have (a) presented a working knowledge summary of your topic (the basic facts required to make someone familiar with the topic to a limited extent) based on what you have discovered about the topic from your initial investigations of literature, and (b) a brief statement outlining your personal professional interest in this topic.</li>
 </ol>
-
 <strong>APA format compliance (10 points)</strong>
 
 Please refer to the APA formatting requirements and rubric for specific details.
 
-<strong>Overall Score: /60</strong><!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-search/"> Upload Link </a><!--/themify_builder_static-->
+<strong>Overall Score: /60</strong>
+
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-search/"> Upload Link </a><!--/themify_builder_static-->
