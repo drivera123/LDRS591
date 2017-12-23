@@ -32,7 +32,7 @@ For this assignment you do not need to use APA style.  You may use the template 
 
 <ul>
 <li>How did you choose your articles for your paper?</p></li>
-<li><p>What inclusion/exclusion criteria did you use?</p></li>
+<li>What inclusion/exclusion criteria did you use?</p></li>
 <li><p>What databases did you search?</p></li>
 <li><p>What key search terms did you use?</p></li>
 <li><p>How many records were obtained in your search?</p></li>
@@ -46,11 +46,17 @@ For this assignment you do not need to use APA style.  You may use the template 
 <li>How will you organize the main body of your paper (e.g., themes or categories, chronologically, theoretical or methodological issues)?</li>
 <li>Did you include 10-15 academic sources?</li>
 <li>How will you summarize the articles you have reviewed?</li>
-<li>Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings?</p></li>
-<li><p>How you will present the "results" from your critical analysis of your 10 to 15 academic sources?  Will you present this information in a table or text?</p></li>
+<li>Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings?
+
+</li>
+<li>
+
+How you will present the "results" from your critical analysis of your 10 to 15 academic sources?  Will you present this information in a table or text?
+
+</li>
 </ul>
 
-<p>Have you critically evaluated each of the articles you have reviewed based on the following questions?
+Have you critically evaluated each of the articles you have reviewed based on the following questions?
 
 <ul>
 <li>Is there appropriate background information provided?</li>
@@ -140,7 +146,7 @@ The following rubric will be used to assess your literature review oultine.
   <td align="left"><strong>Total score</strong> = <strong>32 points</strong></td>
   <td align="left"></td>
   <td align="left"></td>
-  <td align="left">|<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-outline/" > Upload Link </a><!--/themify_builder_static--></td>
+  <td align="left">|<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-outline/"> Upload Link </a><!--/themify_builder_static--></td>
 </tr>
 </tbody>
 </table>
