@@ -81,4 +81,4 @@ The table below lists all of the assignments for this course. All of the assignm
   <td align="right">100%</td>
 </tr>
 </tbody>
-</table>
+</table><!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/academic-integrity" > Academic Integrity </a> <a href="https://create.twu.ca/ldrs591-sp18/apa-resources" > APA Resources </a><!--/themify_builder_static-->
