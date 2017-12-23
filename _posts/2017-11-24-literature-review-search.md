@@ -76,7 +76,7 @@ Please make sure you include the following information in this section:
 <li>The search terms that I have decided on are:</p></li>
 </ul>
 
-<p>Describe in a paragraph how you chose the particular articles you did (that is, what inclusion and exclusion criteria you utilized).
+Describe in a paragraph how you chose the particular articles you did (that is, what inclusion and exclusion criteria you utilized).
 
 Table 2. <em>Articles from academic databases</em>
 
