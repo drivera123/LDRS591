@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h3>Learning Activity 10.1 - Blog post</h3>
+### Learning Activity 10.1 - Blog post
 
 In unit 1 you were asked to blog about a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
 
@@ -19,15 +19,13 @@ Please post your response to these questions on your blog. The post should be be
 
 Make sure you add a link to this page in your post.
 
-<h5>Categories for this post:</h5>
+##### Categories for this post:
 
-<ul>
-<li>ldrs591</li>
-<li>Unit 10</li>
-<li>Learning Activity 10.1</li>
-</ul>
+* ldrs591
+* Unit 10
+* Learning Activity 10.1
 
-<h3>Learning Activity 10.2 - Blog post</h3>
+### Learning Activity 10.2 - Blog post
 
 This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies.
 
@@ -37,41 +35,36 @@ Please post your response to this question on your blog. The post should be betw
 
 Make sure you add a link to this page in your post.
 
-<h5>Categories for this post:</h5>
+##### Categories for this post:
 
-<ul>
-<li>ldrs591</li>
-<li>Unit 10</li>
-<li>Learning Activity 10.2</li>
-</ul>
+* ldrs591
+* Unit 10
+* Learning Activity 10.2
 
-<h3>Learning Activity 10.3 - Blog post</h3>
+### Learning Activity 10.3 - Blog post
 
 We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports and you have increased your ability to sense potential problems.
 
 In this learning activity you are asked to do the following:
 
-<ul>
-<li>Read the <a href="https://create.twu.ca/ldrs591-sp18/unit-10-notes/">unit 10 notes</a>.</li>
-<li>Watch the video <a href="https://www.ted.com/talks/ben_goldacre_battling_bad_science">Battling Bad Science</a>.</li>
-<li>Prepare a brief 250- to 300-word response on your blog to the following questions:</p></li>
-<li><p>How can I know that I can trust what I am reading?</p></li>
-<li>How do I know the research has been performed competently?</li>
-<li>How do I know the research is reported honestly?</li>
-<li>How do I know the findings presented are consistent with what other researchers would conclude?</li>
-<li>Close with one question that invites further comment and discussion.</li>
-</ul>
+* Read the <a href="https://create.twu.ca/ldrs591-sp18/unit-10-notes/">unit 10 notes</a>.
+* Watch the video [Battling Bad Science](https://www.ted.com/talks/ben_goldacre_battling_bad_science).
+* Prepare a brief 250- to 300-word response on your blog to the following questions:
 
-<p>Make sure you add a link to this page in your post.
+* How can I know that I can trust what I am reading?
+* How do I know the research has been performed competently?
+* How do I know the research is reported honestly?
+* How do I know the findings presented are consistent with what other researchers would conclude?
+* Close with one question that invites further comment and discussion.
 
-<h5>Categories for this post:</h5>
+Make sure you add a link to this page in your post.
 
-<ul>
-<li>ldrs591</li>
-<li>Unit 10</li>
-<li>Learning Activity 10.3</li>
-</ul>
+##### Categories for this post:
 
-<h3>Learning Activity 10.4</h3>
+* ldrs591
+* Unit 10
+* Learning Activity 10.3
 
-We have now concluded our course on Scholarly Inquiry. In this learning activity you will be asked to complete assignment 5, which is to write a formal literature review paper. Please submit your assignment for peer review first and then submit it via the link at the bottom of the assignment page.
+### Learning Activity 10.4
+
+We have now concluded our course on Scholarly Inquiry. In this learning activity you will be asked to complete Assignment 5, <a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/">Formal Literature Review</a> assignment which is to write a formal literature review paper. Please submit your assignment for peer review first and then submit it via the link at the bottom of the assignment page.
