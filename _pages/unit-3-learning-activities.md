@@ -184,4 +184,4 @@ Submit the document via the Learning Activity 3.6 assignment drop box at the bot
     <li>Complete Assignment 2, <a href="https://create.twu.ca/ldrs591-sp18/scholarly-article-review-3/"><em>Scholarly Article Review</em></a>, and submit it via the button at the bottom of the assignment page. The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.</li>
 </ul>
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/learning-activity-3-6/" > Submit Learning Activity 3.6 </a> <a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/" > Submit Scholarly Article Review (3.7) </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6 </a> <a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7) </a><!--/themify_builder_static-->
