@@ -209,7 +209,11 @@ post_date: 2017-06-29 14:39:12
 </div></li>
 </ul>
 </div></li>
-</ul><!--themify_builder_static--><ul> <li id="timeline-0">
+</ul>
+
+<!--themify_builder_static-->
+
+<ul> <li id="timeline-0">
  September 25-Oct 1, 2017 
  
  <h2>Unit 1</h2> <ul><li><a href="https://create.twu.ca/orientation/wordpress-set-up/" target="_blank" rel="noopener">Blog Setup</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/personal-inventory-of-servant-leadership-survey/" target="_blank" rel="noopener">Personal Inventory of Servant Leadership survey</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/unit-1/unit-1-learning-activities/" target="_blank" rel="noopener">3 blog posts and responses</a></li><li><a href="https://wp.me/P8MZbQ-U" target="_blank" rel="noopener">Follow the Leader assignment</a></li></ul> 
@@ -259,4 +263,6 @@ post_date: 2017-06-29 14:39:12
  
  <h2>Unit 10</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-10/unit-10-learning-activities/" target="_blank" rel="noopener">1 Learning Activity</a></li><li><a href="https://wp.me/P8MZbQ-4Z" target="_blank" rel="noopener"><em>Light From many Lamps</em> assignment</a></li><li><a href="https://wp.me/P8MZbQ-4S" target="_blank" rel="noopener"><em>My Leadership Story</em> assignment</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/policy-analysis/"><em>Policy Analysis</em></a> assignment</li></ul> 
  </li>
- </ul><!--/themify_builder_static-->
+ </ul>
+
+<!--/themify_builder_static-->
