@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ''
 layout: page
 permalink: |
-  https://create.twu.ca/ldrs591-sp18/academic-integrity-2/
+  https://create.twu.ca/ldrs591-sp18/academic-integrity/
 published: true
 post_date: 2017-11-24T14:49:50.000Z
 ---
