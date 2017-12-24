@@ -4,8 +4,8 @@
 * Begin Clarifying Your Research Interest Assignment
 * Assignment 1 is due January 8th, by midnight
 * ### Unit 2 - Jan 8-14
+* 3 blog posts
 
-* 3 blog posts 
 * 2 learning activities
 * Submit Clarifying Your Research Interest Assignment
 
@@ -44,7 +44,7 @@
 
 * 1 blog post
 * 1 podcast
-* 1 learning activity: peer review two action research ideas
+* 1 learning activity: peer review one action research idea
 * Begin Literature Review Outline Assignment
 * Assignment 4 is due February 26th, by midnight
 
