@@ -211,9 +211,7 @@ post_date: 2017-06-29 14:39:12
 </div></li>
 </ul>
 
-<!--themify_builder_static-->
-
-<ul> <li id="timeline-0">
+<!--themify_builder_static--><ul> <li id="timeline-0">
  January 2-7 
  
  <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_1">Unit 1</a></h2> <ul><li><a href="https://create.twu.ca/orientation/wordpress-set-up/" target="_blank" rel="noopener">Blog Setup</a></li><li>3 blog posts and responses</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/clarifying-your-research-interest-2/"><em>Clarifying your Research Interest</em></a> assignment<ul><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/clarifying-your-research-interest/">Submit</a> by the end of the day, Sunday January 7.</li></ul></li></ul> 
@@ -263,6 +261,4 @@ post_date: 2017-06-29 14:39:12
  
  <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_10">Unit 10</a></h2> <ul><li>3 blog posts and responses</li><li>1 learning activity</li><li>Submit draft <a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/"><em>Formal Literature Review</em></a> for peer review</li><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/formal-literature-review/">Submit final version of Formal Literature Review</a> by the end of March 22</li></ul> 
  </li>
- </ul>
-
-<!--/themify_builder_static-->
+ </ul><!--/themify_builder_static-->
