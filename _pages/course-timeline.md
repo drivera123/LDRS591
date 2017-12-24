@@ -211,58 +211,54 @@ post_date: 2017-06-29 14:39:12
 </div></li>
 </ul>
 
-<!--themify_builder_static-->
-
-<ul> <li id="timeline-0">
- September 25-Oct 1, 2017 
+<!--themify_builder_static--><ul> <li id="timeline-0">
+ January 2-7 
  
- <h2>Unit 1</h2> <ul><li><a href="https://create.twu.ca/orientation/wordpress-set-up/" target="_blank" rel="noopener">Blog Setup</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/personal-inventory-of-servant-leadership-survey/" target="_blank" rel="noopener">Personal Inventory of Servant Leadership survey</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/unit-1/unit-1-learning-activities/" target="_blank" rel="noopener">3 blog posts and responses</a></li><li><a href="https://wp.me/P8MZbQ-U" target="_blank" rel="noopener">Follow the Leader assignment</a></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_1">Unit 1</a></h2> <ul><li><a href="https://create.twu.ca/orientation/wordpress-set-up/" target="_blank" rel="noopener">Blog Setup</a></li><li>3 blog posts and responses</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/clarifying-your-research-interest-2/"><em>Clarifying your Research Interest</em></a> assignment<ul><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/clarifying-your-research-interest/">Submit</a> by the end of the day, Sunday January 7.</li></ul></li></ul> 
  </li>
  <li id="timeline-1">
- October 2-8 
+ January 8-14 
  
- <h2>Unit 2</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-2-themes-theories-and-concepts/unit-2-learning-activities/" target="_blank" rel="noopener">3 Learning Activities</a></li><li><a href="https://wp.me/P8MZbQ-4Z" target="_blank" rel="noopener">Begin <em>Light From many Lamps</em> assignment</a></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_2">Unit 2</a></h2> <ul><li>3 blog posts</li><li>2 learning activities</li></ul> 
  </li>
  <li id="timeline-2">
- October 9-15 
+ January 15-21 
  
- <h2>Unit 3</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-3/unit-3-learning-activities/" target="_blank" rel="noopener">2 Learning Activities</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/critical-thinking/" target="_blank" rel="noopener"><em>Impact of Critical Thinking in My Leadership Context</em></a><ul><li>Draft submitted for Peer Review</li></ul></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_3">Unit 3</a></h2> <ul><li>5 blog posts</li><li>2 learning activities</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/scholarly-article-review-3/"><em>Scholarly Article Review</em></a> assignment (due Jan 28)<ul><li>Submit draft for peer review by Sunday, Jan 21</li></ul></li></ul> 
  </li>
  <li id="timeline-3">
- October 16-22 
+ January 22-28 
  
- <h2>Unit 4</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-4/unit-4-learning-activities/" target="_blank" rel="noopener">2 Learning Activities</a></li><li><a href="https://wp.me/P8MZbQ-4Z" target="_blank" rel="noopener"><em>Light From many Lamps</em> assignment</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/critical-thinking/" target="_blank" rel="noopener"><em>Impact of Critical Thinking in My Leadership Context</em></a> <ul><li>Peer Review submitted</li></ul></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_4">Unit 4</a></h2> <ul><li>4 blog posts and responses</li><li>1 learning activity</li><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/scholarly-article-review/">Submit <em>Scholarly Article Review</em></a> assignment by the end of Sunday, Jan 28.</li></ul> 
  </li>
  <li id="timeline-4">
- October 23-29 
+ January 29-February 4 
  
- <h2>Unit 5</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-5/unit-5-learning-activity/" target="_blank" rel="noopener">2 Learning Activities</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/critical-thinking/" target="_blank" rel="noopener"><em>Impact of Critical Thinking in My Leadership Context</em></a> <ul><li>Final Draft Due</li></ul></li><li><a href="https://wp.me/P8MZbQ-31" target="_blank" rel="noopener"><em>Invictus</em> assignment</a><ul><li>This is an optional assignment. You must choose ONE optional assignment to complete.</li></ul></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_5">Unit 5</a></h2> <ul><li>4 blog posts and responses</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/literature-review-search/">Literature Review Search</a> assignment (due Feb 11)</li></ul> 
  </li>
  <li id="timeline-5">
- October 30-November 6 
+ February 5-11 
  
- <h2>Unit 6</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-6/unit-6-learning-activities/" target="_blank" rel="noopener">3 Learning Activities</a></li><li><a href="https://wp.me/P8MZbQ-4Z" target="_blank" rel="noopener"><em>Light From many Lamps</em> assignment</a></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_6">Unit 6</a></h2> <ul><li>4 blog posts and responses</li><li>Submit <a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-search/"><em>Literature Review Search</em></a> assignment by the end of the day, Feb 11.</li><li>Note: See <a href="https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/">Learning Activity 8.2</a><ul><li>You may need to download <a href="http://www.audacityteam.org/">Audacity</a> to prepare to complete this learning activity.</li><li>See the <a href="https://create.twu.ca/orientation/digital-literacy/editing-audio/">Orientation</a> for a refresher.</li></ul></li></ul> 
  </li>
  <li id="timeline-6">
- November 7-12 
+ February 12-18 
  
- <h2>Unit 7</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-7-2/unit-7-learning-activities/" target="_blank" rel="noopener">2 Learning Activities</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/corporate-ethics/" target="_blank" rel="noopener"><em>Corporate Ethics</em> assignment</a><ul><li>This is an optional assignment. You must choose ONE optional assignment to complete.</li></ul></li><li><a href="https://wp.me/P8MZbQ-4S" target="_blank" rel="noopener"><em>My Leadership Story</em> assignment</a><ul><li>This assignment is due at the end of the course, but you should start planning now.</li></ul></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_7">Unit 7</a></h2> <ul><li>2 blog posts</li><li>1 learning activity</li></ul> 
  </li>
  <li id="timeline-7">
- November 13-19 
+ February 19-25 
  
- <h2>Unit 8</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-8/unit-8-learning-activities/" target="_blank" rel="noopener">2 Learning Activities</a></li><li><a href="https://wp.me/P8MZbQ-4Z" target="_blank" rel="noopener"><em>Light From many Lamps</em> assignment</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/women-in-leadership/" target="_blank" rel="noopener"><em>Women in Leadership</em></a> assignment<ul><li>This is an optional assignment. You must choose ONE optional assignment to complete.</li></ul></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_8">Unit 8</a></h2> <ul><li>1 blog post</li><li>1 podcast</li><li>1 learning activity<ul><li>peer review two action research ideas</li></ul></li><li>Submit <a href="https://create.twu.ca/ldrs591-sp18/literature-review-outline/"><em>Literature Review Outline</em></a> assignment by the end of the day, Sunday, Feb 25</li></ul> 
  </li>
  <li id="timeline-8">
- November 20-26 
+ February 26-March 4 
  
- <h2>Unit 9</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-9/unit-9-learning-activities/" target="_blank" rel="noopener">2 Learning Activities</a></li><li><a href="https://wp.me/P8MZbQ-5a" target="_blank" rel="noopener"><em>Southwest Air</em> assignment</a><ul><li>This is an optional assignment. You must choose ONE optional assignment to complete.</li></ul></li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_9">Unit 9</a></h2> <ul><li>2 blog posts and responses</li><li>1 learning activity</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/"><em>Formal Literature Review</em></a> assignment</li></ul> 
  </li>
  <li id="timeline-9">
- November 27-December 3 
+ March 5-11 
  
- <h2>Unit 10</h2> <ul><li><a href="https://create.twu.ca/ldrs591-sp18/unit-10/unit-10-learning-activities/" target="_blank" rel="noopener">1 Learning Activity</a></li><li><a href="https://wp.me/P8MZbQ-4Z" target="_blank" rel="noopener"><em>Light From many Lamps</em> assignment</a></li><li><a href="https://wp.me/P8MZbQ-4S" target="_blank" rel="noopener"><em>My Leadership Story</em> assignment</a></li><li><a href="https://create.twu.ca/ldrs591-sp18/policy-analysis/"><em>Policy Analysis</em></a> assignment</li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_10">Unit 10</a></h2> <ul><li>3 blog posts and responses</li><li>1 learning activity</li><li>Submit draft <a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/"><em>Formal Literature Review</em></a> for peer review</li><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/formal-literature-review/">Submit final version of Formal Literature Review</a> by the end of March 22</li></ul> 
  </li>
- </ul>
-
-<!--/themify_builder_static-->
+ </ul><!--/themify_builder_static-->
