@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2017-06-29 14:39:12
 ---
-<!--themify_builder_static-->
-
-<ul> <li id="timeline-0">
+<!--themify_builder_static--><ul> <li id="timeline-0">
  January 2-7 
  
  <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_1">Unit 1</a></h2> <ul><li><a href="https://create.twu.ca/orientation/wordpress-set-up/" target="_blank" rel="noopener">Blog Setup</a></li><li>3 blog posts and responses</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/clarifying-your-research-interest-2/"><em>Clarifying your Research Interest</em></a> assignment<ul><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/clarifying-your-research-interest/">Submit</a> by the end of the day, Sunday January 7.</li></ul></li></ul> 
@@ -49,18 +47,16 @@ post_date: 2017-06-29 14:39:12
  <li id="timeline-7">
  February 19-25 
  
- <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_8">Unit 8</a></h2> <ul><li>1 blog post</li><li>1 podcast</li><li>1 learning activity<ul><li>peer review two action research ideas</li></ul></li><li>Submit <a href="https://create.twu.ca/ldrs591-sp18/literature-review-outline/"><em>Literature Review Outline</em></a> assignment by the end of the day, Sunday, Feb 25</li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_8">Unit 8</a></h2> <ul><li>1 blog post</li><li>1 podcast</li><li>1 learning activity<ul><li>peer review one action research idea</li></ul></li><li>Submit <a href="https://create.twu.ca/ldrs591-sp18/literature-review-outline/"><em>Literature Review Outline</em></a> assignment by the end of the day, Sunday, Feb 25</li></ul> 
  </li>
  <li id="timeline-8">
  February 26-March 4 
  
- <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_9">Unit 9</a></h2> <ul><li>2 blog posts and responses</li><li>1 learning activity</li><li>Begin <a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/"><em>Formal Literature Review</em></a> assignment</li></ul> 
+ <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_9">Unit 9</a></h2> <ul><li>2 blog posts and responses</li><li>1 learning activity</li><li>Begin <em><a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/">Formal Literature Review</a> </em>assignment (due March 23).<ul><li>Submit draft for peer review by March 9th.</li></ul></li></ul> 
  </li>
  <li id="timeline-9">
  March 5-11 
  
  <h2><a href="https://create.twu.ca/ldrs591-sp18#Unit_10">Unit 10</a></h2> <ul><li>3 blog posts and responses</li><li>1 learning activity</li><li>Submit draft <a href="https://create.twu.ca/ldrs591-sp18/formal-literature-review/"><em>Formal Literature Review</em></a> for peer review</li><li><a href="https://create.twu.ca/ldrs591-sp18/lessons/formal-literature-review/">Submit final version of Formal Literature Review</a> by the end of March 22</li></ul> 
  </li>
- </ul>
-
-<!--/themify_builder_static-->
+ </ul><!--/themify_builder_static-->
