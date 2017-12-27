@@ -67,4 +67,4 @@ The written portion of your assignment should be 500 words or less.
 
 <strong>Overall Score = /20</strong>
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/clarifying-your-research-interest/"> Upload Link </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/clarifying-your-research-interest/" > Submit Assignment 1 </a><!--/themify_builder_static-->
