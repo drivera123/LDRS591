@@ -1,6 +1,6 @@
 ---
 ID: 2449
-post_title: 'Learning Activity 1.2- Blog Post'
+post_title: 'Learning Activity 1.1- Blog Post'
 author: Wafa Siyam
 post_excerpt: 'It is the human quest to seek knowledge and information and satisfy one&rsquo;s sense of wonder. A lot of what we do in our life is based on common sense, what make sense, and what we learned from others through personal experience or observations. Perpetuating truth as well as lies and myths require inquisitive minds. &hellip; <p><a href="https://create.twu.ca/twuwafasiyam/learning-activity-1-2-blog-post/">Continue reading<span> "Learning Activity 1.2- Blog Post"</span></a></p>'
 layout: post
