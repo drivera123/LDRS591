@@ -12,8 +12,6 @@ permalink: >
 published: true
 post_date: 2018-01-01 08:30:19
 ---
-Hi,
-
-I am Layla Zhang, an international student. This is my first time to have an online course. I still have a lot of questions and a lot to learn. Please feel free to comment and send me the messages.
-
-&nbsp;
+<p>Hi,</p>
+<p>I am Layla Zhang, an international student. This is my first time to have an online course. I still have a lot of questions and a lot to learn. Please feel free to comment and send me the messages.</p>
+<p>&nbsp;</p>
