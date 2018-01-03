@@ -46,6 +46,10 @@ The table below lists all of the assignments for this course. All of the assignm
 
 [table id=17 /]
 
-<!--themify_builder_static--><h3>Important!</h3> <p>It will be assumed that you have read, understand, and agree to the information provided at the &#8216;Academic Integrity&#8217; link below. If you have any questions at all please contact your instructor.</p>
- 
- <a href="https://create.twu.ca/ldrs591-sp18/academic-integrity" > Academic Integrity </a> <a href="https://create.twu.ca/ldrs591-sp18/apa-resources" > APA Resources </a><!--/themify_builder_static-->
+<!--themify_builder_static-->
+
+<h3>Important!</h3>
+
+It will be assumed that you have read, understand, and agree to the information provided at the &#8216;Academic Integrity&#8217; link below. If you have any questions at all please contact your instructor.
+
+<a href="https://create.twu.ca/ldrs591-sp18/academic-integrity" > Academic Integrity </a> <a href="https://create.twu.ca/ldrs591-sp18/apa-resources" > APA Resources </a><!--/themify_builder_static-->
