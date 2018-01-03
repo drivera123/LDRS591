@@ -1,3 +1,13 @@
+---
+post_title: WordPress Setup
+author: Colin Madland
+post_excerpt: "Before you get started on creating your own blog you may have questions about how much you should share on your blog, and that is good. We are going to have you work through some activities to help you determine your level of comfort with sharing your growth on the web, but for now, there are some things that you can do to ensure that your data are protected on the web."
+layout: page
+permalink: >
+  https://create.twu.ca/ldrs591-sp18/wordpress-setup/
+published: true
+post_date: 2018-01-03
+---
 ##### A Note About Privacy
 
 Before you get started on creating your own blog you may have questions about how much you should share on your blog, and that is good. We are going to have you work through some activities to help you determine your level of comfort with sharing your growth on the web, but for now, there are some things that you can do to ensure that your data are protected on the web.
