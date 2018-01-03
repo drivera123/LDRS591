@@ -12,7 +12,11 @@ post_date: 2017-11-24 14:49:51
 ### Learning Activity 1.1 - Blog Post
 
 * Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.
-* According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4). Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion). If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How To information. This blog post should be between 250-500 words.
+* According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4). 
+  * Create a new post, and explain what your experience is with "research". 
+  * Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion). 
+  
+If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How To information. This blog post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
@@ -25,7 +29,12 @@ Make sure you add a link to this page in your post.
 ### Learning Activity 1.2 - Blog Post
 
 * Read [Unit 1 Notes](https://create.twu.ca/ldrs591-sp18/unit-1-notes).
-* Create a new post where you answer the following questions: What factors do you think shape your decision-making process as a leader? Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions? Close with one question that invites further comment and discussion. This blog post should be between 250-500 words.
+* Create a new post where you answer the following questions: 
+  * What factors do you think shape your decision-making process as a leader? 
+  * Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions? 
+  * Close with one question that invites further comment and discussion. 
+  
+This blog post should be between 250-500 words.
 
 Make sure you add a link to this page in your post.
 
