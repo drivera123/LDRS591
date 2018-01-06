@@ -1,0 +1,24 @@
+---
+ID: 2517
+post_title: LDRS591, Unit 1, Activity 1.2
+author: Leona So
+post_excerpt: 'My decision-making process as a leader begins with the consideration of its significance and potential effects on myself, my team, and organization. If the decision requires a quick response with little potential of harm (i.e. the potential negative effect is easily correctable and effects few individuals), I rely on previous experience and values to decide &hellip; <p><a href="https://create.twu.ca/soleona/2018/01/06/ldrs591-unit-1-activity-1-2/">Continue reading<span> "LDRS591, Unit 1, Activity 1.2"</span></a></p>'
+layout: post
+permalink: >
+  https://create.twu.ca/soleona/2018/01/06/ldrs591-unit-1-activity-1-2/
+published: true
+post_date: 2018-01-06 01:15:24
+---
+My decision-making process as a leader begins with the consideration of its significance and potential effects on myself, my team, and organization. If the decision requires a quick response with little potential of harm (i.e. the potential negative effect is easily correctable and effects few individuals), I rely on previous experience and values to decide on the course of action. At work, I make regular scheduling decisions where I fill in shift gaps that occur in the absence of our regular staff. My priority is to fill in the mandatory positions, and this may require certain shifts left unfilled due to a shortage of on-call staff &#8211; flu season is a scary season! While my team may be left understaffed, I know with warning they are capable of serving our clients well. My staffing decisions effect the team, but my team is able to combat the negative effects. Conversely, I take time to consult other&#8217;s opinions and find information on available options when I face decisions with a greater harm potential. Hiring poorly certainly holds the potential of harming the team and company. When conducting the interview process, the interviewee speaks to multiple individuals on the leadership team and myself as we seek to find the right candidate that best fits the needs and culture of our team. Beyond considering my values and previous experience, larger decisions such as hiring require greater critical thinking that seeks to understand the implications of each considered option.
+
+As mentioned, my values influence my decisions daily. My understanding of what is right and true is shaped by my culture, education, and religion. This aligns with the proposition the authors of &#8220;What is Inquiry&#8221; discuss: one&#8217;s worldview influences &#8220;the types of questions that you ask as well as the processes that you use to find the answers to your questions&#8221; (&#8220;What is Inquiry&#8221;). As an individual of Chinese descent born and raised in Canada, there are clear differences between the decision-making processes I find between Chinese and Western cultures. Personally, the <a href="https://www.youtube.com/watch?v=CW7aWKXB5J4">collectivistic</a> nature of Chinese culture poses questions and decisions based on the outcomes effect on the group of individuals influenced by the decision, while the individualistic nature of Western culture poses questions and decisions more central to its effect on the decision maker. This example of collectivistic and individualistic influence is also found in my work place. My team is composed of individuals from numerous cultures and personal experiences that shaped their worldview. Some come from a history of physical abuse or addictions, while others come from loving families. Despite these differences, my workplace is a Christian workplace, and this similarity shapes our shared values and understanding of good to guide our shared vision of showing grace and helping our struggling clients.
+
+Have you experienced oppositions between team members due to their collectivistic and individualistic perspectives? If so, how was it resolved?
+
+Reference
+
+InterfacetTraining (2010). Cultural dimension: me or we. Youtube. Retrieved from https://www.youtube.com/watch?v=CW7aWKXB5J4
+
+<em>What is inquiry. </em>(n.d.). Leadership 591: Scholarly Inquiry. Retrieved from https://create.twu.ca/ldrs591-sp18/unit-1-notes/
+
+Questions from: https://create.twu.ca/ldrs591-sp18/unit-1-learning-activities/
