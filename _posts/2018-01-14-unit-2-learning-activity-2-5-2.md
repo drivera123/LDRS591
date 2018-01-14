@@ -1,0 +1,24 @@
+---
+ID: 2761
+post_title: Unit 2, Learning activity 2.5
+author: layla
+post_excerpt: 'The textbook has mentioned several sources of information that can be found in Google Scholar, and they are journal articles, books, citations, conference proceedings, and Academic and government websites (Badke, 2017). I think there are two more ways that can help us getting access to more reliable and relevant academic information of our research questions. &hellip; <p><a href="https://create.twu.ca/layla11/2018/01/14/unit-2-learning-activity-2-5/">Continue reading<span> "Unit 2, Learning activity 2.5"</span></a></p>'
+layout: post
+permalink: >
+  https://create.twu.ca/layla11/2018/01/14/unit-2-learning-activity-2-5/
+published: true
+post_date: 2018-01-14 00:01:03
+---
+The textbook has mentioned several sources of information that can be found in Google Scholar, and they are journal articles, books, citations, conference proceedings, and Academic and government websites (Badke, 2017). I think there are two more ways that can help us getting access to more reliable and relevant academic information of our research questions. The first one is video, for example, the series of TED Talks. As the phenomenon of doing things electronically grows, more professionals and experts would like to illustrate their theories or show their findings through videos. Apparently, this is an extremely useful means to communicate their true feelings and resonate them with the audience. We could search the main words or phrases of our research questions to find the relevant videos; then, look at the videos to see if the topic or content echoes our feelings towards the research questions; at last, search the professors or experts in the video to find his or her books or articles. The second one is the book or author recommended by the professors. For example, my research question is “How to effectively help the students in the elementary school (or post-secondary school) manage their anxiety disorders and academic performance at the same time&#8221;. This research question requires professional knowledge of psychology, education, and school counselling. Fortunately, one of my professors is a Doctor of Psychology and she had worked as a counsellor many years ago. She recommended several authors who were all professionals in psychological counselling to me. I really appreciated her professional opinions and kept all the information in mind.
+
+I have a preference for using three sources of information to conduct my research question: Journal articles, books, citations or references at the end of the articles and books. Besides asking professors for advice, I will also use Google Scholar as the main searching method to find the journal articles and books. I used it many times in the last semester and get very used to it right now. In addition, every article or book presented in Google Scholar is followed by the information of how many times has this article or book been cited and what are the related articles. Furthermore, on the right side of the page, there will be a sign that can link to the TWU Library. Before making the decision of using the journal articles or not, I would like to confirm whether they are reliable enough. There are several ways to examine the reliability of the articles and books. First of all, I will check the authority of the author to see his or her credentials. Secondly, the articles and books should be peer-reviewed. Thirdly, the journals and publishers should be academic or professional ones. Then, I will find out if the articles and books have obvious biases or interests. Meanwhile, the purpose and the content of the articles and books should also be checked. At last, I will specifically pay attention to the bibliography, and the intended audience as well. As long as the articles or books can stand up to scrutiny, I will consider their relevance to conduct the research on my topic.
+
+Reference
+
+Badke, W. (2017). <i>Research strategies: Finding your way through the information fog</i>. iUniverse.
+
+<blockquote class="wp-embedded-content" data-secret="LT0CUBrC4i"><a href="https://create.twu.ca/ldrs591-sp18/unit-2-learning-activities/">Unit 2 Learning Activities</a></p></blockquote>
+
+
+
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://create.twu.ca/ldrs591-sp18/unit-2-learning-activities/embed/#?secret=LT0CUBrC4i" data-secret="LT0CUBrC4i" width="525" height="296" title="&#8220;Unit 2 Learning Activities&#8221; &#8212; Leadership 591: Scholarly Inquiry" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
