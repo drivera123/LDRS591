@@ -33,7 +33,7 @@ post_date: 2017-11-24 14:49:50
  	<li>Does the passage clearly argue that the study is warranted?</li>
  	<li>Is the passage well written?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. This post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 
 Make sure you add a link to this page in your post.
 
@@ -56,7 +56,7 @@ Make sure you add a link to this page in your post.
  	<li>Does the study have a strong foundation in the literature?</li>
  	<li>Does the literature fit the study's overall approach?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. This post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 
 Make sure you add a link to this page in your post.
 
@@ -79,7 +79,7 @@ Make sure you add a link to this page in your post.
  	<li>Does the purpose of the study follow logically from the statement of the problem and the literature review?</li>
  	<li>Is the purpose consistent with the study's overall approach?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. This post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 
 Make sure you add a link to this page in your post.
 
