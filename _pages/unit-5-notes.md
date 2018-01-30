@@ -34,7 +34,7 @@ Quasi-experimental designs resemble experimental designs in that they include ma
 
 Gall, Gall and Borg \(2007\) recognize two main categories of quantitative research design: non-experimental and experimental.  In true experimental and quasi-experimental designs, the researcher intentionally introduces an intervention, and then seeks to measure the response to that intervention.  The main difference between experimental and quasi-experimental designs lies in the way sampling is done.  In non-experimental quantitative research designs, the researcher seeks to understand the behavior or attributes of the study sample without any researcher intervention. The terms descriptive and correlational are often applied to these types of quantitative research designs.
 
-As a consumer of research reports, you can usually find an indication of what research methodology is employed in the abstract of a research study. This is important information for you to identify, as you will quickly develop a sense of what to expect as you continue to read. This sense is important as you critique the research report, and make value judgments as to it’s worth.
+As a consumer of research reports, you can usually find an indication of what research methodology is employed in the abstract of a research study. This is important information for you to identify, as you will quickly develop a sense of what to expect as you continue to read. This sense is important as you critique the research report, and make value judgments as to its worth.
 
 ### A note about survey research
 
