@@ -15,7 +15,7 @@ In unit 1 you were asked to blog about a recent decision you made as a leader. Y
 
 In this unit, the question is a little different. I want to know, if after taking this class, would you make your decisions differently? What new insights have you learned and how would those insights inform your decision making process now?
 
-Please post your response to these questions on your blog. The post should be between 250-500 words.
+Please post your response to these questions on your blog (250-500 words).
 
 Make sure you add a link to this page in your post.
 
@@ -31,7 +31,7 @@ This course has emphasized evidence-based leadership by equipping you to access,
 
 My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available in a given context. In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
 
-Please post your response to this question on your blog. The post should be between 250-500 words.
+Please post your response to this question on your blog (250-500 words).
 
 Make sure you add a link to this page in your post.
 
