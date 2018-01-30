@@ -37,7 +37,7 @@ Please post your review ***on your own blog*** and include a link to their post 
  	<li>Is there a thoughtful critique of the study's limitations?</li>
  	<li>Are suitable suggestions for future research provided?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words).
 
 Make sure you add a link to this page in your post.
 
