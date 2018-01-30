@@ -21,7 +21,7 @@ post_date: 2017-11-24 14:49:51
  	<li>Are good quantitative data collection procedures used?</li>
  	<li>Does the quantitative research design address the study's purpose?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3), and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3), and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 
 Make sure you add a link to this page in your post.
 
@@ -41,7 +41,7 @@ Make sure you add a link to this page in your post.
  	<li>Are good quality measures used to gather data? How do you know they are good quality?</li>
  	<li>Are the data gathered using ethical procedures?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words).
 
 Make sure you add a link to this page in your post.
 
@@ -61,7 +61,7 @@ Make sure you add a link to this page in your post.
  	<li>What were the results? (What was found?)</li>
  	<li>Did the analysis represent a good quantitative process?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 
 Make sure you add a link to this page in your post.
 
