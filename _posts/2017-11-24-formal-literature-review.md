@@ -71,4 +71,4 @@ At the very end list your references. Reference lists must start on a new page, 
 
 Please refer to the <a href="https://create.twu.ca/ldrs591-sp18/apa-formatting-requirements/">APA formatting</a> rubric provided for an evaluation of specific APA requirements for this assignment.
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/formal-literature-review/"> Upload Link </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47836" > Upload Literature Review to Moodle </a><!--/themify_builder_static-->
