@@ -26,7 +26,7 @@ In unit 4 we are going to find out about research reports. To start, we will foc
 
 ### Resources
 
-Plano-Clark, V., &amp; Creswell, J. (2015). _Understanding research: A consumer’s guide _(2nd ed.). Boston, MA: Pearson.
+Plano-Clark, V., &amp; Creswell, J. (2015). _Understanding research: A consumer’s guide (2nd ed.)._ Boston, MA: Pearson.
 
 ##### E-Resources: The articles below can be found through the <a href="https://www.twu.ca/library">TWU library</a>
 
