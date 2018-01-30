@@ -19,8 +19,7 @@ post_date: 2017-11-24 14:49:51
  	<li>What research design was used to guide the study? Was it justified?</li>
  	<li>Does the qualitative research design address the study's purpose?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
-
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 Make sure you add a link to this page in your post.
 
 ##### Categories for this post:
@@ -39,7 +38,7 @@ Make sure you add a link to this page in your post.
  	<li>Is the data collected appropriate?</li>
  	<li>Are the data gathered ethically and thoughtfully?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 
 Make sure you add a link to this page in your post.
 
@@ -59,8 +58,7 @@ Make sure you add a link to this page in your post.
  	<li>Did the findings include appropriate themes about the central phenomenon?</li>
  	<li>Did the findings provide a good exploration of the central phenomenon?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog. The post should be between 250-500 words.
-
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words). 
 Make sure you add a link to this page in your post.
 
 ##### Categories for this post:
