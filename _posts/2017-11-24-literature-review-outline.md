@@ -90,4 +90,4 @@ The following rubric will be used to assess your literature review outline.
 
 [table id=12 /]
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591-sp18/lessons/literature-review-outline/"> Upload Link </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47835" > Upload Literature Review Outline in Moodle </a><!--/themify_builder_static-->
