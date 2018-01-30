@@ -51,7 +51,7 @@ Make sure you add a link to this page in your post. This post should be between 
 <ul>
  	<li>Go to <a href="http://libguides.twu.ca/library_research/home">http://libguides.twu.ca/library_research/home</a> and click "<a href="http://libguides.twu.ca/library_research/books">How to search for books</a>". Begin by selecting one of video tutorials in the section "searching for e-books" such as "<a href="https://vimeo.com/164163119/b24ecb42e6">searching for e-books in the classic catalogue</a>." Watch this video tutorial to get an idea of how to search for a topic found in an e-book.</li>
  	<li>Keeping in mind the topic and specific question(s) you identified in Assignment 1, use the library catalogue to locate a good example of an <strong>e-book.</strong></li>
- 	<li>Create a new blog post, and post the author, date and title (including the hyperlink) of the e-book on your blog. Next, briefly assess the source in the following categories.
+ 	<li>Create a new blog post (250-500 words), and post the author, date and title (including the hyperlink) of the e-book on your blog. Next, briefly assess the source in the following categories.
 <ul>
  	<li>Authority – Who is the author? What are the author’s credentials?</li>
  	<li>Currency – Is the source up to date?</li>
@@ -61,7 +61,7 @@ Make sure you add a link to this page in your post. This post should be between 
 </ul>
 </li>
 </ul>
-Make sure you add a link to this page in your post. This post should be between 250-500 words.
+Make sure you add a link to this page in your post. 
 <h5>Categories for this post:</h5>
 <ul>
  	<li>ldrs591</li>
@@ -73,9 +73,9 @@ Make sure you add a link to this page in your post. This post should be between 
  	<li>Read chapter 7 in the Badke (2017) text.</li>
  	<li>Go to the link <a href="http://libguides.twu.ca/library_research/home">http://libguides.twu.ca/library_research/home</a> and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
  	<li>Next, watch the two videos in the section "using the web." There are two short videos on <a href="https://vimeo.com/160915822/0661b2b1c2">using google scholar</a> and <a href="https://vimeo.com/162602381/1b0d684fb6">assessing online resources</a> in this section.</li>
- 	<li>Create a new blog post, and describe what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
+ 	<li>Create a new blog post (250-500 words), and describe what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
-Make sure you add a link to this page in your post. This post should be between 250-500 words.
+Make sure you add a link to this page in your post. 
 <h5>Categories for this post:</h5>
 <ul>
  	<li>ldrs591</li>
