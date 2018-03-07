@@ -30,8 +30,7 @@ Plano-Clark, V., &amp; Creswell, J. (2015). _Understanding research: A consumerâ
 
 Barbuto, J. E., Gottfredson, R. K., &amp; Searle, T. P. (2014). An examination of emotional intelligence as an antecedent of servant leadership. _Journal of Leadership and Organizational Studies, 21_(3), 315-323.
 
-Coetzer, M. F., Bussin, M., &amp; Geldenhuys, M. (2017). The functions of a servant leader. _Administrative Sciences, 7_(5),1-32. Retrieved from [http://www.mdpi.com/2076-3387/7/1/5](http://www.mdpi.com/2076-3387/7/1/5)
-
+Coetzer, M. F., Bussin, M., &amp; Geldenhuys, M. (2017). [The functions of a servant leader.](http://www.mdpi.com/2076-3387/7/1/5) _Administrative Sciences, 7_(5),1-32. 
 Hanse, J. J., Harlin, U., Jarebrant, C., Ulin, K., &amp; Winkel, J. (2016). The impact of servant leadership dimensions on leader-member exchange among health care professionals. _Journal of Nursing Management, 24,_ 228-234.
 
 Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. _Journal of Business Inquiry: Research, Education and Application, 9_(1), 74-88.
